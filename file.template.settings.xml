@@ -1,0 +1,18 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Alt.js Actions.js" reformat="false" live-template-enabled="false" />
+      <template name="Alt.js Store.js" reformat="false" live-template-enabled="false" />
+      <template name="Connected Component.js" reformat="false" live-template-enabled="false" />
+      <template name="JavaFXApplication.java" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="MobileResourceBundle.java" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="React Class.jsx" reformat="false" live-template-enabled="false" />
+      <template name="Singleton.java" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="Stateless-Functional Component.jsx" reformat="false" live-template-enabled="false" />
+      <template name="XSLT Stylesheet.xsl" reformat="true" live-template-enabled="false" enabled="false" />
+    </default_templates>
+    <includes_templates>
+      <template name="ActionScript File Header.as" reformat="true" live-template-enabled="false" enabled="false" />
+    </includes_templates>
+  </component>
+</application>

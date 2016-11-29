@@ -1,0 +1,8 @@
+<templateSet group="css">
+  <template name="o" value="outline: 1px solid $VALUE$;$END$" description="outline: 1px solid &lt;color&gt;" toReformat="false" toShortenFQNames="false">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

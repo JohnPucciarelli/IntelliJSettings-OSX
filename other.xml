@@ -1,0 +1,2370 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Java</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeReviewPlugin">
+    <setting name="smtpServer" value="" />
+    <setting name="smtpPort" value="25" />
+    <setting name="smtpUsername" value="" />
+    <setting name="smtpPassword" value="" />
+    <setting name="fromAddress" value="" />
+    <setting name="replyToAddress" value="" />
+    <setting name="subjectPrefix" value="" />
+    <setting name="linesOfContext" value="0" />
+    <setting name="ignoreTrailingWhitespace" value="false" />
+    <setting name="sendAsHtml" value="false" />
+    <setting name="attachZipFile" value="false" />
+    <setting name="insertColor" value="-16776961" />
+    <setting name="deleteColor" value="-65536" />
+    <setting name="omitColor" value="-8355712" />
+  </component>
+  <component name="CodeStyleSchemes">
+    <option name="CURRENT_SCHEME_NAME" value="Default (1)" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="true" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="1234" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="60" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+    <Configuration>
+      <option name="CVS_ROOT" value=":pserver:cheeser@cvs.dev.java.net:/cvs" />
+      <option name="PATH_TO_WORKING_FOLDER" value="" />
+      <option name="PROXY_SETTINGS">
+        <value>
+          <option name="USE_PROXY" value="false" />
+          <option name="PROXY_HOST" value="" />
+          <option name="PROXY_PORT" value="1234" />
+          <option name="TYPE" value="0" />
+          <option name="LOGIN" value="" />
+          <option name="PASSWORD" value="" />
+        </value>
+      </option>
+      <option name="EXT_CONFIGURATION">
+        <value>
+          <option name="CVS_RSH" value="ssh" />
+          <option name="PRIVATE_KEY_FILE" value="" />
+          <option name="ADDITIONAL_PARAMETERS" value="" />
+          <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+        </value>
+      </option>
+      <option name="SSH_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="SSH_FOR_EXT_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="LOCAL_CONFIGURATION">
+        <value>
+          <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        </value>
+      </option>
+      <option name="DATE_OR_REVISION_SETTINGS">
+        <value>
+          <option name="BRANCH" value="" />
+          <option name="DATE" value="" />
+          <option name="USE_BRANCH" value="false" />
+          <option name="USE_DATE" value="false" />
+        </value>
+      </option>
+    </Configuration>
+    <Configuration>
+      <option name="CVS_ROOT" value=":pserver:anonymous@cvs.sourceforge.net:/cvsroot/httpunit" />
+      <option name="PATH_TO_WORKING_FOLDER" value="" />
+      <option name="PROXY_SETTINGS">
+        <value>
+          <option name="USE_PROXY" value="false" />
+          <option name="PROXY_HOST" value="" />
+          <option name="PROXY_PORT" value="1234" />
+          <option name="TYPE" value="0" />
+          <option name="LOGIN" value="" />
+          <option name="PASSWORD" value="" />
+        </value>
+      </option>
+      <option name="EXT_CONFIGURATION">
+        <value>
+          <option name="CVS_RSH" value="ssh" />
+          <option name="PRIVATE_KEY_FILE" value="" />
+          <option name="ADDITIONAL_PARAMETERS" value="" />
+          <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+        </value>
+      </option>
+      <option name="SSH_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="SSH_FOR_EXT_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="LOCAL_CONFIGURATION">
+        <value>
+          <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        </value>
+      </option>
+      <option name="DATE_OR_REVISION_SETTINGS">
+        <value>
+          <option name="BRANCH" value="" />
+          <option name="DATE" value="" />
+          <option name="USE_BRANCH" value="false" />
+          <option name="USE_DATE" value="false" />
+        </value>
+      </option>
+    </Configuration>
+    <Configuration>
+      <option name="CVS_ROOT" value=":ext:evanchooly@cvs.sourceforge.net:/cvsroot/wicket-stuff" />
+      <option name="PATH_TO_WORKING_FOLDER" value="" />
+      <option name="PROXY_SETTINGS">
+        <value>
+          <option name="USE_PROXY" value="false" />
+          <option name="PROXY_HOST" value="" />
+          <option name="PROXY_PORT" value="1234" />
+          <option name="TYPE" value="0" />
+          <option name="LOGIN" value="" />
+          <option name="PASSWORD" value="" />
+        </value>
+      </option>
+      <option name="EXT_CONFIGURATION">
+        <value>
+          <option name="CVS_RSH" value="ssh" />
+          <option name="PRIVATE_KEY_FILE" value="" />
+          <option name="ADDITIONAL_PARAMETERS" value="" />
+          <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="true" />
+        </value>
+      </option>
+      <option name="SSH_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="SSH_FOR_EXT_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="LOCAL_CONFIGURATION">
+        <value>
+          <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        </value>
+      </option>
+      <option name="DATE_OR_REVISION_SETTINGS">
+        <value>
+          <option name="BRANCH" value="" />
+          <option name="DATE" value="" />
+          <option name="USE_BRANCH" value="false" />
+          <option name="USE_DATE" value="false" />
+        </value>
+      </option>
+    </Configuration>
+    <Configuration>
+      <option name="CVS_ROOT" value=":pserver:anonymous@cvs.sourceforge.net:/cvsroot/wicket-stuff" />
+      <option name="PATH_TO_WORKING_FOLDER" value="" />
+      <option name="PROXY_SETTINGS">
+        <value>
+          <option name="USE_PROXY" value="false" />
+          <option name="PROXY_HOST" value="" />
+          <option name="PROXY_PORT" value="1234" />
+          <option name="TYPE" value="0" />
+          <option name="LOGIN" value="" />
+          <option name="PASSWORD" value="" />
+        </value>
+      </option>
+      <option name="EXT_CONFIGURATION">
+        <value>
+          <option name="CVS_RSH" value="ssh" />
+          <option name="PRIVATE_KEY_FILE" value="" />
+          <option name="ADDITIONAL_PARAMETERS" value="" />
+          <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="true" />
+        </value>
+      </option>
+      <option name="SSH_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="SSH_FOR_EXT_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="LOCAL_CONFIGURATION">
+        <value>
+          <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        </value>
+      </option>
+      <option name="DATE_OR_REVISION_SETTINGS">
+        <value>
+          <option name="BRANCH" value="" />
+          <option name="DATE" value="" />
+          <option name="USE_BRANCH" value="false" />
+          <option name="USE_DATE" value="false" />
+        </value>
+      </option>
+    </Configuration>
+    <Configuration>
+      <option name="CVS_ROOT" value=":pserver:anonymous@cvs.sourceforge.net:/cvsroot/jasperreports" />
+      <option name="PATH_TO_WORKING_FOLDER" value="" />
+      <option name="PROXY_SETTINGS">
+        <value>
+          <option name="USE_PROXY" value="false" />
+          <option name="PROXY_HOST" value="" />
+          <option name="PROXY_PORT" value="1234" />
+          <option name="TYPE" value="0" />
+          <option name="LOGIN" value="" />
+          <option name="PASSWORD" value="" />
+        </value>
+      </option>
+      <option name="EXT_CONFIGURATION">
+        <value>
+          <option name="CVS_RSH" value="ssh" />
+          <option name="PRIVATE_KEY_FILE" value="" />
+          <option name="ADDITIONAL_PARAMETERS" value="" />
+          <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="true" />
+        </value>
+      </option>
+      <option name="SSH_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="SSH_FOR_EXT_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="LOCAL_CONFIGURATION">
+        <value>
+          <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        </value>
+      </option>
+      <option name="DATE_OR_REVISION_SETTINGS">
+        <value>
+          <option name="BRANCH" value="" />
+          <option name="DATE" value="" />
+          <option name="USE_BRANCH" value="false" />
+          <option name="USE_DATE" value="false" />
+        </value>
+      </option>
+    </Configuration>
+    <Configuration>
+      <option name="CVS_ROOT" value=":pserver:anonymous@ujac.cvs.sourceforge.net:/cvsroot/ujac" />
+      <option name="PATH_TO_WORKING_FOLDER" value="" />
+      <option name="PROXY_SETTINGS">
+        <value>
+          <option name="USE_PROXY" value="false" />
+          <option name="PROXY_HOST" value="" />
+          <option name="PROXY_PORT" value="1234" />
+          <option name="TYPE" value="0" />
+          <option name="LOGIN" value="" />
+          <option name="PASSWORD" value="" />
+        </value>
+      </option>
+      <option name="EXT_CONFIGURATION">
+        <value>
+          <option name="CVS_RSH" value="ssh" />
+          <option name="PRIVATE_KEY_FILE" value="" />
+          <option name="ADDITIONAL_PARAMETERS" value="" />
+          <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="true" />
+        </value>
+      </option>
+      <option name="SSH_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="SSH_FOR_EXT_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="LOCAL_CONFIGURATION">
+        <value>
+          <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        </value>
+      </option>
+      <option name="DATE_OR_REVISION_SETTINGS">
+        <value>
+          <option name="BRANCH" value="" />
+          <option name="DATE" value="" />
+          <option name="USE_BRANCH" value="false" />
+          <option name="USE_DATE" value="false" />
+        </value>
+      </option>
+    </Configuration>
+    <Configuration>
+      <option name="CVS_ROOT" value=":pserver:anonymous@jasperreports.cvs.sourceforge.net:/cvsroot/jasperreports" />
+      <option name="PATH_TO_WORKING_FOLDER" value="" />
+      <option name="PROXY_SETTINGS">
+        <value>
+          <option name="USE_PROXY" value="false" />
+          <option name="PROXY_HOST" value="" />
+          <option name="PROXY_PORT" value="1234" />
+          <option name="TYPE" value="0" />
+          <option name="LOGIN" value="" />
+          <option name="PASSWORD" value="" />
+        </value>
+      </option>
+      <option name="EXT_CONFIGURATION">
+        <value>
+          <option name="CVS_RSH" value="ssh" />
+          <option name="PRIVATE_KEY_FILE" value="" />
+          <option name="ADDITIONAL_PARAMETERS" value="" />
+          <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="true" />
+        </value>
+      </option>
+      <option name="SSH_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="SSH_FOR_EXT_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="LOCAL_CONFIGURATION">
+        <value>
+          <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        </value>
+      </option>
+      <option name="DATE_OR_REVISION_SETTINGS">
+        <value>
+          <option name="BRANCH" value="" />
+          <option name="DATE" value="" />
+          <option name="USE_BRANCH" value="false" />
+          <option name="USE_DATE" value="false" />
+        </value>
+      </option>
+    </Configuration>
+    <Configuration>
+      <option name="CVS_ROOT" value=":pserver:anoncvs@cvs.netbeans.org:/shared/data/ccvs/repository" />
+      <option name="PATH_TO_WORKING_FOLDER" value="" />
+      <option name="PROXY_SETTINGS">
+        <value>
+          <option name="USE_PROXY" value="false" />
+          <option name="PROXY_HOST" value="" />
+          <option name="PROXY_PORT" value="1234" />
+          <option name="TYPE" value="0" />
+          <option name="LOGIN" value="" />
+          <option name="PASSWORD" value="" />
+        </value>
+      </option>
+      <option name="EXT_CONFIGURATION">
+        <value>
+          <option name="CVS_RSH" value="ssh" />
+          <option name="PRIVATE_KEY_FILE" value="" />
+          <option name="ADDITIONAL_PARAMETERS" value="" />
+          <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="true" />
+        </value>
+      </option>
+      <option name="SSH_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="SSH_FOR_EXT_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="LOCAL_CONFIGURATION">
+        <value>
+          <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        </value>
+      </option>
+      <option name="DATE_OR_REVISION_SETTINGS">
+        <value>
+          <option name="BRANCH" value="" />
+          <option name="DATE" value="" />
+          <option name="USE_BRANCH" value="false" />
+          <option name="USE_DATE" value="false" />
+        </value>
+      </option>
+    </Configuration>
+    <Configuration>
+      <option name="CVS_ROOT" value="/1" />
+      <option name="PATH_TO_WORKING_FOLDER" value="" />
+      <option name="PROXY_SETTINGS">
+        <value>
+          <option name="USE_PROXY" value="false" />
+          <option name="PROXY_HOST" value="" />
+          <option name="PROXY_PORT" value="1234" />
+          <option name="TYPE" value="0" />
+          <option name="LOGIN" value="" />
+          <option name="PASSWORD" value="" />
+        </value>
+      </option>
+      <option name="EXT_CONFIGURATION">
+        <value>
+          <option name="CVS_RSH" value="ssh" />
+          <option name="PRIVATE_KEY_FILE" value="" />
+          <option name="ADDITIONAL_PARAMETERS" value="" />
+          <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="true" />
+        </value>
+      </option>
+      <option name="SSH_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="SSH_FOR_EXT_CONFIGURATION">
+        <value SSH_TYPE="SSH1, SSH2">
+          <option name="USE_PPK" value="false" />
+          <option name="PATH_TO_PPK" value="" />
+        </value>
+      </option>
+      <option name="LOCAL_CONFIGURATION">
+        <value>
+          <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+        </value>
+      </option>
+      <option name="DATE_OR_REVISION_SETTINGS">
+        <value>
+          <option name="BRANCH" value="" />
+          <option name="DATE" value="" />
+          <option name="USE_BRANCH" value="false" />
+          <option name="USE_DATE" value="false" />
+        </value>
+      </option>
+    </Configuration>
+  </component>
+  <component name="DimensionService">
+    <location key="svn.passwordDialog.0.22.1280.774" x="401" y="329" />
+    <location key="svn.sslDialog.0.22.1280.739" x="394" y="294" />
+    <location key="#com.intellij.javaee.module.view.dataSource.DatasourcePropertiesPanel.0.0.1280.994" x="373" y="197" />
+    <location key="svn.passwordDialog.0.22.1280.745" x="337" y="305" />
+    <location key="#com.intellij.refactoring.memberPushDown.PushDownDialog.0.22.1280.774" x="602" y="164" />
+    <location key="svn.passwordDialog.0.0.1280.994" x="473" y="408" />
+    <location key="VCS.ChangesBrowserDialog.0.22.1280.732" x="309" y="210" />
+    <location key="findTextDialog.0.22.1280.751" x="499" y="264" />
+    <location key="#com.intellij.ide.bookmarks.EditorBookmarksDialog.0.0.1024.738" x="201" y="229" />
+    <location key="svn.sslDialog.0.0.1024.738" x="298" y="274" />
+    <location key="#External_Tools.0.22.1280.745" x="372" y="186" />
+    <location key="findTextDialog.0.22.1280.739" x="366" y="167" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialogFactory.BreakpointsConfigurationDialog.AddFieldBreakpointDialog" x="380" y="199" />
+    <location key="#Code_Completion.0.22.1280.732" x="270" y="155" />
+    <location key="IgnoreUnversionedDialog.0.22.1440.874" x="424" y="379" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.22.1280.732" x="81" y="22" />
+    <location key="vcs.showRevisions" x="-4" y="-4" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.0.0.1280.994" x="442" y="397" />
+    <location key="#Global_Code_Style" x="0" y="26" />
+    <location key="svn.passwordDialog.0.0.1024.738" x="297" y="280" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.22.1280.739" x="446" y="146" />
+    <location key="#org.tmatesoft.tmate.ui.dialogs.LicenseDialog" x="305" y="286" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.22.1280.774" x="330" y="345" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.22.1440.874" x="630" y="375" />
+    <location key="IdeErrosDialog.0.0.1280.994" x="328" y="181" />
+    <location key="#Resources" x="172" y="25" />
+    <location key="vcs.showRevisions.0.22.1280.745" x="0" y="22" />
+    <location key="IgnoredSettingsDialog.0.22.1440.874" x="471" y="339" />
+    <location key="spring file set editor.0.22.1280.739" x="286" y="132" />
+    <location key="#com.intellij.execution.impl.RunDialog.0.22.1280.774" x="425" y="22" />
+    <location key="#Jetty_Server.0.22.1280.745" x="519" y="117" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.22.1280.745" x="382" y="149" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.0.1280.994" x="462" y="352" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.22.1280.732" x="358" y="149" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.22.1280.739" x="453" y="143" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.1280.994" x="1696" y="453" />
+    <location key="#com.intellij.execution.impl.RunDialog.0.0.1024.738" x="308" y="99" />
+    <location key="#Keymap" x="0" y="24" />
+    <location key="#com.intellij.ide.util.FileStructureDialog" x="311" y="75" />
+    <location key="#General.0.22.1440.874" x="399" y="223" />
+    <location key="#com.intellij.j2ee.module.view.web.EditWebRootDialog" x="308" y="303" />
+    <location key="#Appearance.0.22.1280.774" x="379" y="50" />
+    <location key="#Live_Templates.0.22.1280.732" x="283" y="59" />
+    <location key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" x="200" y="89" />
+    <location key="refactoring.ChangeSignatureDialog" x="0" y="89" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.22.1280.774" x="344" y="163" />
+    <location key="#File_Templates" x="0" y="25" />
+    <location key="svn.repositoryBrowser.0.22.1280.745" x="371" y="139" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1280.994" x="488" y="425" />
+    <location key="#Compiler.0.22.1280.739" x="483" y="72" />
+    <location key="#File_Templates.0.22.1280.739" x="408" y="92" />
+    <location key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog.0.0.1280.994" x="465" y="393" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.22.1280.774" x="512" y="123" />
+    <location key="#com.intellij.codeInsight.template.impl.EditTemplateDialog.0.22.1280.732" x="381" y="168" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1440.874" x="402" y="176" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser" x="242" y="201" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.22.1280.745" x="350" y="187" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.0.22.1280.732" x="402" y="292" />
+    <location key="#Local_History" x="346" y="200" />
+    <location key="#Raven_Repositories" x="293" y="177" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1280.994" x="791" y="222" />
+    <location key="#Project_Code_Style.0.0.1280.994" x="1674" y="141" />
+    <location key="#Plugins.0.0.1024.738" x="200" y="28" />
+    <location key="VCS.ChangelistChooser.0.22.1280.745" x="272" y="213" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" x="110" y="79" />
+    <location key="#com.intellij.execution.impl.RunDialog.0.22.1280.751" x="539" y="49" />
+    <location key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog" x="233" y="170" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.0.1280.994" x="1491" y="150" />
+    <location key="svn.checkoutDialog" x="354" y="127" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1280.994" x="275" y="479" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1024.738" x="247" y="166" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1280.751" x="504" y="114" />
+    <location key="RollbackCahgnesDialog.0.22.1280.745" x="425" y="128" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.22.1280.732" x="457" y="113" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1280.751" x="539" y="49" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.22.1440.874" x="77" y="24" />
+    <location key="#Compiler.0.22.1280.745" x="356" y="82" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.0.1024.738" x="66" y="60" />
+    <location key="#Project_Structure.0.0.1024.738" x="100" y="28" />
+    <location key="replaceTextDialog.0.22.1280.745" x="603" y="297" />
+    <location key="#Intention_Settings.0.22.1280.745" x="265" y="42" />
+    <location key="svn.upgradeDialog.0.0.1024.738" x="315" y="342" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1280.774" x="495" y="137" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1440.874" x="237" y="166" />
+    <location key="#Intention_Settings.0.22.1280.732" x="172" y="22" />
+    <location key="#com.intellij.j2ee.jar.BuildJarActionDialog" x="258" y="160" />
+    <location key="#com.intellij.refactoring.memberPushDown.PushDownDialog" x="227" y="289" />
+    <location key="#Editor.0.22.1280.739" x="310" y="55" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditQuickListDialog" x="76" y="159" />
+    <location key="#Colors_&amp;_Fonts.0.0.1280.994" x="1403" y="127" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.22.1280.739" x="518" y="116" />
+    <location key="svn.copyDialog.0.22.1280.745" x="239" y="212" />
+    <location key="svn.sslDialog.0.22.1280.751" x="392" y="300" />
+    <location key="#com.intellij.unscramble.UnscrambleDialog" x="200" y="72" />
+    <location key="#Maven__Dependency_Sync.0.22.1280.745" x="514" y="293" />
+    <location key="antSetDialogDimensionKey.0.22.1280.774" x="305" y="249" />
+    <location key="#Path_Variables.0.0.1280.994" x="1622" y="175" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog" x="234" y="87" />
+    <location key="#Project_Structure.0.22.1280.745" x="29" y="47" />
+    <location key="#Colors_&amp;_Fonts.0.22.1440.874" x="431" y="116" />
+    <location key="#com.intellij.refactoring.memberPullUp.PullUpDialog" x="377" y="181" />
+    <location key="#com.intellij.ide.util.projectWizard.AddModuleWizard" x="39" y="24" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.22.1280.751" x="446" y="317" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.0.1280.994" x="436" y="219" />
+    <location key="#com.intellij.ide.bookmarks.EditorBookmarksDialog" x="197" y="476" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.22.1280.751" x="96" y="147" />
+    <location key="RollbackChangesDialog.0.22.1440.874" x="383" y="192" />
+    <location key="EditParametersPopupWindow.0.0.1280.994" x="635" y="384" />
+    <location key="#com.intellij.localVcs.ui.FileHistoryDialog.0.0.1280.994" x="328" y="197" />
+    <location key="ProcessPopupWindow" x="449" y="273" />
+    <location key="#Project_Code_Style.0.22.1280.774" x="271" y="22" />
+    <location key="#Glassfish_Server.0.22.1440.874" x="618" y="443" />
+    <location key="#Updates.0.0.1280.994" x="1721" y="316" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" x="237" y="45" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.22.1280.774" x="382" y="107" />
+    <location key="#Plugins.0.22.1280.739" x="143" y="23" />
+    <location key="antBuildFilePropertiesDialogDimension.0.22.1280.732" x="335" y="63" />
+    <location key="chooseDestDirectoryDialog.0.22.1280.732" x="439" y="200" />
+    <location key="#com.intellij.javaee.dataSource.impl.DataSourceListDialog.0.0.1280.994" x="495" y="354" />
+    <location key="DiffWindow.0.0.1024.738" x="-4" y="-4" />
+    <location key="AntFileStructureDialog" x="300" y="83" />
+    <location key="svn.passwordDialog.0.22.1280.732" x="317" y="298" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.994" x="418" y="325" />
+    <location key="#Plugins.0.0.1280.994" x="1409" y="102" />
+    <location key="#com.intellij.ant.explorer.SaveMetaTargetDialog" x="339" y="370" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.1024.738" x="348" y="289" />
+    <location key="svn.propertyDialog" x="359" y="228" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog" x="221" y="199" />
+    <location key="#Workspaces" x="146" y="136" />
+    <location key="antBuildFilePropertiesDialogDimension.0.22.1280.774" x="335" y="84" />
+    <location key="replaceTextDialog.0.0.1280.994" x="602" y="294" />
+    <location key="#External_Tools" x="228" y="83" />
+    <location key="svn.copyDialog" x="76" y="199" />
+    <location key="#Modifier_Modifier_Plugin" x="329" y="242" />
+    <location key="#Wicket_Assistent" x="385" y="341" />
+    <location key="#Editor.0.0.1280.994" x="1611" y="129" />
+    <location key="svn.sslDialog" x="298" y="175" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog" x="298" y="230" />
+    <location key="antSetDialogDimensionKey.0.22.1280.751" x="408" y="238" />
+    <location key="VCS.ChangelistChooser.0.0.1280.994" x="374" y="325" />
+    <location key="#Plugins.0.22.1280.732" x="123" y="62" />
+    <location key="#Live_Templates" x="156" y="25" />
+    <location key="#com.intellij.refactoring.memberPullUp.PullUpDialog.0.0.1024.738" x="324" y="325" />
+    <location key="#Plugins.0.22.1440.874" x="192" y="46" />
+    <location key="#Debugger" x="0" y="25" />
+    <location key="#Tomcat_Server.0.22.1280.745" x="624" y="333" />
+    <location key="#Editor.0.22.1280.774" x="190" y="38" />
+    <location key="#Intention_Settings.0.22.1280.739" x="296" y="53" />
+    <location key="#Project_Structure.0.0.1280.994" x="1441" y="192" />
+    <location key="DiffWindow.0.22.1280.751" x="0" y="22" />
+    <location key="#TODO" x="146" y="111" />
+    <location key="svn.propertyDialog.0.0.1024.738" x="385" y="220" />
+    <location key="VCS.CheckinProject" x="2" y="25" />
+    <location key="svn.copyDialog.0.22.1280.739" x="406" y="100" />
+    <location key="#com.intellij.idea.util.scopeChooser" x="242" y="114" />
+    <location key="#Paths" x="0" y="30" />
+    <location key="#Maven_installation_paths.0.22.1280.739" x="524" y="271" />
+    <location key="#Live_Templates.0.0.1280.994" x="1578" y="143" />
+    <location key="#General" x="189" y="25" />
+    <location key="#com.intellij.refactoring.safeDelete.OverridingMethodsDialog" x="271" y="111" />
+    <location key="#File/Directory_Options.0.22.1440.874" x="364" y="151" />
+    <location key="#com.intellij.refactoring.memberPullUp.PullUpDialog.0.22.1280.774" x="398" y="219" />
+    <location key="#Editor.0.22.1440.874" x="115" y="61" />
+    <location key="#com.intellij.execution.impl.RunDialog.0.0.1280.994" x="436" y="227" />
+    <location key="#Ivy_Project_Settings" x="272" y="110" />
+    <location key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog.0.0.1280.994" x="367" y="292" />
+    <location key="JetConnect.0.0.1280.994" x="379" y="217" />
+    <location key="DiffWindow.0.22.1440.874" x="0" y="22" />
+    <location key="CommitChangelistDialog.0.22.1280.739" x="316" y="123" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1024.738" x="272" y="95" />
+    <location key="#com.intellij.codeInsight.daemon.impl.EditInspectionToolsSettingsAction" x="123" y="142" />
+    <location key="svn.upgradeDialog.0.22.1280.745" x="354" y="274" />
+    <location key="#Maven_Integration:_default_settings.0.22.1280.774" x="385" y="22" />
+    <location key="#Project_Settings.0.22.1280.751" x="94" y="22" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SelectTemplateDialog" x="292" y="219" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.22.1280.745" x="416" y="327" />
+    <location key="chooseDestDirectoryDialog.0.0.1024.738" x="349" y="178" />
+    <location key="#com.intellij.tools.OutputFiltersDialog" x="292" y="211" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1024.738" x="409" y="114" />
+    <location key="#Plugins.0.22.1280.751" x="127" y="22" />
+    <location key="#Updates" x="261" y="253" />
+    <location key="IdeErrosDialog.0.22.1280.774" x="403" y="96" />
+    <location key="chooseDestDirectoryDialog.0.22.1280.774" x="495" y="221" />
+    <location key="#com.intellij.javaee.module.view.dataSource.DatasourcePropertiesPanel.0.22.1280.732" x="356" y="73" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1280.739" x="127" y="22" />
+    <location key="CommitChangelistDialog.0.0.1280.994" x="294" y="225" />
+    <location key="#UI_Source_Generator" x="98" y="165" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog" x="181" y="231" />
+    <location key="#Scopes.0.22.1280.732" x="232" y="50" />
+    <location key="#MavenPlugin" x="371" y="264" />
+    <location key="#Colors_&amp;_Fonts.0.22.1280.774" x="270" y="22" />
+    <location key="#com.intellij.j2ee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" x="380" y="281" />
+    <location key="#com.intellij.execution.impl.RunDialog.0.22.1280.739" x="427" y="22" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1280.732" x="440" y="116" />
+    <location key="#Modules" x="0" y="25" />
+    <location key="#Appearance.0.0.1280.994" x="1761" y="149" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.22.1280.745" x="440" y="122" />
+    <location key="#Code_Completion.0.0.1280.994" x="1583" y="213" />
+    <location key="antBuildFilePropertiesDialogDimension.0.0.1024.738" x="216" y="62" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog" x="264" y="133" />
+    <location key="#Version_Control" x="80" y="27" />
+    <location key="#Project_Structure.0.22.1280.733" x="232" y="50" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.LibrariesEditor.JdkChooserDialog" x="426" y="103" />
+    <location key="chooseDestDirectoryDialog.0.22.1280.751" x="504" y="210" />
+    <location key="chooseDestDirectoryDialog.0.0.1280.994" x="477" y="306" />
+    <location key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.0.22.1280.732" x="66" y="140" />
+    <location key="antBuildFilePropertiesDialogDimension.0.22.1280.751" x="399" y="73" />
+    <location key="#Errors" x="0" y="25" />
+    <location key="#Plugin_Updates.0.22.1280.745" x="353" y="257" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1024.738" x="357" y="245" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1280.994" x="374" y="294" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.22.1280.745" x="457" y="119" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.22.1280.745" x="404" y="120" />
+    <location key="#com.intellij.codeInsight.template.impl.EditTemplateDialog" x="280" y="169" />
+    <location key="refactoring.ChangeSignatureDialog.0.22.1280.732" x="49" y="140" />
+    <location key="#External_Tools.0.22.1280.774" x="310" y="166" />
+    <location key="#Customizations.0.22.1280.774" x="332" y="111" />
+    <location key="#JBoss_Plugin" x="179" y="193" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.22.1280.745" x="279" y="152" />
+    <location key="#Version_Control.0.22.1280.732" x="204" y="30" />
+    <location key="#File_Templates.0.22.1280.745" x="282" y="106" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.22.1280.751" x="370" y="152" />
+    <location key="svn.sshPasswordDialog.0.22.1280.745" x="402" y="238" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper" x="270" y="176" />
+    <location key="antSetDialogDimensionKey" x="202" y="219" />
+    <location key="#Maven" x="385" y="326" />
+    <location key="#com.intellij.structuralsearch.plugin.replace.ReplaceDialog" x="218" y="142" />
+    <location key="IdeErrosDialog.0.22.1440.874" x="294" y="142" />
+    <location key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff.0.0.1280.994" x="547" y="402" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.22.1280.732" x="382" y="187" />
+    <location key="CommitChangelistDialog.0.22.1280.732" x="269" y="117" />
+    <location key="#Maven_Integration.0.22.1280.774" x="385" y="22" />
+    <location key="#Live_Templates.0.22.1280.745" x="283" y="65" />
+    <location key="#com.intellij.execution.impl.RunDialog.0.22.1280.745" x="386" y="117" />
+    <location key="#Updates.0.0.1024.738" x="304" y="242" />
+    <location key="#IDEtalk_Options.0.0.1024.738" x="328" y="208" />
+    <location key="#Google_Web_Toolkit.0.0.1024.738" x="346" y="282" />
+    <location key="#Maven_Integration.0.22.1280.751" x="363" y="138" />
+    <location key="#com.intellij.refactoring.safeDelete.OverridingMethodsDialog.0.22.1280.732" x="404" y="118" />
+    <location key="#Plugins" x="0" y="30" />
+    <location key="#com.intellij.refactoring.memberPullUp.PullUpDialog.0.0.1280.994" x="337" y="172" />
+    <location key="#Application_Servers" x="0" y="28" />
+    <location key="#Global_Code_Style.0.0.1280.994" x="1517" y="109" />
+    <location key="#Editor" x="127" y="25" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.0.0.1024.738" x="314" y="269" />
+    <location key="vcs.ApplyPatchDialog.0.22.1280.739" x="334" y="70" />
+    <location key="antBuildFilePropertiesDialogDimension.0.0.1280.994" x="344" y="190" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.22.1280.732" x="394" y="301" />
+    <location key="#Plugins.0.22.1280.774" x="280" y="22" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.22.1440.874" x="289" y="151" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.22.1280.774" x="592" y="208" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1024.738" x="249" y="165" />
+    <location key="refactoring.ChangeSignatureDialog.0.22.1280.774" x="37" y="113" />
+    <location key="#Plugins.0.22.1280.745" x="67" y="55" />
+    <location key="#com.intellij.debugger.ui.PropertiesDialog" x="447" y="24" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.22.1280.732" x="350" y="181" />
+    <location key="#Errors.0.0.1280.994" x="228" y="156" />
+    <location key="#TestNG.0.0.1280.994" x="1763" y="334" />
+    <location key="replaceTextDialog.0.22.1280.739" x="497" y="232" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.22.1280.774" x="382" y="149" />
+    <location key="#Path_Variables" x="221" y="70" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.1280.994" x="377" y="293" />
+    <location key="#Application_Servers.0.0.1280.994" x="1717" y="334" />
+    <location key="#JBoss_Server" x="303" y="318" />
+    <location key="#Editor.0.22.1280.732" x="249" y="54" />
+    <location key="svn.repositoryBrowser" x="535" y="93" />
+    <location key="#Intention_Power_Pack" x="306" y="93" />
+    <location key="#Plugin_Updates.0.22.1280.739" x="467" y="228" />
+    <location key="#Application_Servers.0.22.1440.874" x="355" y="174" />
+    <location key="#Project_Code_Style.0.22.1280.751" x="0" y="22" />
+    <location key="DiffWindow.0.0.1280.994" x="-4" y="-4" />
+    <location key="#com.intellij.openapi.options.ex.ExplorerSettingsEditor" x="0" y="25" />
+    <location key="#TestNG.0.22.1280.745" x="474" y="238" />
+    <location key="EditParametersPopupWindow.0.22.1280.745" x="329" y="275" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.22.1280.732" x="471" y="242" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" x="367" y="57" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.22.1280.732" x="70" y="69" />
+    <location key="#com.intellij.uiDesigner.palette.ComponentItemDialog" x="393" y="258" />
+    <location key="IdeErrosDialog" x="251" y="25" />
+    <location key="#Compiler.0.22.1280.774" x="301" y="66" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" x="162" y="119" />
+    <location key="#Google_Web_Toolkit.0.0.1280.994" x="474" y="410" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" x="584" y="199" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.EditVarConstraintsDialog" x="133" y="137" />
+    <location key="findTextDialog.0.0.1280.994" x="377" y="294" />
+    <location key="DiffWindow.0.22.1280.739" x="0" y="22" />
+    <location key="#Project_Settings.0.22.1280.739" x="240" y="22" />
+    <location key="#Editor.0.22.1280.745" x="493" y="77" />
+    <location key="svn4idea.checkout.options.0.22.1280.745" x="425" y="305" />
+    <location key="IdeErrosDialog.0.22.1280.751" x="315" y="85" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper.0.0.1280.994" x="1613" y="290" />
+    <location key="#Colors_&amp;_Fonts.0.22.1280.745" x="592" y="48" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.22.1280.745" x="115" y="96" />
+    <location key="#Maven_Reloaded.0.22.1280.774" x="314" y="104" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.22.1280.745" x="610" y="268" />
+    <location key="#Errors.0.22.1280.751" x="0" y="22" />
+    <location key="#TMate" x="222" y="178" />
+    <location key="#Resources.0.22.1280.732" x="282" y="150" />
+    <location key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog.0.0.1024.738" x="326" y="262" />
+    <location key="findTextDialog" x="214" y="45" />
+    <location key="#Path_Variables.0.22.1280.774" x="299" y="126" />
+    <location key="#General.0.0.1280.994" x="1596" y="143" />
+    <location key="AntFileStructureDialog.0.22.1280.745" x="432" y="114" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.22.1440.874" x="485" y="261" />
+    <location key="#Scopes.0.0.1280.994" x="228" y="156" />
+    <location key="#com.intellij.javaee.dataSource.impl.DataSourceListDialog.0.22.1280.732" x="405" y="128" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.22.1280.774" x="264" y="204" />
+    <location key="#File_Types.0.22.1280.745" x="474" y="176" />
+    <location key="#Updates.0.22.1440.874" x="375" y="193" />
+    <location key="#Colors_&amp;_Fonts" x="0" y="28" />
+    <location key="chooseDestDirectoryDialog.0.22.1280.739" x="564" y="204" />
+    <location key="#JetConnect.0.0.1280.994" x="1691" y="353" />
+    <location key="#GUI_Designer.0.22.1280.739" x="511" y="251" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1024.738" x="320" y="194" />
+    <location key="#General.0.22.1280.774" x="215" y="51" />
+    <location key="#File_Templates.0.22.1280.732" x="222" y="32" />
+    <location key="DiffWindow.0.22.1280.732" x="0" y="22" />
+    <location key="MultipleFileMergeDialog.0.22.1280.739" x="401" y="144" />
+    <location key="#Path_Variables.0.0.1024.738" x="230" y="119" />
+    <location key="#JDK_&amp;_Global_Libraries" x="74" y="30" />
+    <location key="#Appearance.0.22.1280.745" x="435" y="146" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" x="333" y="266" />
+    <location key="Vcs.CheckinFile" x="297" y="222" />
+    <location key="CommitChangelistDialog.0.22.1280.751" x="313" y="129" />
+    <location key="#com.intellij.ide.util.FileStructureDialog.0.0.1024.738" x="308" y="91" />
+    <location key="#Errors.0.22.1280.774" x="176" y="36" />
+    <location key="#com.intellij.diagnostic.AbstractSendErrorDialog" x="286" y="210" />
+    <location key="#Project_Code_Style.0.22.1280.732" x="80" y="22" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor" x="0" y="25" />
+    <location key="svn.propertyDialog.0.0.1280.994" x="513" y="348" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.22.1280.751" x="406" y="320" />
+    <location key="IdeErrosDialog.0.22.1280.732" x="332" y="75" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.22.1280.751" x="445" y="112" />
+    <location key="CommitChangelistDialog.0.22.1280.774" x="259" y="141" />
+    <location key="#Global_Code_Style.0.22.1280.751" x="148" y="35" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1024.738" x="75" y="0" />
+    <location key="#Images" x="219" y="106" />
+    <location key="svn.propertyDialog.0.22.1280.732" x="478" y="235" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1024.738" x="354" y="297" />
+    <location key="svn.sshPasswordDialog" x="289" y="237" />
+    <location key="#com.intellij.refactoring.safeDelete.OverridingMethodsDialog.0.22.1280.774" x="460" y="139" />
+    <location key="#GenerateToString" x="124" y="13" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.22.1280.739" x="525" y="321" />
+    <location key="antBuildFilePropertiesDialogDimension.0.22.1280.745" x="335" y="70" />
+    <location key="#Appearance" x="0" y="25" />
+    <location key="CommitChangelistDialog.0.22.1280.745" x="269" y="123" />
+    <location key="DiffWindow.0.22.1280.745" x="0" y="22" />
+    <location key="#com.intellij.tools.ToolEditorDialog" x="191" y="180" />
+    <location key="#com.intellij.ide.util.MemberChooser" x="286" y="269" />
+    <location key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog.0.0.1280.994" x="343" y="238" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.22.1280.745" x="382" y="194" />
+    <location key="#com.intellij.diagnostic.ErrorOccuredDialog" x="0" y="24" />
+    <location key="#Project_Settings.0.22.1440.874" x="76" y="22" />
+    <location key="#KeyPromoter" x="279" y="186" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog" x="62" y="22" />
+    <location key="#File_Templates.0.0.1280.994" x="1567" y="184" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1024.738" x="325" y="91" />
+    <location key="#Local_History.0.22.1280.745" x="469" y="212" />
+    <location key="findTextDialog.0.22.1280.774" x="426" y="254" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.ModulesConfigurator" x="0" y="25" />
+    <location key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" x="171" y="41" />
+    <location key="#GUI_Designer" x="273" y="93" />
+    <location key="#Appearance.0.22.1440.874" x="532" y="136" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1280.994" x="400" y="223" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1280.994" x="377" y="249" />
+    <location key="EditParametersPopupWindow" x="323" y="218" />
+    <location key="#Live_Templates.0.22.1280.739" x="409" y="51" />
+    <location key="svn.passwordDialog" x="253" y="291" />
+    <location key="#Project_Settings.0.22.1280.745" x="108" y="22" />
+    <location key="#Application_Servers.0.22.1280.732" x="432" y="250" />
+    <location key="#com.intellij.debugger.ui.breakpoints.EditClassFiltersDialog" x="96" y="243" />
+    <location key="VCS.ChangesBrowserDialog.0.0.1280.994" x="177" y="193" />
+    <location key="#com.intellij.execution.impl.RunDialog" x="71" y="25" />
+    <location key="VCS.ChangelistChooser.0.22.1280.732" x="272" y="207" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1280.994" x="489" y="345" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.22.1280.745" x="373" y="203" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser" x="248" y="87" />
+    <location key="replaceTextDialog.0.0.1024.738" x="307" y="209" />
+    <location key="#Tomcat_Server" x="319" y="305" />
+    <location key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" x="374" y="144" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.22.1280.751" x="446" y="152" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.22.1280.739" x="252" y="96" />
+    <location key="#com.intellij.refactoring.safeDelete.OverridingMethodsDialog.0.0.1280.994" x="401" y="227" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2" x="429" y="313" />
+    <location key="#Code_Completion" x="186" y="84" />
+    <location key="svn4idea.import.options.0.22.1280.745" x="410" y="188" />
+    <location key="spring file set editor.0.22.1280.774" x="91" y="150" />
+    <location key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog.0.22.1280.739" x="478" y="252" />
+    <location key="#com.intellij.codeInspection.ui.InspectCodePanel" x="136" y="95" />
+    <location key="#Version_Control.0.22.1280.745" x="261" y="85" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.22.1280.733" x="70" y="69" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.994" x="245" y="181" />
+    <location key="svn.selectFilesDialog" x="269" y="257" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.22.1280.745" x="420" y="311" />
+    <location key="#Jira_Configuration" x="346" y="174" />
+    <location key="#Project_Settings.0.22.1280.774" x="68" y="22" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.22.1280.732" x="287" y="318" />
+    <location key="#com.intellij.codeInspection.ui.InspectionToolsChooser" x="8" y="87" />
+    <location key="#Hibernate_Tools" x="239" y="131" />
+    <location key="AbstractVcsHelper.FilterDialog.org.jetbrains.idea.svn.history.SvnVersionFilterComponent.0.22.1280.745" x="575" y="272" />
+    <location key="#Version_Control.0.0.1280.994" x="1626" y="176" />
+    <location key="#com.intellij.refactoring.turnRefsToSuper.TurnRefsToSuperDialog.0.0.1280.994" x="453" y="351" />
+    <location key="AbstractVcsHelper.FilterDialog.org.jetbrains.idea.svn.history.SvnVersionFilterComponent.0.22.1280.739" x="575" y="269" />
+    <location key="#Version_Control.0.22.1280.739" x="392" y="101" />
+    <location key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor.0.22.1280.774" x="117" y="38" />
+    <location key="CommitChangelistDialog.0.0.1024.738" x="167" y="90" />
+    <location key="AbstractVcsHelper.FilterDialog.0.22.1280.732" x="509" y="284" />
+    <location key="findTextDialog.0.0.1024.738" x="249" y="166" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1024.738" x="226" y="197" />
+    <location key="antBuildFilePropertiesDialogDimension" x="207" y="68" />
+    <location key="MultipleFileMergeDialog.0.22.1280.732" x="343" y="140" />
+    <location key="#com.intellij.refactoring.introduceParameter.EnclosingMethodSelectonDialog" x="373" y="387" />
+    <location key="#Errors.0.22.1440.874" x="182" y="117" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.0.22.1280.745" x="402" y="299" />
+    <location key="#com.intellij.codeInspection.ex.InspectionToolNoteConfigurable" x="357" y="45" />
+    <location key="findTextDialog.0.22.1280.732" x="435" y="254" />
+    <location key="#Project_Structure.0.22.1280.774" x="232" y="71" />
+    <location key="#GUI_Designer.0.0.1280.994" x="1718" y="311" />
+    <location key="#Path_Variables.0.22.1440.874" x="312" y="22" />
+    <location key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog.0.22.1280.774" x="469" y="270" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1280.745" x="169" y="22" />
+    <location key="replaceTextDialog" x="407" y="156" />
+    <location key="#Project_Code_Style.0.22.1280.745" x="172" y="22" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.22.1280.745" x="294" y="138" />
+    <location key="#Colors_&amp;_Fonts.0.22.1280.739" x="433" y="42" />
+    <location key="#Compiler" x="297" y="52" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" x="185" y="304" />
+    <location key="#com.intellij.ide.fileTemplates.ConfigureTemplatesDialog" x="0" y="25" />
+    <location key="RollbackCahgnesDialog.0.0.1280.994" x="421" y="230" />
+    <location key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1280.994" x="372" y="304" />
+    <location key="#com.intellij.ide.macro.MacrosDialog" x="300" y="90" />
+    <location key="#Keymap.0.22.1280.732" x="137" y="72" />
+    <location key="#Intention_Settings.0.22.1280.751" x="246" y="93" />
+    <location key="#DBHelper.0.0.1024.738" x="200" y="88" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.22.1280.774" x="448" y="266" />
+    <location key="AbstractVcsHelper.FilterDialog.0.0.1280.994" x="511" y="392" />
+    <location key="svn.upgradeDialog.0.0.1280.994" x="392" y="379" />
+    <location key="IdeErrosDialog.0.0.1024.738" x="200" y="53" />
+    <location key="#Intention_Settings.0.22.1280.774" x="176" y="36" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1280.732" x="280" y="22" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.LibraryTableEditor.MyDialogWrapper" x="260" y="147" />
+    <location key="chooseDestDirectoryDialog" x="294" y="74" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" x="0" y="25" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.22.1280.732" x="471" y="248" />
+    <location key="#Intention_Settings" x="98" y="44" />
+    <location key="#com.intellij.debugger.ui.impl.InspectDialog" x="0" y="25" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.22.1280.751" x="359" y="327" />
+    <location key="antSetDialogDimensionKey.0.0.1280.994" x="316" y="346" />
+    <location key="#Resources.0.0.1280.994" x="1567" y="234" />
+    <location key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog" x="473" y="349" />
+    <location key="#com.intellij.ide.actionMacro.EditMacrosDialog" x="304" y="205" />
+    <location key="svn.passwordDialog.0.22.1280.739" x="404" y="291" />
+    <location key="#Maven_installation_paths.0.22.1280.774" x="515" y="289" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.22.1280.739" x="423" y="135" />
+    <location key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.22.1280.774" x="387" y="121" />
+    <location key="vcs.changes.browser" x="1" y="8" />
+    <location key="#Groovy_&amp;_Grails.0.22.1280.739" x="488" y="253" />
+    <location key="chooseDestDirectoryDialog.0.22.1280.745" x="439" y="207" />
+    <location key="#Appearance.0.22.1280.739" x="499" y="67" />
+    <location key="#com.intellij.tools.FilterDialog" x="324" y="236" />
+    <location key="#Rearranger" x="71" y="115" />
+    <location key="#Global_Code_Style.0.22.1280.774" x="175" y="46" />
+    <location key="#com.intellij.debugger.ui.EvaluationDialog2.0.22.1280.751" x="562" y="136" />
+    <location key="#General.0.22.1280.739" x="397" y="57" />
+    <location key="replaceTextDialog.0.22.1280.774" x="385" y="169" />
+    <location key="svn.sslDialog.0.22.1280.745" x="330" y="297" />
+    <location key="#Intention_Settings.0.22.1440.874" x="404" y="150" />
+    <location key="#Project_Structure.0.22.1280.732" x="115" y="43" />
+    <location key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser.0.0.1280.994" x="378" y="206" />
+    <location key="svn.passwordDialog.0.22.1440.874" x="399" y="358" />
+    <location key="#Version_Control.0.22.1280.774" x="210" y="95" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.22.1280.732" x="382" y="142" />
+    <location key="#com.intellij.ide.util.ExportDialog" x="194" y="156" />
+    <location key="#Scopes.0.0.1024.738" x="100" y="28" />
+    <location key="#Teachscape" x="189" y="112" />
+    <location key="AbstractVcsHelper.FilterDialog.org.jetbrains.idea.svn.history.SvnVersionFilterComponent.0.22.1280.732" x="508" y="274" />
+    <location key="findTextDialog.0.22.1280.745" x="311" y="193" />
+    <location key="replaceTextDialog.0.22.1280.732" x="460" y="316" />
+    <location key="#General.0.22.1280.745" x="449" y="61" />
+    <location key="DiffWindow.0.22.1280.774" x="0" y="22" />
+    <location key="#Customizations" x="265" y="154" />
+    <location key="replaceTextDialog.0.22.1280.751" x="497" y="238" />
+    <location key="#com.intellij.refactoring.move.moveInner.MoveInnerDialog.0.0.1280.994" x="454" y="390" />
+    <location key="#Osmorc.0.22.1280.774" x="425" y="231" />
+    <location key="#Project_Code_Style.0.22.1280.739" x="272" y="22" />
+    <location key="#Images_Support" x="224" y="138" />
+    <location key="AntFileStructureDialog.0.0.1280.994" x="428" y="211" />
+    <location key="#Checkstyle" x="214" y="113" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1280.774" x="181" y="22" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.22.1280.745" x="394" y="248" />
+    <location key="RollbackCahgnesDialog.0.22.1280.751" x="496" y="134" />
+    <location key="#Jetty" x="189" y="112" />
+    <location key="#com.intellij.j2ee.web.actions.CreateNewSeervlet.0.22.1280.739" x="424" y="278" />
+    <location key="VCS.NewChangelistDialog.0.0.1280.994" x="394" y="372" />
+    <location key="#File_Types" x="335" y="162" />
+    <location key="#Version_Control.0.0.1024.738" x="228" y="70" />
+    <location key="#com.intellij.j2ee.web.actions.CreateNewSeervlet.0.22.1440.874" x="225" y="347" />
+    <location key="#Project_Code_Style" x="74" y="30" />
+    <location key="#IntelliLang.0.22.1440.874" x="319" y="109" />
+    <location key="DiffWindow" x="0" y="22" />
+    <location key="#File_Types.0.22.1280.739" x="602" y="162" />
+    <location key="MultipleFileMergeDialog.0.22.1280.774" x="392" y="161" />
+    <location key="#Project_Settings.0.22.1280.732" x="60" y="22" />
+    <location key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.0.0.1280.994" x="372" y="288" />
+    <size key="EditParametersPopupWindow" width="375" height="234" />
+    <size key="#Editor" width="878" height="713" />
+    <size key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" width="522" height="496" />
+    <size key="changelist.details.popup.0.22.1280.745" width="332" height="71" />
+    <size key="#Plugins.0.22.1280.774" width="858" height="730" />
+    <size key="#Application_Servers.0.22.1280.732" width="416" height="395" />
+    <size key="#Plugins.0.22.1280.739" width="1047" height="694" />
+    <size key="#com.intellij.debugger.ui.breakpoints.EditClassFiltersDialog" width="822" height="281" />
+    <size key="#com.intellij.execution.impl.RunDialog" width="875" height="708" />
+    <size key="DiffWindow.0.0.1024.738" width="1032" height="746" />
+    <size key="DebuggerActiveHint.0.22.1280.745" width="780" height="428" />
+    <size key="#Plugins.0.22.1280.745" width="1150" height="653" />
+    <size key="#com.intellij.debugger.ui.PropertiesDialog" width="466" height="504" />
+    <size key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.22.1280.732" width="579" height="419" />
+    <size key="#com.intellij.openapi.editor.actions.MultiplePasteAction.Chooser" width="522" height="581" />
+    <size key="javadoc.popup.0.22.1280.739" width="504" height="80" />
+    <size key="#com.intellij.debugger.ui.StatementEvaluationDialog.StatementEditor.0.0.1280.994" width="499" height="140" />
+    <size key="#Path_Variables" width="565" height="499" />
+    <size key="#Tomcat_Server" width="384" height="146" />
+    <size key="#Plugins.0.0.1280.994" width="992" height="681" />
+    <size key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" width="559" height="414" />
+    <size key="#Application_Servers.0.0.1280.994" width="499" height="371" />
+    <size key="#com.intellij.structuralsearch.plugin.ui.SearchDialog" width="588" height="366" />
+    <size key="#Workspaces" width="725" height="425" />
+    <size key="#com.intellij.debugger.ui.EvaluationDialog2" width="509" height="535" />
+    <size key="svn.repositoryBrowser" width="391" height="445" />
+    <size key="#Intention_Power_Pack" width="415" height="568" />
+    <size key="javadoc.popup.0.22.1280.733" width="504" height="74" />
+    <size key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialogFactory.BreakpointsConfigurationDialog.AddFieldBreakpointDialog" width="336" height="118" />
+    <size key="#Code_Completion" width="636" height="476" />
+    <size key="#Application_Servers.0.22.1440.874" width="654" height="513" />
+    <size key="#Project_Code_Style.0.22.1280.751" width="1112" height="751" />
+    <size key="#External_Tools" width="540" height="419" />
+    <size key="DiffWindow.0.0.1280.994" width="1288" height="1002" />
+    <size key="#com.intellij.codeInspection.ui.InspectCodePanel" width="724" height="567" />
+    <size key="vcs.showRevisions" width="1032" height="746" />
+    <size key="javadoc.popup.0.22.1280.774" width="504" height="81" />
+    <size key="#com.intellij.openapi.options.ex.ExplorerSettingsEditor" width="1023" height="713" />
+    <size key="svn.copyDialog" width="638" height="361" />
+    <size key="#Modifier_Modifier_Plugin" width="315" height="270" />
+    <size key="#Global_Code_Style" width="1023" height="709" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1280.994" width="803" height="803" />
+    <size key="svn.selectFilesDialog" width="658" height="248" />
+    <size key="#com.intellij.uiDesigner.palette.ComponentItemDialog" width="228" height="241" />
+    <size key="IdeErrosDialog" width="622" height="629" />
+    <size key="#com.intellij.codeInspection.ui.InspectionToolsChooser" width="1002" height="581" />
+    <size key="#org.tmatesoft.tmate.ui.dialogs.LicenseDialog" width="409" height="184" />
+    <size key="svn.sslDialog" width="428" height="288" />
+    <size key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" width="700" height="500" />
+    <size key="#com.intellij.ide.util.PackageChooserDialog" width="522" height="406" />
+    <size key="javadoc.popup.0.0.1024.738" width="508" height="95" />
+    <size key="#Plugins.0.22.1280.732" width="1051" height="692" />
+    <size key="#Resources" width="672" height="706" />
+    <size key="#Live_Templates" width="704" height="663" />
+    <size key="vcs.showRevisions.0.22.1280.745" width="1280" height="745" />
+    <size key="#Jetty_Server.0.22.1280.745" width="624" height="576" />
+    <size key="#com.intellij.execution.impl.RunDialog.0.22.1280.774" width="806" height="774" />
+    <size key="antBuildFilePropertiesDialogDimension" width="609" height="624" />
+    <size key="#Plugins.0.22.1440.874" width="808" height="706" />
+    <size key="DiffWindow.0.22.1280.739" width="1280" height="739" />
+    <size key="#Debugger" width="1023" height="713" />
+    <size key="#com.intellij.codeInspection.ex.InspectionToolNoteConfigurable" width="394" height="383" />
+    <size key="#com.intellij.execution.impl.RunDialog.0.0.1024.738" width="456" height="604" />
+    <size key="DiffWindow.0.22.1280.751" width="1280" height="751" />
+    <size key="#TODO" width="722" height="537" />
+    <size key="#Colors_&amp;_Fonts.0.22.1280.745" width="688" height="675" />
+    <size key="replaceTextDialog" width="749" height="432" />
+    <size key="#Keymap" width="1023" height="706" />
+    <size key="VCS.CheckinProject" width="1023" height="713" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1280.745" width="864" height="745" />
+    <size key="#Project_Code_Style.0.22.1280.745" width="1077" height="745" />
+    <size key="#com.intellij.idea.util.scopeChooser" width="529" height="528" />
+    <size key="javadoc.popup.0.22.1440.874" width="504" height="268" />
+    <size key="#Colors_&amp;_Fonts.0.22.1280.739" width="688" height="675" />
+    <size key="#Compiler" width="574" height="652" />
+    <size key="DebuggerActiveHint.0.22.1280.739" width="423" height="428" />
+    <size key="#com.intellij.ide.util.FileStructureDialog" width="509" height="555" />
+    <size key="#Paths" width="1023" height="706" />
+    <size key="javadoc.popup.0.0.1280.994" width="504" height="231" />
+    <size key="#Errors.0.22.1280.751" width="1280" height="751" />
+    <size key="#com.intellij.ide.fileTemplates.ConfigureTemplatesDialog" width="1023" height="706" />
+    <size key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" width="649" height="147" />
+    <size key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.0.1280.994" width="536" height="392" />
+    <size key="#General" width="833" height="578" />
+    <size key="#com.intellij.localVcs.ui.FileHistoryDialog_hSplitter.0.0.1280.994" width="300" height="480" />
+    <size key="#Appearance.0.22.1280.774" width="531" height="637" />
+    <size key="#com.intellij.debugger.ui.StatementEvaluationDialog.StatementEditor" width="485" height="134" />
+    <size key="findTextDialog" width="783" height="417" />
+    <size key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" width="613" height="522" />
+    <size key="refactoring.ChangeSignatureDialog" width="1023" height="584" />
+    <size key="#com.intellij.execution.impl.RunDialog.0.0.1280.994" width="644" height="614" />
+    <size key="#File_Templates" width="1023" height="706" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1280.732" width="790" height="732" />
+    <size key="#com.intellij.openapi.roots.ui.configuration.LibraryTableEditor.MyDialogWrapper" width="493" height="404" />
+    <size key="chooseDestDirectoryDialog" width="534" height="381" />
+    <size key="DiffWindow.0.22.1440.874" width="1440" height="874" />
+    <size key="#com.intellij.codeInsight.daemon.impl.EditInspectionToolsSettingsAction" width="724" height="567" />
+    <size key="#com.intellij.debugger.ui.StatementEvaluationDialog.EvaluationPanel.0.0.1280.994" width="499" height="166" />
+    <size key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" width="1023" height="706" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser" width="557" height="301" />
+    <size key="#Intention_Settings" width="822" height="679" />
+    <size key="#com.intellij.debugger.ui.impl.InspectDialog" width="1023" height="712" />
+    <size key="#Plugins.0.22.1280.751" width="1009" height="706" />
+    <size key="#com.intellij.structuralsearch.plugin.ui.SearchDialog.0.22.1280.745" width="579" height="419" />
+    <size key="#com.intellij.tools.ToolEditorDialog.0.22.1280.774" width="639" height="359" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1280.739" width="811" height="739" />
+    <size key="#Colors_&amp;_Fonts" width="1023" height="706" />
+    <size key="#com.intellij.codeInsight.template.impl.EditVariableDialog" width="641" height="251" />
+    <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1024.738" width="343" height="440" />
+    <size key="#com.intellij.j2ee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" width="434" height="186" />
+    <size key="#com.intellij.execution.impl.RunDialog.0.22.1280.739" width="792" height="739" />
+    <size key="DiffWindow.0.22.1280.732" width="1280" height="732" />
+    <size key="#com.intellij.ide.actionMacro.EditMacrosDialog" width="410" height="348" />
+    <size key="#Modules" width="1023" height="713" />
+    <size key="#Plugins.0.0.1024.738" width="789" height="681" />
+    <size key="#JDK_&amp;_Global_Libraries" width="874" height="705" />
+    <size key="#com.intellij.debugger.ui.breakpoints.BreakpointsConfigurationDialog.0.22.1280.774" width="632" height="671" />
+    <size key="vcs.changes.browser" width="1023" height="713" />
+    <size key="#com.intellij.execution.impl.RunDialog.0.22.1280.751" width="470" height="714" />
+    <size key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" width="823" height="538" />
+    <size key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog" width="588" height="499" />
+    <size key="svn.checkoutDialog" width="559" height="483" />
+    <size key="#com.intellij.debugger.ui.EvaluationDialog2.0.0.1280.994" width="790" height="460" />
+    <size key="#Rearranger" width="881" height="527" />
+    <size key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" width="357" height="235" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog" width="519" height="201" />
+    <size key="#com.intellij.openapi.roots.ui.configuration.LibrariesEditor.JdkChooserDialog" width="421" height="337" />
+    <size key="#Version_Control" width="891" height="710" />
+    <size key="Vcs.CheckinFile" width="385" height="338" />
+    <size key="#com.intellij.ide.util.MemberChooser.0.22.1280.732" width="689" height="301" />
+    <size key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.0.22.1280.732" width="1147" height="569" />
+    <size key="#Project_Structure.0.22.1280.732" width="1165" height="675" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1280.751" width="470" height="714" />
+    <size key="#Errors" width="1023" height="731" />
+    <size key="#Project_Code_Style.0.22.1280.732" width="951" height="730" />
+    <size key="#com.intellij.diagnostic.AbstractSendErrorDialog" width="446" height="335" />
+    <size key="#com.intellij.openapi.options.ex.ControlPanelSettingsEditor" width="1023" height="713" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1440.874" width="1203" height="701" />
+    <size key="#com.intellij.j2ee.jar.BuildJarActionDialog" width="412" height="419" />
+    <size key="javadoc.popup.0.22.1280.732" width="504" height="132" />
+    <size key="#com.intellij.refactoring.memberPushDown.PushDownDialog" width="607" height="346" />
+    <size key="#com.intellij.openapi.keymap.impl.ui.EditQuickListDialog" width="862" height="438" />
+    <size key="#com.intellij.codeInsight.template.impl.EditTemplateDialog" width="526" height="446" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1024.738" width="890" height="738" />
+    <size key="DiffWindow.0.22.1280.774" width="1280" height="774" />
+    <size key="#Customizations" width="489" height="455" />
+    <size key="javadoc.popup.0.22.1280.751" width="504" height="81" />
+    <size key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryTableEditor.MyDialogWrapper" width="479" height="403" />
+    <size key="#com.intellij.structuralsearch.plugin.replace.ReplaceDialog" width="581" height="414" />
+    <size key="antSetDialogDimensionKey" width="609" height="321" />
+    <size key="#Project_Code_Style.0.22.1280.739" width="814" height="739" />
+    <size key="#com.intellij.ide.util.TreeClassChooserDialog" width="527" height="409" />
+    <size key="DebuggerActiveHint.0.22.1280.774" width="881" height="581" />
+    <size key="#GenerateToString" width="708" height="738" />
+    <size key="#Images_Support" width="570" height="487" />
+    <size key="DiffWindow.0.22.1280.745" width="1280" height="745" />
+    <size key="#com.intellij.tools.ToolEditorDialog" width="626" height="343" />
+    <size key="#Appearance" width="1023" height="587" />
+    <size key="#Project_Structure.0.22.1280.745" width="988" height="669" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.22.1280.774" width="830" height="774" />
+    <size key="#com.intellij.ide.util.MemberChooser" width="642" height="296" />
+    <size key="#Colors_&amp;_Fonts.0.22.1440.874" width="688" height="683" />
+    <size key="#com.intellij.refactoring.memberPullUp.PullUpDialog" width="592" height="385" />
+    <size key="#com.intellij.ide.util.projectWizard.AddModuleWizard" width="909" height="391" />
+    <size key="#com.intellij.ide.bookmarks.EditorBookmarksDialog" width="627" height="260" />
+    <size key="changelist.details.popup.0.22.1280.739" width="459" height="71" />
+    <size key="#com.intellij.diagnostic.ErrorOccuredDialog" width="1023" height="706" />
+    <size key="#Plugins" width="1023" height="706" />
+    <size key="#Project_Code_Style" width="893" height="701" />
+    <size key="#Project_Settings.0.22.1440.874" width="915" height="757" />
+    <size key="#IntelliLang.0.22.1440.874" width="673" height="542" />
+    <size key="DiffWindow" width="1280" height="732" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog" width="915" height="663" />
+    <size key="javadoc.popup.0.22.1280.745" width="504" height="74" />
+    <size key="#GUI_Designer" width="466" height="511" />
+    <size key="#com.intellij.openapi.roots.ui.configuration.ModulesConfigurator" width="1023" height="713" />
+    <size key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" width="680" height="681" />
+    <size key="#Project_Settings.0.22.1280.732" width="1074" height="715" />
+    <size key="#com.intellij.structuralsearch.plugin.replace.ui.ReplaceDialog.0.0.1280.994" width="536" height="535" />
+    <size key="ProcessPopupWindow" width="384" height="259" />
+    <size key="#Application_Servers" width="1023" height="706" />
+    <size key="#com.intellij.debugger.ui.StatementEvaluationDialog.EvaluationPanel" width="485" height="278" />
+    <extendedState key="#org.tmatesoft.tmate.ui.TMate.available" state="1" />
+    <extendedState key="TestNG.Splitter.Proportion.0" state="146" />
+    <extendedState key="#org.tmatesoft.tmate.ui.TMate.tab.update.visible" state="-1" />
+    <extendedState key="#org.tmatesoft.tmate.ui.TMate.tab.config.visible" state="-1" />
+    <extendedState key="#org.tmatesoft.tmate.ui.TMate.tab.metrcis.visible" state="-1" />
+    <extendedState key="#org.tmatesoft.tmate.ui.TMate.tab.changes.visible" state="-1" />
+    <extendedState key="#TMate.doNotShowLicenseDialogOnStartup" state="1" />
+    <extendedState key="vcs.showRevisions" state="6" />
+    <extendedState key="#org.tmatesoft.tmate.ui.TMate.tab.messages.visible" state="-1" />
+    <extendedState key="DiffWindow" state="6" />
+    <extendedState key="#org.tmatesoft.tmate.ui.TMate - Local Changes.available" state="1" />
+    <extendedState key="#org.tmatesoft.tmate.ui.dialogs.ConnectionsDialog.editorTab" state="0" />
+    <extendedState key="#org.tmatesoft.tmate.ui.TMate.tab.active" state="0" />
+    <extendedState key="#com.intellij.j2ee.jar.BuildJarActionDialog.0" state="500" />
+  </component>
+  <component name="DuplocatorSettings">
+    <option name="DISTINGUISH_METHODS" value="false" />
+    <option name="DISTINGUISH_TYPES" value="false" />
+    <option name="DISTINGUISH_LITERALS" value="false" />
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="Java" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="Java" />
+  </component>
+  <component name="Error Report Configurable">
+    <option name="JIRA_LOGIN" value="" />
+    <option name="JIRA_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_JIRA_PASSWORD" value="false" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="cheeser" />
+    <option name="ITN_PASSWORD_CRYPT" value="aWRlYWFzaHJl" />
+    <option name="KEEP_ITN_PASSWORD" value="true" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="FileTemplateManager">
+    <deleted_templates>
+      <option name="DELETED_DEFAULT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </deleted_templates>
+    <deleted_includes>
+      <option name="DELETED_DEFAULT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </deleted_includes>
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="Ruby script" />
+            <item index="1" class="java.lang.String" itemvalue="DAO" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+    <templates>
+      <internal_template name="Class" reformat="true" />
+      <internal_template name="Interface" reformat="true" />
+      <internal_template name="Enum" reformat="true" />
+      <internal_template name="AnnotationType" reformat="true" />
+      <internal_template name="Html" reformat="true" />
+      <internal_template name="Xhtml" reformat="true" />
+      <template name="ActionScript Class" reformat="true" />
+      <template name="DAO" reformat="true" />
+      <template name="Enumeration Class" reformat="true" />
+      <template name="MobileResourceBundle" reformat="true" />
+      <template name="Mxml Component" reformat="true" />
+      <template name="Ruby script" reformat="true" />
+      <template name="Singleton" reformat="true" />
+    </templates>
+  </component>
+  <component name="GWT.Configuration">
+    <setting name="gwtPath" value="" />
+    <setting name="gwtScriptOutputStyle" value="DETAILED" />
+    <setting name="runGwtCompilerOnMake" value="true" />
+  </component>
+  <component name="GenerateToString">
+    <option name="useFullyQualifiedName" value="false" />
+    <option name="useFieldChooserDialog" value="true" />
+    <option name="useDefaultAlways" value="false" />
+    <option name="methodBody" value="public String toString() {&#13;&#10;#if ( $members.size() &gt; 0 )&#13;&#10;#set ( $i = 0 )&#13;&#10;    return &quot;$classname{&quot; +&#13;&#10;#foreach( $member in $members )&#13;&#10;#if ( $i == 0 )&#13;&#10;    &quot;##&#13;&#10;#else&#13;&#10;    &quot;, ##&#13;&#10;#end&#13;&#10;#if ( $member.objectArray )&#13;&#10;$member.name=&quot; + ($member.accessor == null ? null : Arrays.asList($member.accessor)) +&#13;&#10;#elseif ( $member.string )&#13;&#10;$member.name='&quot; + $member.accessor + '\'' +&#13;&#10;#else&#13;&#10;$member.name=&quot; + $member.accessor +&#13;&#10;#end&#13;&#10;#set ( $i = $i + 1 )&#13;&#10;#end&#13;&#10;    '}';&#13;&#10;#else&#13;&#10;    return &quot;$classname{}&quot;;&#13;&#10;#end&#13;&#10;}" />
+    <option name="filterConstantField" value="true" />
+    <option name="filterEnumField" value="false" />
+    <option name="filterTransientModifier" value="false" />
+    <option name="filterStaticModifier" value="true" />
+    <option name="filterFieldName" />
+    <option name="filterMethodName" />
+    <option name="filterMethodType" />
+    <option name="filterFieldType" />
+    <option name="filterLoggers" value="true" />
+    <option name="addImplementSerializable" value="false" />
+    <option name="autoImports" value="false" />
+    <option name="autoImportsPackages" value="java.util.*,java.text.*" />
+    <option name="inspectionOnTheFly" value="false" />
+    <option name="enableMethods" value="false" />
+    <option name="enableTemplateQuickList" value="false" />
+    <option name="selectedQuickTemplates" />
+    <option name="jumpToMethod" value="true" />
+    <option name="sortElements" value="0" />
+  </component>
+  <component name="GlobalAntConfiguration">
+    <registeredAnts>
+      <ant>
+        <classpath>
+          <classpathItem dir="file://$USER_HOME$/bin/apache-ant-1.8.2/lib" />
+        </classpath>
+        <homeDir value="$USER_HOME$/bin/apache-ant-1.8.2" />
+        <name value="Apache Ant version 1.8.2" />
+        <version value="1.8.2" />
+      </ant>
+    </registeredAnts>
+  </component>
+  <component name="GroovyGrailsConfiguration">
+    <setting name="groovyPath" value="/Users/cheeser/bin/groovy-1.5.4" />
+    <setting name="grailsPath" value="$GRAILS_HOME$" />
+  </component>
+  <component name="GwtSdkManager">
+    <gwt-sdk-list>
+      <gwt-sdk url="file:///Users/cheeser/bin/gwt-mac-1.5.1" />
+      <gwt-sdk url="file://$USER_HOME$/bin/gwt-mac-1.6.4" />
+    </gwt-sdk-list>
+  </component>
+  <component name="ImportConfiguration">
+    <option name="VENDOR" />
+    <option name="RELEASE_TAG" />
+    <option name="LOG_MESSAGE" />
+    <option name="CHECKOUT_AFTER_IMPORT" value="true" />
+    <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
+    <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
+  </component>
+  <component name="JetConnect">
+    <setting name="checkPeriod" value="1" />
+  </component>
+  <component name="KeyPromoter.Config">
+    <option name="textColor" value="0" />
+    <option name="borderColor" value="ff0000" />
+    <option name="backgroundColor" value="202040" />
+    <option name="menusEnabled" value="true" />
+    <option name="toolbarButtonsEnabled" value="true" />
+    <option name="toolWindowButtonsEnabled" value="true" />
+    <option name="allButtonsEnabled" value="false" />
+    <option name="displayTime" value="3000" />
+    <option name="flashAnimationDelay" value="150" />
+    <option name="proposeToCreateShortcutCount" value="3" />
+    <option name="fixedTipPosistion" value="false" />
+    <option name="popupTemplate" value="&lt;html&gt;&#10; &lt;body&gt;&#10;  &lt;table&gt;&#10;   &lt;tr&gt;&#10;    &lt;td align=&quot;center&quot;&gt;&lt;font size=8&gt;{0}&lt;/font&gt;&lt;/td&gt;&#10;   &lt;/tr&gt;&#10;   &lt;tr&gt;&#10;    &lt;td align=&quot;center&quot;&gt;&lt;font size=6&gt;{1} time(s)&lt;/font&gt;&lt;/td&gt;&#10;   &lt;/tr&gt;&#10;  &lt;/table&gt;&#10; &lt;/body&gt;&#10;&lt;/html&gt;" />
+  </component>
+  <component name="LafManager">
+    <laf class-name="apple.laf.AquaLookAndFeel" />
+  </component>
+  <component name="LocalHistoryConfiguration">
+    <option name="SHOW_CHANGES_ONLY" value="true" />
+  </component>
+  <component name="LvcsConfiguration">
+    <option name="LOCAL_VCS_ENABLED" value="true" />
+    <option name="LOCAL_VCS_PURGING_PERIOD" value="259200000" />
+    <option name="ADD_LABEL_ON_PROJECT_OPEN" value="true" />
+    <option name="ADD_LABEL_ON_PROJECT_COMPILATION" value="true" />
+    <option name="ADD_LABEL_ON_FILE_PACKAGE_COMPILATION" value="true" />
+    <option name="ADD_LABEL_ON_PROJECT_MAKE" value="true" />
+    <option name="ADD_LABEL_ON_RUNNING" value="true" />
+    <option name="ADD_LABEL_ON_DEBUGGING" value="true" />
+    <option name="ADD_LABEL_ON_UNIT_TEST_PASSED" value="true" />
+    <option name="ADD_LABEL_ON_UNIT_TEST_FAILED" value="true" />
+    <option name="SHOW_CHANGES_ONLY" value="false" />
+  </component>
+  <component name="NativeNeighbourhoodPlugin">
+    <iconsDir value="macosx" />
+    <executeWithDefaultAppCommand value="/usr/bin/open|$FilePath$" tokenizerDelims="|" />
+    <showInFileManagerCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/reveal.sh|$FilePath$" tokenizerDelims="|" />
+    <openCommandShellInCommand value="/bin/sh|$PluginsHome$/NativeNeighbourhood/classes/org/intellij/plugins/nativeNeighbourhood/icons/macosx/terminal.sh|$FileDir$" tokenizerDelims="|" />
+    <selectInFileManagerName value="MacOSX Finder" />
+    <nativeExtensions value="" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="6.9.1" last-modified="1476914535000" />
+      <npm-package value="/usr/local/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.7.1/bin/node">
+      <version-cache version="5.7.1" last-modified="1456957265000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/0.12.0/bin/node">
+      <version-cache version="0.12.0" last-modified="1423655011000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/0.10.29/bin/node">
+      <version-cache version="0.10.29" last-modified="1403282814000" />
+    </local-interpreter>
+  </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="6.9.1" last-modified="1476914535000" />
+    <node-interpreter path="/usr/local/Cellar/node/0.10.29/bin/node" version="0.10.29" last-modified="1403282814000" />
+    <node-interpreter path="/usr/local/Cellar/node/5.7.1/bin/node" version="5.7.1" last-modified="1456957265000" />
+    <node-interpreter path="/usr/local/Cellar/node/0.12.0/bin/node" version="0.12.0" last-modified="1423655011000" />
+  </component>
+  <component name="PluginManagerConfigurable" proportions="" version="1">
+    <option name="AVAILABLE_SORT_MODE" value="Name" />
+    <option name="myOutdatedPlugins">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myInstalledPlugins">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <available-proportions proportions="" version="1" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="lvcs_history_dialogWidth0" value="80" />
+    <property name="project.jdk.splitter" value="0.5" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="junit_statistics_table_columnsWidth1" value="119" />
+    <property name="lvcs_history_dialogOrder0" value="0" />
+    <property name="runConfigurationTabPlugin.dividerProportion" value="0.2" />
+    <property name="MemberChooser.insertOverride" value="false" />
+    <property name="runConfigurationTabRemote.dividerProportion" value="0.2" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="AppServerDKsEditor.splitterProportion" value="0.27755904" />
+    <property name="JUnitSupport.openFailureLine" value="true" />
+    <property name="junit_statistics_table_columnsWidth3" value="119" />
+    <property name="KEEP_PRODUCTIVITY_HINTS" value="false" />
+    <property name="junit_statistics_table_columnsOrder3" value="3" />
+    <property name="MemberChooser.sorted" value="true" />
+    <property name="RunManagerConfig.compileBeforeRunning" value="false" />
+    <property name="runConfigurationTabApplication.dividerProportion" value="0.2" />
+    <property name="TestNGSupport.selectFirtsDefect" value="true" />
+    <property name="PREFER_CLASSIC_OPTIONS_EDITOR" value="false" />
+    <property name="junit_statistics_table_columnsWidth2" value="121" />
+    <property name="TestNGSupport.trackRunningTest" value="true" />
+    <property name="IMMEDIATE_FATAL_ERROR_POPUP" value="false" />
+    <property name="EJB Module Deployment Descriptor Default Version" value="2.x" />
+    <property name="JUnitSupport.selectFirtsDefect" value="true" />
+    <property name="AntStructureDialog.narrowDown" value="true" />
+    <property name="TestNGSupport.hidePassedTests" value="true" />
+    <property name="runConfigurationTabJ2ME.dividerProportion" value="0.2" />
+    <property name="junit_statistics_table_columnsOrder2" value="2" />
+    <property name="FileChooser.showHiddens" value="false" />
+    <property name="JUnitSupport.scrollToStackTrace" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="junit_statistics_table_columnsOrder0" value="0" />
+    <property name="runConfigurationTabTestNG.dividerProportion" value="0.2" />
+    <property name="runConfigurationTab.dividerProportion" value="0.2" />
+    <property name="Web Module Deployment Descriptor Default Version" value="2.3" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="test_tree_console_proprtion" value="0.29834256" />
+    <property name="PLUGIN_FILTER" value="itunes" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION" value="0.5" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="junit_statistics_table_columnsOrder1" value="1" />
+    <property name="CREATE_FIELD_FROM_PARAMETER_DECLARE_FINAL" value="false" />
+    <property name="runConfigurationTabJBoss Server.dividerProportion" value="0.2" />
+    <property name="Application Module Deployment Descriptor Default Version" value="5" />
+    <property name="runConfigurationTabJSR45 Compatible Server.dividerProportion" value="0.2" />
+    <property name="runConfigurationTabApplet.dividerProportion" value="0.2" />
+    <property name="DEVKIT_SANDBOX_HISTORY" value="/Users/cheeser/Library/Caches/IntelliJIDEA70/plugins-sandbox&#10;C:\apps\.IntelliJIdea60\sandbox" />
+    <property name="junit_statistics_table_columnsWidth4" value="121" />
+    <property name="runConfigurationTabWebLogic Instance.dividerProportion" value="0.2" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="lvcs_history_dialogOrder2" value="2" />
+    <property name="lvcs_history_dialogWidth2" value="250" />
+    <property name="FileTemplates.CurrentTab" value="Templates" />
+    <property name="RunManagerConfig.showSettingsBeforeRunnig" value="false" />
+    <property name="runConfigurationTabTomcat Server.dividerProportion" value="0.2" />
+    <property name="runConfigurationTabJUnit.dividerProportion" value="0.2" />
+    <property name="lvcs_history_dialogOrder1" value="1" />
+    <property name="JUnitSupport.hidePassedTests" value="true" />
+    <property name="lvcs_history_dialogWidth1" value="251" />
+    <property name="FileStructure.narrowDown" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="Class" />
+    <property name="junit_statistics_table_columnsOrder4" value="4" />
+    <property name="junit_statistics_table_columnsOrder5" value="5" />
+    <property name="junit_statistics_table_columnsWidth5" value="121" />
+    <property name="INSPECTION_FILTER_HISTORY" value="name&#10;namespace&#10;append&#10;html&#10;final" />
+    <property name="JUnitSupport.trackRunningTest" value="true" />
+    <property name="junit_statistics_table_columnsWidth0" value="120" />
+  </component>
+  <component name="PropertiesSeparatorManager">
+    <file url="file://$USER_HOME$/SkyDrive/squarespace/squarespace-v6/aux-server/configuration.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/squarespace/squarespace-v6/aux-server/configuration.properties" separator="\u002e" />
+    <file url="jar:///System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar!/com/sun/tools/internal/ws/resources/configuration.properties" separator="\u002e" />
+    <file url="file://$USER_HOME$/dev/squarespace/squarespace-v6/aux-server/src/main/webapp/WEB-INF/velocity-conf/velocity.properties" separator="\u002e" />
+  </component>
+  <component name="PsiViewerSettings">
+    <option name="showWhiteSpaces" value="false" />
+    <option name="text" value="/*&#10; * &#10; * DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.&#10; * &#10; * Copyright 2007-2008 Sun Microsystems, Inc. All rights reserved.&#10; * &#10; * The contents of this file are subject to the terms of either the GNU&#10; * General Public License Version 2 only (&quot;GPL&quot;) or the Common Development&#10; * and Distribution License(&quot;CDDL&quot;) (collectively, the &quot;License&quot;).  You&#10; * may not use this file except in compliance with the License. You can obtain&#10; * a copy of the License at https://glassfish.dev.java.net/public/CDDL+GPL.html&#10; * or glassfish/bootstrap/legal/LICENSE.txt.  See the License for the specific&#10; * language governing permissions and limitations under the License.&#10; * &#10; * When distributing the software, include this License Header Notice in each&#10; * file and include the License file at glassfish/bootstrap/legal/LICENSE.txt.&#10; * Sun designates this particular file as subject to the &quot;Classpath&quot; exception&#10; * as provided by Sun in the GPL Version 2 section of the License file that&#10; * accompanied this code.  If applicable, add the following below the License&#10; * Header, with the fields enclosed by brackets [] replaced by your own&#10; * identifying information: &quot;Portions Copyrighted [year]&#10; * [name of copyright owner]&quot;&#10; * &#10; * Contributor(s):&#10; * &#10; * If you wish your version of this file to be governed by only the CDDL or&#10; * only the GPL Version 2, indicate your decision by adding &quot;[Contributor]&#10; * elects to include this software in this distribution under the [CDDL or GPL&#10; * Version 2] license.&quot;  If you don't indicate a single choice of license, a&#10; * recipient has the option to distribute your version of this file under&#10; * either the CDDL, the GPL Version 2 or to extend the choice of license to&#10; * its licensees as provided above.  However, if you add GPL Version 2 code&#10; * and therefore, elected the GPL Version 2 license, then the option applies&#10; * only if the new code is made subject to such option by the copyright&#10; * holder.&#10; *&#10; */&#10;&#10;package com.sun.grizzly;&#10;&#10;import com.sun.grizzly.util.Copyable;&#10;import com.sun.grizzly.util.SelectionKeyAttachment;&#10;import java.nio.channels.ClosedChannelException;&#10;import java.nio.channels.SelectableChannel;&#10;import java.nio.channels.SelectionKey;&#10;import java.nio.channels.Selector;&#10;import java.util.Iterator;&#10;&#10;&#10;/**&#10; * Default implementation of a SelectionKey Handler. By default, this&#10; * class will attach a Long to a SelectionKey in order to calculate the&#10; * time a SelectionKey can stay active. By default, a SelectionKey will be&#10; * active for 30 seconds. If during that 30 seconds the client isn't pushing&#10; * bytes (or closing the connection). the SelectionKey will be expired and&#10; * its channel closed.&#10; *&#10; * @author Jeanfrancois Arcand&#10; */&#10;public class DefaultSelectionKeyHandler extends BaseSelectionKeyHandler {&#10;&#10;&#10;    /**&#10;     * Next time the exprireKeys() will delete keys.&#10;     */&#10;    protected long nextKeysExpiration = 0;&#10;    &#10;    &#10;    /*&#10;     * Number of seconds before idle keep-alive connections expire&#10;     */&#10;    protected long timeout = 30 * 1000L;&#10;&#10;    &#10;    public DefaultSelectionKeyHandler() {&#10;    }&#10;   &#10;    &#10;    public DefaultSelectionKeyHandler(SelectorHandler selectorHandler) {&#10;        super(selectorHandler);&#10;    }&#10;&#10;   &#10;    /**&#10;     * {@inheritDoc}&#10;     */&#10;    @Override&#10;    public void copyTo(Copyable copy) {&#10;        super.copyTo(copy);&#10;        DefaultSelectionKeyHandler copyHandler = (DefaultSelectionKeyHandler) copy;&#10;        copyHandler.timeout = timeout;&#10;    }&#10;&#10;    /**&#10;     * {@inheritDoc}&#10;     */&#10;    @Override&#10;    public void process(SelectionKey key) {&#10;        super.process(key);&#10;        removeExpirationStamp(key);&#10;    }&#10;    &#10;    /**&#10;     * {@inheritDoc}&#10;     */&#10;    @Override&#10;    public void postProcess(SelectionKey key) {&#10;        super.postProcess(key);&#10;        addExpirationStamp(key);&#10;    }&#10;    &#10;    &#10;    /**&#10;     * {@inheritDoc}&#10;     */&#10;    @Override&#10;    public void register(Iterator&lt;SelectionKey&gt; keyIterator, int selectionKeyOps) {&#10;        long currentTime = System.currentTimeMillis();&#10;        SelectionKey key;&#10;        while (keyIterator.hasNext()) {&#10;            key = keyIterator.next();&#10;            keyIterator.remove();&#10;            doRegisterKey(key, selectionKeyOps, currentTime);&#10;        }&#10;    }&#10;    &#10;    &#10;    /**&#10;     * {@inheritDoc}&#10;     */&#10;    @Override&#10;    public void register(SelectionKey key, int selectionKeyOps) {&#10;        doRegisterKey(key, selectionKeyOps, System.currentTimeMillis());&#10;    }&#10;    &#10;    /**&#10;     * Registers {@link SelectionKey} to handle certain operations&#10;     */&#10;    protected void doRegisterKey(SelectionKey key, int selectionKeyOps,&#10;            long currentTime) {&#10;        if (key.isValid()) {&#10;            key.interestOps(key.interestOps() | selectionKeyOps);&#10;            addExpirationStamp(key);&#10;        }&#10;    }&#10;&#10;    /**&#10;     * {@inheritDoc}&#10;     */&#10;    @Override&#10;    public void register(SelectableChannel channel, int ops) &#10;            throws ClosedChannelException {&#10;        if (!channel.isOpen()) {&#10;            return;&#10;        }&#10;&#10;        Selector selector = selectorHandler.getSelector();&#10;        long time = System.currentTimeMillis();&#10;        channel.register(selector, ops, time);&#10;    }&#10;&#10;    /**&#10;     * {@inheritDoc}&#10;     */&#10;    @Override&#10;    @SuppressWarnings(&quot;empty-statement&quot;)&#10;    public void register(SelectionKey key, long currentTime){&#10;       ;&#10;    }&#10;    &#10;    &#10;    /**&#10;     * @deprecated&#10;     */&#10;    @Override&#10;    @SuppressWarnings(&quot;empty-statement&quot;)&#10;    public void expire(SelectionKey key, long currentTime) {&#10;        ;&#10;    }&#10;    &#10;    &#10;    /**&#10;     * {@inheritDoc}&#10;     */&#10;    @Override&#10;    public void expire(Iterator&lt;SelectionKey&gt; iterator) {&#10;        if (timeout &lt;= 0) return;&#10;        &#10;        long currentTime = System.currentTimeMillis();&#10;        if (currentTime &lt; nextKeysExpiration) {&#10;            return;&#10;        }&#10;        nextKeysExpiration = currentTime + timeout;        &#10;                &#10;        SelectionKey key;&#10;        while (iterator.hasNext()) {&#10;            key = iterator.next();&#10;            &#10;            if (!key.isValid()){&#10;                continue;&#10;            }&#10;&#10;            long expire = getExpirationStamp(key.attachment());&#10;            if (expire != SelectionKeyAttachment.UNLIMITED_TIMEOUT){&#10;                if (currentTime - expire &gt;= timeout) {&#10;                    cancel(key);&#10;                } else if (expire + timeout &lt; nextKeysExpiration) {&#10;                    nextKeysExpiration = expire + timeout;&#10;                }&#10;            }&#10;        }&#10;    }&#10;    &#10;    &#10;    public long getTimeout() {&#10;        return timeout;&#10;    }&#10;    &#10;    /**&#10;     * Set expiration timeout for the {@link SelectionKey}.&#10;     *&#10;     * If during that defined timeout the client isn't pushing bytes&#10;     * (or closing the connection), the SelectionKey will be expired&#10;     * and its channel closed. The negative timeout value will let&#10;     * {@link SelectionKey} never expire.&#10;     *&#10;     * @param timeout in seconds&#10;     */&#10;    public void setTimeout(long timeout) {&#10;        this.timeout = timeout;&#10;    }&#10;    &#10;    &#10;    /**&#10;     * Removes expiration timeout stamp from the {@link SelectionKey} &#10;     * depending on its attachment&#10;     * &#10;     * @param {@link SelectionKey}&#10;     */&#10;    private void removeExpirationStamp(SelectionKey key) {&#10;        Object attachment = key.attachment();&#10;        if (attachment != null) {&#10;            if (attachment instanceof Long) {&#10;                key.attach(null);&#10;            } else if (attachment instanceof SelectionKeyAttachment) {&#10;                ((SelectionKeyAttachment) attachment).setTimeout(&#10;                        SelectionKeyAttachment.UNLIMITED_TIMEOUT);&#10;            }&#10;        }&#10;    }&#10;    &#10;    /**&#10;     * Adds expiration timeout stamp to the {@link SelectionKey} &#10;     * depending on its attachment&#10;     * &#10;     * @param {@link SelectionKey}&#10;     */&#10;    protected void addExpirationStamp(SelectionKey key, long currentTime) {&#10;        Object attachment = key.attachment();&#10;        if (attachment == null) {&#10;            key.attach(currentTime);&#10;        } else if (attachment instanceof SelectionKeyAttachment) {&#10;            ((SelectionKeyAttachment) attachment).setTimeout(currentTime);&#10;        }    &#10;    }&#10;&#10;    protected void addExpirationStamp(SelectionKey key) {&#10;        addExpirationStamp(key,System.currentTimeMillis());&#10;    }&#10;&#10;    /**&#10;     * Gets expiration timeout stamp from the {@link SelectionKey}&#10;     * depending on its attachment&#10;     *&#10;     * @param {@link SelectionKey}&#10;     */&#10;    protected long getExpirationStamp(Object attachment) {&#10;        if (attachment instanceof Long) {&#10;            return (Long) attachment;&#10;        }&#10;        if (attachment instanceof SelectionKeyAttachment) {&#10;            return ((SelectionKeyAttachment) attachment).getTimeout();&#10;        }&#10;        return SelectionKeyAttachment.UNLIMITED_TIMEOUT;&#10;    }&#10;}&#10;" />
+    <option name="textDividerLocation" value="196" />
+  </component>
+  <component name="Rearranger">
+    <Rearranger KeepGettersSettersTogether="true" KeepGettersSettersWithProperty="false" KeepOverloadedMethodsTogether="true" ConfirmBeforeRearranging="false" RearrangeInnerClasses="false" globalCommentPattern="" overloadedOrder="1" ShowParameterTypes="true" ShowParameterNames="false" ShowFields="true" ShowTypeAfterMethod="true" ShowRules="true" ShowMatchedRules="false" ShowComments="false" RemoveBlanksInsideCodeBlocks="true">
+      <Items>
+        <Field priority="1">
+          <ProtectionLevel public="true" private="false" protected="false" package="false" invert="false" />
+          <Static value="true" invert="false" />
+          <Final value="true" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <InitializedToAnonymousClass value="false" invert="false" />
+          <Transient value="false" invert="false" />
+          <Volatile value="false" invert="false" />
+          <TypeMatch match="false" invert="false" pattern="" />
+        </Field>
+        <Field priority="1">
+          <ProtectionLevel public="true" private="false" protected="false" package="false" invert="false" />
+          <Static value="true" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <InitializedToAnonymousClass value="false" invert="false" />
+          <Transient value="false" invert="false" />
+          <Volatile value="false" invert="false" />
+          <TypeMatch match="false" invert="false" pattern="" />
+        </Field>
+        <Field priority="1">
+          <ProtectionLevel public="false" private="false" protected="false" package="false" invert="false" />
+          <Static value="true" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <InitializedToAnonymousClass value="false" invert="false" />
+          <Transient value="false" invert="false" />
+          <Volatile value="false" invert="false" />
+          <TypeMatch match="false" invert="false" pattern="" />
+        </Field>
+        <Field priority="1">
+          <ProtectionLevel public="true" private="false" protected="false" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <InitializedToAnonymousClass value="false" invert="false" />
+          <Transient value="false" invert="false" />
+          <Volatile value="false" invert="false" />
+          <TypeMatch match="false" invert="false" pattern="" />
+        </Field>
+        <Field priority="1">
+          <ProtectionLevel public="false" private="false" protected="true" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <InitializedToAnonymousClass value="false" invert="false" />
+          <Transient value="false" invert="false" />
+          <Volatile value="false" invert="false" />
+          <TypeMatch match="false" invert="false" pattern="" />
+        </Field>
+        <Field priority="1">
+          <ProtectionLevel public="false" private="false" protected="false" package="true" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <InitializedToAnonymousClass value="false" invert="false" />
+          <Transient value="false" invert="false" />
+          <Volatile value="false" invert="false" />
+          <TypeMatch match="false" invert="false" pattern="" />
+        </Field>
+        <Field priority="1">
+          <ProtectionLevel public="false" private="false" protected="false" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <InitializedToAnonymousClass value="false" invert="false" />
+          <Transient value="false" invert="false" />
+          <Volatile value="false" invert="false" />
+          <TypeMatch match="false" invert="false" pattern="" />
+        </Field>
+        <Method priority="1">
+          <ProtectionLevel public="false" private="false" protected="false" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <Abstract value="false" invert="false" />
+          <Native value="false" invert="false" />
+          <Synchronized value="false" invert="false" />
+          <Overridden value="false" invert="false" />
+          <Overriding value="false" invert="false" />
+          <Implemented value="false" invert="false" />
+          <Implementing value="false" invert="false" />
+          <Initializer value="false" invert="false" />
+          <ReturnTypeMatch match="false" invert="false" pattern="" />
+          <MIN_PARAMS match="false" opType="0" value="0" />
+          <MAX_PARAMS match="false" opType="1" value="0" />
+          <Misc constructorMethod="true" getterSetter="false" canonicalMethod="false" otherMethod="false" invertMethod="false" noExtractedMethods="false" />
+          <GetterSetterDefinition getterBody="0" getterName="0" setterBody="0" setterName="0" />
+        </Method>
+        <Method priority="1">
+          <ProtectionLevel public="false" private="false" protected="false" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <Abstract value="false" invert="false" />
+          <Native value="false" invert="false" />
+          <Synchronized value="false" invert="false" />
+          <Overridden value="false" invert="false" />
+          <Overriding value="false" invert="false" />
+          <Implemented value="false" invert="false" />
+          <Implementing value="false" invert="false" />
+          <Initializer value="true" invert="false" />
+          <ReturnTypeMatch match="false" invert="false" pattern="" />
+          <MIN_PARAMS match="false" opType="0" value="0" />
+          <MAX_PARAMS match="false" opType="1" value="0" />
+          <Misc constructorMethod="false" getterSetter="false" canonicalMethod="false" otherMethod="false" invertMethod="false" noExtractedMethods="false" />
+          <GetterSetterDefinition getterBody="0" getterName="0" setterBody="0" setterName="0" />
+        </Method>
+        <Method priority="1">
+          <ProtectionLevel public="false" private="false" protected="false" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="true" isNameCaseInsensitive="false" />
+          <Abstract value="false" invert="false" />
+          <Native value="false" invert="false" />
+          <Synchronized value="false" invert="false" />
+          <Overridden value="false" invert="false" />
+          <Overriding value="false" invert="false" />
+          <Implemented value="false" invert="false" />
+          <Implementing value="false" invert="false" />
+          <Initializer value="false" invert="false" />
+          <ReturnTypeMatch match="false" invert="false" pattern="" />
+          <MIN_PARAMS match="false" opType="0" value="0" />
+          <MAX_PARAMS match="false" opType="1" value="0" />
+          <Misc constructorMethod="false" getterSetter="true" canonicalMethod="false" otherMethod="false" invertMethod="false" noExtractedMethods="false" />
+          <GetterSetterDefinition getterBody="0" getterName="0" setterBody="0" setterName="0" />
+        </Method>
+        <Method priority="1">
+          <ProtectionLevel public="false" private="false" protected="false" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="true" isNameCaseInsensitive="false" />
+          <Abstract value="false" invert="false" />
+          <Native value="false" invert="false" />
+          <Synchronized value="false" invert="false" />
+          <Overridden value="false" invert="false" />
+          <Overriding value="false" invert="false" />
+          <Implemented value="false" invert="false" />
+          <Implementing value="false" invert="false" />
+          <Initializer value="false" invert="false" />
+          <ReturnTypeMatch match="false" invert="false" pattern="" />
+          <MIN_PARAMS match="false" opType="0" value="0" />
+          <MAX_PARAMS match="false" opType="1" value="0" />
+          <Misc constructorMethod="false" getterSetter="false" canonicalMethod="true" otherMethod="false" invertMethod="false" noExtractedMethods="false" />
+          <GetterSetterDefinition getterBody="0" getterName="0" setterBody="0" setterName="0" />
+        </Method>
+        <Interface alphabetizeInterfaces="true" noExtractedMethods="true" methodOrder="0" priority="1" fillString="" useProjectWidthForFill="true" fillWidth="0">
+          <NameMatch match="false" invert="false" pattern="" />
+          <PrecedingComment>
+            <Comment condition="0" nPrecedingRulesToMatch="1" nSubsequentRulesToMatch="1" allPrecedingRules="true" allSubsequentRules="true" fillString="" useProjectWidthForFill="true" fillWidth="0" />
+          </PrecedingComment>
+          <TrailingComment>
+            <Comment condition="0" nPrecedingRulesToMatch="1" nSubsequentRulesToMatch="1" allPrecedingRules="true" allSubsequentRules="true" fillString="" useProjectWidthForFill="true" fillWidth="0" />
+          </TrailingComment>
+        </Interface>
+        <Method priority="1">
+          <ProtectionLevel public="false" private="false" protected="false" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="true" isNameCaseInsensitive="false" />
+          <Abstract value="false" invert="false" />
+          <Native value="false" invert="false" />
+          <Synchronized value="false" invert="false" />
+          <Overridden value="false" invert="false" />
+          <Overriding value="false" invert="false" />
+          <Implemented value="false" invert="false" />
+          <Implementing value="false" invert="false" />
+          <Initializer value="false" invert="false" />
+          <ReturnTypeMatch match="false" invert="false" pattern="" />
+          <MIN_PARAMS match="false" opType="0" value="0" />
+          <MAX_PARAMS match="false" opType="1" value="0" />
+          <Misc constructorMethod="false" getterSetter="false" canonicalMethod="false" otherMethod="false" invertMethod="false" noExtractedMethods="false" />
+          <GetterSetterDefinition getterBody="0" getterName="0" setterBody="0" setterName="0" />
+        </Method>
+        <Method priority="1">
+          <ProtectionLevel public="false" private="false" protected="false" package="false" invert="false" />
+          <Static value="true" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <Abstract value="false" invert="false" />
+          <Native value="false" invert="false" />
+          <Synchronized value="false" invert="false" />
+          <Overridden value="false" invert="false" />
+          <Overriding value="false" invert="false" />
+          <Implemented value="false" invert="false" />
+          <Implementing value="false" invert="false" />
+          <Initializer value="false" invert="false" />
+          <ReturnTypeMatch match="false" invert="false" pattern="" />
+          <MIN_PARAMS match="false" opType="0" value="0" />
+          <MAX_PARAMS match="false" opType="1" value="0" />
+          <Misc constructorMethod="false" getterSetter="false" canonicalMethod="false" otherMethod="false" invertMethod="false" noExtractedMethods="false" />
+          <GetterSetterDefinition getterBody="0" getterName="0" setterBody="0" setterName="0" />
+        </Method>
+        <InnerClass priority="1">
+          <ProtectionLevel public="false" private="false" protected="false" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <Abstract value="false" invert="false" />
+          <Enum value="false" invert="false" />
+        </InnerClass>
+        <InnerClass priority="1">
+          <ProtectionLevel public="false" private="false" protected="false" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <Abstract value="false" invert="false" />
+          <Enum value="true" invert="false" />
+        </InnerClass>
+        <Method priority="2">
+          <ProtectionLevel public="false" private="false" protected="false" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="true" invert="false" pattern="main" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <Abstract value="false" invert="false" />
+          <Native value="false" invert="false" />
+          <Synchronized value="false" invert="false" />
+          <Overridden value="false" invert="false" />
+          <Overriding value="false" invert="false" />
+          <Implemented value="false" invert="false" />
+          <Implementing value="false" invert="false" />
+          <Initializer value="false" invert="false" />
+          <ReturnTypeMatch match="false" invert="false" pattern="" />
+          <MIN_PARAMS match="false" opType="0" value="0" />
+          <MAX_PARAMS match="false" opType="1" value="0" />
+          <Misc constructorMethod="false" getterSetter="false" canonicalMethod="false" otherMethod="false" invertMethod="false" noExtractedMethods="false" />
+          <GetterSetterDefinition getterBody="0" getterName="0" setterBody="0" setterName="0" />
+        </Method>
+      </Items>
+      <Classes>
+        <Class priority="1">
+          <ProtectionLevel public="true" private="false" protected="false" package="false" invert="false" />
+          <Static value="false" invert="false" />
+          <Final value="false" invert="false" />
+          <NameMatch match="false" invert="false" pattern="" />
+          <SortOptions byModifiers="false" byType="false" isTypeCaseInsensitive="false" byName="false" isNameCaseInsensitive="false" />
+          <Abstract value="false" invert="false" />
+          <Enum value="false" invert="false" />
+        </Class>
+      </Classes>
+      <DefaultGetterSetterDefinition>
+        <GetterSetterDefinition getterBody="0" getterName="0" setterBody="0" setterName="0" />
+      </DefaultGetterSetterDefinition>
+      <RelatedMethods moveExtractedMethods="true" belowFirstCaller="true" depthFirstOrdering="true" ordering="0" nonPrivateTreatment="2" commentType="0" fillString="" useProjectWidthForFill="true" fillWidth="0">
+        <PrecedingComment>
+          <Comment condition="0" nPrecedingRulesToMatch="1" nSubsequentRulesToMatch="1" allPrecedingRules="true" allSubsequentRules="true" fillString="" useProjectWidthForFill="true" fillWidth="0" />
+        </PrecedingComment>
+        <TrailingComment>
+          <Comment condition="0" nPrecedingRulesToMatch="1" nSubsequentRulesToMatch="1" allPrecedingRules="true" allSubsequentRules="true" fillString="" useProjectWidthForFill="true" fillWidth="0" />
+        </TrailingComment>
+      </RelatedMethods>
+      <AfterClassLBrace Force="true" nBlankLines="1" />
+      <AfterClassRBrace Force="true" nBlankLines="1" />
+      <BeforeClassRBrace Force="true" nBlankLines="0" />
+      <BeforeMethodLBrace Force="false" nBlankLines="1" />
+      <AfterMethodLBrace Force="false" nBlankLines="1" />
+      <AfterMethodRBrace Force="true" nBlankLines="1" />
+      <BeforeMethodRBrace Force="true" nBlankLines="0" />
+      <NewlinesAtEOF Force="false" nBlankLines="1" />
+    </Rearranger>
+  </component>
+  <component name="Refactor-X">
+    <option name="INVERT_BOOLEAN_PREVIEW_USAGES" value="false" />
+    <option name="REMOVE_TYPE_PARAMETER_PREVIEW_USAGES" value="false" />
+    <option name="REMOVE_MIDDLEMAN_DELETE_METHODS" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_PACKAGE" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
+    <option name="RENAME_SEARCH_FOR_TEXT_FOR_METHOD" value="false" />
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
+    <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
+    <option name="TYPE_COOK_EXHAUSTIVE" value="true" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
+    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
+    <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+    <option name="INLINE_METHOD_THIS" value="true" />
+    <option name="INHERITANCE_TO_DELEGATION_DELEGATE_OTHER" value="true" />
+    <option name="INTRODUCE_CONSTANT_VISIBILITY" value="private" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+    <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
+    <option name="INLINE_CLASS_SEARCH_IN_COMMENTS" value="false" />
+    <option name="INLINE_CLASS_SEARCH_IN_NON_JAVA" value="false" />
+    <option name="RENAME_INHERITORS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
+    <option name="RENAME_TESTS" value="false" />
+  </component>
+  <component name="SSHPasswordProvider">
+    <passwords>
+      <password CVSROOT=":ext:evanchooly@cvs.sourceforge.net:/cvsroot/wicket-stuff" PASSWORD="AZEyZc d" />
+    </passwords>
+    <ppkpasswords />
+  </component>
+  <component name="SeverityRegistrar">
+    <error>
+      <option name="myName" value="ERROR" />
+      <option name="myVal" value="200" />
+    </error>
+    <warning>
+      <option name="myName" value="WARNING" />
+      <option name="myVal" value="100" />
+    </warning>
+    <information>
+      <option name="myName" value="INFO" />
+      <option name="myVal" value="100" />
+    </information>
+    <server>
+      <option name="myName" value="SERVER PROBLEM" />
+      <option name="myVal" value="100" />
+    </server>
+  </component>
+  <component name="SmartIntroducePlugin">
+    <option name="bIsEnabled" value="true" />
+    <option name="extractSubstringEnabled" value="true" />
+    <option name="extractSubexpressionEnabled" value="true" />
+    <option name="ignorePrecedence" value="false" />
+    <option name="showMasterSwitch" value="true" />
+    <option name="smartTypeExtractionMode" value="2" />
+    <option name="isIntroduceVariableEnabled" value="true" />
+    <option name="isInstantIntroduceVariable" value="false" />
+    <option name="isIntroduceConstantEnabled" value="true" />
+    <option name="isInstantIntroduceConstant" value="false" />
+    <option name="isIntroduceFieldEnabled" value="true" />
+    <option name="isInstantIntroduceField" value="false" />
+    <option name="isIntroduceParameterEnabled" value="true" />
+    <option name="isInstantIntroduceParameter" value="false" />
+    <option name="isExtractMethodEnabled" value="true" />
+    <option name="isInstantExtractMethod" value="false" />
+    <option name="isSurroundWithEnabled" value="true" />
+    <option name="isInstantSurroundWith" value="false" />
+    <option name="ivRatings">
+      <value>
+        <option name="list">
+          <value>
+            <list size="9">
+              <item index="0" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Literal">
+                <itemvalue>
+                  <option name="rating" value="-5" />
+                </itemvalue>
+              </item>
+              <item index="1" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$TypeCast">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="2" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Assignment">
+                <itemvalue>
+                  <option name="rating" value="-2" />
+                </itemvalue>
+              </item>
+              <item index="3" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Initializer">
+                <itemvalue>
+                  <option name="rating" value="-5" />
+                </itemvalue>
+              </item>
+              <item index="4" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$New">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="5" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Boolean">
+                <itemvalue>
+                  <option name="rating" value="-1" />
+                </itemvalue>
+              </item>
+              <item index="6" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Reference">
+                <itemvalue>
+                  <option name="rating" value="-4" />
+                </itemvalue>
+              </item>
+              <item index="7" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$AtCursor">
+                <itemvalue>
+                  <option name="rating" value="1" />
+                </itemvalue>
+              </item>
+              <item index="8" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Parameter">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+            </list>
+          </value>
+        </option>
+      </value>
+    </option>
+    <option name="icRatings">
+      <value>
+        <option name="list">
+          <value>
+            <list size="9">
+              <item index="0" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Literal">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="1" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$TypeCast">
+                <itemvalue>
+                  <option name="rating" value="-2" />
+                </itemvalue>
+              </item>
+              <item index="2" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Assignment">
+                <itemvalue>
+                  <option name="rating" value="1" />
+                </itemvalue>
+              </item>
+              <item index="3" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Initializer">
+                <itemvalue>
+                  <option name="rating" value="-3" />
+                </itemvalue>
+              </item>
+              <item index="4" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$New">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="5" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Boolean">
+                <itemvalue>
+                  <option name="rating" value="-1" />
+                </itemvalue>
+              </item>
+              <item index="6" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Reference">
+                <itemvalue>
+                  <option name="rating" value="-4" />
+                </itemvalue>
+              </item>
+              <item index="7" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$AtCursor">
+                <itemvalue>
+                  <option name="rating" value="1" />
+                </itemvalue>
+              </item>
+              <item index="8" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Parameter">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+            </list>
+          </value>
+        </option>
+      </value>
+    </option>
+    <option name="ifRatings">
+      <value>
+        <option name="list">
+          <value>
+            <list size="9">
+              <item index="0" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Literal">
+                <itemvalue>
+                  <option name="rating" value="-5" />
+                </itemvalue>
+              </item>
+              <item index="1" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$TypeCast">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="2" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Assignment">
+                <itemvalue>
+                  <option name="rating" value="-2" />
+                </itemvalue>
+              </item>
+              <item index="3" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Initializer">
+                <itemvalue>
+                  <option name="rating" value="-5" />
+                </itemvalue>
+              </item>
+              <item index="4" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$New">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="5" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Boolean">
+                <itemvalue>
+                  <option name="rating" value="-1" />
+                </itemvalue>
+              </item>
+              <item index="6" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Reference">
+                <itemvalue>
+                  <option name="rating" value="-4" />
+                </itemvalue>
+              </item>
+              <item index="7" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$AtCursor">
+                <itemvalue>
+                  <option name="rating" value="1" />
+                </itemvalue>
+              </item>
+              <item index="8" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Parameter">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+            </list>
+          </value>
+        </option>
+      </value>
+    </option>
+    <option name="ipRatings">
+      <value>
+        <option name="list">
+          <value>
+            <list size="9">
+              <item index="0" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Literal">
+                <itemvalue>
+                  <option name="rating" value="-5" />
+                </itemvalue>
+              </item>
+              <item index="1" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$TypeCast">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="2" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Assignment">
+                <itemvalue>
+                  <option name="rating" value="-2" />
+                </itemvalue>
+              </item>
+              <item index="3" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Initializer">
+                <itemvalue>
+                  <option name="rating" value="-5" />
+                </itemvalue>
+              </item>
+              <item index="4" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$New">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="5" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Boolean">
+                <itemvalue>
+                  <option name="rating" value="-1" />
+                </itemvalue>
+              </item>
+              <item index="6" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Reference">
+                <itemvalue>
+                  <option name="rating" value="-4" />
+                </itemvalue>
+              </item>
+              <item index="7" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$AtCursor">
+                <itemvalue>
+                  <option name="rating" value="1" />
+                </itemvalue>
+              </item>
+              <item index="8" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Parameter">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+            </list>
+          </value>
+        </option>
+      </value>
+    </option>
+    <option name="emRatings">
+      <value>
+        <option name="list">
+          <value>
+            <list size="11">
+              <item index="0" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Statement">
+                <itemvalue>
+                  <option name="rating" value="3" />
+                </itemvalue>
+              </item>
+              <item index="1" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Literal">
+                <itemvalue>
+                  <option name="rating" value="-5" />
+                </itemvalue>
+              </item>
+              <item index="2" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$TypeCast">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="3" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Assignment">
+                <itemvalue>
+                  <option name="rating" value="-2" />
+                </itemvalue>
+              </item>
+              <item index="4" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Initializer">
+                <itemvalue>
+                  <option name="rating" value="-5" />
+                </itemvalue>
+              </item>
+              <item index="5" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$New">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="6" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Boolean">
+                <itemvalue>
+                  <option name="rating" value="-1" />
+                </itemvalue>
+              </item>
+              <item index="7" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Reference">
+                <itemvalue>
+                  <option name="rating" value="-4" />
+                </itemvalue>
+              </item>
+              <item index="8" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$AtCursor">
+                <itemvalue>
+                  <option name="rating" value="1" />
+                </itemvalue>
+              </item>
+              <item index="9" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Parameter">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="10" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Void">
+                <itemvalue>
+                  <option name="rating" value="-5" />
+                </itemvalue>
+              </item>
+            </list>
+          </value>
+        </option>
+      </value>
+    </option>
+    <option name="swRatings">
+      <value>
+        <option name="list">
+          <value>
+            <list size="10">
+              <item index="0" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Statement">
+                <itemvalue>
+                  <option name="rating" value="3" />
+                </itemvalue>
+              </item>
+              <item index="1" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Literal">
+                <itemvalue>
+                  <option name="rating" value="-5" />
+                </itemvalue>
+              </item>
+              <item index="2" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$TypeCast">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="3" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Assignment">
+                <itemvalue>
+                  <option name="rating" value="-2" />
+                </itemvalue>
+              </item>
+              <item index="4" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Initializer">
+                <itemvalue>
+                  <option name="rating" value="-5" />
+                </itemvalue>
+              </item>
+              <item index="5" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$New">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+              <item index="6" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Boolean">
+                <itemvalue>
+                  <option name="rating" value="-1" />
+                </itemvalue>
+              </item>
+              <item index="7" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Reference">
+                <itemvalue>
+                  <option name="rating" value="-4" />
+                </itemvalue>
+              </item>
+              <item index="8" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$AtCursor">
+                <itemvalue>
+                  <option name="rating" value="1" />
+                </itemvalue>
+              </item>
+              <item index="9" class="org.intellij.plugins.smartIntroduce.ExpressionRatings$Parameter">
+                <itemvalue>
+                  <option name="rating" value="2" />
+                </itemvalue>
+              </item>
+            </list>
+          </value>
+        </option>
+      </value>
+    </option>
+  </component>
+  <component name="Struts Assistant">
+    <option name="autoscrollToSource" value="false" />
+    <option name="autoscrollFromSource" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.nyc.squarespace.net:8443/squarespace/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.nyc.squarespace.net:8443/squarespace/" />
+        <option value="http://warp-persist.googlecode.com/svn/trunk/ " />
+        <option value="https://maven-antrun-extended-plugin.dev.java.net/svn/maven-antrun-extended-plugin/tags/maven-antrun-extended-plugin-1.39" />
+        <option value="https://gosling.dev.java.net/svn/gosling/trunk" />
+        <option value="https://openjdk.dev.java.net/svn/openjdk/" />
+        <option value="svn+ssh://jlee@barnaby.teachscape.com/share/svn/ts-platform" />
+        <option value="https://svn.sourceforge.net/svnroot/wicket" />
+        <option value="https://svn.systemmobile.com/ajc" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://fn-javabot.svn.sourceforge.net/svnroot/fn-javabot/javabot">
+          <value>
+            <set>
+              <option value="/Users/sun/dev/personal/javabot" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://glassfish-svn.dev.java.net/svn/glassfish-svn/branches/3.0.1">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/gfv3-branch" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://grizzly.dev.java.net/svn/grizzly/tags/1_9_17-RC1">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/grizzly/1.9.17-branch" />
+              <option value="$USER_HOME$/dev/grizzly/1.9.x" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://grizzly.dev.java.net/svn/grizzly/tags/1_9_17-RC3">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/grizzly/1.9.17-branch" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://grizzly.dev.java.net/svn/grizzly/tags/1_9_18">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/grizzly/1.9.18" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://grizzly.dev.java.net/svn/grizzly/tags/1_9_18c">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/grizzly/1.9.18" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://grizzly.dev.java.net/svn/grizzly/tags/1_9_18m">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/grizzly/branch" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://grizzly.dev.java.net/svn/grizzly/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/grizzly/1.9.x" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://hk2.dev.java.net/svn/hk2/tags/hk2-parent-0.3.35">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/hk2/hk2" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://hk2.dev.java.net/svn/hk2/trunk">
+          <value>
+            <set>
+              <option value="/Users/sun/dev/hk2" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.nyc.squarespace.net:8443/squarespace/squarespace-commons/trunk">
+          <value>
+            <set>
+              <option value="$USER_HOME$/dev/squarespace/commons" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Ant" />
+        <option value="Compiler" />
+        <option value="Compiler (success)" />
+        <option value="Find Usages" />
+        <option value="TestRunner" />
+        <option value="VCS Commit" />
+        <option value="VCS Update" />
+      </set>
+    </option>
+  </component>
+  <component name="UsageFilteringRuleProvider">
+    <option name="SHOW_IMPORTS" value="true" />
+  </component>
+  <component name="UsageGroupingRuleProvider">
+    <option name="GROUP_BY_USAGE_TYPE" value="false" />
+    <option name="GROUP_BY_MODULE" value="false" />
+    <option name="GROUP_BY_PACKAGE" value="true" />
+    <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
+  </component>
+  <component name="VMOptionsPlugin">
+    <option name="vmOptions" value="-Xms512M&#10;-Xmx1024m&#10;-XX:MaxPermSize=480m&#10;-ea&#10;-server&#10;-Dswing.aatext=true&#10;-XX:+UseConcMarkSweepGC&#10;-XX:MaxGCPauseMillis=25&#10;-XX:MaxHeapFreeRatio=70&#10;-XX:+CMSIncrementalPacing&#10;-Dsun.awt.keepWorkingSetOnMinimize=true" />
+  </component>
+  <component name="WebServicesPluginSettings" SelectedPlatform="Apache Axis 2" SelectedBinding="ADB" PathToAxis2="$USER_HOME$/axis2-1.6.2">
+    <StubPackage>net.avalara</StubPackage>
+    <StubPackage>mypackage</StubPackage>
+    <StubUrl>file://$USER_HOME$/untitled3/AccountSvc.wsdl</StubUrl>
+    <JAXBUrl>file://$USER_HOME$/untitled3/AccountSvc.wsdl</JAXBUrl>
+    <JAXBUrl>file://$USER_HOME$/untitled/Schemas/RateRequest.xsd</JAXBUrl>
+    <JAXBUrl>file://$USER_HOME$/untitled/Schemas/AccessRequest.xsd</JAXBUrl>
+  </component>
+  <component name="com.intellij.codeInspection.ejb.EjbDeadCodeExtension">
+    <option name="ADD_EJB_TO_ENTRIES" value="true" />
+  </component>
+  <component name="com.intellij.execution.junit2.inspection.JUnitDeadCodeExtension">
+    <option name="ADD_JUNIT_TO_ENTRIES" value="true" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="Singleton" />
+          </list>
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent" location="$USER_HOME$/Library/Caches/IntelliJIdea10/extResources/3f2ce99e_xhtml-symbol.ent" />
+    <resource url="http://wicket.apache.org/dtds.data/wicket-xhtml1.4-strict.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea10/extResources/8f242232_wicket-xhtml1.4-strict.dtd" />
+    <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent" location="$USER_HOME$/Library/Caches/IntelliJIdea10/extResources/ec45f7b8_xhtml-lat1.ent" />
+    <resource url="http://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent" location="$USER_HOME$/Library/Caches/IntelliJIdea10/extResources/88bee14d_xhtml-special.ent" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+    <default-html-doctype>http://www.w3.org/1999/xhtml</default-html-doctype>
+  </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Ignore spaces" HIGHLIGHT_MODE="BY_LINE" />
+  <component name="com.intellij.psi.impl.source.codeStyle.CodeStyleSchemesImpl">
+    <option name="CURRENT_SCHEME_NAME" value="Default (1)" />
+  </component>
+</application>

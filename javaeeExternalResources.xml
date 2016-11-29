@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="grizzly-config.dtd" location="$USER_HOME$/dev/grizzly/contribs/grizzly-config/target/classes/dtd/grizzly-config.dtd" />
+    <resource url="http://google-web-toolkit.googlecode.com/svn/tags/1.6.2/distro-source/core/src/gwt-module.dtd" location="$USER_HOME$/Library/Caches/IntelliJIDEA8x/extResources/dbf4e233_gwt-module.dtd" />
+    <resource url="http://java.sun.com/xml/ns/jaxb/bindingschema_1_0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIDEA80/extResources/861e3d9e_bindingschema_1_0.xsd" />
+    <ignored-resource url="http://schemas.android.com/apk/res/android" />
+    <ignored-resource url="http://wicket.apache.org" />
+    <ignored-resource url="http://www.wicketframework.org" />
+    <ignored-resource url="urn:maven-artifact-ant" />
+  </component>
+</application>

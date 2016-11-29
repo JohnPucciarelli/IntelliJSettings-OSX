@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="fromCursor" value="false" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="FIND_ORIGIN" value="entire_scope" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.js,*.jsx, *.less, *.json *.eslintrc, !testbundle.js" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.js, .less</mask>
+      <mask>*.js, *.less, *.html</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.js, *.less</mask>
+      <mask>*jsx, *.js, *.less</mask>
+      <mask>*jsx, *.js, *.less, *.html</mask>
+      <mask>*jsx</mask>
+      <mask>*.jsx, *.js, *.html</mask>
+      <mask>*.jsx, *.js, *.less, *.html</mask>
+      <mask>*.jsx</mask>
+      <mask>*.jsx, *.js, *.less</mask>
+      <mask>*.less</mask>
+      <mask>*.js,*.jsx, *.less</mask>
+      <mask>*.js,*.jsx, *.less, *.config</mask>
+      <mask>*.js,*.jsx, *.less, *.json</mask>
+      <mask>*.js,*.jsx, *.less, *.json *.eslintrc</mask>
+      <mask>*.js,*.jsx, *.less, *.json *.eslintrc !testbundle.js</mask>
+      <mask>*.js,*.jsx, *.less, *.json *.eslintrc, !testbundle.js</mask>
+    </recentFileMasks>
+  </component>
+</application>
