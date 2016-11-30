@@ -23,7 +23,7 @@
       <file name="/ActionScript Class with Supers.txt.ft" timestamp="1480449004523">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1480464834419">
+      <file name="/a.dummy" timestamp="1480524282872">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -808,10 +808,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>:local {
+  .field {
+    margin-top: @global-grid !important; // TODO: fix
+  }
+}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>haserrors</text>
@@ -819,29 +823,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc3RvcmVDdXJyZW5jeTogV2Vic2l0ZVNldHRpbmdzU3RvcmUuZ2V0U3RhdGUoKS5nZXRJbihbJ3N0b3JlU2V0dGluZ3MnLCAnc2VsZWN0ZWRDdXJyZW5jeSddKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoYXNFcnJvcnM9e2hhc0Vycm9yc30K</text>
+      <register name="1" type="4">
+        <text>:local {
+  .field {
+    margin-top: @global-grid !important; // TODO: fix
+  }
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBoYXNFcnJvcnM9e2hhc0Vycm9yc30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZW5kZXJPcHRpb25zKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb25NYXhTaGlwcGluZ0Nvc3RDaGFuZ2UsCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb25NYXhTaGlwcGluZ0Nvc3RDaGFuZ2UsCg==</text>
+        <text encoding="base64">ICByZW5kZXJPcHRpb25zKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2VsZWN0ZWRJZCwK</text>
+        <text encoding="base64">ICAgICAgb25NYXhTaGlwcGluZ0Nvc3RDaGFuZ2UsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1643,10 +1651,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVuY3lDb2RlLAo=</text>
+        <text encoding="base64">ICAgICAgb25NYXhTaGlwcGluZ0Nvc3RDaGFuZ2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9ucywK</text>
+        <text encoding="base64">ICAgICAgc2VsZWN0ZWRJZCwK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
