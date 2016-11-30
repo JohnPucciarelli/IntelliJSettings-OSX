@@ -7,7 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.js,*.jsx, *.less, *.json *.eslintrc, !testbundle.js" />
+    <option name="FILE_MASK" value="*jsx" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,7 +23,6 @@
       <mask>*.js, *.less</mask>
       <mask>*jsx, *.js, *.less</mask>
       <mask>*jsx, *.js, *.less, *.html</mask>
-      <mask>*jsx</mask>
       <mask>*.jsx, *.js, *.html</mask>
       <mask>*.jsx, *.js, *.less, *.html</mask>
       <mask>*.jsx</mask>
@@ -35,6 +34,7 @@
       <mask>*.js,*.jsx, *.less, *.json *.eslintrc</mask>
       <mask>*.js,*.jsx, *.less, *.json *.eslintrc !testbundle.js</mask>
       <mask>*.js,*.jsx, *.less, *.json *.eslintrc, !testbundle.js</mask>
+      <mask>*jsx</mask>
     </recentFileMasks>
   </component>
 </application>
