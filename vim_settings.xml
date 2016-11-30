@@ -34,6 +34,13 @@
       <file name="/Interface.txt.ft" timestamp="1480449005173">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/RemoveButton/RemoveButton.jsx.js" timestamp="1480390000443">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="20" column="65" />
+        <mark key="." line="20" column="65" />
+        <mark key="^" line="20" column="65" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/site-information-domains-tab.js" timestamp="1479329605977">
         <mark key="'" line="2" column="19" />
         <mark key="[" line="2" column="4" />
@@ -302,6 +309,12 @@
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="38" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/CommerceCheckoutPage/screens/Checkout/components/DiscountsSubSection/PromoCodeInput.jsx" timestamp="1480529294523">
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="30" />
+        <mark key="^" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+      </file>
       <file name="/AnnotationType.txt.ft" timestamp="1480449005091">
         <mark key="[" line="0" column="0" />
       </file>
@@ -367,9 +380,12 @@
         <mark key="." line="26" column="1" />
         <mark key="^" line="26" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/PromoCodeInput/PromoCodeInput.jsx" timestamp="1480462613910">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/PromoCodeInput/PromoCodeInput.jsx" timestamp="1480529545114">
         <mark key="'" line="27" column="4" />
-        <mark key="]" line="74" column="0" />
+        <mark key="[" line="61" column="24" />
+        <mark key="]" line="61" column="28" />
+        <mark key="^" line="61" column="28" />
+        <mark key="." line="61" column="28" />
       </file>
       <file name="/Kotlin Class.txt.ft" timestamp="1480449004157">
         <mark key="[" line="0" column="0" />
@@ -489,12 +505,12 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" timestamp="1480521170694">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" timestamp="1480529783976">
         <mark key="'" line="72" column="0" />
-        <mark key="[" line="38" column="2" />
-        <mark key="]" line="38" column="19" />
-        <mark key="^" line="38" column="19" />
-        <mark key="." line="38" column="19" />
+        <mark key="[" line="85" column="15" />
+        <mark key="]" line="85" column="19" />
+        <mark key="^" line="85" column="19" />
+        <mark key="." line="85" column="19" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Checkout/shared/components/PlanByPeriodSelector/index.jsx" timestamp="1479329749962">
         <mark key="'" line="6" column="55" />
@@ -524,6 +540,12 @@
       </file>
       <file name="/Kotlin File.txt.ft" timestamp="1480449004197">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountNameInput/DiscountNameInput.jsx" timestamp="1480529007121">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="21" column="49" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/routes/index.js" timestamp="1479421898647">
         <mark key="'" line="1351" column="40" />
@@ -703,6 +725,9 @@
         <mark key="." line="124" column="45" />
         <mark key="^" line="124" column="45" />
       </file>
+      <file name="/fragment.java" timestamp="1480529488833">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="373" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/DiscountCreateEditPanel.jsx" />
@@ -808,14 +833,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:local {
-  .field {
-    margin-top: @global-grid !important; // TODO: fix
-  }
-}</text>
+        <text>minimumOrderTotal.toFloat() || 0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>minimumOrderTotal.toFloat() || 0</text>
       </register>
       <register name="/" type="4">
         <text>haserrors</text>
