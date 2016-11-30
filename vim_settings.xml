@@ -457,12 +457,12 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" timestamp="1480538125632">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="94" column="10" />
-        <mark key="]" line="94" column="24" />
-        <mark key="^" line="94" column="24" />
-        <mark key="." line="94" column="24" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" timestamp="1480539767606">
+        <mark key="'" line="36" column="19" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="6" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="65" column="6" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.less" timestamp="1480531513981">
         <mark key="[" line="5" column="0" />
@@ -735,11 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/DiscountCreateEditPanel.jsx" />
-      <jump line="51" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/DiscountCreateEditPanel.jsx" />
-      <jump line="52" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/DiscountCreateEditPanel.jsx" />
-      <jump line="164" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/DiscountCreateEditPanel.jsx" />
-      <jump line="9" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/NeverExpiresDate/NeverExpiresDate.jsx" />
       <jump line="22" column="11" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/NeverExpiresDate/NeverExpiresDate.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/NeverExpiresDate/NeverExpiresDate.jsx" />
       <jump line="172" column="60" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/DiscountCreateEditPanel.jsx" />
@@ -835,43 +830,48 @@
       <jump line="131" column="9" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/stores/DiscountCreateEditStore.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
       <jump line="17" column="7" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
+      <jump line="52" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
+      <jump line="43" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
+      <jump line="38" column="19" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IChkaXNwYXRjaCkgPT4gZGlzcGF0Y2gocmVzcG9uc2UuZGF0YSk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoZGlwYXRjaCkgPT4gewo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IChkaXNwYXRjaCkgPT4gZGlzcGF0Y2gocmVzcG9uc2UuZGF0YSk7</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>setMinimum</text>
+        <text>onLoadSu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHsgc3RvcmVDdXJyZW5jeSB9ID0gdGhpcy5wcm9wczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAoZGlwYXRjaCkgPT4gewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuY2F0Y2godGhpcy5jcmVhdGVEaXNjb3VudEZhaWx1cmUpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0b3JlQ3VycmVuY3kgPSB0aGlzLnByb3BzLnN0b3JlQ3VycmVuY3k7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQXN5bmMgU2VsZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcignVW5hYmxlIHRvIGZldGNoIHByb2R1Y3QgY2F0ZWdvcmllcy4nLCBlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICAgIGlmIChfX0RFVl9fKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHJldHVybnMge1hNTH0K</text>
+        <text encoding="base64">ICBmZXRjaENhdGVnb3JpZXNGYWlsdXJlKGUpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHByb3BzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1673,10 +1673,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGNoaWxkcmVuCg==</text>
+        <text encoding="base64">ICAgICAgJ2ZldGNoJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGlzTG9hZGluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -1686,9 +1686,9 @@
       </register>
     </registers>
     <search>
-      <last-search>setMinimum</last-search>
+      <last-search>onLoadSu</last-search>
       <last-offset />
-      <last-pattern>setMinimum</last-pattern>
+      <last-pattern>onLoadSu</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -1696,7 +1696,6 @@
     </search>
     <history>
       <history-search>
-        <entry>validation</entry>
         <entry>percentage</entry>
         <entry>error</entry>
         <entry>errormes</entry>
@@ -1716,6 +1715,7 @@
         <entry>clearErrors</entry>
         <entry>setDiscount</entry>
         <entry>setMinimum</entry>
+        <entry>onLoadSu</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
@@ -1735,8 +1735,8 @@
         <entry>wj</entry>
         <entry>wq</entry>
         <entry>help registers</entry>
-        <entry>W</entry>
         <entry>:w</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
