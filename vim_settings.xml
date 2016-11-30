@@ -307,11 +307,11 @@
       <file name="/AnnotationType.txt.ft" timestamp="1480449005091">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/index.jsx" timestamp="1480546897969">
-        <mark key="[" line="7" column="58" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/index.jsx" timestamp="1480548698345">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+        <mark key="^" line="29" column="33" />
       </file>
       <file name="/MobileResourceBundle.txt.ft" timestamp="1480447935938">
         <mark key="[" line="0" column="0" />
@@ -371,6 +371,12 @@
         <mark key="]" line="61" column="28" />
         <mark key="^" line="61" column="28" />
         <mark key="." line="61" column="28" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountCard/DiscountCard.jsx" timestamp="1480549094424">
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="39" />
+        <mark key="." line="33" column="39" />
+        <mark key="^" line="33" column="39" />
       </file>
       <file name="/Kotlin Class.txt.ft" timestamp="1480449004157">
         <mark key="[" line="0" column="0" />
@@ -815,11 +821,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oZXh0cmFjdERhdGEsIHJlamVjdCk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>DiscountStore</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>keyBy</text>
