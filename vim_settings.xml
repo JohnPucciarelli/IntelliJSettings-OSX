@@ -23,7 +23,7 @@
         <mark key="." line="220" column="43" />
         <mark key="^" line="220" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1480625063528">
+      <file name="/a.dummy" timestamp="1480627694290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -108,6 +108,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" timestamp="1480627835976">
+        <mark key="[" line="109" column="49" />
+        <mark key="]" line="109" column="51" />
+        <mark key="^" line="109" column="51" />
+        <mark key="." line="109" column="51" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/test/java/com/squarespace/v6/utils/MinimalTestUtils.java" timestamp="1479254994246">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -167,12 +173,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/AsyncSelect/AsyncSelect.jsx" timestamp="1480534160476">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="62" />
-        <mark key="." line="12" column="62" />
-        <mark key="^" line="12" column="62" />
-      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/billing/DefaultMoneyFormatter.js" timestamp="1479328848607">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -204,8 +204,8 @@
         <mark key="." line="109" column="19" />
         <mark key="^" line="109" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/stores/DiscountCreateEditStore.js" timestamp="1480623979495">
-        <mark key="'" line="316" column="48" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/stores/DiscountCreateEditStore.js" timestamp="1480626960739">
+        <mark key="'" line="212" column="12" />
         <mark key="[" line="88" column="2" />
         <mark key="m" line="155" column="51" />
         <mark key="]" line="88" column="22" />
@@ -264,12 +264,6 @@
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/CommerceDiscountResource.java" timestamp="1480625301700">
         <mark key="'" line="23" column="73" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/index.jsx" timestamp="1480548698345">
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="29" column="33" />
-      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/records/DiscountRecord.js" timestamp="1480608974071">
         <mark key="'" line="49" column="5" />
         <mark key="[" line="5" column="0" />
@@ -290,12 +284,13 @@
         <mark key="." line="171" column="12" />
         <mark key="^" line="171" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" timestamp="1480465719966">
-        <mark key="'" line="4" column="21" />
-        <mark key="[" line="4" column="47" />
-        <mark key="]" line="4" column="54" />
-        <mark key="^" line="4" column="54" />
-        <mark key="." line="4" column="54" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" timestamp="1480627685701">
+        <mark key="'" line="155" column="8" />
+        <mark key="[" line="90" column="22" />
+        <mark key="]" line="90" column="33" />
+        <mark key="^" line="90" column="33" />
+        <mark key="." line="90" column="33" />
+        <mark key="n" line="144" column="8" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/site-information-billing-tab.js" timestamp="1479329547825">
         <mark key="[" line="6" column="84" />
@@ -357,11 +352,11 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/utils/DiscountsApi.js" timestamp="1480542386248">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="43" column="1" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/utils/DiscountsApi.js" timestamp="1480627120687">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Checkout/screens/PaidUpgradePanel/components/PriceSummary/index.jsx" timestamp="1479329728011">
         <mark key="'" line="2" column="55" />
@@ -370,24 +365,18 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" timestamp="1480625365242">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" timestamp="1480626910476">
         <mark key="'" line="23" column="29" />
-        <mark key="[" line="85" column="28" />
-        <mark key="]" line="85" column="6" />
-        <mark key="." line="85" column="6" />
-        <mark key="^" line="85" column="6" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Settings/screens/Billing/screens/Cancel/components/SubscriptionSummary.jsx" timestamp="1479329939642">
         <mark key="[" line="2" column="71" />
         <mark key="]" line="2" column="71" />
         <mark key="." line="2" column="71" />
         <mark key="^" line="2" column="71" />
-      </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DIscountNameInput/DiscountNameInput.jsx" timestamp="1480523165081">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="34" />
-        <mark key="^" line="20" column="34" />
-        <mark key="." line="20" column="34" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/PanelTabs/PanelTabs.less" timestamp="1480390206600">
         <mark key="'" line="0" column="0" />
@@ -417,12 +406,12 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" timestamp="1480537292958">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" timestamp="1480627792082">
         <mark key="'" line="31" column="4" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="41" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="58" column="40" />
+        <mark key="[" line="156" column="22" />
+        <mark key="]" line="156" column="22" />
+        <mark key="." line="156" column="22" />
+        <mark key="^" line="145" column="67" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Checkout/shared/components/PlanByPeriodSelector/index.jsx" timestamp="1479329749962">
         <mark key="'" line="6" column="55" />
@@ -449,12 +438,6 @@
         <mark key="]" line="85" column="1" />
         <mark key="^" line="85" column="1" />
         <mark key="." line="85" column="1" />
-      </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountNameInput/DiscountNameInput.jsx" timestamp="1480529007121">
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="21" column="49" />
-        <mark key="." line="21" column="49" />
-        <mark key="^" line="21" column="49" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/routes/index.js" timestamp="1479421898647">
         <mark key="'" line="1351" column="40" />
@@ -549,12 +532,6 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/index.jsx" timestamp="1480545423777">
-        <mark key="[" line="7" column="69" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/node_modules/@sqs/fields/src/RadioGroup.jsx" timestamp="1479844027791">
         <mark key="[" line="32" column="19" />
         <mark key="]" line="35" column="7" />
@@ -621,18 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
-      <jump line="79" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
-      <jump line="67" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
       <jump line="6" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
       <jump line="4" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
@@ -721,46 +686,58 @@
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/CommerceDiscountResource.java" />
       <jump line="23" column="73" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/CommerceDiscountResource.java" />
       <jump line="23" column="29" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
+      <jump line="212" column="12" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/stores/DiscountCreateEditStore.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
+      <jump line="82" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
+      <jump line="84" column="17" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
+      <jump line="172" column="5" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
+      <jump line="148" column="32" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
+      <jump line="79" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
+      <jump line="81" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
+      <jump line="88" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
+      <jump line="111" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
+      <jump line="143" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
+      <jump line="154" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">PERhdGVUaW1lIHZhbHVlPXtyb3dEYXRhLnRpbWV9IGZvcm1hdD0iTCIgLz4=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>discount</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="-" type="4">
-        <text>discount</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>errorME</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aEZvcldlYnNpdGVUeXBlID0gcmVxdWlyZSgndXRpbHMvcGF0aEZvcldlYnNpdGVUeXBlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvck1lc3NhZ2U9e2hhc0Vycm9ycyA/ICdQZXJjZW50YWdlIG11c3QgYmUgYmV0d2VlbiAwIGFuZCAxMDAuJyA6ICcnfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcGF0aCA9IHBhdGhGb3JXZWJzaXRlVHlwZS4K</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlamVjdChlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFjdGlvbiA9IGlzRWRpdGluZyA/IAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAoZGlzcGF0Y2gpZGlzcGF0Y2goZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKCkK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcGF0aCA9IHBhdGhGb3JXZWJzaXRlVHlwZS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ2NyZWF0ZURpc2NvdW50RmFpbHVyZScsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFjdGlvbiA9IGlzRWRpdGluZyA/IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ3NldE5hbWUnLAo=</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ2NyZWF0ZURpc2NvdW50RmFpbHVyZScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ3NldE5hbWUnLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1575,9 +1552,9 @@
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>errorME</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>errorME</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -1585,10 +1562,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setMinimum</entry>
-        <entry>onLoadSu</entry>
-        <entry>keyBy</entry>
-        <entry>tabclick</entry>
         <entry>load</entry>
         <entry>onLoadSuccess</entry>
         <entry>descr</entry>
@@ -1605,6 +1578,10 @@
         <entry>createDiscount</entry>
         <entry>save</entry>
         <entry>create</entry>
+        <entry>onCreateDiscount</entry>
+        <entry>Input</entry>
+        <entry>hasErrors</entry>
+        <entry>errorME</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
