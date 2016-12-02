@@ -17,7 +17,7 @@
         <mark key="." line="220" column="43" />
         <mark key="^" line="220" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1480632031577">
+      <file name="/a.dummy" timestamp="1480708698330">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -204,13 +204,13 @@
         <mark key="." line="109" column="19" />
         <mark key="^" line="109" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/stores/DiscountCreateEditStore.js" timestamp="1480708624270">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/stores/DiscountCreateEditStore.js" timestamp="1480708789127">
         <mark key="'" line="258" column="0" />
-        <mark key="[" line="198" column="28" />
+        <mark key="[" line="199" column="40" />
         <mark key="m" line="171" column="51" />
-        <mark key="]" line="198" column="28" />
-        <mark key="^" line="198" column="28" />
-        <mark key="." line="198" column="28" />
+        <mark key="]" line="199" column="7" />
+        <mark key="^" line="199" column="7" />
+        <mark key="." line="199" column="7" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/PanelTabs/PanelTab.jsx" timestamp="1480403418485" />
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/menu/root.js" timestamp="1479268070181">
@@ -738,10 +738,10 @@
         <text encoding="base64">ICAgIGRpc2NvdW50ID0gRGlzY291bnRSZWNvcmQuZnJvbUpzb24oZGlzY291bnQpOwogICAgZGlzY291bnQuY2F0ZWdvcmllcyA9IGRpc2NvdW50LmNhdGVnb3JpZXMubWFwKCh7IGxhYmVsLCB2YWx1ZSB9KSA9PiB7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mergeCategories(selectedCategories, unSelectedCategories)</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>mergeCategories(selectedCategories, unSelectedCategories)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>onfetch</text>
@@ -1636,8 +1636,8 @@
         <entry>wq</entry>
         <entry>help registers</entry>
         <entry>:w</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
