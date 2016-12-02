@@ -204,13 +204,13 @@
         <mark key="." line="109" column="19" />
         <mark key="^" line="109" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/stores/DiscountCreateEditStore.js" timestamp="1480708789127">
-        <mark key="'" line="258" column="0" />
-        <mark key="[" line="199" column="40" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/stores/DiscountCreateEditStore.js" timestamp="1480710617363">
+        <mark key="'" line="259" column="0" />
+        <mark key="[" line="202" column="7" />
         <mark key="m" line="171" column="51" />
-        <mark key="]" line="199" column="7" />
-        <mark key="^" line="199" column="7" />
-        <mark key="." line="199" column="7" />
+        <mark key="]" line="202" column="12" />
+        <mark key="^" line="202" column="12" />
+        <mark key="." line="202" column="12" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/PanelTabs/PanelTab.jsx" timestamp="1480403418485" />
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/menu/root.js" timestamp="1479268070181">
@@ -738,10 +738,10 @@
         <text encoding="base64">ICAgIGRpc2NvdW50ID0gRGlzY291bnRSZWNvcmQuZnJvbUpzb24oZGlzY291bnQpOwogICAgZGlzY291bnQuY2F0ZWdvcmllcyA9IGRpc2NvdW50LmNhdGVnb3JpZXMubWFwKCh7IGxhYmVsLCB2YWx1ZSB9KSA9PiB7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>forEach</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>forEach</text>
       </register>
       <register name="/" type="4">
         <text>onfetch</text>
@@ -750,28 +750,28 @@
         <text encoding="base64">ICAgICAgLmNhdGNoKChlKSA9PiBjb25zb2xlLmVycm9yKCdGYWlsZWQgdG8gc2F2ZSBkaXNjb3VudCcsIGUpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXJyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gT2JqZWN0LnZhbHVlcyhjYXRlZ29yeU1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFyclt2YWx1ZV0gPSB7IGxhYmVsLCB2YWx1ZTogbGFiZWwsIGlzU2VsZWN0ZWQ6IGZhbHNlIH07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWFyclt2YWx1ZV0pIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmZvckVhY2goKGFyciwgeyB2YWx1ZSB9KSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1573,10 +1573,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY2F0ZWdvcmllcywgb25DaGFuZ2UsIGVycm9yTWVzc2FnZSB9ID0gdGhpcy5wcm9wczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lcmdlZENhdGVnb3JpZXMgPSBjYXRlZ29yaWVzCg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -1636,8 +1636,8 @@
         <entry>wq</entry>
         <entry>help registers</entry>
         <entry>:w</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
