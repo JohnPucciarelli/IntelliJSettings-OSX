@@ -406,12 +406,11 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" timestamp="1480968119062">
-        <mark key="'" line="53" column="47" />
-        <mark key="[" line="109" column="22" />
-        <mark key="]" line="109" column="31" />
-        <mark key="^" line="109" column="31" />
-        <mark key="." line="109" column="31" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" timestamp="1480969235621">
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="35" />
+        <mark key="^" line="54" column="35" />
+        <mark key="." line="54" column="35" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Checkout/shared/components/PlanByPeriodSelector/index.jsx" timestamp="1479329749962">
         <mark key="'" line="6" column="55" />
@@ -710,10 +709,10 @@
         <text encoding="base64">ICAgIGRpc2NvdW50ID0gRGlzY291bnRSZWNvcmQuZnJvbUpzb24oZGlzY291bnQpOwogICAgZGlzY291bnQuY2F0ZWdvcmllcyA9IGRpc2NvdW50LmNhdGVnb3JpZXMubWFwKCh7IGxhYmVsLCB2YWx1ZSB9KSA9PiB7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>keyValues</text>
+        <text>some</text>
       </register>
       <register name="-" type="4">
-        <text>keyValues</text>
+        <text>some</text>
       </register>
       <register name="/" type="4">
         <text>categories</text>
@@ -722,28 +721,28 @@
         <text encoding="base64">CiAgICBjb25zdCB1bnNlbGVjdGVkVmFsdWVzID0gcmVzcG9uc2UuY2F0ZWdvcmllczsKICAgIHVuc2VsZWN0ZWRWYWx1ZXMucmVkdWNlKChtYXAsIHZhbHVlKSA9PiB7CiAgICAgIG1hcFt2YWx1ZV0gPSB7ICB9CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsgdmFsdWU6IGNhdGVnb3J5LCBsYWJlbDogY2F0ZWdvcnkgfTsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGtleVZhbHVlcyA9IGNhdGVnb3JpZXMubWFwKChjYXRlZ29yeSkgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHsgdmFsdWU6IGNhdGVnb3J5LCBsYWJlbDogY2F0ZWdvcnkgfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3JpZXM6IFJlYWN0LlByb3BUeXBlcy5hcnJheS5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGtleVZhbHVlcyA9IGNhdGVnb3JpZXMubWFwKChjYXRlZ29yeSkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNhdGVnb3JpZXM6IFJlYWN0LlByb3BUeXBlcy5hcnJheS5pc1JlcXVpcmVkLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpc2NvdW50LnNldENhdGVnb3J5Q3JpdGVyaWEoY2F0ZWdvcmllcykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1545,10 +1544,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGlzY291bnQ6IE9iamVjdC52YWx1ZXMoY2F0ZWdvcnlNYXApCg==</text>
+        <text encoding="base64">ICAgIGRpc2NvdW50LnNldENhdGVnb3J5Q3JpdGVyaWEoY2F0ZWdvcmllcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzY291bnQ6IE9iamVjdC52YWx1ZXMoY2F0ZWdvcnlNYXApCg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -1608,8 +1607,8 @@
         <entry>wq</entry>
         <entry>help registers</entry>
         <entry>:w</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
