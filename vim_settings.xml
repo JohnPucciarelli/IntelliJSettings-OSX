@@ -308,13 +308,13 @@
         <mark key="." line="171" column="12" />
         <mark key="^" line="171" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" timestamp="1481055797618">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="180" column="31" />
-        <mark key="]" line="184" column="0" />
-        <mark key="n" line="165" column="8" />
-        <mark key="^" line="180" column="30" />
-        <mark key="." line="184" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" timestamp="1481057865774">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="37" />
+        <mark key="n" line="164" column="8" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/site-information-billing-tab.js" timestamp="1479329547825">
         <mark key="[" line="6" column="84" />
@@ -753,11 +753,11 @@
       <register name="a" type="4">
         <text encoding="base64">CiAgaGFuZGxlQ2F0ZWdvcnlDaGFuZ2Uoc2VsZWN0ZWRWYWx1ZSkgewogICAgY29uc3QgeyBjYXRlZ29yaWVzIH0gPSB0aGlzLnByb3BzOwogICAgY29uc3QgY2F0ZWdvcnkgPSBjYXRlZ29yaWVzLmZpbmQoKHsgdmFsdWUgfSkgPT4gdmFsdWUgPT09IHNlbGVjdGVkVmFsdWUpOwogICAgRGlzY291bnRDcmVhdGVFZGl0QWN0aW9ucy5zZWxlY3RDYXRlZ29yaWVzKGNhdGVnb3J5KTsKICB9LAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7dGhpcy50ZW1wbGF0ZVJlbmRlcmVyc1t0ZW1wbGF0ZV0oKX0K</text>
+      <register name="&quot;" type="4">
+        <text>{ component: FreeShippingComponent, props: [] }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dD4=</text>
+        <text>{ component: FreeShippingComponent, props: [] }</text>
       </register>
       <register name="/" type="4">
         <text>shipping</text>
@@ -766,28 +766,28 @@
         <text encoding="base64">ICAgIGNvbnN0IHNlbGVjdEZhY2FkZUNsYXNzTmFtZSA9IGNsYXNzbmFtZXMoewogICAgICBbc3R5bGVzaGVldC5zZWxlY3RFcnJvcl06IGhhc0Vycm9ycywKICAgICAgW3N0eWxlc2hlZXQuc2VsZWN0V2l0aElucHV0RXJyb3JdOiBoYXNJbnB1dAogICAgfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7dGhpcy50ZW1wbGF0ZVJlbmRlcmVyc1t0ZW1wbGF0ZV0oKX0K</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L1NlbGVjdD4K</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy50ZW1wbGF0ZVJlbmRlcmVyc1t0ZW1wbGF0ZV0oKX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L1NlbGVjdD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo+Ki99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKmZhY2FkZUNsYXNzTmFtZT17c2VsZWN0RmFjYWRlQ2xhc3NOYW1lfSovfQo=</text>
+        <text encoding="base64">ICAgICAgICB7Lyo+Ki99Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKmNsYXNzTmFtZT17c2VsZWN0Q2xhc3NOYW1lfSovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKmZhY2FkZUNsYXNzTmFtZT17c2VsZWN0RmFjYWRlQ2xhc3NOYW1lfSovfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKm9uQ2hhbmdlPXt0aGlzLmhhbmRsZVRlbXBsYXRlQ2hhbmdlfSovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKmNsYXNzTmFtZT17c2VsZWN0Q2xhc3NOYW1lfSovfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1589,10 +1589,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKnZhbHVlPXt0ZW1wbGF0ZX0qL30K</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKm9uQ2hhbmdlPXt0aGlzLmhhbmRsZVRlbXBsYXRlQ2hhbmdlfSovfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsvKmxhYmVsPSJEaXNjb3VudCBUeXBlIiovfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKnZhbHVlPXt0ZW1wbGF0ZX0qL30K</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -1652,8 +1652,8 @@
         <entry>help registers</entry>
         <entry>:w</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
