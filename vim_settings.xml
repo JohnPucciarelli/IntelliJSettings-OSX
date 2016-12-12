@@ -391,6 +391,12 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountCard/DiscountCard.jsx" timestamp="1481574776367">
+        <mark key="[" line="54" column="77" />
+        <mark key="]" line="55" column="5" />
+        <mark key="^" line="55" column="5" />
+        <mark key="." line="55" column="5" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/GoogleApps/screens/Account/screens/Reactivate.jsx" timestamp="1479329881612">
         <mark key="'" line="5" column="55" />
         <mark key="[" line="5" column="27" />
@@ -566,11 +572,11 @@
         <mark key="." line="37" column="62" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/DiscountCreateEditPanel.jsx" timestamp="1481572640134">
-        <mark key="'" line="126" column="50" />
+        <mark key="'" line="6" column="50" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="48" />
         <mark key="." line="6" column="0" />
-        <mark key="^" line="126" column="50" />
+        <mark key="^" line="6" column="50" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/node_modules/@sqs/fields/src/Select.jsx" timestamp="1481137645312">
         <mark key="[" line="48" column="0" />
@@ -824,11 +830,11 @@
       <register name="a" type="4">
         <text encoding="base64">CiAgaGFuZGxlQ2F0ZWdvcnlDaGFuZ2Uoc2VsZWN0ZWRWYWx1ZSkgewogICAgY29uc3QgeyBjYXRlZ29yaWVzIH0gPSB0aGlzLnByb3BzOwogICAgY29uc3QgY2F0ZWdvcnkgPSBjYXRlZ29yaWVzLmZpbmQoKHsgdmFsdWUgfSkgPT4gdmFsdWUgPT09IHNlbGVjdGVkVmFsdWUpOwogICAgRGlzY291bnRDcmVhdGVFZGl0QWN0aW9ucy5zZWxlY3RDYXRlZ29yaWVzKGNhdGVnb3J5KTsKICB9LAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgRmVhdHVyZXMgPSByZXF1aXJlKCdAc3FzL2VudW1zL0ZlYXR1cmVzJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'{cart-total}'</text>
       </register>
       <register name="-" type="4">
-        <text>description</text>
+        <text>'{cart-total}'</text>
       </register>
       <register name="/" type="4">
         <text>featurestore</text>
