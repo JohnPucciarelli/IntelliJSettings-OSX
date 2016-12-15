@@ -67,12 +67,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/getRootPath.js" timestamp="1481830205972">
-        <mark key="'" line="20" column="25" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="70" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="31" column="4" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/getRootPath.js" timestamp="1481830910238">
+        <mark key="'" line="58" column="1" />
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/features/FeatureTypeViewModel.java" timestamp="1481146348059">
         <mark key="[" line="30" column="0" />
@@ -852,7 +852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/router/index.js" />
       <jump line="427" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/router/index.js" />
       <jump line="417" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/router/index.js" />
       <jump line="408" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/router/index.js" />
@@ -952,46 +951,47 @@
       <jump line="7" column="35" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/pathForWebsiteType.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/pathForWebsiteType.js" />
       <jump line="20" column="25" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/getRootPath.js" />
+      <jump line="58" column="1" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/getRootPath.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHsgd2Vic2l0ZVR5cGUgfSA9IHdpbmRvdy5TdGF0aWMuU1FVQVJFU1BBQ0VfQ09OVEVYVC53ZWJzaXRlOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdlYnNpdGVUeXBlID0gd2luZG93LlN0YXRpYy5TUVVBUkVTUEFDRV9DT05URVhULndlYnNpdGUud2Vic2l0ZVR5cGU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getInterfaceType</text>
       </register>
       <register name="-" type="4">
-        <text>websiteType =</text>
+        <text>getInterfaceType</text>
       </register>
       <register name="/" type="4">
         <text>init</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgd2Vic2l0ZVR5cGUgfSA9IHdpbmRvdy5TdGF0aWMuU1FVQVJFU1BBQ0VfQ09OVEVYVC53ZWJzaXRlOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHdlYnNpdGVUeXBlID0gZ2V0V2Vic2l0ZVR5cGUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdlYnNpdGVUeXBlID0gd2luZG93LlN0YXRpYy5TUVVBUkVTUEFDRV9DT05URVhULndlYnNpdGUud2Vic2l0ZVR5cGU7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgd2Vic2l0ZVR5cGUgfSA9IHdpbmRvdy5TdGF0aWMuU1FVQVJFU1BBQ0VfQ09OVEVYVC53ZWJzaXRlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdlYnNpdGVUeXBlID0gd2luZG93LlN0YXRpYy5TUVVBUkVTUEFDRV9DT05URVhULndlYnNpdGUud2Vic2l0ZVR5cGU7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgd2Vic2l0ZVR5cGUgfSA9IHdpbmRvdy5TdGF0aWMuU1FVQVJFU1BBQ0VfQ09OVEVYVC53ZWJzaXRlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdlYnNpdGVUeXBlID0gd2luZG93LlN0YXRpYy5TUVVBUkVTUEFDRV9DT05URVhULndlYnNpdGUud2Vic2l0ZVR5cGU7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgd2Vic2l0ZVR5cGUgfSA9IHdpbmRvdy5TdGF0aWMuU1FVQVJFU1BBQ0VfQ09OVEVYVC53ZWJzaXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQGRlcHJlY2F0ZWQgdXNlIGdldFJvb3RQYXRoIGluc3RlYWQK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgd2Vic2l0ZVR5cGUgfSA9IHdpbmRvdy5TdGF0aWMuU1FVQVJFU1BBQ0VfQ09OVEVYVC53ZWJzaXRlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAoX19ERVZfXykgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgaW50ZXJmYWNlVHlwZSB9ID0gd2luZG93LlN0YXRpYy5TUVVBUkVTUEFDRV9DT05URVhULndlYnNpdGVTZXR0aW5nczsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1793,10 +1793,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXlXYXJuaW5nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
