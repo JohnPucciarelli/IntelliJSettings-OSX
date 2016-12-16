@@ -136,9 +136,10 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/components/Dialog/Dialog.jsx" timestamp="1480551835806">
-        <mark key="[" line="74" column="39" />
-        <mark key="]" line="74" column="42" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/components/Dialog/Dialog.jsx" timestamp="1481923126108">
+        <mark key="'" line="325" column="6" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="61" />
         <mark key="." line="74" column="42" />
         <mark key="^" line="74" column="42" />
       </file>
@@ -282,12 +283,12 @@
         <mark key="." line="906" column="49" />
         <mark key="^" line="906" column="49" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountList/DiscountList.jsx" timestamp="1481920220847">
-        <mark key="'" line="8" column="43" />
-        <mark key="[" line="35" column="52" />
-        <mark key="]" line="35" column="76" />
-        <mark key="." line="35" column="76" />
-        <mark key="^" line="35" column="76" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountList/DiscountList.jsx" timestamp="1481923204481">
+        <mark key="'" line="52" column="11" />
+        <mark key="[" line="55" column="1" />
+        <mark key="]" line="55" column="1" />
+        <mark key="." line="55" column="1" />
+        <mark key="^" line="55" column="1" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/components/DiscountList/DiscountList.less" timestamp="1479413288890">
         <mark key="[" line="11" column="20" />
@@ -862,8 +863,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="31" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
-      <jump line="149" column="11" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
       <jump line="162" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
       <jump line="120" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
       <jump line="114" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
@@ -962,49 +961,51 @@
       <jump line="21" column="35" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/action/extapi/shipstation/ShipStation.java" />
       <jump line="57" column="31" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/action/extapi/shipstation/ShipStation.java" />
       <jump line="72" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/action/extapi/shipstation/ShipStation.java" />
+      <jump line="325" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/components/Dialog/Dialog.jsx" />
+      <jump line="52" column="11" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountList/DiscountList.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>React.PropTypes.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>onConfirm</text>
+        <text>React.PropTypes.</text>
       </register>
       <register name="/" type="4">
-        <text>trigger</text>
+        <text>anchor:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgeyBQQU5FTCB9ID0gcmVxdWlyZSgncm91dGVyL3dpZHRocycpOwo=</text>
+        <text encoding="base64">Y29uc3QgcG9zaXRpb25Qcm9wVHlwZXMgPSByZXF1aXJlKCd1dGlscy9wb3NpdGlvblByb3BUeXBlcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBQQU5FTCB9ID0gcmVxdWlyZSgncm91dGVyL3dpZHRocycpOwpjb25zdCBEaWFsb2cgPSByZXF1aXJlKCdjb21wb25lbnRzL0RpYWxvZycpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVEZWxldGUgPSAoKSA9PiBvbkRlbGV0ZShkaXNjb3VudElkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgeyBQQU5FTCB9ID0gcmVxdWlyZSgncm91dGVyL3dpZHRocycpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBoYW5kbGVEZWxldGUgPSAoKSA9PiBvbkRlbGV0ZShkaXNjb3VudElkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgeyBQQU5FTCB9ID0gcmVxdWlyZSgncm91dGVyL3dpZHRocycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyBsYWJlbDogJ1JlbW92ZScsIHR5cGU6ICdkZWxldGUnLCBvbkNsaWNrOiBvbkNvbmZpcm0gfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBsYWJlbDogJ1JlbW92ZScsIHR5cGU6ICdkZWxldGUnLCBvbkNsaWNrOiBvbkNvbmZpcm0gfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvVHJpZ2dlcj4K</text>
+        <text encoding="base64">ICAgICAgfT4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1806,10 +1807,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLz4K</text>
+        <text encoding="base64">ICAgIDwvVHJpZ2dlcj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc05hbWU9e3N0eWxlc2hlZXQucmVtb3ZlQnV0dG9ufQo=</text>
+        <text encoding="base64">ICAgICAgLz4K</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -1819,9 +1820,9 @@
       </register>
     </registers>
     <search>
-      <last-search>trigger</last-search>
+      <last-search>anchor:</last-search>
       <last-offset />
-      <last-pattern>trigger</last-pattern>
+      <last-pattern>anchor:</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -1829,7 +1830,6 @@
     </search>
     <history>
       <history-search>
-        <entry>errors</entry>
         <entry>interfaceType</entry>
         <entry>commerce</entry>
         <entry>commerce\/discounts</entry>
@@ -1849,6 +1849,7 @@
         <entry>isMarketingDomain</entry>
         <entry>merchantEvents</entry>
         <entry>trigger</entry>
+        <entry>anchor:</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
