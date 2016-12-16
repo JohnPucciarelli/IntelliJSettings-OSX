@@ -74,6 +74,13 @@
         <mark key="^" line="19" column="25" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/menu/commerce/root-context.js" timestamp="1481912771406">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="90" column="60" />
+        <mark key="]" line="91" column="7" />
+        <mark key="^" line="91" column="7" />
+        <mark key="." line="91" column="7" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/NeverExpiresDate/NeverExpiresDate.less" timestamp="1481145022623">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -622,6 +629,12 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Orders/components/CustomerOrdersFilterPill/CustomerOrdersFilterPill.jsx" timestamp="1481912569930">
+        <mark key="[" line="20" column="49" />
+        <mark key="]" line="20" column="49" />
+        <mark key="^" line="20" column="48" />
+        <mark key="." line="20" column="49" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/screens/DomainPurchase/screens/CheckoutSummary.jsx" timestamp="1479336471717">
         <mark key="[" line="22" column="71" />
         <mark key="]" line="22" column="71" />
@@ -703,10 +716,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Customers/components/CustomerModalContent/components/CustomerOrderSummary/CustomerOrderSummary.jsx" timestamp="1481832353374">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Customers/components/CustomerModalContent/components/CustomerOrderSummary/CustomerOrderSummary.jsx" timestamp="1481912505129">
         <mark key="'" line="28" column="28" />
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="28" column="29" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="48" />
         <mark key="." line="28" column="19" />
         <mark key="^" line="28" column="20" />
       </file>
@@ -917,6 +930,12 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/DiscountCreateEditPanel.jsx" timestamp="1481913163459">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/commerce/CommerceMoneyFormatter.js" timestamp="1479328827536">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -973,7 +992,6 @@
       <jump line="119" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
       <jump line="79" column="13" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
       <jump line="99" column="29" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/menu/commerce/root-context.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/menu/commerce/root-context.js" />
       <jump line="146" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
       <jump line="147" column="29" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
       <jump line="148" column="31" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
@@ -1067,40 +1085,41 @@
       <jump line="76" column="4" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
       <jump line="8" column="0" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
       <jump line="59" column="47" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/LegacyCommerceCouponDAO.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/menu/commerce/root-context.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>JpagedRequest.getStatus(), pagedRequest.getOffset(), pagedRequest.getLimit(), website, true</text>
+        <text encoding="base64">KyA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>JpagedRequest.getStatus(), pagedRequest.getOffset(), pagedRequest.getLimit(), website, true</text>
+        <text encoding="base64">KyA=</text>
       </register>
       <register name="/" type="4">
-        <text>discounts</text>
+        <text>custom</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiWW91ciBzaXRlIGlzIHVzaW5nIEFiYW5kb25lZCBDaGVja291dCwgYnV0IHRoZSBwbGFuIHlvdSBzZWxlY3RlZCBkb2VzIG5vdCBzdXBwb3J0IHRoaXMgZmVhdHVyZS4iCiAgICAgICAgICAgKyAiIElmIHlvdSBjb250aW51ZSwgQWJhbmRvbmVkIENoZWNrb3V0IHdpbGwgYmUgdHVybmVkIG9mZi4iOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IEZlYXR1cmVzU3RvcmUuaXNGZWF0dXJlRW5hYmxlZChGZWF0dXJlcy5DUk0p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IG5vdCBzdXBwb3J0aW5nIHNlYXJjaCBmb3IgdjEK</text>
+        <text encoding="base64">Y29uc3QgY2xhc3NuYW1lcyA9IHJlcXVpcmUoJ2NsYXNzbmFtZXMnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiWW91IG11c3QgcmVtb3ZlIGFsbCBBY3RpdmUgYW5kIFNjaGVkdWxlZCBhdXRvLWFwcGxpZWQgZGlzY291bnRzIGJlZm9yZSBkb3duZ3JhZGluZy4iOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IG5vdCBzdXBwb3J0aW5nIHNlYXJjaCBmb3IgdjEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAiWW91ciBzdG9yZSBpcyB1c2luZyBhdXRvLWFwcGxpZWQgZGlzY291bnRzIGJ1dCB0aGUgcGxhbiB5b3Ugc2VsZWN0ZWQgZG9lcyBub3Qgc3VwcG9ydCB0aGlzIGZlYXR1cmUuIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAiWW91IG11c3QgcmVtb3ZlIGFsbCBBY3RpdmUgYW5kIFNjaGVkdWxlZCBhdXRvLWFwcGxpZWQgZGlzY291bnRzIGJlZm9yZSBkb3duZ3JhZGluZy4iOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAiWW91ciBzdG9yZSBpcyB1c2luZyBhdXRvLWFwcGxpZWQgZGlzY291bnRzIGJ1dCB0aGUgcGxhbiB5b3Ugc2VsZWN0ZWQgZG9lcyBub3Qgc3VwcG9ydCB0aGlzIGZlYXR1cmUuIiArCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1109,7 +1128,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuZ2V0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1911,10 +1930,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFF1ZXJ5PENvbW1lcmNlQ291cG9uPiBxdWVyeSA9IGNyZWF0ZVF1ZXJ5KCkK</text>
+        <text encoding="base64">ICAgICAgICAuZ2V0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuZmllbGQoIl9pZCIpCg==</text>
+        <text encoding="base64">ICAgIFF1ZXJ5PENvbW1lcmNlQ291cG9uPiBxdWVyeSA9IGNyZWF0ZVF1ZXJ5KCkK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -1924,9 +1943,9 @@
       </register>
     </registers>
     <search>
-      <last-search>discounts</last-search>
+      <last-search>custom</last-search>
       <last-offset />
-      <last-pattern>discounts</last-pattern>
+      <last-pattern>custom</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -1934,9 +1953,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selectCriteria</entry>
-        <entry>fixedAmount</entry>
-        <entry>any order</entry>
         <entry>featuresstore</entry>
         <entry>featurestore</entry>
         <entry>discount trigger</entry>
@@ -1954,6 +1970,9 @@
         <entry>init</entry>
         <entry>go</entry>
         <entry>discounts</entry>
+        <entry>customers</entry>
+        <entry>customer</entry>
+        <entry>custom</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
