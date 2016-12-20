@@ -268,6 +268,13 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.js" timestamp="1482268429192">
+        <mark key="'" line="90" column="27" />
+        <mark key="[" line="257" column="2" />
+        <mark key="]" line="261" column="3" />
+        <mark key="." line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/crud/DiscountLimits.java" timestamp="1481837985160">
         <mark key="[" line="4" column="63" />
         <mark key="]" line="5" column="1" />
@@ -429,8 +436,8 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/package.json" timestamp="1482267684302">
-        <mark key="'" line="127" column="5" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/package.json" timestamp="1482268319071">
+        <mark key="'" line="112" column="31" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Settings/screens/Domains/screens/DomainMove/screens/ConfirmMove/ConfirmMove.jsx" timestamp="1479337889539">
         <mark key="'" line="88" column="39" />
@@ -962,9 +969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="13" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/components/Dialog/Dialog.jsx" />
-      <jump line="262" column="48" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/components/Dialog/Dialog.jsx" />
-      <jump line="277" column="16" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/components/Dialog/Dialog.jsx" />
       <jump line="281" column="16" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/components/Dialog/Dialog.jsx" />
       <jump line="73" column="12" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/DiscountsPanel.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/actions/DiscountCreateEditActions.js" />
@@ -1062,25 +1066,28 @@
       <jump line="44" column="5" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/DiscountCreateEditPanel.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
       <jump line="127" column="5" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
+      <jump line="112" column="31" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
+      <jump line="37" column="13" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.js" />
+      <jump line="90" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">RWRpdCA=</text>
+        <text encoding="base64">cG9zdGNzczogZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIF8uY29tcGFjdChbCiAgICAgIGF1dG9wcmVmaXhlcih7IGJyb3dzZXJzOiBbJ2xhc3QgMyB2ZXJzaW9ucycsICdTYWZhcmkgPj0gNyddIH0pCiAgICBdKTsKICB9LA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RWRpdCA=</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>postcss</text>
+        <text>post</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZlYXR1cmUoRmVhdHVyZS5BVVRPX1RSSUdHRVJFRF9ESVNDT1VOVFMpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cG9zdGNzczogZnVuY3Rpb24gKCkgewogICAgcmV0dXJuIF8uY29tcGFjdChbCiAgICAgIGF1dG9wcmVmaXhlcih7IGJyb3dzZXJzOiBbJ2xhc3QgMyB2ZXJzaW9ucycsICdTYWZhcmkgPj0gNyddIH0pCiAgICBdKTsKICB9LA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1919,9 +1926,9 @@
       </register>
     </registers>
     <search>
-      <last-search>postcss</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern>postcss</last-pattern>
+      <last-pattern>post</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -1929,7 +1936,6 @@
     </search>
     <history>
       <history-search>
-        <entry>anchor:</entry>
         <entry>renderEmpty</entry>
         <entry>Unsu</entry>
         <entry>modal</entry>
@@ -1949,6 +1955,7 @@
         <entry>submitorder</entry>
         <entry>is</entry>
         <entry>postcss</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
