@@ -484,11 +484,11 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="17" column="2" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/business/commerce/coupons/CouponQuery.java" timestamp="1481841070091">
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="27" />
-        <mark key="^" line="20" column="27" />
-        <mark key="." line="20" column="27" />
+      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/business/commerce/coupons/CouponQuery.java" timestamp="1482355979115">
+        <mark key="[" line="96" column="5" />
+        <mark key="]" line="100" column="16" />
+        <mark key="^" line="100" column="16" />
+        <mark key="." line="100" column="16" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/DiscountTemplateResponseFactory.java" timestamp="1481659104074">
         <mark key="[" line="0" column="0" />
@@ -763,12 +763,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/CartDiscounter.java" timestamp="1482351445207">
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/CartDiscounter.java" timestamp="1482355812014">
         <mark key="'" line="0" column="4" />
-        <mark key="[" line="68" column="47" />
-        <mark key="]" line="68" column="55" />
-        <mark key="." line="68" column="55" />
-        <mark key="^" line="68" column="55" />
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="16" />
+        <mark key="." line="46" column="16" />
+        <mark key="^" line="46" column="16" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/customers/CrmAccessChecker.java" timestamp="1481654295051">
         <mark key="[" line="13" column="0" />
@@ -1220,13 +1220,13 @@
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>disableLimit</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>disableLimit</text>
       </register>
       <register name="/" type="4">
         <text>@Inj</text>
@@ -1235,28 +1235,28 @@
         <text encoding="base64">ICAgIENhcnREaXNjb3VudHMgY2FydERpc2NvdW50cyA9IGNhcnREaXNjb3VudGVyLmFwcGx5RGlzY291bnRzKHRvQ29udGV4dChzaG9wcGluZ0NhcnQpKTsKICAgIGFzc2VydFRoYXQoY2FydERpc2NvdW50cy5nZXREaXNjb3VudEFwcGxpY2F0aW9ucygpLnNpemUoKSwgaXMoMCkpOwogICAgYXNzZXJ0VGhhdChjYXJ0RGlzY291bnRzLmdldEludmFsaWREaXNjb3VudHMoKS5zaXplKCksIGlzKDApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLm9mZnNldCgwKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEF1dG9UcmlnZ2VyZWRBY2Nlc3NDaGVja2VyIGF1dG9UcmlnZ2VyZWRBY2Nlc3NDaGVja2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmxpbWl0KE1BKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXV0b1RyaWdnZXJlZEFjY2Vzc0NoZWNrZXIgPSBhdXRvVHJpZ2dlcmVkQWNjZXNzQ2hlY2tlcjsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBEaXNjb3VudEFwcGxpY2FiaWxpdHlSdWxlcyhBdXRvVHJpZ2dlcmVkQWNjZXNzQ2hlY2tlciBhdXRvVHJpZ2dlcmVkQWNjZXNzQ2hlY2tlcikgewo=</text>
+        <text encoding="base64">ICAgICAgZGlzY291bnRzID0gZmlsdGVyT3V0QXV0b1RyaWdnZXJlZERpc2NvdW50cyhkaXNjb3VudHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBASW5qZWN0Cg==</text>
+        <text encoding="base64">ICAgIGlmICghYXV0b1RyaWdnZXJlZEFjY2Vzc0NoZWNrZXIuaXNBdXRvVHJpZ2dlckVuYWJsZWQod2Vic2l0ZSkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzY291bnRzID0gZmlsdGVyT3V0QXV0b1RyaWdnZXJlZERpc2NvdW50cyhkaXNjb3VudHMpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2058,10 +2058,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghYXV0b1RyaWdnZXJlZEFjY2Vzc0NoZWNrZXIuaXNBdXRvVHJpZ2dlckVuYWJsZWQod2Vic2l0ZSkpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGRpc2NhcmQgYWxsIGF1dG8tdHJpZ2dlcmVkIGRpc2NvdW50cyBpZiBmZWF0dXJlIG5vdCBlbmFibGVkCg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
