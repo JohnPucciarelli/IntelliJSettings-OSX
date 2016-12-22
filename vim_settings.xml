@@ -1233,7 +1233,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>sublist</text>
+        <text>trigger</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IERpc2NvdW50IGRpc2NvdW50QSA9IHNhdmVEaXNjb3VudChEaXNjb3VudERlZmluaXRpb24uRkxBVF9GRUVfMTBfT0ZGX0NPVVBPTl9BLCB3ZWJzaXRlKTsKICAgIERpc2NvdW50IGRpc2NvdW50QiA9IHNhdmVEaXNjb3VudChEaXNjb3VudERlZmluaXRpb24uRkxBVF9GRUVfNV9PRkZfQ09VUE9OX0IsIHdlYnNpdGUpOwogICAgRGlzY291bnQgZGlzY291bnREID0gc2F2ZURpc2NvdW50KERpc2NvdW50RGVmaW5pdGlvbi5GUkVFX1NISVBQSU5HX0NPVVBPTl9ELnRvQnVpbGRlcigpCiAgICAgICAgICAgIC52YWxpZFRvKEluc3RhbnQubm93KCkubWludXMoMSwgQ2hyb25vVW5pdC5IT1VSUykpCiAgICAgICAgICAgIC5idWlsZCgpLCB3ZWJzaXRlKTsKCiAgICBMaXN0PERpc2NvdW50PiBkaXNjb3VudHMgPSBkaXNjb3VudFJlYWRlci5maW5kRGlzY291bnRzKERpc2NvdW50UmVhZGVyLm5ld1F1ZXJ5KCkKICAgICAgICAud2Vic2l0ZSh3ZWJzaXRlKQogICAgICAgIC5kaXNhYmxlTGltaXQodHJ1ZSkKICAgICAgICAuYnVpbGQoKSkuZ2V0UmVzdWx0cygpOwoKICAgIGFzc2VydFRoYXQoZGlzY291bnRzLnNpemUoKSwgaXMoMykpOwogICAgYXNzZXJ0VGhhdChkaXNjb3VudHMuZ2V0KDApLCBpcyhkaXNjb3VudEEpKTsKICAgIGFzc2VydFRoYXQoZGlzY291bnRzLmdldCgxKSwgaXMoZGlzY291bnRCKSk7CiAgICA=</text>
@@ -2075,9 +2075,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sublist</last-search>
+      <last-search>trigger</last-search>
       <last-offset />
-      <last-pattern>sublist</last-pattern>
+      <last-pattern>trigger</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -2085,7 +2085,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disabled</entry>
         <entry>DiscountUn</entry>
         <entry>handleUnsupported</entry>
         <entry>autoTri</entry>
@@ -2105,6 +2104,7 @@
         <entry>sub</entry>
         <entry>subList</entry>
         <entry>sublist</entry>
+        <entry>trigger</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
