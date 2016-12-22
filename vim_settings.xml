@@ -18,9 +18,9 @@
         <mark key="^" line="220" column="43" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/business/commerce/xero/StripeXeroBulkExportPortalIT.java" timestamp="1482433062816">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="84" />
-        <mark key="." line="173" column="0" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="84" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/RemoveButton/RemoveButton.jsx.js" timestamp="1480390000443">
         <mark key="'" line="33" column="0" />
@@ -319,6 +319,13 @@
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/PanelTabs/PanelTabs.less" timestamp="1480390206600">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/PaymentSettings/stores/PaymentSettingsStore.js" timestamp="1482435154500">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="34" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="30" column="34" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/domains/view-models/domain.js" timestamp="1479336295079">
         <mark key="'" line="3" column="60" />
@@ -688,6 +695,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/CommerceCheckoutPage/screens/Checkout/components/BillingInfoSection/BillingInfoSection.jsx" timestamp="1482435169624">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/screens/DomainPurchase/screens/CheckoutSummary.jsx" timestamp="1479336471717">
         <mark key="[" line="22" column="71" />
         <mark key="]" line="22" column="71" />
@@ -1030,8 +1040,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="41" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/business/commerce/cart/AddItemToCartOperationIT.java" />
-      <jump line="92" column="13" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/CartCalculationsIT.java" />
       <jump line="91" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/CartCalculationsIT.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/CartCalculationsIT.java" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/CartCalculationsIT.java" />
@@ -1130,6 +1138,8 @@
       <jump line="186" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/OrderSubmissionExceptionsIT.java" />
       <jump line="190" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/OrderSubmissionExceptionsIT.java" />
       <jump line="204" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/OrderSubmissionExceptionsIT.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/PaymentSettings/stores/PaymentSettingsStore.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/CommerceCheckoutPage/screens/Checkout/components/BillingInfoSection/BillingInfoSection.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1145,7 +1155,7 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>commerceFeature</text>
+        <text>renderPaymentOptions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYmluZChXZWJzaXRlRmVhdHVyZXNQcm92aWRlci5jbGFzcykudG8oTW9ja1dlYnNpdGVGZWF0dXJlc1Byb3ZpZGVySW1wbC5jbGFzcyk7Cg==</text>
@@ -1987,9 +1997,9 @@
       </register>
     </registers>
     <search>
-      <last-search>commerceFeature</last-search>
+      <last-search>renderPaymentOptions</last-search>
       <last-offset />
-      <last-pattern>commerceFeature</last-pattern>
+      <last-pattern>renderPaymentOptions</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -1997,7 +2007,6 @@
     </search>
     <history>
       <history-search>
-        <entry>DiscountList</entry>
         <entry>isprese</entry>
         <entry>checkout.java</entry>
         <entry>submitorder</entry>
@@ -2017,6 +2026,7 @@
         <entry>notsupport</entry>
         <entry>build</entry>
         <entry>commerceFeature</entry>
+        <entry>renderPaymentOptions</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
