@@ -506,11 +506,11 @@
         <mark key="." line="43" column="4" />
         <mark key="^" line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" timestamp="1482439016856">
-        <mark key="[" line="64" column="27" />
-        <mark key="]" line="65" column="35" />
-        <mark key="." line="65" column="35" />
-        <mark key="^" line="65" column="35" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" timestamp="1482440627762">
+        <mark key="[" line="64" column="23" />
+        <mark key="]" line="64" column="30" />
+        <mark key="." line="64" column="30" />
+        <mark key="^" line="64" column="30" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/OrderSubmissionExceptionsIT.java" timestamp="1482433120487">
         <mark key="'" line="207" column="0" />
@@ -769,6 +769,12 @@
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/router/index.js" timestamp="1481831607178">
         <mark key="'" line="151" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/CategoryPicker/Category.jsx" timestamp="1482440618282">
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="20" />
+        <mark key="^" line="21" column="20" />
+        <mark key="." line="21" column="20" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DiscountTemplatePicker/FreeShippingComponent.jsx" timestamp="1481061102638">
         <mark key="[" line="17" column="0" />
@@ -1160,13 +1166,13 @@
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>value</text>
+        <text>e</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>category</text>
@@ -1175,7 +1181,7 @@
         <text encoding="base64">ICAgICAgYmluZChXZWJzaXRlRmVhdHVyZXNQcm92aWRlci5jbGFzcykudG8oTW9ja1dlYnNpdGVGZWF0dXJlc1Byb3ZpZGVySW1wbC5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaW5zdGFsbChuZXcgRmFjdG9yeU1vZHVsZUJ1aWxkZXIoKS5idWlsZChDYXJ0T3BlcmF0aW9uRmFjdG9yeS5jbGFzcykpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhdGVnb3J5ID0gZS50YXJnZXQudmFsdWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1187,13 +1193,13 @@
         <text encoding="base64">ICAgICAgaW5zdGFsbChuZXcgRmFjdG9yeU1vZHVsZUJ1aWxkZXIoKS5idWlsZChDYXJ0T3BlcmF0aW9uRmFjdG9yeS5jbGFzcykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW5zdGFsbChuZXcgRmFjdG9yeU1vZHVsZUJ1aWxkZXIoKS5idWlsZChDYXJ0T3BlcmF0aW9uRmFjdG9yeS5jbGFzcykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBGZWF0dXJlU2V0SWRlbnRpZmllciBNT0NLX0ZFQVRVUkVfU0VUX0lERU5USUZJRVIgPSBuZXcgRmVhdHVyZVNldElkZW50aWZpZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBGZWF0dXJlU2V0SWRlbnRpZmllciBNT0NLX0ZFQVRVUkVfU0VUX0lERU5USUZJRVIgPSBuZXcgRmVhdHVyZVNldElkZW50aWZpZXIoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
@@ -1998,10 +2004,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBqcHVjY2lhcmVsbGkgb24gMTIvMjIvMTYuCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -2061,8 +2067,8 @@
         <entry>:w</entry>
         <entry>e</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
