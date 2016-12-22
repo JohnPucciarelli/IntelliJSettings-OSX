@@ -1155,7 +1155,7 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>renderPaymentOptions</text>
+        <text>category</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYmluZChXZWJzaXRlRmVhdHVyZXNQcm92aWRlci5jbGFzcykudG8oTW9ja1dlYnNpdGVGZWF0dXJlc1Byb3ZpZGVySW1wbC5jbGFzcyk7Cg==</text>
@@ -1997,9 +1997,9 @@
       </register>
     </registers>
     <search>
-      <last-search>renderPaymentOptions</last-search>
+      <last-search>category</last-search>
       <last-offset />
-      <last-pattern>renderPaymentOptions</last-pattern>
+      <last-pattern>category</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -2007,7 +2007,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isprese</entry>
         <entry>checkout.java</entry>
         <entry>submitorder</entry>
         <entry>is</entry>
@@ -2027,6 +2026,7 @@
         <entry>build</entry>
         <entry>commerceFeature</entry>
         <entry>renderPaymentOptions</entry>
+        <entry>category</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
