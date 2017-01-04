@@ -1020,6 +1020,12 @@
         <mark key="^" line="18" column="33" />
         <mark key="." line="18" column="33" />
       </file>
+      <file name="$USER_HOME$/AwesomeProject/index.android.js" timestamp="1483566505517">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/router/index.js" timestamp="1481831607178">
         <mark key="'" line="151" column="0" />
       </file>
@@ -1085,6 +1091,12 @@
         <mark key="]" line="62" column="17" />
         <mark key="." line="62" column="17" />
         <mark key="^" line="62" column="17" />
+      </file>
+      <file name="$USER_HOME$/AwesomeProject/index.ios.js" timestamp="1483566662312">
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+        <mark key="^" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/index.jsx" timestamp="1481212573903">
         <mark key="[" line="36" column="16" />
@@ -1232,13 +1244,13 @@
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Ends</text>
+        <text>!</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Ends</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>offset</text>
@@ -2133,8 +2145,8 @@
         <entry>:w</entry>
         <entry>e</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
