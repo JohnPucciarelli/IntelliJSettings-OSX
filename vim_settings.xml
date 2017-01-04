@@ -586,12 +586,12 @@
         <mark key="^" line="167" column="60" />
         <mark key="." line="167" column="60" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" timestamp="1483568887147">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="62" column="39" />
-        <mark key="]" line="62" column="39" />
-        <mark key="^" line="55" column="30" />
-        <mark key="." line="62" column="39" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" timestamp="1483569553402">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="49" column="69" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/FixedAmountDiscountTemplateResponse.java" timestamp="1481745301090">
         <mark key="[" line="18" column="0" />
@@ -1208,14 +1208,14 @@
       <register name="a" type="2">
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>code</text>
@@ -1224,28 +1224,28 @@
         <text encoding="base64">aW1wb3J0IHsgVkVSU0lPTiB9IGZyb20gJy4vc2hhcmVkL2NvbnN0YW50cyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaXNNYXhUcmlnZ2VyZWRSZWFjaGVkID0gCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnQSBtYXhpbXVtIG9mIDEwMCBhdXRvIHRyaWdnZXJlZCBkaXNjb3VudHMgYXJlIGFsbG93ZWQuJyA6ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnQSBkaXNjb3VudCB3aXRoIHRoaXMgcHJvbW8gY29kZSBhbHJlYWR5IGV4aXN0cy4nIDogJyc7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JNZXNzYWdlID0gaXNQcm9tb0NvZGVEdXBsaWNhdGUgPwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JNZXNzYWdlID0gaXNQcm9tb0NvZGVNaXNzaW5nID8gJ0EgcHJvbW8gY29kZSBpcyByZXF1aXJlZC4nIDogJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvck1lc3NhZ2UgPSAnQSBkaXNjb3VudCB3aXRoIHRoaXMgcHJvbW8gY29kZSBhbHJlYWR5IGV4aXN0cy4nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaXNQcm9tb0NvZGVEdXBsaWNhdGUgPSBlcnJvcnNbUFJPTU9fQ09ERV9BTFJFQURZX0VYSVNUU107Cg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIGlmIChlcnJvcnNbUFJPTU9fQ09ERV9BTFJFQURZX0VYSVNUU10pIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvck1lc3NhZ2UgPSAnQSBwcm9tbyBjb2RlIGlzIHJlcXVpcmVkLic7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2047,10 +2047,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ0EgdHJpZ2dlciBpcyByZXF1aXJlZC4nIDoK</text>
+        <text encoding="base64">ICAgICAgaWYgKGVycm9yc1tQUk9NT19DT0RFX1JFUVVJUkVEXSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVycm9yTWVzc2FnZSA9IGlzVHJpZ2dlck1pc3NpbmcgPwo=</text>
+        <text encoding="base64">ICAgIGlmICh0cmlnZ2VyID09PSBDT0RFKSB7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
