@@ -331,11 +331,11 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/CommerceCheckoutPage/screens/Checkout/components/DiscountsSubSection/Discount.less" timestamp="1483738381917">
-        <mark key="[" line="25" column="3" />
-        <mark key="]" line="25" column="13" />
-        <mark key="." line="25" column="13" />
-        <mark key="^" line="25" column="13" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/CommerceCheckoutPage/screens/Checkout/components/DiscountsSubSection/Discount.less" timestamp="1483999086937">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="40" column="1" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/AutoTriggeredDiscountAccessChecker.java" timestamp="1481654312820">
         <mark key="[" line="15" column="9" />
@@ -815,11 +815,11 @@
         <mark key="." line="31" column="25" />
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/CommerceCheckoutPage/screens/Checkout/components/DiscountsSubSection/Discount.jsx" timestamp="1483738294448">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="38" column="12" />
-        <mark key="." line="38" column="12" />
-        <mark key="^" line="38" column="12" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/CommerceCheckoutPage/screens/Checkout/components/DiscountsSubSection/Discount.jsx" timestamp="1483999383180">
+        <mark key="[" line="39" column="87" />
+        <mark key="]" line="39" column="87" />
+        <mark key="^" line="37" column="65" />
+        <mark key="." line="39" column="87" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/test/definition/DiscountDefinition.java" timestamp="1482188814891">
         <mark key="[" line="37" column="0" />
@@ -955,43 +955,43 @@
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>INFO</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>intern</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAuZGlzY291bnRDb2RlIHsKICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7CiAgfQo=</text>
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRleHQtZGVjb3JhdGlvbjogaXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZvcm1hdHRlZENvZGUgPSBpc0F1dG9UcmlnZ2VyZWQgPyAnJyA6IGAoJHtkaXNjb3VudENvZGV9KWA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBgYAo=</text>
+        <text encoding="base64">ICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgLmF1dG9BcHBsaWVkIHsKICAgIGZsb2F0OiByaWdodDsKICAgIGZvbnQtc3R5bGU6IGl0YWxpYzsKICAgIHRleHQtdHJhbnNmb3JtOiB1cHBlcmNhc2U7CiAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZW5kZXJSZW1vdmVCdXR0b24oKSB7Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1793,7 +1793,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMucmVtb3ZlfSBvbkNsaWNrPXsoKSA9PiBvblJlbW92ZUNsaWNrKGRpc2NvdW50KX0+CiAgICAgICAgICAgIFJlbW92ZQogICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIHRleHQtZGVjb3JhdGlvbjogaXQ7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1802,7 +1802,7 @@
         <text>A</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1855,9 +1855,9 @@
         <entry>help registers</entry>
         <entry>:w</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
