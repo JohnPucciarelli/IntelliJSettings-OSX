@@ -9,7 +9,7 @@
         <mark key="]" line="175" column="84" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1483979721853">
+      <file name="/a.dummy" timestamp="1483986364955">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -106,6 +106,7 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/admin/features/FeatureOverrideResource.java" timestamp="1483985994387" />
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/crud/DiscountDeleter.java" timestamp="1482337219256">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -439,6 +440,7 @@
         <mark key="." line="919" column="30" />
         <mark key="^" line="919" column="30" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/site-information-dashboard-tab.js" timestamp="1483986425514" />
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" timestamp="1483737485608">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="65" />
@@ -564,7 +566,7 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/utils/enums/Feature.java" timestamp="1483553442512" />
+      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/utils/enums/Feature.java" timestamp="1483986294371" />
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidator.java" timestamp="1481654860358">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -634,6 +636,12 @@
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="47" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/development.yml" timestamp="1483986202401">
+        <mark key="[" line="26" column="9" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="26" column="13" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/index.jsx" timestamp="1480548698345">
         <mark key="[" line="30" column="4" />
@@ -939,13 +947,13 @@
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>discountCode</text>
+        <text>INFO</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>discountCode</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>intern</text>
