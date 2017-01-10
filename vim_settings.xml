@@ -23,7 +23,7 @@
         <mark key="]" line="175" column="84" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1484000221501">
+      <file name="/a.dummy" timestamp="1484066356223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -331,10 +331,11 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" timestamp="1481926366429">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" timestamp="1484066736920">
+        <mark key="[" line="78" column="55" />
+        <mark key="]" line="78" column="69" />
+        <mark key="." line="78" column="69" />
+        <mark key="^" line="78" column="69" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/AutoTriggeredUnsupportedModal/AutoTriggerUnsupportedModal.jsx" timestamp="1481923884975">
         <mark key="[" line="47" column="0" />
@@ -937,11 +938,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" timestamp="1483564182975">
-        <mark key="[" line="55" column="17" />
-        <mark key="]" line="55" column="35" />
-        <mark key="." line="55" column="35" />
-        <mark key="^" line="55" column="35" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" timestamp="1484066423120">
+        <mark key="[" line="71" column="10" />
+        <mark key="]" line="71" column="15" />
+        <mark key="." line="71" column="15" />
+        <mark key="^" line="71" column="15" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/GoogleApps/screens/Account/screens/Reactivate.jsx" timestamp="1479329881612">
         <mark key="'" line="5" column="55" />
@@ -1264,17 +1265,17 @@
       <register name="a" type="2">
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="&quot;" type="4">
+        <text>money</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>money</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>eligible</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsK</text>
@@ -2116,9 +2117,9 @@
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>eligible</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>eligible</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -2126,7 +2127,6 @@
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
         <entry>commerceFeature</entry>
         <entry>renderPaymentOptions</entry>
         <entry>catgory</entry>
@@ -2146,6 +2146,7 @@
         <entry>oneweek</entry>
         <entry>intern</entry>
         <entry>start</entry>
+        <entry>eligible</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
@@ -2166,8 +2167,8 @@
         <entry>:w</entry>
         <entry>e</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
