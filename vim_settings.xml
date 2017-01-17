@@ -332,6 +332,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="48" column="44" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/resource/commerce/ShippingOptionRequestHelper.java" timestamp="1484692925798">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/business/commerce/coupons/CouponStatus.java" timestamp="1482360032766">
         <mark key="[" line="7" column="9" />
         <mark key="]" line="8" column="6" />
@@ -355,6 +361,12 @@
         <mark key="]" line="2" column="71" />
         <mark key="." line="2" column="71" />
         <mark key="^" line="2" column="71" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/resource/commerce/ShippingOptionRequestHelperV2.java" timestamp="1484693277049">
+        <mark key="[" line="55" column="62" />
+        <mark key="]" line="57" column="57" />
+        <mark key="^" line="57" column="57" />
+        <mark key="." line="57" column="57" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/PaymentSettings/stores/PaymentSettingsStore.js" timestamp="1482435154500">
         <mark key="'" line="0" column="0" />
@@ -445,7 +457,7 @@
         <mark key="^" line="64" column="15" />
         <mark key="." line="64" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/framework/jersey/JerseyModule.java" timestamp="1484692831071">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/framework/jersey/JerseyModule.java" timestamp="1484692855389">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
@@ -517,10 +529,11 @@
         <mark key="^" line="99" column="36" />
         <mark key="." line="99" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/DiscountTemplateResponseFactory.java" timestamp="1484088253514">
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/ShippingOptionResourceV2.java" timestamp="1484693133214">
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="48" />
+        <mark key="." line="38" column="48" />
+        <mark key="^" line="38" column="48" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/mocha.opts" timestamp="1479319876817">
         <mark key="[" line="1" column="0" />
@@ -582,7 +595,7 @@
         <mark key="." line="124" column="45" />
         <mark key="^" line="124" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1484255060130">
+      <file name="/fragment.java" timestamp="1484693310198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="45" />
         <mark key="^" line="0" column="45" />
@@ -695,6 +708,12 @@
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="25" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/shipping/crud/ShippingOptionReader.java" timestamp="1484693523575">
+        <mark key="[" line="24" column="92" />
+        <mark key="]" line="27" column="53" />
+        <mark key="." line="27" column="53" />
+        <mark key="^" line="27" column="53" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/RemoveButton/index.js" timestamp="1480390123607">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
@@ -748,11 +767,11 @@
         <mark key="^" line="163" column="58" />
         <mark key="." line="163" column="58" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/ShippingOptionResource.java" timestamp="1484692709481">
-        <mark key="'" line="83" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/ShippingOptionResource.java" timestamp="1484692872960">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/webpack.config.js" timestamp="1482515770412">
         <mark key="[" line="86" column="12" />
@@ -1280,14 +1299,14 @@
       <register name="a" type="2">
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmVzcGFjZS52Ni5tb2RlbC5TaGlwcGluZ09wdGlvbjsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>!=</text>
@@ -1296,28 +1315,28 @@
         <text>(USPS),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBVU1BTCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmVzcGFjZS52Ni5tb2RlbC5TaGlwcGluZ09wdGlvbjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBVUFNfVFdPX0RBWV9BSVIoCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBqcHVjY2lhcmVsbGkgb24gMS8xNy8xNy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2119,10 +2138,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBATmFtZWQoQ29udGV4dE5hbWVzLldFQlNJVEUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFNoaXBwaW5nT3B0aW9uQ2FycmllclR5cGUgY2FycmllclR5cGU7Cg==</text>
+        <text encoding="base64">ICBATmFtZWQoQ29udGV4dE5hbWVzLldFQlNJVEVfU0VUVElOR1MpCg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
