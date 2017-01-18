@@ -180,6 +180,12 @@
         <mark key="^" line="27" column="30" />
         <mark key="." line="27" column="30" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/shipping/ShippingOptionConverter.java" timestamp="1484699983510">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/business/commerce/cart/CalculateTaxesForCartOperationIT.java" timestamp="1482432943460">
         <mark key="[" line="76" column="84" />
         <mark key="]" line="76" column="6" />
@@ -463,7 +469,7 @@
         <mark key="." line="124" column="45" />
         <mark key="^" line="124" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1484699153228">
+      <file name="/fragment.java" timestamp="1484699559158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="45" />
         <mark key="^" line="0" column="45" />
@@ -569,11 +575,11 @@
         <mark key="." line="21" column="25" />
         <mark key="^" line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/shipping/crud/ShippingOptionReader.java" timestamp="1484699220520">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="30" column="53" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/shipping/crud/ShippingOptionReader.java" timestamp="1484699543971">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="44" />
+        <mark key="^" line="28" column="44" />
+        <mark key="." line="28" column="44" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/request/criteria/DiscountCriteriaRequest.java" timestamp="1484696077661">
         <mark key="[" line="6" column="0" />
@@ -1127,13 +1133,13 @@
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuY29sbGVjdChMaXN0Q29sbGVjdG9ycy50b1VubW9kaWZpYWJsZUxpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGxlZ2FjeU9wdGlvbi5nZXRSYXRlVHlwZSgpCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>MAX</text>
@@ -1142,28 +1148,28 @@
         <text encoding="base64">ICBASnNvblBPSk9CdWlsZGVyKHdpdGhQcmVmaXggPSAiIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuY29sbGVjdChMaXN0Q29sbGVjdG9ycy50b1VubW9kaWZpYWJsZUxpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGxlZ2FjeU9wdGlvbi5nZXRSYXRlVHlwZSgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBzaGlwcGluZ09wdGlvbnMuc3RyZWFtKCkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuYXNMaXN0KCk7Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBjb252ZXJ0Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Q2FycmllckNhbGN1bGF0ZWQ8Pz4gY2FycmllckNhbGN1bGF0ZWQgPSAoQ2FycmllckNhbGN1bGF0ZWQ8Pz4pIGZvcm11bGE7CiAgICAgIHJldHVybiBDYXJyaWVyU2hpcHBpbmdPcHRpb24uYnVpbGRlcigpCiAgICAgICAgICAuaWQoaWQpCiAgICAgICAgICAubmFtZShuYW1lKQogICAgICAgICAgLmNhcnJpZXJUeXBlKCkKICAgICAgICAgIC5idWlsZCgpOw==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgQ2FycmllckNhbGN1bGF0ZWQ8Pz4gY2FycmllckNhbGN1bGF0ZWQgPSAoQ2FycmllckNhbGN1bGF0ZWQ8Pz4pIGZvcm11bGE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogU2hpcHBpbmcgT3B0aW9ucyBtYW5hZ2VtZW50Lgo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGNvbnZlcnRUb0NhcnJpZXJPcHRpb24oaWQsIG5hbWUsIGMpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1965,10 +1971,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
