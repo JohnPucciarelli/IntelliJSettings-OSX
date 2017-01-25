@@ -23,7 +23,7 @@
         <mark key="." line="919" column="30" />
         <mark key="^" line="919" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1485375441124">
+      <file name="/a.dummy" timestamp="1485384323847">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/PaymentSettings/PaymentSettingsPanel.jsx" timestamp="1481142819081">
@@ -372,8 +372,12 @@
         <mark key="^" line="26" column="32" />
         <mark key="." line="36" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" timestamp="1485196385509">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" timestamp="1485384486970">
         <mark key="'" line="34" column="12" />
+        <mark key="[" line="244" column="31" />
+        <mark key="]" line="244" column="20" />
+        <mark key="^" line="244" column="20" />
+        <mark key="." line="244" column="20" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/components/OnboardingManager/components/LegacyCommercePlanUpdate.jsx" timestamp="1479329463293">
         <mark key="'" line="74" column="14" />
@@ -576,12 +580,12 @@
         <mark key="." line="45" column="51" />
         <mark key="^" line="45" column="51" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" timestamp="1485384139967">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" timestamp="1485384666247">
         <mark key="'" line="56" column="10" />
-        <mark key="[" line="55" column="20" />
-        <mark key="]" line="55" column="20" />
-        <mark key="^" line="55" column="20" />
-        <mark key="." line="55" column="20" />
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="24" />
+        <mark key="^" line="37" column="24" />
+        <mark key="." line="37" column="24" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/components/FormattedMoney.jsx" timestamp="1479336414447">
         <mark key="'" line="6" column="6" />
@@ -1204,13 +1208,13 @@
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>: id,</text>
+        <text>id</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>: id,</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>ServiceName</text>
