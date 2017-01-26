@@ -372,12 +372,12 @@
         <mark key="^" line="26" column="32" />
         <mark key="." line="36" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" timestamp="1485386614794">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" timestamp="1485453848409">
         <mark key="'" line="34" column="12" />
-        <mark key="[" line="235" column="42" />
-        <mark key="]" line="235" column="43" />
-        <mark key="^" line="235" column="43" />
-        <mark key="." line="235" column="43" />
+        <mark key="[" line="126" column="31" />
+        <mark key="]" line="126" column="31" />
+        <mark key="^" line="126" column="31" />
+        <mark key="." line="126" column="31" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/components/OnboardingManager/components/LegacyCommercePlanUpdate.jsx" timestamp="1479329463293">
         <mark key="'" line="74" column="14" />
@@ -1208,13 +1208,13 @@
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25JbmRleCwK</text>
+        <text encoding="base64">ICAgICAgc2hpcHBpbmdPcHRpb25JZDogdW5kZWZpbmVkCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>optionIndex</text>
+        <text>shippingOptionId</text>
       </register>
       <register name="/" type="4">
         <text>shippingOptionId</text>
@@ -1223,25 +1223,25 @@
         <text>'\u00a0\u00a0\u00a0\u00a0'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb25JbmRleCwK</text>
+        <text encoding="base64">ICAgICAgc2hpcHBpbmdPcHRpb25JZDogdW5kZWZpbmVkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5hbWU6IGAke25hbWV9IC0gQWxsIFNlcnZpY2VzYCwK</text>
+        <text encoding="base64">ICAgICAgc2hpcHBpbmdPcHRpb25JZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5hbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb25JbmRleCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBuYW1lID0gCg==</text>
+        <text encoding="base64">ICAgIG5hbWU6IGAke25hbWV9IC0gQWxsIFNlcnZpY2VzYCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBsYWJlbCA9IHNoaXBwaW5nT3B0aW9uSWQgPT09IGFueU9wdGlvbklkID8gbmFtZSA6IGAke25hbWV9IC0gQWxsIFNlcnZpY2VzYDsK</text>
+        <text encoding="base64">ICBjb25zdCBuYW1lID0gCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2046,10 +2046,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICBjb25zdCBsYWJlbCA9IHNoaXBwaW5nT3B0aW9uSWQgPT09IGFueU9wdGlvbklkID8gbmFtZSA6IGAke25hbWV9IC0gQWxsIFNlcnZpY2VzYDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHVud3JhcFNlcnZpY2Uoc2hpcHBpbmdPcHRpb25JZCwgc2VydmljZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
