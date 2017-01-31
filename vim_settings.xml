@@ -33,12 +33,12 @@
         <mark key="." line="20" column="65" />
         <mark key="^" line="20" column="65" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/request/template/FreeShippingDiscountTemplateRequest.java" timestamp="1485467654279">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/request/template/FreeShippingDiscountTemplateRequest.java" timestamp="1485900689699">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="44" />
-        <mark key="]" line="47" column="47" />
-        <mark key="^" line="47" column="47" />
-        <mark key="." line="47" column="47" />
+        <mark key="[" line="22" column="114" />
+        <mark key="]" line="23" column="5" />
+        <mark key="^" line="23" column="5" />
+        <mark key="." line="23" column="5" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/site-information-domains-tab.js" timestamp="1479329605977">
         <mark key="'" line="2" column="19" />
@@ -253,11 +253,11 @@
         <mark key="." line="6" column="76" />
         <mark key="^" line="6" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplate.java" timestamp="1485889536551">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="102" column="3" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplate.java" timestamp="1485900554671">
+        <mark key="[" line="59" column="64" />
+        <mark key="]" line="59" column="64" />
+        <mark key="." line="59" column="64" />
+        <mark key="^" line="58" column="56" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/StorePortal.java" timestamp="1484754631599">
         <mark key="[" line="43" column="58" />
@@ -353,6 +353,12 @@
         <mark key="]" line="121" column="51" />
         <mark key="." line="121" column="0" />
         <mark key="^" line="142" column="30" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/adapter/CommerceCouponAdapter.java" timestamp="1485900861330">
+        <mark key="[" line="171" column="61" />
+        <mark key="]" line="172" column="11" />
+        <mark key="." line="172" column="11" />
+        <mark key="^" line="172" column="11" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/PaymentSettings/stores/PaymentSettingsStore.js" timestamp="1482435154500">
         <mark key="'" line="0" column="0" />
@@ -495,12 +501,12 @@
         <mark key="^" line="44" column="2" />
         <mark key="." line="44" column="2" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/DiscountTemplateResponseFactory.java" timestamp="1485891720504">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/DiscountTemplateResponseFactory.java" timestamp="1485901308448">
         <mark key="'" line="68" column="32" />
-        <mark key="[" line="85" column="119" />
-        <mark key="]" line="86" column="9" />
-        <mark key="." line="86" column="9" />
-        <mark key="^" line="86" column="9" />
+        <mark key="[" line="81" column="27" />
+        <mark key="]" line="81" column="46" />
+        <mark key="." line="81" column="46" />
+        <mark key="^" line="81" column="46" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/mocha.opts" timestamp="1479319876817">
         <mark key="[" line="1" column="0" />
@@ -1020,12 +1026,6 @@
         <mark key="." line="58" column="78" />
         <mark key="^" line="58" column="78" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/utils/findSelectedShippingOption.js" timestamp="1485805280721">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Checkout/shared/components/PlanByPeriodSelector/index.jsx" timestamp="1479329749962">
         <mark key="'" line="6" column="55" />
         <mark key="[" line="6" column="31" />
@@ -1288,14 +1288,14 @@
       <register name="a" type="2">
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2hpcHBpbmdPcHRpb25SZXF1ZXN0ID0gewo=</text>
+      <register name="&quot;" type="4">
+        <text>carrierShippingOption</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>carrierShippingOption</text>
       </register>
       <register name="/" type="4">
         <text>selectedOptionIndex</text>
@@ -1304,28 +1304,28 @@
         <text encoding="base64">ICAgICAgTGlzdDxTaGlwcGluZ09wdGlvblNlcnZpY2VUeXBlPiBhbGxTZXJ2aWNlcyA9IFNoaXBwaW5nT3B0aW9uU2VydmljZVR5cGUuZ2V0Q2FycmllclNlcnZpY2VzKHNoaXBwaW5nT3B0aW9uLik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2hpcHBpbmdPcHRpb25SZXF1ZXN0ID0gewo=</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxDb3Vwb25TaGlwcGluZ09wdGlvbj4gc2hpcHBpbmdPcHRpb24gPSBjb21tZXJjZUNvdXBvbi5nZXRTaGlwcGluZ09wdGlvbigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWxsU2VydmljZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxTaGlwcGluZ09wdGlvblNlcnZpY2VUeXBlPgo=</text>
+        <text encoding="base64">ICAgIENvdXBvblNoaXBwaW5nT3B0aW9uIG9wdGlvbiA9IHNoaXBwaW5nT3B0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxTaGlwcGluZ09wdGlvblNlcnZpY2VUeXBlPiBhbGxTZXJ2aWNlcyA9IFNoaXBwaW5nT3B0aW9uU2VydmljZVR5cGUuZ2V0Q2FycmllclNlcnZpY2VzKHNoaXBwaW5nT3B0aW9uLik7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRlbXBsYXRlIGlzIGNvbmZpZ3VyZWQgdG8gcHJvdmlkZSBmcmVlIHNoaXBwaW5nIGZvciBhbGwgc2hpcHBpbmcgb3B0aW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU2hpcHBpbmdPcHRpb25DYXJyaWVyVHlwZSBjYXJyaWVyVHlwZSA9IChDYXJyaWVyU2hpcHBpbmdPcHRpb24pIHNoaXBwaW5nT3B0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2hpcHBpbmdPcHRpb25SZXF1ZXN0ID0gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5nZXROYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgYWxsU2VydmljZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxTaGlwcGluZ09wdGlvblYyPiBhCg==</text>
+        <text encoding="base64">ICAgICAgTGlzdDxTaGlwcGluZ09wdGlvblNlcnZpY2VUeXBlPgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2127,10 +2127,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgTGlzdDxTaGlwcGluZ09wdGlvblNlcnZpY2VUeXBlPiBhbGxTZXJ2aWNlcyA9IFNoaXBwaW5nT3B0aW9uU2VydmljZVR5cGUuZ2V0Q2FycmllclNlcnZpY2VzKHNoaXBwaW5nT3B0aW9uLik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgU2hpcHBpbmdPcHRpb25DYXJyaWVyVHlwZSBjYXJyaWVyVHlwZSA9IChDYXJyaWVyU2hpcHBpbmdPcHRpb24pIHNoaXBwaW5nT3B0aW9uCg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
