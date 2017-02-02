@@ -23,7 +23,7 @@
         <mark key="." line="220" column="43" />
         <mark key="^" line="220" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1485990334853">
+      <file name="/a.dummy" timestamp="1486043999481">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/ShippingOptionDAO.java" timestamp="1485294350007">
@@ -405,12 +405,12 @@
         <mark key="." line="906" column="49" />
         <mark key="^" line="906" column="49" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountList/DiscountList.jsx" timestamp="1483562538287">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountList/DiscountList.jsx" timestamp="1486043991900">
         <mark key="'" line="2" column="4" />
-        <mark key="[" line="79" column="23" />
-        <mark key="]" line="79" column="24" />
-        <mark key="." line="79" column="24" />
-        <mark key="^" line="79" column="24" />
+        <mark key="[" line="13" column="3" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+        <mark key="^" line="13" column="12" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/shipping/api/ShippingOptionServiceType.java" timestamp="1484690123426">
         <mark key="'" line="13" column="25" />
@@ -821,6 +821,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="33" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/order/factory/ShippingDetailsConverter.java" timestamp="1486043844185">
+        <mark key="[" line="66" column="63" />
+        <mark key="]" line="66" column="69" />
+        <mark key="^" line="66" column="69" />
+        <mark key="." line="66" column="69" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/CommerceDiscountRequestHelper.java" timestamp="1483556387436">
         <mark key="'" line="70" column="71" />
         <mark key="[" line="84" column="18" />
@@ -934,7 +940,6 @@
         <mark key="^" line="41" column="63" />
         <mark key="." line="41" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/crud/DiscountUpdater.java" timestamp="1486015493932" />
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Shipping/shared/api/ShippingOptionApi.js" timestamp="1485196290260">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="41" />
@@ -1312,14 +1317,14 @@
       <register name="a" type="2">
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVuY3lDb2RlLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dHJpZ2dlcmVkIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>@global-base-color-faded;</text>
+        <text encoding="base64">dHJpZ2dlcmVkIA==</text>
       </register>
       <register name="/" type="4">
         <text>unwrap</text>
@@ -2170,7 +2175,7 @@
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
