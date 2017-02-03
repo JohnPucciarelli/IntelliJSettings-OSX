@@ -23,7 +23,7 @@
         <mark key="." line="220" column="43" />
         <mark key="^" line="220" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1486068998001">
+      <file name="/a.dummy" timestamp="1486139067861">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/ShippingOptionDAO.java" timestamp="1485294350007">
@@ -310,7 +310,7 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/model/CommerceCoupon.java" timestamp="1486071231756" />
+      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/model/CommerceCoupon.java" timestamp="1486139066139" />
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/shipping/api/ShippingOptionCarrierType.java" timestamp="1484689807340">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="14" />
@@ -976,11 +976,11 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountCard/DiscountCard.jsx" timestamp="1484000633434">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="52" />
-        <mark key="." line="97" column="52" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountCard/DiscountCard.jsx" timestamp="1486139079562">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="37" />
         <mark key="^" line="97" column="52" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/GoogleApps/screens/Account/screens/Reactivate.jsx" timestamp="1479329881612">
@@ -1225,7 +1225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/adapter/CommerceCouponAdapter.java" />
       <jump line="189" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/adapter/CommerceCouponAdapter.java" />
       <jump line="193" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/adapter/CommerceCouponAdapter.java" />
       <jump line="222" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/adapter/CommerceCouponAdapter.java" />
@@ -1325,22 +1324,23 @@
       <jump line="195" column="60" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
       <jump line="176" column="14" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
       <jump line="172" column="14" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountCard/DiscountCard.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>createdOn</text>
+        <text>AUTO</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>createdOn</text>
+        <text>AUTO</text>
       </register>
       <register name="/" type="4">
-        <text>.order</text>
+        <text>auto</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgRGlzY291bnRzUGFuZWxTdG9yZSA9IHJlcXVpcmUoJy4vc2NyZWVucy9EaXNjb3VudHNQYW5lbC9zdG9yZXMvRGlzY291bnRzUGFuZWxTdG9yZScpOwo=</text>
@@ -2182,9 +2182,9 @@
       </register>
     </registers>
     <search>
-      <last-search>.order</last-search>
+      <last-search>auto</last-search>
       <last-offset />
-      <last-pattern>.order</last-pattern>
+      <last-pattern>auto</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -2192,7 +2192,6 @@
     </search>
     <history>
       <history-search>
-        <entry>findIndex</entry>
         <entry>fromJson</entry>
         <entry>addDa</entry>
         <entry>allShipping</entry>
@@ -2212,6 +2211,7 @@
         <entry>fetchNext</entry>
         <entry>DiscountListActions</entry>
         <entry>.order</entry>
+        <entry>auto</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
