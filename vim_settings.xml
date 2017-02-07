@@ -26,6 +26,12 @@
       <file name="/a.dummy" timestamp="1486424342489">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.messages.js" timestamp="1486483995466">
+        <mark key="[" line="3" column="114" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/RemoveButton/RemoveButton.jsx.js" timestamp="1480390000443">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="20" column="56" />
@@ -1182,6 +1188,13 @@
         <mark key="." line="47" column="38" />
         <mark key="^" line="34" column="34" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" timestamp="1486484472143">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="39" column="93" />
+        <mark key="]" line="40" column="5" />
+        <mark key="^" line="40" column="5" />
+        <mark key="." line="40" column="5" />
+      </file>
       <file name="$USER_HOME$/AwesomeProject/index.ios.js" timestamp="1485537802013">
         <mark key="[" line="21" column="34" />
         <mark key="]" line="21" column="33" />
@@ -1261,11 +1274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
-      <jump line="122" column="130" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
-      <jump line="120" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
-      <jump line="125" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
       <jump line="128" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
       <jump line="134" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
       <jump line="145" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
@@ -1361,63 +1369,69 @@
       <jump line="10" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/UpsellConfirmation/UpsellTrigger.jsx" />
       <jump line="17" column="44" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/CheckoutSettings/CheckoutSettings.jsx" />
       <jump line="111" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore.js" />
+      <jump line="34" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="114" column="13" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="122" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="31" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
     </jumps>
     <registers>
-      <register name="a" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Um9vdFBhdGggPSByZXF1aXJlKCd1dGlscy9nZXRSb290UGF0aCcpOwo=</text>
+      <register name="a" type="4">
+        <text>{
+      title: MESSAGES.discountsTrialTitle,
+      message: MESSAGES.discountsTrialMessage,
+      destination: UpsellDestination.UPGRADE_PLAN,
+      isSoftWarning: true
+    }</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CmNvbnN0IEFVVE9fVFJJR0dFUkVEX0RJU0NPVU5UUyA9IHsKICBUUklBTF9VUEdSQURFOiBPYmplY3QuZnJlZXplKHsKICAgIHRpdGxlOiAnU3dpdGNoIHRvIFNxdWFyZXNwYWNlIENvbW1lcmNlJywKICAgIG1lc3NhZ2U6ICdUbyBjb250aW51ZSB1c2luZyBhdXRvbWF0aWMgZGlzY291bnRzIGFmdGVyIHlvdXIgdHJpYWwsIHN1YnNjcmliZSB0byB0aGUgQWR2YW5jZWQgcGxhbi4nLAogICAgZGVzdGluYXRpb246IFVwc2VsbERlc3RpbmF0aW9uLlVQR1JBREVfUExBTiwKICAgIGlzU29mdFdhcm5pbmc6IHRydWUKICB9KQp9Ow==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>UpsellTrigger</text>
       </register>
       <register name="0" type="4">
-        <text>set(FeatureSetIdentifiers.WEBSITE_LEGACY_TRIAL, Object.freeze({
-      title: 'Cannot Go Live',
-      message: 'Subscribe to a paid plan to launch your store and start accepting payments.',
-      destination: UpsellDestination.TRIAL_UPGRADE_PLAN
-    }))
-    .set(FeatureSetIdentifiers.WEBSITE_CLASSIC_TRIAL, Object.freeze({
-      title: 'Cannot Go Live',
-      message: 'Subscribe to a paid plan to launch your store and start accepting payments.',
-      destination: UpsellDestination.TRIAL_UPGRADE_PLAN
-    }))
-    .set(FeatureSetIdentifiers.WEBSITE_COMMERCE_TRIAL, Object.freeze({
-      title: 'Cannot Go Live',
-      message: 'Subscribe to a paid plan to launch your store and start accepting payments.',
-      destination: UpsellDestination.TRIAL_UPGRADE_PLAN
-    }))</text>
+        <text>{
+      title: MESSAGES.discountsTrialTitle,
+      message: MESSAGES.discountsTrialMessage,
+      destination: UpsellDestination.UPGRADE_PLAN,
+      isSoftWarning: true
+    }</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmNvbnN0IEFVVE9fVFJJR0dFUkVEX0RJU0NPVU5UUyA9IHsKICBUUklBTF9VUEdSQURFOiBPYmplY3QuZnJlZXplKHsKICAgIHRpdGxlOiAnU3dpdGNoIHRvIFNxdWFyZXNwYWNlIENvbW1lcmNlJywKICAgIG1lc3NhZ2U6ICdUbyBjb250aW51ZSB1c2luZyBhdXRvbWF0aWMgZGlzY291bnRzIGFmdGVyIHlvdXIgdHJpYWwsIHN1YnNjcmliZSB0byB0aGUgQWR2YW5jZWQgcGxhbi4nLAogICAgZGVzdGluYXRpb246IFVwc2VsbERlc3RpbmF0aW9uLlVQR1JBREVfUExBTiwKICAgIGlzU29mdFdhcm5pbmc6IHRydWUKICB9KQp9Ow==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{
+      title: MESSAGES.discountsTrialTitle,
+      message: MESSAGES.discountsTrialMessage,
+      destination: UpsellDestination.UPGRADE_PLAN,
+      isSoftWarning: true
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVzdGluYXRpb246IFVwc2VsbERlc3RpbmF0aW9uLlRSSUFMX1VQR1JBREVfUExBTgo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZTogJ1N1YnNjcmliZSB0byBhIHBhaWQgcGxhbiB0byBsYXVuY2ggeW91ciBzdG9yZSBhbmQgc3RhcnQgYWNjZXB0aW5nIHBheW1lbnRzLicsCg==</text>
+        <text encoding="base64">ICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGl0bGU6ICdDYW5ub3QgR28gTGl2ZScsCg==</text>
+        <text encoding="base64">ICAgIGlzU29mdFdhcm5pbmc6IHRydWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVzdGluYXRpb246IFVwc2VsbERlc3RpbmF0aW9uLlRSSUFMX1VQR1JBREVfUExBTgo=</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2U6ICdUbyBjb250aW51ZSB1c2luZyBhdXRvbWF0aWMgZGlzY291bnRzIGFmdGVyIHlvdXIgdHJpYWwsIHN1YnNjcmliZSB0byB0aGUgQWR2YW5jZWQgcGxhbi4nLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2219,10 +2233,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZTogJ1N1YnNjcmliZSB0byBhIHBhaWQgcGxhbiB0byBsYXVuY2ggeW91ciBzdG9yZSBhbmQgc3RhcnQgYWNjZXB0aW5nIHBheW1lbnRzLicsCg==</text>
+        <text encoding="base64">ICBUUklBTF9VUEdSQURFOiBPYmplY3QuZnJlZXplKHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGl0bGU6ICdDYW5ub3QgR28gTGl2ZScsCg==</text>
+        <text encoding="base64">Y29uc3QgQVVUT19UUklHR0VSRURfRElTQ09VTlRTID0gewo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -2282,8 +2296,8 @@
         <entry>:w</entry>
         <entry>e</entry>
         <entry>wq</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
