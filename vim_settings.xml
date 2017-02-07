@@ -23,10 +23,10 @@
         <mark key="." line="220" column="43" />
         <mark key="^" line="220" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1486424342489">
+      <file name="/a.dummy" timestamp="1486498043426">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.messages.js" timestamp="1486485623225">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.messages.js" timestamp="1486498016101">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="22" />
@@ -114,6 +114,11 @@
         <mark key="]" line="7" column="57" />
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Customers/shared/stores/CustomerSearchStore.js" timestamp="1486497607639">
+        <mark key="'" line="102" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="61" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/NullableMoneyInput/NullableMoneyInput.jsx" timestamp="1484079098711">
         <mark key="[" line="21" column="50" />
@@ -1192,12 +1197,12 @@
         <mark key="." line="47" column="38" />
         <mark key="^" line="34" column="34" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" timestamp="1486486121903">
-        <mark key="'" line="31" column="2" />
-        <mark key="[" line="137" column="4" />
-        <mark key="]" line="137" column="4" />
-        <mark key="^" line="113" column="55" />
-        <mark key="." line="137" column="4" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" timestamp="1486498822825">
+        <mark key="'" line="106" column="5" />
+        <mark key="[" line="106" column="5" />
+        <mark key="]" line="106" column="5" />
+        <mark key="^" line="61" column="53" />
+        <mark key="." line="106" column="5" />
       </file>
       <file name="$USER_HOME$/AwesomeProject/index.ios.js" timestamp="1485537802013">
         <mark key="[" line="21" column="34" />
@@ -1278,14 +1283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
-      <jump line="145" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
-      <jump line="168" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
-      <jump line="157" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
-      <jump line="154" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
-      <jump line="151" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
-      <jump line="149" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
       <jump line="185" column="61" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
       <jump line="202" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
       <jump line="198" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
@@ -1378,51 +1375,57 @@
       <jump line="114" column="13" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
       <jump line="122" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
       <jump line="31" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="118" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="28" column="23" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="102" column="15" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Customers/shared/stores/CustomerSearchStore.js" />
+      <jump line="138" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="32" column="34" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="106" column="5" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgdGl0bGU6IE1FU1NBR0VTLmNvbW1lcmNlVHJpYWxUaXRsZSwKICAgICAgbWVzc2FnZTogTUVTU0FHRVMuY29tbWVyY2VUcmlhbE1lc3NhZ2UsIAogICAgICBkZXN0aW5hdGlvbjogVXBzZWxsRGVzdGluYXRpb24uVFJJQUxfVVBHUkFERV9QTEFOCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBPcHRpb25hbDxDYXJ0U2hpcHBpbmdPcHRpb24+IGNhcnRTaGlwcGluZ09wdGlvbk9wdGlvbmFsID0gY3R4LmdldENhcnRTaGlwcGluZ09wdGlvbigpOwogICAgaWYgKCFjYXJ0U2hpcHBpbmdPcHRpb25PcHRpb25hbC5pc1ByZXNlbnQoKSkgewogICAgICByZXR1cm4gTk9UX0FQUExJQ0FCTEU7CiAgICB9Cg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Reader</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>UpsellTrigger</text>
       </register>
-      <register name="0" type="4">
-        <text>'Switch to the Squarespace Commerce product to view and manage your customers. '
-      +
-      'Your current plan doesn\'t include this feature.'</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgYWx0ID0gcmVxdWlyZSgnZGlzcGF0Y2hlcnMvYWx0Jyk7CmNvbnN0IEltbXV0YWJsZVV0aWwgPSByZXF1aXJlKCdhbHQtdXRpbHMvbGliL0ltbXV0YWJsZVV0aWwnKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBPcHRpb25hbDxDYXJ0U2hpcHBpbmdPcHRpb24+IGNhcnRTaGlwcGluZ09wdGlvbk9wdGlvbmFsID0gY3R4LmdldENhcnRTaGlwcGluZ09wdGlvbigpOwogICAgaWYgKCFjYXJ0U2hpcHBpbmdPcHRpb25PcHRpb25hbC5pc1ByZXNlbnQoKSkgewogICAgICByZXR1cm4gTk9UX0FQUExJQ0FCTEU7CiAgICB9Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmVzcGFjZS5idXNpbmVzcy5jb21tZXJjZS5zaGlwcGluZy5jYXJyaWVycy51c3BzLnhtbC5VU1BTU2VydmljZVR5cGU7Cg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3F1YXJlc3BhY2UuYnVzaW5lc3MuY29tbWVyY2Uuc2hpcHBpbmcuY2FycmllcnMudXNwcy54bWwuVVNQU1NlcnZpY2VUeXBlLlVTUFNfU1RBTkRBUkQ7Cg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3F1YXJlc3BhY2UuYnVzaW5lc3MuY29tbWVyY2Uuc2hpcHBpbmcuY2FycmllcnMudXNwcy54bWwuVVNQU1NlcnZpY2VUeXBlLlVTUFNfUFJJT1JJVFk7Cg==</text>
+        <text encoding="base64">ICAgIH0pKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3F1YXJlc3BhY2UuYnVzaW5lc3MuY29tbWVyY2Uuc2hpcHBpbmcuY2FycmllcnMudXNwcy54bWwuVVNQU1NlcnZpY2VUeXBlLlVTUFNfRVhQUkVTUzsK</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmVzcGFjZS5idXNpbmVzcy5jb21tZXJjZS5zaGlwcGluZy5jYXJyaWVycy51c3BzLnhtbC5VU1BTU2VydmljZVR5cGU7Cg==</text>
+        <text encoding="base64">Y29uc3QgSW1tdXRhYmxlVXRpbCA9IHJlcXVpcmUoJ2FsdC11dGlscy9saWIvSW1tdXRhYmxlVXRpbCcpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2224,10 +2227,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgSW1tdXRhYmxlVXRpbCA9IHJlcXVpcmUoJ2FsdC11dGlscy9saWIvSW1tdXRhYmxlVXRpbCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc3F1YXJlc3BhY2UuYnVzaW5lc3MuY29tbWVyY2Uuc2hpcHBpbmcuY2FycmllcnMudXNwcy54bWwuVVNQU1NlcnZpY2VUeXBlLlVTUFNfU1RBTkRBUkQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
