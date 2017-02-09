@@ -166,6 +166,9 @@
         <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/currency/Money.js" timestamp="1486579931659" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" timestamp="1486672247719">
+        <mark key="'" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/utils/DiscountsApi.js" timestamp="1486069177872">
         <mark key="'" line="10" column="50" />
         <mark key="[" line="10" column="46" />
@@ -345,7 +348,7 @@
         <mark key="[" line="36" column="24" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" timestamp="1486584248707">
-        <mark key="'" line="167" column="7" />
+        <mark key="'" line="169" column="7" />
         <mark key="[" line="111" column="16" />
         <mark key="]" line="111" column="14" />
         <mark key="." line="111" column="14" />
@@ -582,7 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/shipping/carriers/usps/USPSServiceType.java" />
       <jump line="58" column="0" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/shipping/carriers/usps/USPSServiceType.java" />
       <jump line="53" column="0" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/shipping/carriers/usps/USPSServiceType.java" />
       <jump line="44" column="0" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/shipping/carriers/usps/USPSServiceType.java" />
@@ -682,6 +684,7 @@
       <jump line="153" column="14" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/editor/commerce/order/order.js" />
       <jump line="266" column="63" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/editor/commerce/order/order.js" />
       <jump line="168" column="7" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="13" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -697,7 +700,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>MoneyInput</text>
+        <text>handleMa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZWRpdFZhbHVlOiBub3JtYWxpemVWYWx1ZSh2YWx1ZSwgY3VycmVuY3lDb2RlLCBvcHRpb25hbCksCg==</text>
@@ -1539,9 +1542,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MoneyInput</last-search>
+      <last-search>handleMa</last-search>
       <last-offset />
-      <last-pattern>MoneyInput</last-pattern>
+      <last-pattern>handleMa</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -1549,8 +1552,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UpsellTrigger</entry>
-        <entry>WEBSITE_LEG</entry>
         <entry>business</entry>
         <entry>website-commerce</entry>
         <entry>allShippingOpt</entry>
@@ -1569,6 +1570,8 @@
         <entry>MoneyInout</entry>
         <entry>onBlur</entry>
         <entry>MoneyInput</entry>
+        <entry>handleMo</entry>
+        <entry>handleMa</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
