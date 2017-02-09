@@ -23,7 +23,7 @@
         <mark key="." line="220" column="43" />
         <mark key="^" line="220" column="43" />
       </file>
-      <file name="/a.dummy" timestamp="1486583167208">
+      <file name="/a.dummy" timestamp="1486680357967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.messages.js" timestamp="1486506712851">
@@ -103,6 +103,7 @@
         <mark key="^" line="49" column="71" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/index.js" timestamp="1486679886937" />
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/framework/exceptionhandler/DiscountValidationExceptionHandler.java" timestamp="1480368319380">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="24" />
@@ -993,7 +994,7 @@
         <mark key="^" line="50" column="53" />
         <mark key="." line="50" column="53" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/crud/ShippingOptionConverter.java" timestamp="1485289562899">
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/crud/ShippingOptionConverter.java" timestamp="1486679375504">
         <mark key="[" line="55" column="75" />
         <mark key="]" line="56" column="3" />
         <mark key="." line="56" column="3" />
@@ -1088,6 +1089,7 @@
         <mark key="^" line="20" column="34" />
         <mark key="." line="20" column="34" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.src.js" timestamp="1486679895350" />
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/applicability/DiscountApplicabilityRules.java" timestamp="1482353059502">
         <mark key="'" line="107" column="0" />
         <mark key="[" line="39" column="2" />
@@ -1426,7 +1428,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>handleMa</text>
+        <text>happy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZWRpdFZhbHVlOiBub3JtYWxpemVWYWx1ZSh2YWx1ZSwgY3VycmVuY3lDb2RlLCBvcHRpb25hbCksCg==</text>
@@ -2268,9 +2270,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handleMa</last-search>
+      <last-search>happy</last-search>
       <last-offset />
-      <last-pattern>handleMa</last-pattern>
+      <last-pattern>happy</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -2278,7 +2280,6 @@
     </search>
     <history>
       <history-search>
-        <entry>business</entry>
         <entry>website-commerce</entry>
         <entry>allShippingOpt</entry>
         <entry>getRefundProps</entry>
@@ -2298,6 +2299,7 @@
         <entry>MoneyInput</entry>
         <entry>handleMo</entry>
         <entry>handleMa</entry>
+        <entry>happy</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
@@ -2334,7 +2336,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
