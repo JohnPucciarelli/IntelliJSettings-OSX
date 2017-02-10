@@ -296,8 +296,8 @@
         <mark key="." line="6" column="76" />
         <mark key="^" line="6" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplate.java" timestamp="1486757066970">
-        <mark key="[" line="84" column="56" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplate.java" timestamp="1486763770491">
+        <mark key="[" line="43" column="17" />
         <mark key="]" line="84" column="56" />
         <mark key="^" line="84" column="63" />
         <mark key="." line="84" column="56" />
@@ -442,12 +442,12 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" timestamp="1486763461816">
-        <mark key="'" line="54" column="59" />
-        <mark key="[" line="376" column="7" />
-        <mark key="]" line="374" column="37" />
-        <mark key="^" line="374" column="37" />
-        <mark key="." line="374" column="37" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" timestamp="1486763929317">
+        <mark key="'" line="55" column="59" />
+        <mark key="[" line="391" column="91" />
+        <mark key="]" line="392" column="5" />
+        <mark key="^" line="392" column="5" />
+        <mark key="." line="392" column="5" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/panel-container.js" timestamp="1480976644142">
         <mark key="[" line="26" column="16" />
@@ -1414,13 +1414,13 @@
         <text encoding="base64">ICAgICAgdGl0bGU6IE1FU1NBR0VTLmNvbW1lcmNlVHJpYWxUaXRsZSwKICAgICAgbWVzc2FnZTogTUVTU0FHRVMuY29tbWVyY2VUcmlhbE1lc3NhZ2UsIAogICAgICBkZXN0aW5hdGlvbjogVXBzZWxsRGVzdGluYXRpb24uVFJJQUxfVVBHUkFERV9QTEFOCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text encoding="base64">KCkpIA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">KCkpIA==</text>
       </register>
       <register name="/" type="4">
         <text>happy</text>
