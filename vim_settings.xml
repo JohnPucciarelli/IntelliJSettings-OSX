@@ -394,11 +394,11 @@
         <mark key="^" line="27" column="31" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/adapter/CommerceCouponAdapter.java" timestamp="1486759415776">
-        <mark key="[" line="268" column="110" />
-        <mark key="]" line="269" column="5" />
-        <mark key="." line="269" column="5" />
-        <mark key="^" line="269" column="5" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/adapter/CommerceCouponAdapter.java" timestamp="1486761569867">
+        <mark key="[" line="251" column="119" />
+        <mark key="]" line="252" column="7" />
+        <mark key="^" line="252" column="7" />
+        <mark key="." line="252" column="7" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/PaymentSettings/stores/PaymentSettingsStore.js" timestamp="1482435154500">
         <mark key="'" line="0" column="0" />
@@ -441,6 +441,12 @@
         <mark key="]" line="8" column="6" />
         <mark key="^" line="15" column="1" />
         <mark key="." line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" timestamp="1486761758666">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="60" />
+        <mark key="^" line="52" column="60" />
+        <mark key="." line="52" column="60" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/panel-container.js" timestamp="1480976644142">
         <mark key="[" line="26" column="16" />
@@ -1407,13 +1413,13 @@
         <text encoding="base64">ICAgICAgdGl0bGU6IE1FU1NBR0VTLmNvbW1lcmNlVHJpYWxUaXRsZSwKICAgICAgbWVzc2FnZTogTUVTU0FHRVMuY29tbWVyY2VUcmlhbE1lc3NhZ2UsIAogICAgICBkZXN0aW5hdGlvbjogVXBzZWxsRGVzdGluYXRpb24uVFJJQUxfVVBHUkFERV9QTEFOCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>happy</text>
@@ -1431,19 +1437,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb3Vwb25TaGlwcGluZ09wdGlvbk9wdGlvbmFsLmdldCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNoaXBwaW5nT3B0aW9uVjIgc2hpcHBpbmdPcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE9wdGlvbmFsPFNoaXBwaW5nT3B0aW9uRGlzY291bnQ+IHNoaXBwaW5nT3B0aW9uRGlzY291bnRPcHRpb25hbCA9IGNyZWF0ZURpc2NvdW50U2hpcHBpbmdPcHRpb24oY29tbWVyY2VDb3Vwb24sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2hpcHBpbmdPcHRpb24gPSBuZXcK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWF4U2hpcHBpbmdDb3N0Q2VudHMgPSBtYXhTaGlwcGluZ0Nvc3RDZW50czsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICghZG9lc09wdGlvbkV4aXN0KSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2245,10 +2251,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2hpcHBpbmdPcHRpb24gPSBzaGlwcGluZ09wdGlvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMubGltaXRUb1NoaXBwaW5nT3B0aW9uID0gbGltaXRUb1NoaXBwaW5nT3B0aW9uOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICBib29sZWFuIGRvZXNPcHRpb25FeGlzdCA9IHNoaXBwaW5nT3B0aW9uT3B0aW9uYWwuaXNQcmVzZW50KCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
