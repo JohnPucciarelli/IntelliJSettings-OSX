@@ -318,7 +318,8 @@
         <mark key="." line="6" column="76" />
         <mark key="^" line="6" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplate.java" timestamp="1486763770491">
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplate.java" timestamp="1487012098121">
+        <mark key="'" line="32" column="9" />
         <mark key="[" line="43" column="17" />
         <mark key="]" line="84" column="56" />
         <mark key="^" line="84" column="63" />
@@ -1336,7 +1337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="34" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="38" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="40" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
@@ -1436,6 +1436,7 @@
       <jump line="221" column="67" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidatorTest.java" />
       <jump line="204" column="39" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidatorTest.java" />
       <jump line="365" column="12" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
+      <jump line="32" column="9" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplate.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1451,7 +1452,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>promo_code_</text>
+        <text>determine</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QFRlc3QKICBwdWJsaWMgdm9pZCB0ZXN0VmFsaWRhdGVOb25FeGlzdGluZ1NoaXBwaW5nT3B0aW9uKCkgewogICAgU2hpcHBpbmdPcHRpb25EaXNjb3VudCBzaGlwcGluZ09wdGlvbkRpc2NvdW50ID0gU2hpcHBpbmdPcHRpb25EaXNjb3VudC5idWlsZGVyKCkKICAgICAgICAuc2hpcHBpbmdPcHRpb25JZChPYmplY3RJZC5nZXQoKSkKICAgICAgICAuYnVpbGQoKTsKCiAgICAgRGlzY291bnQgZGlzY291bnQgPSBEaXNjb3VudC5idWlsZGVyKCkKICAgICAgICAudGVtcGxhdGUobmV3IEZyZWVTaGlwcGluZ0Rpc2NvdW50VGVtcGxhdGUodHJ1ZSwgc2hpcHBpbmdPcHRpb25EaXNjb3VudCwgbnVsbCkpCiAgICAgICAgLmNyaXRlcmlhKG5ldyBDYXJ0VG90YWxDcml0ZXJpYSg1MDAwMCkpCiAgICAgICAgLnRyaWdnZXIobmV3IFByb21vQ29kZVRyaWdnZXIoImNvZGUiKSkKICAgICAgICAudmFsaWRGcm9tKEluc3RhbnQubm93KCkpCiAgICAgICAgLmJ1aWxkKCk7CgogICAgdHJ5IHsKICAgICAgdmFsaWRhdG9yLnZhbGlkYXRlKGRpc2NvdW50LCB3ZWJzaXRlKTsKICAgICAgZmFpbCgiRXhwZWN0ZWQgdmFsaWRhdGlvbiBvZiB0aGUgZGlzY291bnQgc2hpcHBpbmcgb3B0aW9uIHRvIGZhaWwuIik7CiAgICB9IGNhdGNoIChEaXNjb3VudFZhbGlkYXRpb25FeGNlcHRpb24gZSkgewogICAgICBMaXN0PERpc2NvdW50VmFsaWRhdGlvbkVycm9yVHlwZT4gZXJyb3JUeXBlcyA9IGUuZ2V0RXJyb3JUeXBlcygpOwogICAgICBhc3NlcnRUaGF0KGVycm9yVHlwZXMuaXNFbXB0eSgpLCBpcyhmYWxzZSkpOwogICAgICBhc3NlcnRUaGF0KGVycm9yVHlwZXMsIGhhc0l0ZW0oRGlzY291bnRWYWxpZGF0aW9uRXJyb3JUeXBlLk5PTl9FWElTVElOR19TSElQUElOR19PUFRJT04pKTsKICAgIH0KICB9</text>
@@ -2293,9 +2294,9 @@
       </register>
     </registers>
     <search>
-      <last-search>promo_code_</last-search>
+      <last-search>determine</last-search>
       <last-offset />
-      <last-pattern>promo_code_</last-pattern>
+      <last-pattern>determine</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -2303,7 +2304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bindField</entry>
         <entry>MoneyInout</entry>
         <entry>onBlur</entry>
         <entry>MoneyInput</entry>
@@ -2323,6 +2323,7 @@
         <entry>EmptyDis</entry>
         <entry>free-shipping</entry>
         <entry>promo_code_</entry>
+        <entry>determine</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
