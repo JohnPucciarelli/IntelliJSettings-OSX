@@ -544,6 +544,13 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/FlattenedShippingOption.java" timestamp="1487108144570">
+        <mark key="'" line="63" column="25" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="21" column="9" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Settings/screens/Billing/screens/SwitchProductsCheckoutSummary/SwitchProductsCheckoutSummary.jsx" timestamp="1479335270616">
         <mark key="'" line="8" column="71" />
         <mark key="[" line="8" column="71" />
@@ -1356,7 +1363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="3" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="53" column="59" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="400" column="2" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="173" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
@@ -1456,49 +1462,50 @@
       <jump line="3" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/FlattenedShippingOptionDiscount.java" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/FlattenedShippingOptionDiscount.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/FlattenedShippingOptionDiscount.java" />
+      <jump line="63" column="25" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/FlattenedShippingOption.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyB3cml0ZS1vbmx5Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>serialized</text>
       </register>
       <register name="/" type="4">
         <text>coreapplication</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgcHVibGljIEZsYXR0ZW5lZFNoaXBwaW5nT3B0aW9uRGlzY291bnQoT2JqZWN0SWQgc2hpcHBpbmdPcHRpb25JZCwgU3RyaW5nIHNoaXBwaW5nT3B0aW9uTmFtZSkgewogICAgdGhpcy5hcHBsaWVzVG9BbGxTaGlwcGluZ09wdGlvbnMgPSBudWxsOwogICAgdGhpcy5zaGlwcGluZ09wdGlvbklkID0gc2hpcHBpbmdPcHRpb25JZDsKICAgIHRoaXMuc2hpcHBpbmdPcHRpb25OYW1lID0gc2hpcHBpbmdPcHRpb25OYW1lOwogICAgdGhpcy5zZXJ2aWNlVHlwZSA9IG51bGw7CiAgICB0aGlzLmFwcGxpZXNUb0FsbFNlcnZpY2VzID0gbnVsbDsKICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAvLyB3cml0ZS1vbmx5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyB3cml0ZS1vbmx5Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAvLyB3cml0ZS1vbmx5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwcGxpZXNUb0FsbFNlcnZpY2VzID0gbnVsbDsK</text>
+        <text encoding="base64">ICAvLyB3cml0ZS1vbmx5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VUeXBlID0gbnVsbDsK</text>
+        <text encoding="base64">ICBAUmVhZC0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNoaXBwaW5nT3B0aW9uTmFtZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybjs7ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNoaXBwaW5nT3B0aW9uSWQgPSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwcGxpZXNUb0FsbFNoaXBwaW5nT3B0aW9ucyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEJvb2xlYW4gYXBwbGllc1RvQWxsU2VydmljZXM7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2300,7 +2307,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEZsYXR0ZW5lZFNoaXBwaW5nT3B0aW9uRGlzY291bnQoKSB7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEJvb2xlYW4gaXNTZXJ2aWNlTWlzc2luZzsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
