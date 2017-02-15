@@ -217,12 +217,12 @@
         <mark key="^" line="26" column="32" />
         <mark key="." line="36" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" timestamp="1487000758400">
-        <mark key="'" line="53" column="2" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
-        <mark key="^" line="137" column="31" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" timestamp="1487197355982">
+        <mark key="'" line="234" column="2" />
+        <mark key="[" line="262" column="26" />
+        <mark key="]" line="262" column="26" />
+        <mark key="^" line="134" column="31" />
+        <mark key="." line="205" column="46" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/utils/addDaysToDate.js" timestamp="1485820561310">
         <mark key="[" line="7" column="2" />
@@ -1404,12 +1404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="7" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/actions/DiscountActions.js" />
-      <jump line="17" column="7" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/actions/DiscountActions.js" />
-      <jump line="18" column="7" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/actions/DiscountActions.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
-      <jump line="141" column="48" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
-      <jump line="142" column="37" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="151" column="48" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="333" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="127" column="41" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
@@ -1504,49 +1498,55 @@
       <jump line="44" column="13" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/DiscountFactory.java" />
       <jump line="11" column="42" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/ShippingOptionFlattener.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/ShippingOptionFlattener.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
+      <jump line="12" column="13" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
+      <jump line="202" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
+      <jump line="204" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
+      <jump line="215" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
+      <jump line="238" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>response</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
-        <text>coreapplication</text>
+        <text>onfetch</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAvLyB0aGlzIGRpc2NvdW50IGFwcGxpZXMgdG8gYWxsIHNlcnZpY2VzIG9mIGEgc3BlY2lmaWMgc2hpcHBpbmcgb3B0aW9uCiAgcHVibGljIHN0YXRpYyBGbGF0dGVuZWRTaGlwcGluZ09wdGlvbiBmb3JBbGxTZXJ2aWNlcyhPYmplY3RJZCBzaGlwcGluZ09wdGlvbklkLCBTdHJpbmcgc2hpcHBpbmdPcHRpb25OYW1lKSB7CiAgICByZXR1cm4gYnVpbGRlcigpCiAgICAgICAgLnNoaXBwaW5nT3B0aW9uSWQoc2hpcHBpbmdPcHRpb25JZCkKICAgICAgICAuc2hpcHBpbmdPcHRpb25OYW1lKHNoaXBwaW5nT3B0aW9uTmFtZSkKICAgICAgICAuYXBwbGllc1RvQWxsU2VydmljZXModHJ1ZSkKICAgICAgICAuYnVpbGQoKTsKICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuYXBwbGllc1RvQWxsU2VydmljZXModHJ1KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZmluZFNlbGVjdGVkT3B0aW9uSW5kZXggPSByZXF1aXJlKCd1dGlscy9maW5kU2VsZWN0ZWRPcHRpb25JbmRleCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRmxhdHRlbmVkU2hpcHBpbmdPcHRpb24gZmxhdHRlbmVkID0gRmxhdHRlbmVkU2hpcHBpbmdPcHRpb24uZm9yQWxsU2VydmljZXMoc2hpcHBpbmdPcHRpb25JZCwgc2hpcHBpbmdPcHRpb25OYW1lKTsK</text>
+        <text encoding="base64">Y29uc3QgZmxhdHRlblNoaXBwaW5nT3B0aW9ucyA9IHJlcXVpcmUoJ3V0aWxzL2ZsYXR0ZW5TaGlwcGluZ09wdGlvbnMnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0FsbFNlcnZpY2VzU2VsZWN0ZWQpIHsKICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoZmxhdHRlbmVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAuYXBwbGllc1RvQWxsU2VydmljZXModHJ1KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRmxhdHRlbmVkU2hpcHBpbmdPcHRpb24gZmxhdHRlbmVkID0gRmxhdHRlbmVkU2hpcHBpbmdPcHRpb24uZm9yQWxsU2VydmljZXMoc2hpcHBpbmdPcHRpb25JZCwgc2hpcHBpbmdPcHRpb25OYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0FsbFNlcnZpY2VzU2VsZWN0ZWQpIHsK</text>
+        <text encoding="base64">ICAgICAgRmxhdHRlbmVkU2hpcHBpbmdPcHRpb24gZmxhdHRlbmVkID0gRmxhdHRlbmVkU2hpcHBpbmdPcHRpb24uZm9yQWxsU2VydmljZXMoc2hpcHBpbmdPcHRpb25JZCwgc2hpcHBpbmdPcHRpb25OYW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmIChpc0FsbFNlcnZpY2VzU2VsZWN0ZWQpIHsKICAgICAgcmV0dXJuIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoZmxhdHRlbmVkKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2348,10 +2348,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEZsYXR0ZW5lZFNoaXBwaW5nT3B0aW9uIGZsYXR0ZW5lZFNoaXBwaW5nT3B0aW9uID0gCg==</text>
+        <text encoding="base64">ICAgICAgRmxhdHRlbmVkU2hpcHBpbmdPcHRpb24gZmxhdHRlbmVkID0gRmxhdHRlbmVkU2hpcHBpbmdPcHRpb24uZm9yQWxsU2VydmljZXMoc2hpcHBpbmdPcHRpb25JZCwgc2hpcHBpbmdPcHRpb25OYW1lKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChpc0FsbFNlcnZpY2VzU2VsZWN0ZWQpIHsK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -2361,9 +2361,9 @@
       </register>
     </registers>
     <search>
-      <last-search>coreapplication</last-search>
+      <last-search>onfetch</last-search>
       <last-offset />
-      <last-pattern>coreapplication</last-pattern>
+      <last-pattern>onfetch</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -2371,8 +2371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setFreeShip</entry>
-        <entry>setFreeShipping</entry>
         <entry>setFree</entry>
         <entry>name</entry>
         <entry>renderPanel</entry>
@@ -2391,6 +2389,8 @@
         <entry>Customers must</entry>
         <entry>This discount</entry>
         <entry>coreapplication</entry>
+        <entry>shipping</entry>
+        <entry>onfetch</entry>
       </history-search>
       <history-cmd>
         <entry>d</entry>
