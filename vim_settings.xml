@@ -639,11 +639,11 @@
         <mark key="^" line="44" column="2" />
         <mark key="." line="44" column="2" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/DiscountTemplateResponseFactory.java" timestamp="1487198599405">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="86" column="39" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/DiscountTemplateResponseFactory.java" timestamp="1487201968371">
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="29" column="41" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="29" column="41" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/mocha.opts" timestamp="1479319876817">
         <mark key="[" line="1" column="0" />
@@ -1105,6 +1105,12 @@
         <mark key="^" line="1" column="41" />
         <mark key="." line="1" column="41" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateFactory.java" timestamp="1487202213702">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="38" column="71" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/PromoCodeInput/PromoCodeInput.jsx" timestamp="1481583463302">
         <mark key="[" line="50" column="47" />
         <mark key="]" line="50" column="53" />
@@ -1188,8 +1194,8 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/ShippingOptionSelector.java" timestamp="1487201333976">
-        <mark key="[" line="2" column="37" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/ShippingOptionSelector.java" timestamp="1487201819964">
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="1" />
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
@@ -1428,7 +1434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="48" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="333" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="127" column="41" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="306" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/records/DiscountRecord.js" />
@@ -1528,49 +1533,50 @@
       <jump line="204" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="215" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="238" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gbGltaXRUb1NoaXBwaW5nT3B0aW9uID0gdGVtcGxhdGUuaXNMaW1pdFRvU2hpcHBpbmdPcHRpb24oKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">ZGlzY291bnRTaGlwcGluZ09wdGlvbk9wdGlvbmFsIA==</text>
       </register>
       <register name="/" type="4">
         <text>onfetch</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAvLyB0aGlzIGRpc2NvdW50IGFwcGxpZXMgdG8gYWxsIHNlcnZpY2VzIG9mIGEgc3BlY2lmaWMgc2hpcHBpbmcgb3B0aW9uCiAgcHVibGljIHN0YXRpYyBGbGF0dGVuZWRTaGlwcGluZ09wdGlvbiBmb3JBbGxTZXJ2aWNlcyhPYmplY3RJZCBzaGlwcGluZ09wdGlvbklkLCBTdHJpbmcgc2hpcHBpbmdPcHRpb25OYW1lKSB7CiAgICByZXR1cm4gYnVpbGRlcigpCiAgICAgICAgLnNoaXBwaW5nT3B0aW9uSWQoc2hpcHBpbmdPcHRpb25JZCkKICAgICAgICAuc2hpcHBpbmdPcHRpb25OYW1lKHNoaXBwaW5nT3B0aW9uTmFtZSkKICAgICAgICAuYXBwbGllc1RvQWxsU2VydmljZXModHJ1ZSkKICAgICAgICAuYnVpbGQoKTsKICB9</text>
+        <text encoding="base64">CiAgcHJpdmF0ZSBEaXNjb3VudFRlbXBsYXRlUmVzcG9uc2UgY3JlYXRlRnJlZVNoaXBwaW5nVGVtcGxhdGUoRnJlZVNoaXBwaW5nRGlzY291bnRUZW1wbGF0ZSB0ZW1wbGF0ZSwKICAgICAgU3RyaW5nIGN1cnJlbmN5Q29kZSwgT2JqZWN0SWQgd2Vic2l0ZUlkKSB7CiAgICBPcHRpb25hbDxJbnRlZ2VyPiBtYXhTaGlwcGluZ0Nvc3RPcHRpb25hbCA9IHRlbXBsYXRlLmdldE1heFNoaXBwaW5nQ29zdENlbnRzKCk7CgogICAgYm9vbGVhbiBsaW1pdFRvU2hpcHBpbmdPcHRpb24gPSB0ZW1wbGF0ZS5pc0xpbWl0VG9TaGlwcGluZ09wdGlvbigpOwoKICAgIE1vbmV5IG1heFNoaXBwaW5nQ29zdCA9IG1heFNoaXBwaW5nQ29zdE9wdGlvbmFsLmlzUHJlc2VudCgpCiAgICAgICAgPyBuZXcgTW9uZXkoY3VycmVuY3lDb2RlLCBtYXhTaGlwcGluZ0Nvc3RPcHRpb25hbC5nZXQoKSkKICAgICAgICA6IG51bGw7CgogICAgT3B0aW9uYWw8U2hpcHBpbmdPcHRpb25EaXNjb3VudD4gZGlzY291bnRTaGlwcGluZ09wdGlvbk9wdGlvbmFsID0gdGVtcGxhdGUuZ2V0U2hpcHBpbmdPcHRpb24oKTsKICAgIFNoaXBwaW5nT3B0aW9uRGlzY291bnQgc2hpcHBpbmdPcHRpb25EaXNjb3VudCA9IGRpc2NvdW50U2hpcHBpbmdPcHRpb25PcHRpb25hbC5vckVsc2UobnVsbCk7CgogICAgRmxhdHRlbmVkU2hpcHBpbmdPcHRpb24gZmxhdHRlbmVkU2hpcHBpbmdPcHRpb24gPSBudWxsOwogICAgaWYgKGxpbWl0VG9TaGlwcGluZ09wdGlvbiAmJiBzaGlwcGluZ09wdGlvbkRpc2NvdW50ICE9IG51bGwpIHsKICAgICAgLy8gb25seSBzdXBwb3J0aW5nIG9uZSBzZWxlY3RlZCBzZXJ2aWNlIGZvciBub3cKICAgICAgZmxhdHRlbmVkU2hpcHBpbmdPcHRpb24gPSBTaGlwcGluZ09wdGlvbkZsYXR0ZW5lci5mbGF0dGVuKHNoaXBwaW5nT3B0aW9uRGlzY291bnQpLmdldCgwKTsKICAgICAgZmxhdHRlbmVkU2hpcHBpbmdPcHRpb24ubWFya1NlbGVjdGVkKCk7CiAgICB9CgogICAgTGlzdDxGbGF0dGVuZWRTaGlwcGluZ09wdGlvbj4gYWxsU2hpcHBpbmdPcHRpb25zID0gc2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIucmV0cmlldmVBbGxTaGlwcGluZ09wdGlvbnMod2Vic2l0ZUlkKQogICAgICAgIC5zdHJlYW0oKQogICAgICAgIC5tYXAoU2hpcHBpbmdPcHRpb25EaXNjb3VudEZhY3Rvcnk6OmNyZWF0ZSkKICAgICAgICAubWFwKFNoaXBwaW5nT3B0aW9uRmxhdHRlbmVyOjpmbGF0dGVuKQogICAgICAgIC5mbGF0TWFwKExpc3Q6OnN0cmVhbSkKICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCiAgICBpZiAobGltaXRUb1NoaXBwaW5nT3B0aW9uKSB7CiAgICAgIEZsYXR0ZW5lZFNoaXBwaW5nT3B0aW9uIGFsbFNlcnZpY2VzT3B0aW9uID0gRmxhdHRlbmVkU2hpcHBpbmdPcHRpb24uZm9yQWxsT3B0aW9ucygpOwogICAgICBhbGxTZXJ2aWNlc09wdGlvbi5tYXJrU2VsZWN0ZWQoKTsKICAgICAgYWxsU2hpcHBpbmdPcHRpb25zLmFkZCgwLCBhbGxTZXJ2aWNlc09wdGlvbik7CiAgICB9CgogICAgcmV0dXJuIEZyZWVTaGlwcGluZ0Rpc2NvdW50VGVtcGxhdGVSZXNwb25zZS5idWlsZGVyKCkKICAgICAgICAubGltaXRUb1NoaXBwaW5nT3B0aW9uKGxpbWl0VG9TaGlwcGluZ09wdGlvbikKICAgICAgICAubWF4U2hpcHBpbmdDb3N0KG1heFNoaXBwaW5nQ29zdCkKICAgICAgICAuYWxsU2hpcHBpbmdPcHRpb25zKGFsbFNoaXBwaW5nT3B0aW9ucykKICAgICAgICAuYnVpbGQoKTsKICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gbGltaXRUb1NoaXBwaW5nT3B0aW9uID0gdGVtcGxhdGUuaXNMaW1pdFRvU2hpcHBpbmdPcHRpb24oKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBqcHVjY2lhcmVsbGkgb24gMi8xNS8xNy4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIGlmICghbGltaXRUb1NoaXBwaW5nT3B0aW9uYCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuc2hpcHBpbmdPcHRpb24oZmxhdHRlbmVkU2hpcHBpbmdPcHRpb24pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICh0ZW1wbGF0ZS5pc0xpbWl0VG9TaGlwcGluZ09wdGlvbigpKSB7Cg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWxsU2hpcHBpbmdPcHRpb25zLmFkZCgwLCBGcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFNoaXBwaW5nT3B0aW9uRGlzY291bnQgc2hpcHBpbmdPcHRpb25EaXNjb3VudCA9IGRpc2NvdW50U2hpcHBpbmdPcHRpb25PcHRpb25hbC5vckVsc2UobnVsbCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2372,7 +2378,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmVzcGFjZS52Ni5tb2RlbC5TaGlwcGluZ09wdGlvbjsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
