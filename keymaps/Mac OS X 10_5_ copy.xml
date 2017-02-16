@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ActivateRunToolWindow" />
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="meta alt k" />
+  </action>
   <action id="DebugClass" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorMatchBrace">
