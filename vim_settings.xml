@@ -346,12 +346,12 @@
         <mark key="." line="6" column="76" />
         <mark key="^" line="6" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/ShippingOptionFlattener.java" timestamp="1487289294305">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/ShippingOptionFlattener.java" timestamp="1487357255992">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="73" />
-        <mark key="]" line="28" column="86" />
-        <mark key="." line="28" column="86" />
-        <mark key="^" line="28" column="86" />
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="37" column="51" />
+        <mark key="." line="37" column="51" />
+        <mark key="^" line="37" column="51" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplate.java" timestamp="1487025438468">
         <mark key="'" line="32" column="9" />
@@ -1547,44 +1547,44 @@
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CollectionUti</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>nonCarrier</text>
+        <text>CollectionUti</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5vbkNhcnJpZXIuZ2V0U2hpcHBpbmdPcHRpb25JZCgpID09IHNoaXBwaW5nT3B0aW9uSWQ7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PSBuZXcgQXJyYXlMaXN0PD4oZmxhdHRlbmVkU2VydmljZXMuc2l6ZSgpICsgMSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWxsRmxhdHRlbmVkT3B0aW9ucyA9IG5ldyBBcnJheUxpc3Q8PihmbGF0dGVuZWRTZXJ2aWNlcy5zaXplKCkgKyAxKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZmxhdHRlbmVkU2VydmljZXMuYWRkKDAsIGFsbFNlcnZpY2VzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgTGlzdDxGbGF0dGVuZWRTaGlwcGluZ09wdGlvbj4gYWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgTGlzdDw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChmbGF0dGVuZWRPcHRpb24uZ2V0U2hpcHBpbmdPcHRpb25JZCgpICE9IHNoaXBwaW5nT3B0aW9uLmdldFNoaXBwaW5nT3B0aW9uSWQoKSkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmbGF0dGVuZWRPcHRpb24uZ2V0U2VydmljZVR5cGUoKSA9PSBzZWxlY3RlZFNlcnZpY2VzLmdldCgwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U2hpcHBpbmdPcHRpb25TZXJ2aWNlVHlwZT4gc2VsZWN0ZWRTZXJ2aWNlcyA9IHNoaXBwaW5nT3B0aW9uLmdldFNlbGVjdGVkU2VydmljZXMoKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2386,10 +2386,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHNoaXBwaW5nIG9wdGlvbnMgY2FuIG9ubHkgaGF2ZSBvbmUgc2VsZWN0ZWQgc2VydmljZSBmb3Igbm93Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNoZWNrIGlmIHNlcnZpY2UgbWF0Y2hlcwo=</text>
+        <text encoding="base64">ICAgIGlmIChmbGF0dGVuZWRPcHRpb24uZ2V0U2hpcHBpbmdPcHRpb25JZCgpICE9IHNoaXBwaW5nT3B0aW9uLmdldFNoaXBwaW5nT3B0aW9uSWQoKSkgewo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -2405,7 +2405,7 @@
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
