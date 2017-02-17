@@ -5,31 +5,31 @@
     <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
     <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="false" />
     <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STRING" value="false" />
-      <option name="GROOVY" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
       <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
     </context>
   </template>
   <template name="def" value="return getDefault(&quot;$METHOD_NAME$&quot;);" description="calls getDefault" toReformat="true" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
     <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STRING" value="false" />
-      <option name="GROOVY" value="true" />
-      <option name="JAVA_COMMENT" value="false" />
       <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
     </context>
   </template>
   <template name="soutf" value="System.out.printf(&quot;$EXPR_COPY$='%s'\n&quot;, $EXPR$);" description="Prints a value to System.out" toReformat="true" toShortenFQNames="true">
     <variable name="EXPR" expression="variableOfType(&quot;&quot;)" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
     <variable name="EXPR_COPY" expression="EXPR" defaultValue="" alwaysStopAt="false" />
     <context>
-      <option name="GROOVY" value="true" />
       <option name="ASPECTJ" value="true" />
-      <option name="JAVA_CODE" value="true" />
       <option name="COMPLETION" value="false" />
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
       <option name="JAVA_COMMENT" value="false" />
       <option name="JAVA_STRING" value="false" />
     </context>

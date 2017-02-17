@@ -1,10 +1,10 @@
 <templateSet group="other">
   <template name="inj" value="@javax.inject.Inject" description="Annotates a type with @Inject" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_CODE" value="true" />
-      <option name="JAVA_STRING" value="false" />
-      <option name="JAVA_COMMENT" value="false" />
       <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
     </context>
   </template>
   <template name="log" value="private static final org.slf4j.Logger LOG = org.slf4j.LoggerFactory.getLogger($CLASS_NAME$.class);&#10;" description="Add log line" toReformat="false" toShortenFQNames="true">
