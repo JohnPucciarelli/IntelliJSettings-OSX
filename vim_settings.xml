@@ -652,6 +652,9 @@
       <file name="/Dummy.txt" timestamp="1487283160840">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/ShoppingCartResource.java" timestamp="1487717472740">
+        <mark key="'" line="40" column="13" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/ShippingOptionCarrierType.java" timestamp="1485466644598">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -1411,7 +1414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
       <jump line="4" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
       <jump line="2" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
@@ -1511,6 +1513,7 @@
       <jump line="148" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="15" column="26" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="155" column="11" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
+      <jump line="40" column="13" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/ShoppingCartResource.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1526,7 +1529,7 @@
         <text>money</text>
       </register>
       <register name="/" type="4">
-        <text>handlefixed</text>
+        <text>entries</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGlzcGxheVZhbHVlID0gZm9ybWF0dGVyLmZvcm1hdChtb25leSk7Cg==</text>
@@ -2368,9 +2371,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handlefixed</last-search>
+      <last-search>entries</last-search>
       <last-offset />
-      <last-pattern>handlefixed</last-pattern>
+      <last-pattern>entries</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -2378,7 +2381,6 @@
     </search>
     <history>
       <history-search>
-        <entry>date.get</entry>
         <entry>Promo Code</entry>
         <entry>Customers must</entry>
         <entry>This discount</entry>
@@ -2398,6 +2400,7 @@
         <entry>format(</entry>
         <entry>replace</entry>
         <entry>handlefixed</entry>
+        <entry>entries</entry>
       </history-search>
       <history-cmd>
         <entry>:W</entry>
