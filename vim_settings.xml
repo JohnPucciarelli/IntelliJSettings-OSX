@@ -389,7 +389,7 @@
         <mark key="^" line="231" column="34" />
         <mark key="." line="236" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/currency/Money.js" timestamp="1487708999092">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/currency/Money.js" timestamp="1487709960465">
         <mark key="'" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/business/commerce/cart/ApplyPromoCodeToCartOperationIT.java" timestamp="1487009118239">
@@ -905,12 +905,12 @@
         <mark key="." line="63" column="50" />
         <mark key="^" line="63" column="50" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" timestamp="1487709097096">
-        <mark key="'" line="204" column="0" />
-        <mark key="[" line="134" column="40" />
-        <mark key="]" line="135" column="3" />
-        <mark key="." line="135" column="3" />
-        <mark key="^" line="135" column="3" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" timestamp="1487710609098">
+        <mark key="'" line="108" column="12" />
+        <mark key="[" line="102" column="63" />
+        <mark key="]" line="103" column="3" />
+        <mark key="." line="103" column="3" />
+        <mark key="^" line="103" column="3" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/webpack.config.js" timestamp="1482515770412">
         <mark key="[" line="86" column="12" />
@@ -1434,15 +1434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
-      <jump line="148" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
-      <jump line="160" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
-      <jump line="165" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
-      <jump line="170" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
-      <jump line="175" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
-      <jump line="180" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
-      <jump line="185" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
-      <jump line="191" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="197" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="202" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="206" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
@@ -1480,26 +1471,19 @@
       <jump line="85" column="26" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
       <jump line="18" column="23" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
       <jump line="30" column="1" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
-      <jump line="22" column="58" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="46" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="347" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="174" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="147" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="191" column="19" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
-      <jump line="52" column="1" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
-      <jump line="44" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="48" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="58" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
-      <jump line="65" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="74" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="82" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
-      <jump line="92" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
-      <jump line="96" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="107" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="114" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="117" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
-      <jump line="124" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="142" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="144" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="149" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
@@ -1518,7 +1502,6 @@
       <jump line="63" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="215" column="9" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="79" column="9" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
-      <jump line="106" column="37" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="108" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="171" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="196" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
@@ -1534,6 +1517,23 @@
       <jump line="14" column="30" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/currency/Money.js" />
       <jump line="17" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/currency/Money.js" />
       <jump line="19" column="15" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/currency/Money.js" />
+      <jump line="22" column="47" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="65" column="32" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="44" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="52" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="73" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="81" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="84" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="89" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="92" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="96" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="100" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="106" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="136" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="124" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="120" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="111" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="105" column="12" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1546,13 +1546,13 @@
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Ck1vbmV5SW5wdXQucHJvcFR5cGVzID0gewogIHZhbHVlOiBSZWFjdC5Qcm9wVHlwZXMub25lT2ZUeXBlKFsKICAgIFJlYWN0LlByb3BUeXBlcy5udW1iZXIsCiAgICBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nCiAgXSksCiAgb3B0aW9uYWw6IFJlYWN0LlByb3BUeXBlcy5ib29sLAogIGNsYXNzTmFtZTogUmVhY3QuUHJvcFR5cGVzLnN0cmluZywKICBjdXJyZW5jeUNvZGU6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwKICBlcnJvckNsYXNzTmFtZTogUmVhY3QuUHJvcFR5cGVzLnN0cmluZywKICBlcnJvck1lc3NhZ2U6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcsCiAgZm9ybWF0dGVyOiBSZWFjdC5Qcm9wVHlwZXMuaW5zdGFuY2VPZihNb25leUZvcm1hdHRlciksCiAgaGFzRXJyb3JzOiBSZWFjdC5Qcm9wVHlwZXMuYm9vbCwKICBpbmxpbmU6IFJlYWN0LlByb3BUeXBlcy5ib29sLAogIGxhYmVsOiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLAogIG1heExlbmd0aDogUmVhY3QuUHJvcFR5cGVzLm51bWJlciwKICBvbkJsdXI6IFJlYWN0LlByb3BUeXBlcy5mdW5jLAogIHBsYWNlaG9sZGVyOiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLAogIHJlYWRPbmx5OiBSZWFjdC5Qcm9wVHlwZXMuYm9vbCwKICB0aGVtZTogVGhlbWVQcm9wVHlwZSwKfTsKCk1vbmV5SW5wdXQuZGVmYXVsdFByb3BzID0gewogIHZhbHVlOiAwLAogIG9wdGlvbmFsOiBmYWxzZSwKICBmb3JtYXR0ZXI6IGRlZmF1bHRNb25leUZvcm1hdHRlciwKICBtYXhMZW5ndGg6IE1BWF9MRU5HVEgsCiAgb25CbHVyOiAoZSkgPT4ge30KfTsK</text>
+        <text>${minus}${hyphen}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1561,22 +1561,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb25CbHVyKG1vbmV5KTsK</text>
+        <text encoding="base64">Ly8gXHUyMjEyXHUwMDJEIG1hdGNoIGJvdGggaHlwaGVuIGFuZCBtaW51cyBzaWducwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKF9fREVWX18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vbmV5ID0gbmV3IE1vbmV5KGVkaXRWYWx1ZSwgY3VycmVuY3lDb2RlKTsKICAgIG9uQmx1cihtb25leSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheVZhbHVlID0gb3B0aW9uYWwgPyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBlZGl0VmFsdWUgPSB0aGlzLnN0YXRlLmVkaXRWYWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgdmFsdWUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2378,10 +2378,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBkaXNwbGF5VmFsdWUgPSBlZGl0VmFsdWUgfHwgJyc7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ck1vbmV5SW5wdXQucHJvcFR5cGVzID0gewogIHZhbHVlOiBSZWFjdC5Qcm9wVHlwZXMub25lT2ZUeXBlKFsKICAgIFJlYWN0LlByb3BUeXBlcy5udW1iZXIsCiAgICBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nCiAgXSksCiAgb3B0aW9uYWw6IFJlYWN0LlByb3BUeXBlcy5ib29sLAogIGNsYXNzTmFtZTogUmVhY3QuUHJvcFR5cGVzLnN0cmluZywKICBjdXJyZW5jeUNvZGU6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZCwKICBlcnJvckNsYXNzTmFtZTogUmVhY3QuUHJvcFR5cGVzLnN0cmluZywKICBlcnJvck1lc3NhZ2U6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcsCiAgZm9ybWF0dGVyOiBSZWFjdC5Qcm9wVHlwZXMuaW5zdGFuY2VPZihNb25leUZvcm1hdHRlciksCiAgaGFzRXJyb3JzOiBSZWFjdC5Qcm9wVHlwZXMuYm9vbCwKICBpbmxpbmU6IFJlYWN0LlByb3BUeXBlcy5ib29sLAogIGxhYmVsOiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLAogIG1heExlbmd0aDogUmVhY3QuUHJvcFR5cGVzLm51bWJlciwKICBvbkJsdXI6IFJlYWN0LlByb3BUeXBlcy5mdW5jLAogIHBsYWNlaG9sZGVyOiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLAogIHJlYWRPbmx5OiBSZWFjdC5Qcm9wVHlwZXMuYm9vbCwKICB0aGVtZTogVGhlbWVQcm9wVHlwZSwKfTsKCk1vbmV5SW5wdXQuZGVmYXVsdFByb3BzID0gewogIHZhbHVlOiAwLAogIG9wdGlvbmFsOiBmYWxzZSwKICBmb3JtYXR0ZXI6IGRlZmF1bHRNb25leUZvcm1hdHRlciwKICBtYXhMZW5ndGg6IE1BWF9MRU5HVEgsCiAgb25CbHVyOiAoZSkgPT4ge30KfTsK</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlucHV0ID0gZS50YXJnZXQ7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -2423,7 +2423,6 @@
         <entry>error</entry>
       </history-search>
       <history-cmd>
-        <entry>d</entry>
         <entry>:W</entry>
         <entry>q1</entry>
         <entry>q!</entry>
@@ -2442,6 +2441,7 @@
         <entry>wq</entry>
         <entry>:w</entry>
         <entry>W</entry>
+        <entry>w;</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
