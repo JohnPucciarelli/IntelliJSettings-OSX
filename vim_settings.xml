@@ -909,11 +909,12 @@
         <mark key="." line="63" column="50" />
         <mark key="^" line="63" column="50" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" timestamp="1487777665333">
-        <mark key="[" line="155" column="23" />
-        <mark key="]" line="155" column="24" />
-        <mark key="^" line="155" column="24" />
-        <mark key="." line="155" column="24" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" timestamp="1487782494890">
+        <mark key="'" line="134" column="2" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="124" column="10" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/webpack.config.js" timestamp="1482515770412">
         <mark key="[" line="86" column="12" />
@@ -1441,8 +1442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
       <jump line="85" column="26" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
       <jump line="18" column="23" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
       <jump line="30" column="1" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" />
@@ -1541,49 +1540,51 @@
       <jump line="155" column="11" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.jsx" />
       <jump line="40" column="13" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/ShoppingCartResource.java" />
       <jump line="9" column="13" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/ShippingOptionDiscount.java" />
+      <jump line="118" column="46" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="134" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxldCBkaXNwbGF5VmFsdWUgPSBvcHRpb25hbCAmJiBlZGl0VmFsdWUgPT09ICcnID8gZWRpdFZhbHVlIDogJzAnOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcignVW5hYmxlIHRvIHBhcnNlIG1vbmV5IHZhbHVlLicsIGUuc3RhY2spOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IT0g</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>getSelected</text>
+        <text>handleFoc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheVZhbHVlID0gZm9ybWF0dGVyLmZvcm1hdChtb25leSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgY2hpbGRyZW4sCiAgICAgIGNsYXNzTmFtZSwKICAgICAgY3VycmVuY3lDb2RlLAogICAgICBvcHRpb25hbCwKICAgICAgZXJyb3JDbGFzc05hbWUsCiAgICAgIGVycm9yTWVzc2FnZSwKICAgICAgaW5saW5lLAogICAgICBoYXNFcnJvcnMsCiAgICAgIGZvcm1hdHRlciwKICAgICAgcmVhZE9ubHksCiAgICAgIHRoZW1lLAogICAgICBsYWJlbCwKICAgICAgcGxhY2Vob2xkZXIsCiAgICAgIG1heExlbmd0aAogICAgfSA9IHRoaXMucHJvcHM7CgogICAgY29uc3QgeyBlZGl0VmFsdWUsIGlzRm9jdXNlZCB9ID0gdGhpcy5zdGF0ZTsKCiAgICBsZXQgZGlzcGxheVZhbHVlID0gZWRpdFZhbHVlOwoKICAgIC8vIGRlZmF1bHQgdG8gMCBpZiBhIHZhbHVlIGlzIHJlcXVpcmVkCiAgICBpZiAoIW9wdGlvbmFsICYmIGVkaXRWYWx1ZSA9PT0gJycpIHsKICAgICAgZGlzcGxheVZhbHVlID0gJzAnOwogICAgfQoKICAgIC8vIHN0YW5kYXJkaXplIHZhbHVlIHRvIGJlIHBhcnNlZCBhcyBhIGZsb2F0CiAgICBjb25zdCB7IGRlY2ltYWxTZXBhcmF0b3IgfSA9IHRoaXMudGVtcGxhdGU7CiAgICBkaXNwbGF5VmFsdWUgPSBkaXNwbGF5VmFsdWUKICAgICAgLnJlcGxhY2UodGhpcy50aG91c2FuZHNSZWdFeCwgJycpCiAgICAgIC5yZXBsYWNlKGRlY2ltYWxTZXBhcmF0b3IsICcuJyk7CgogICAgY29uc3QgbW9uZXkgPSBuZXcgTW9uZXkoZGlzcGxheVZhbHVlLCBjdXJyZW5jeUNvZGUpOwogICAgZGlzcGxheVZhbHVlID0gZm9ybWF0dGVyLmZvcm1hdChtb25leSwgewogICAgICB1c2VHcm91cGluZzogIWlzRm9jdXNlZCwKICAgICAgdmFsdWVPbmx5OiBpc0ZvY3VzZWQKICAgIH0pOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBkaXNwbGF5VmFsdWUgPSBvcHRpb25hbCAmJiBlZGl0VmFsdWUgPT09ICcnID8gZWRpdFZhbHVlIDogJzAnOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcignVW5hYmxlIHRvIHBhcnNlIG1vbmV5IHZhbHVlLicsIGUuc3RhY2spOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U2hpcHBpbmdPcHRpb25TZXJ2aWNlVHlwZT4gc2VsZWN0ZWRTZXJ2aWNlcyA9IHNlbGVjdGVkU2VydmljZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgZm9ybWF0dGVyLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0b3JlQ3VycmVuY3kgPSB0aGlzLnByb3BzLnN0b3JlQ3VycmVuY3k7Cg==</text>
+        <text encoding="base64">ICAgICAgb3B0aW9uYWwsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vbmV5ID0gbmV3IE1vbmV5KGFtb3VudCwgc3RvcmVDdXJyZW5jeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY3VycmVuY3lDb2RlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vbmV5ID0gbmV3IE1vbmV5KGFtb3VudCwgc3RvcmVDdXJyZW5jeSk7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9uQmx1cihtb25leSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsdWVPbmx5OiBpc0ZvY3VzZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXNlR3JvdXBpbmc6ICFpc0ZvY3VzZWQsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2385,10 +2386,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBpc0ZvY3VzZWQ6IGZhbHNlIH0pOwo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXlWYWx1ZSA9IGZvcm1hdHRlci5mb3JtYXQobW9uZXksIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAvLyBUT0RPOiBtb3ZlZCB0aGlzIHRvIHJlbmRlcigpCiAgICAvLyByZXNldCBpbnB1dCB0byAwIG9yIG51bGwgaWYgaW5wdXQgaXMgZW1wdHkKLyogICAgaWYgKCFlZGl0VmFsdWUpIHsKICAgICAgY29uc3QgdmFsdWUgPSBvcHRpb25hbCA/IG51bGwgOiAwOwogICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICBlZGl0VmFsdWU6IHZhbHVlLAogICAgICAgIGlzRm9jdXNlZDogZmFsc2UKICAgICAgfSk7CiAgICAgIG9uQmx1cih2YWx1ZSk7CiAgICAgIHJldHVybjsKICAgIH0qLwoKICAgIC8vIGNvbnN0IHsgdGhvdXNhbmRzU2VwYXJhdG9yLCBkZWNpbWFsU2VwYXJhdG9yIH0gPSB0aGlzLnN0YXRlLnRlbXBsYXRlOwogICAgLy8gZWRpdFZhbHVlID0gbm9ybWFsaXplU2VwYXJhdG9ycyhlZGl0VmFsdWUsIHRob3VzYW5kc1NlcGFyYXRvciwgZGVjaW1hbFNlcGFyYXRvcik7Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG1vbmV5ID0gbmV3IE1vbmV5KGRpc3BsYXlWYWx1ZSwgY3VycmVuY3lDb2RlKTsK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -2398,9 +2399,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getSelected</last-search>
+      <last-search>handleFoc</last-search>
       <last-offset />
-      <last-pattern>getSelected</last-pattern>
+      <last-pattern>handleFoc</last-pattern>
       <last-replace />
       <last-substitute>DiscountValidationErrorType.</last-substitute>
       <last-dir>1</last-dir>
@@ -2408,8 +2409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Customers must</entry>
-        <entry>This discount</entry>
         <entry>coreapplication</entry>
         <entry>shipping</entry>
         <entry>onfetch</entry>
@@ -2428,6 +2427,8 @@
         <entry>handlefixed</entry>
         <entry>entries</entry>
         <entry>getSelected</entry>
+        <entry>handleBl</entry>
+        <entry>handleFoc</entry>
       </history-search>
       <history-cmd>
         <entry>:W</entry>
