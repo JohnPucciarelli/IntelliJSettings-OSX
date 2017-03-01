@@ -801,6 +801,13 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="32" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/__tests__/components/MoneyInput.unit.jsx" timestamp="1488399683685">
+        <mark key="'" line="104" column="4" />
+        <mark key="[" line="57" column="34" />
+        <mark key="]" line="57" column="43" />
+        <mark key="^" line="57" column="43" />
+        <mark key="." line="57" column="43" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/constants/CriteriaErrorTypes.js" timestamp="1480436115015">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="6" column="26" />
@@ -1045,8 +1052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/test/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateFactoryTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/test/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateFactoryTest.java" />
       <jump line="84" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/test/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateFactoryTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/records/DiscountRecord.js" />
       <jump line="26" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/records/DiscountRecord.js" />
@@ -1145,6 +1150,8 @@
       <jump line="68" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="179" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="145" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="21" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/__tests__/components/MoneyInput.unit.jsx" />
+      <jump line="104" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/__tests__/components/MoneyInput.unit.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1160,7 +1167,7 @@
         <text>isNan</text>
       </register>
       <register name="/" type="4">
-        <text>prepareProps</text>
+        <text>OnBlur</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBmcmFjdGlvbkRpZ2l0cyA9IEN1cnJlbmN5VXRpbHMuZ2V0RnJhY3Rpb25EaWdpdHMoY3VycmVuY3lDb2RlKTsKICByZXR1cm4gcGFyc2VGbG9hdCh2YWx1ZSB8fCAwKS50b0ZpeGVkKGZyYWN0aW9uRGlnaXRzKTsK</text>
@@ -2002,18 +2009,16 @@
       </register>
     </registers>
     <search>
-      <last-search>prepareProps</last-search>
+      <last-search>OnBlur</last-search>
       <last-offset />
-      <last-pattern>prepareProps</last-pattern>
-      <last-replace>prepareState</last-replace>
-      <last-substitute>prepareProps</last-substitute>
+      <last-pattern>OnBlur</last-pattern>
+      <last-replace>OnValue</last-replace>
+      <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>thousandsReg</entry>
-        <entry>normalizeValue</entry>
         <entry>form</entry>
         <entry>getFor</entry>
         <entry>value.re</entry>
@@ -2032,10 +2037,10 @@
         <entry>formatValue</entry>
         <entry>isNan</entry>
         <entry>prepareProps</entry>
+        <entry>onBlur</entry>
+        <entry>OnBlur</entry>
       </history-search>
       <history-cmd>
-        <entry>@</entry>
-        <entry>%v</entry>
         <entry>%V</entry>
         <entry>%v$</entry>
         <entry>998245G</entry>
@@ -2053,6 +2058,8 @@
         <entry>s/prepareProps/prepareState/gc</entry>
         <entry>s/prepareProps/prepareState/g</entry>
         <entry>%s/prepareProps/prepareState/g</entry>
+        <entry>%s/onBlur/onValue/gc</entry>
+        <entry>%s/OnBlur/OnValue/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
