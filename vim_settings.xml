@@ -253,10 +253,12 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" timestamp="1488394432732">
-        <mark key="'" line="149" column="24" />
-        <mark key="]" line="146" column="7" />
-        <mark key="^" line="153" column="3" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" timestamp="1488397063187">
+        <mark key="'" line="119" column="0" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="161" column="17" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/webpack.config.js" timestamp="1482515770412">
         <mark key="[" line="86" column="12" />
@@ -412,6 +414,10 @@
         <mark key="]" line="2" column="47" />
         <mark key="." line="2" column="47" />
         <mark key="^" line="2" column="47" />
+      </file>
+      <file name="/MoneyInput.jsx" timestamp="1488395521913">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="56" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/shipping/carriers/usps/USPSServiceNameProvider.java" timestamp="1485292568909">
         <mark key="[" line="21" column="0" />
@@ -1098,7 +1104,6 @@
       <jump line="88" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="110" column="9" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="118" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
-      <jump line="119" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="29" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="193" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="194" column="50" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
@@ -1139,49 +1144,50 @@
       <jump line="140" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="145" column="12" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="149" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="119" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBlZGl0VmFsdWUgPSBmb3JtYXR0ZXIuZm9ybWF0KG1vbmV5LCB7CiAgICAgIHRyaW1DZW50czogdHJ1ZSwKICAgICAgdXNlR3JvdXBpbmc6IGZhbHNlLAogICAgICB2YWx1ZU9ubHk6IHRydWUKICAgIH0pOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>editValue</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICBpc0ZvY3VzZWQ6IGZhbHNlLAogICAgICBlZGl0VmFsdWU6ICcnLAogICAgICBkZWNpbWFsU2VwYXJhdG9yOiAnJywKICAgICAgbWF4TGVuZ3RoOiAwLAogICAgICB0aG91c2FuZHNSZWdFeDogbnVsbA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCBmcmFjdGlvbkRpZ2l0cyA9IEN1cnJlbmN5VXRpbHMuZ2V0RnJhY3Rpb25EaWdpdHMoY3VycmVuY3lDb2RlKTsKICByZXR1cm4gcGFyc2VGbG9hdCh2YWx1ZSB8fCAwKS50b0ZpeGVkKGZyYWN0aW9uRGlnaXRzKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBlZGl0VmFsdWUgPSBmb3JtYXR0ZXIuZm9ybWF0KG1vbmV5LCB7CiAgICAgIHRyaW1DZW50czogdHJ1ZSwKICAgICAgdXNlR3JvdXBpbmc6IGZhbHNlLAogICAgICB2YWx1ZU9ubHk6IHRydWUKICAgIH0pOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbW9uZXkgPSBuZXcgTW9uZXkoMCwgY3VycmVuY3lDb2RlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9uVmFsdWUobW9uZXkpOwo=</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHVzZWQgdG8gc3RyaXAgb3V0IHRoZSB0aG91c2FuZHMgc2VwYXJhdG9yIGFuZCBhbnkgb3RoZXIgaW52YWxpZCBjaGFycwo=</text>
+        <text encoding="base64">ICAgICAgbW9uZXkgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICF2YWx1ZSAmJiBvcHRpb25hbCA/IG51bGwgOiBlZGl0VmFsdWUgfHwgJzAnOwo=</text>
+        <text encoding="base64">ICAgIHBhcnNlRmxvYXQodmFsdWUgfHwgMCkudG9GaXhlZChmcmFjdGlvbkRpZ2l0cyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1983,10 +1989,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IXZhbHVlICYmIG9wdGlvbmFsID8gbnVsbCA6IHZhbHVlIHx8IHplcm9Nb25leTsK</text>
+        <text encoding="base64">ICAgIGlmIChlZGl0VmFsdWUpIHsK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
