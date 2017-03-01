@@ -253,12 +253,12 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" timestamp="1488397063187">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="161" column="17" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" timestamp="1488398818111">
+        <mark key="'" line="145" column="4" />
+        <mark key="[" line="127" column="8" />
+        <mark key="]" line="127" column="12" />
+        <mark key="^" line="127" column="12" />
+        <mark key="." line="127" column="12" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/webpack.config.js" timestamp="1482515770412">
         <mark key="[" line="86" column="12" />
@@ -1045,11 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="30" filename="$USER_HOME$/repos/material-theme-jetbrains/src/test/java/com/chrisrm/idea/icons/AssociationsTest.java" />
-      <jump line="30" column="51" filename="$USER_HOME$/repos/material-theme-jetbrains/src/test/java/com/chrisrm/idea/icons/AssociationsTest.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/repos/material-theme-jetbrains/src/test/java/com/chrisrm/idea/icons/AssociationsTest.java" />
-      <jump line="71" column="0" filename="$USER_HOME$/repos/material-theme-jetbrains/src/test/java/com/chrisrm/idea/icons/AssociationsTest.java" />
-      <jump line="84" column="0" filename="$USER_HOME$/repos/material-theme-jetbrains/src/test/java/com/chrisrm/idea/icons/AssociationsTest.java" />
       <jump line="69" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/test/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateFactoryTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/test/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateFactoryTest.java" />
       <jump line="84" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/test/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateFactoryTest.java" />
@@ -1131,7 +1126,6 @@
       <jump line="142" column="23" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="148" column="14" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="96" column="36" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
-      <jump line="104" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="113" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="75" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="105" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
@@ -1142,52 +1136,58 @@
       <jump line="124" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="128" column="47" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="140" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
-      <jump line="145" column="12" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="149" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="119" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="160" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="104" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="137" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="171" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="68" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="179" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
+      <jump line="145" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>isNan</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isNan</text>
       </register>
       <register name="/" type="4">
-        <text>editValue</text>
+        <text>prepareProps</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBmcmFjdGlvbkRpZ2l0cyA9IEN1cnJlbmN5VXRpbHMuZ2V0RnJhY3Rpb25EaWdpdHMoY3VycmVuY3lDb2RlKTsKICByZXR1cm4gcGFyc2VGbG9hdCh2YWx1ZSB8fCAwKS50b0ZpeGVkKGZyYWN0aW9uRGlnaXRzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbW9uZXkgPSBuZXcgTW9uZXkoMCwgY3VycmVuY3lDb2RlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbW9uZXkgPSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnNlRmxvYXQodmFsdWUgfHwgMCkudG9GaXhlZChmcmFjdGlvbkRpZ2l0cyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1989,10 +1989,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJucyB7Kn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChlZGl0VmFsdWUpIHsK</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gdmFsdWUK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -2002,20 +2002,16 @@
       </register>
     </registers>
     <search>
-      <last-search>editValue</last-search>
+      <last-search>prepareProps</last-search>
       <last-offset />
-      <last-pattern>editValue</last-pattern>
-      <last-replace />
-      <last-substitute>DiscountValidationErrorType.</last-substitute>
+      <last-pattern>prepareProps</last-pattern>
+      <last-replace>prepareState</last-replace>
+      <last-substitute>prepareProps</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>convertToFloat</entry>
-        <entry>onValueCommited</entry>
-        <entry>onValue</entry>
-        <entry>feed</entry>
         <entry>thousandsReg</entry>
         <entry>normalizeValue</entry>
         <entry>form</entry>
@@ -2025,18 +2021,19 @@
         <entry>value</entry>
         <entry>replace</entry>
         <entry>convertTo</entry>
-        <entry>formatValue</entry>
         <entry>trim</entry>
         <entry>normalize</entry>
         <entry>zeroMonety</entry>
         <entry>zeroMoney</entry>
         <entry>thousandsRegex</entry>
         <entry>editValue</entry>
+        <entry>fractionDigits</entry>
+        <entry>convertToFloat</entry>
+        <entry>formatValue</entry>
+        <entry>isNan</entry>
+        <entry>prepareProps</entry>
       </history-search>
       <history-cmd>
-        <entry>:W</entry>
-        <entry>q1</entry>
-        <entry>q!</entry>
         <entry>@</entry>
         <entry>%v</entry>
         <entry>%V</entry>
@@ -2053,6 +2050,9 @@
         <entry>w;</entry>
         <entry>wq</entry>
         <entry>W</entry>
+        <entry>s/prepareProps/prepareState/gc</entry>
+        <entry>s/prepareProps/prepareState/g</entry>
+        <entry>%s/prepareProps/prepareState/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
