@@ -378,6 +378,13 @@
         <mark key="." line="16" column="88" />
         <mark key="^" line="16" column="44" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/scripts/deploy-email/.gitignore" timestamp="1488570181909">
+        <mark key="'" line="0" column="13" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountList/DiscountList.jsx" timestamp="1488567821194">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -809,12 +816,10 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/.gitignore" timestamp="1488569852362">
-        <mark key="'" line="19" column="39" />
+      <file name="$USER_HOME$/repos/squarespace-v6/.gitignore" timestamp="1488570186165">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/development.yml" timestamp="1483986202401">
         <mark key="[" line="26" column="9" />
@@ -1140,7 +1145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="71" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="40" column="79" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="41" column="79" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="384" column="15" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
@@ -1240,49 +1244,50 @@
       <jump line="28" column="1" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
       <jump line="19" column="35" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
       <jump line="20" column="39" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
+      <jump line="0" column="13" filename="$USER_HOME$/repos/squarespace-v6/scripts/deploy-email/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/**</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IS9zY3JpcHRzL2RlcGxveS1lbWFpbC9ub2RlX21vZHVsZXMvKiovKgo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/**</text>
+        <text># don't want a deploy time npm dependency on here</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IXNjcmlwdHMvZGVwbG95LWVtYWlsL25vZGVfbW9kdWxlcy8qKgo=</text>
+        <text encoding="base64">IS9zY3JpcHRzL2RlcGxveS1lbWFpbC9ub2RlX21vZHVsZXMvKiovKiAjIGRvbid0IHdhbnQgYSBkZXBsb3kgdGltZSBucG0gZGVwZW5kZW5jeSBvbiBoZXJlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IXNjcmlwdHMvZGVwbG95LWVtYWlsLyoqL25vZGVfbW9kdWxlcy8qICMgZG9uJ3Qgd2FudCBhIGRlcGxveSB0aW1lIG5wbSBkZXBlbmRlbmN5IG9uIGhlcmUK</text>
+        <text encoding="base64">IS9zY3JpcHRzL2RlcGxveS1lbWFpbC9ub2RlX21vZHVsZXMvKiovKgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IXNjcmlwdHMvZGVwbG95LWVtYWlsL25vZGVfbW9kdWxlcy8qICMgZG9uJ3Qgd2FudCBhIGRlcGxveSB0aW1lIG5wbSBkZXBlbmRlbmN5IG9uIGhlcmUK</text>
+        <text encoding="base64">IS9zY3JpcHRzL2RlcGxveS1lbWFpbC9ub2RlX21vZHVsZXMvKiovbm9kZV9tb2R1bGVzLyogIyBkb24ndCB3YW50IGEgZGVwbG95IHRpbWUgbnBtIGRlcGVuZGVuY3kgb24gaGVyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IXNjcmlwdHMvZGVwbG95LWVtYWlsLyoqL25vZGVfbW9kdWxlcy8qICMgZG9uJ3Qgd2FudCBhIGRlcGxveSB0aW1lIG5wbSBkZXBlbmRlbmN5IG9uIGhlcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">IXNjcmlwdHMvZGVwbG95LWVtYWlsL25vZGVfbW9kdWxlcy8qICMgZG9uJ3Qgd2FudCBhIGRlcGxveSB0aW1lIG5wbSBkZXBlbmRlbmN5IG9uIGhlcmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IEBnbG9iYWwtdWktcGFkZGluZyAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuc3Bpbm5lciB7Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IEBnbG9iYWwtdWktcGFkZGluZyAwOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2084,10 +2089,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAuc3Bpbm5lciB7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -2146,8 +2151,8 @@
         <entry>%s/prepareProps/prepareState/g</entry>
         <entry>%s/onBlur/onValue/gc</entry>
         <entry>%s/OnBlur/OnValue/gc</entry>
-        <entry>W</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
