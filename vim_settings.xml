@@ -809,12 +809,12 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/.gitignore" timestamp="1488569327746">
+      <file name="$USER_HOME$/repos/squarespace-v6/.gitignore" timestamp="1488569645687">
         <mark key="'" line="19" column="39" />
-        <mark key="[" line="19" column="50" />
-        <mark key="]" line="19" column="50" />
-        <mark key="." line="19" column="50" />
-        <mark key="^" line="19" column="52" />
+        <mark key="[" line="76" column="41" />
+        <mark key="]" line="76" column="41" />
+        <mark key="." line="76" column="41" />
+        <mark key="^" line="76" column="41" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/development.yml" timestamp="1483986202401">
         <mark key="[" line="26" column="9" />
@@ -2093,7 +2093,7 @@
         <text>A</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2147,8 +2147,8 @@
         <entry>%s/onBlur/onValue/gc</entry>
         <entry>%s/OnBlur/OnValue/gc</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
