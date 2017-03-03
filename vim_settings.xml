@@ -798,11 +798,11 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/.gitignore" timestamp="1488564828949">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/.gitignore" timestamp="1488564997393">
+        <mark key="'" line="28" column="1" />
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/development.yml" timestamp="1483986202401">
         <mark key="[" line="26" column="9" />
@@ -1128,14 +1128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="35" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
-      <jump line="75" column="23" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
-      <jump line="371" column="27" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/currency/CurrencyTemplates.js" />
-      <jump line="385" column="9" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
-      <jump line="7" column="71" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
-      <jump line="8" column="79" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="9" column="79" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="39" column="71" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
       <jump line="40" column="79" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
@@ -1228,22 +1220,30 @@
       <jump line="510" column="33" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/resources/com/squarespace/business/commerce/email/partials/order-summary.html" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/PayPalOnboarding/PayPalManualOnboarding.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
+      <jump line="22" column="10" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
+      <jump line="29" column="1" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
+      <jump line="75" column="0" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
+      <jump line="19" column="3" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
+      <jump line="25" column="1" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
+      <jump line="26" column="1" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
+      <jump line="27" column="1" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
+      <jump line="28" column="1" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2l0ZS1zZXJ2ZXIvc3JjL21haW4vd2ViYXBwL3VuaXZlcnNhbC95dWkzCg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>yui</text>
+        <text>scripts</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJpbXBvcnQvbm8tdW5yZXNvbHZlZCI6ICJvZmYiCg==</text>
@@ -2085,17 +2085,16 @@
       </register>
     </registers>
     <search>
-      <last-search>yui</last-search>
+      <last-search>scripts</last-search>
       <last-offset />
-      <last-pattern>yui</last-pattern>
+      <last-pattern>scripts</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bindField</entry>
         <entry>handleMinimumu</entry>
         <entry>handleMin</entry>
         <entry>zero</entry>
@@ -2115,6 +2114,7 @@
         <entry>promocode</entry>
         <entry>code</entry>
         <entry>yui</entry>
+        <entry>scripts</entry>
       </history-search>
       <history-cmd>
         <entry>%V</entry>
