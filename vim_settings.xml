@@ -207,11 +207,11 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/AsyncSelect/AsyncSelect.jsx" timestamp="1488752939403">
-        <mark key="[" line="28" column="47" />
-        <mark key="]" line="28" column="47" />
-        <mark key="^" line="28" column="47" />
-        <mark key="." line="28" column="47" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/AsyncSelect/AsyncSelect.jsx" timestamp="1488754758611">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="35" column="25" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/shipping/carriers/usps/USPSServiceNameProvider.java" timestamp="1485292568909">
         <mark key="[" line="21" column="0" />
@@ -511,7 +511,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488752542935">
+      <file name="/Dummy.txt" timestamp="1488754601044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/ShippingOptionCarrierType.java" timestamp="1485466644598">
@@ -915,10 +915,10 @@
         <mark key="." line="56" column="3" />
         <mark key="^" line="56" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" timestamp="1488752949224">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/ShippingOptionLimitPicker.jsx" timestamp="1488753809935">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="42" />
+        <mark key="]" line="106" column="0" />
         <mark key="^" line="105" column="25" />
         <mark key="." line="106" column="0" />
       </file>
@@ -1278,13 +1278,13 @@
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZ1ZhbHVlPSJMb2FkaW5nIE9wdGlvbnMiCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0VmFsdWU9e2xvYWRpbmdWYWx1ZX0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>loadingLabel</text>
+        <text>loadingValue</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
@@ -1293,28 +1293,28 @@
         <text encoding="base64">ICBsYWJlbDogUmVhY3QuUHJvcFR5cGVzLnN0cmluZywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZ1ZhbHVlPSJMb2FkaW5nIE9wdGlvbnMiCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0VmFsdWU9e2xvYWRpbmdWYWx1ZX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Y2hpbGRyZW59Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlID0gPwogICAgICBNYXRoLm1heChzZWxlY3RlZE9wdGlvbkluZGV4LCAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZ1ZhbHVlPSJMb2FkaW5nIE9wdGlvbnMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ0xvYWRpbmcgT3B0aW9ucycgOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZ1ZhbHVlPSJMb2FkaW5nIE9wdGlvbnMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IEBnbG9iYWwtbGluZS1zdHlsZS10aGluOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgTG9hZGluZ1NwaW5uZXIgPSByZXF1aXJlKCdjb21wb25lbnRzL0xvYWRpbmdTcGlubmVyJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbHVlID0gPwogICAgICBNYXRoLm1heChzZWxlY3RlZE9wdGlvbkluZGV4LCAwKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgTG9hZGluZ1NwaW5uZXIgPSByZXF1aXJlKCdjb21wb25lbnRzL0xvYWRpbmdTcGlubmVyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgJ0xvYWRpbmcgT3B0aW9ucycgOgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2116,10 +2116,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1vbmV5ID0gbmV3IE1vbmV5KGFtb3VudCwgc3RvcmVDdXJyZW5jeSk7Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IEBnbG9iYWwtbGluZS1zdHlsZS10aGluOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0b3JlQ3VycmVuY3kgPSB0aGlzLnByb3BzLnN0b3JlQ3VycmVuY3k7Cg==</text>
+        <text encoding="base64">Y29uc3QgTG9hZGluZ1NwaW5uZXIgPSByZXF1aXJlKCdjb21wb25lbnRzL0xvYWRpbmdTcGlubmVyJyk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
