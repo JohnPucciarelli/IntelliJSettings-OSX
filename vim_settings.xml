@@ -579,6 +579,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/audiospace-v2/audiospace-client/package.json" timestamp="1488765566825">
+        <mark key="'" line="77" column="29" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/settings/site/importing.js" timestamp="1480976635752">
         <mark key="[" line="919" column="29" />
         <mark key="]" line="919" column="30" />
@@ -1156,7 +1162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="17" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="188" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
       <jump line="35" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/__tests__/components/MoneyInput.unit.jsx" />
       <jump line="152" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/MoneyInput.jsx" />
@@ -1256,13 +1261,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/records/DiscountRecord.js" />
       <jump line="244" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/ProductSearch/ProductSearch.jsx" />
       <jump line="231" column="71" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/records/DiscountRecord.js" />
+      <jump line="77" column="29" filename="$USER_HOME$/repos/audiospace-v2/audiospace-client/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgInJlYWN0LXRhcC1ldmVudC1wbHVnaW4iOiAiXjIuMC4xIiwK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -1271,34 +1277,34 @@
         <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>this.criteria</text>
+        <text>tap</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICBwcm9kdWN0SWQ9e3Byb2R1Y3RJZH0KICAgICAgICAgICBwcm9kdWN0TmFtZT17cHJvZHVjdE5hbWV9CiAgICAgICAgICAgcHJvZHVjdFZhcmlhbnM9e3Byb2R1Y3RWYXJpYW50c30KIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgInJlYWN0LXRhcC1ldmVudC1wbHVnaW4iOiAiXjIuMC4xIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRGlzY291bnRQcm9kdWN0UmVmZXJlbmNlIHByb2R1Y3RSZWZlcmVuY2UgPSBwcm9kdWN0T3B0aW9uYWwuZ2V0KCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgIm1hdGVyaWFsLXVpIjogIl4wLjE3LjAiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAucHJvZHVjdFZhcmlhbnRzKENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5wcm9kdWN0VmFyaWFudHMocHJvZHVjdFJlZmVyZW5jZS5nZXRWYXJpYW50cygpKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgRGlzY291bnRQcm9kdWN0UmVmZXJlbmNlIHByb2R1Y3RSZWZlcmVuY2UgPSBwcm9kdWN0T3B0aW9uYWwuZ2V0KCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAucHJvZHVjdFZhcmlhbnRzKENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5wcm9kdWN0VmFyaWFudHMocHJvZHVjdFJlZmVyZW5jZS5nZXRWYXJpYW50cygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gOiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2100,10 +2106,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBwcm9kdWN0VmFyaWFucz17cHJvZHVjdFZhcmlhbnRzfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICBwcm9kdWN0TmFtZT17cHJvZHVjdE5hbWV9Cg==</text>
+        <text encoding="base64">ICAgIH0gOiBudWxsOwo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -2113,9 +2119,9 @@
       </register>
     </registers>
     <search>
-      <last-search>this.criteria</last-search>
+      <last-search>tap</last-search>
       <last-offset />
-      <last-pattern>this.criteria</last-pattern>
+      <last-pattern>tap</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -2123,7 +2129,6 @@
     </search>
     <history>
       <history-search>
-        <entry>yui</entry>
         <entry>scripts</entry>
         <entry>empty</entry>
         <entry encoding="base64">XDxkb25cPg==</entry>
@@ -2143,6 +2148,7 @@
         <entry>discountCriteria</entry>
         <entry>productse</entry>
         <entry>this.criteria</entry>
+        <entry>tap</entry>
       </history-search>
       <history-cmd>
         <entry>%V</entry>
