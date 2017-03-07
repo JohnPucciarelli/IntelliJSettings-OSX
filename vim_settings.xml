@@ -709,9 +709,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/styles/variables.scss" timestamp="1488910393714">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="25" />
+      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/styles/variables.scss" timestamp="1488917893305">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="30" />
         <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/LoginButton/LoginButton.jsx" timestamp="1488852254031">
@@ -748,11 +748,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/screens/Login/Login.jsx" timestamp="1488915967191">
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="47" />
-        <mark key="^" line="33" column="47" />
-        <mark key="." line="33" column="47" />
+      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/screens/Login/Login.jsx" timestamp="1488918286238">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountReaderIT.java" timestamp="1486490570071">
         <mark key="[" line="36" column="24" />
@@ -823,12 +823,12 @@
         <mark key="^" line="22" column="44" />
         <mark key="." line="22" column="44" />
       </file>
-      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/index.html" timestamp="1488914391109">
-        <mark key="'" line="6" column="10" />
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="15" column="61" />
-        <mark key="." line="15" column="61" />
-        <mark key="^" line="15" column="61" />
+      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/index.html" timestamp="1488917896413">
+        <mark key="'" line="7" column="10" />
+        <mark key="[" line="6" column="37" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="42" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/LogoutMenu/LogoutMenu.jsx" timestamp="1488852073542">
         <mark key="'" line="22" column="0" />
@@ -1382,43 +1382,43 @@
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>routeActions</text>
+        <text>)</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>routeActions</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>menu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IEhvbWUgZnJvbSAnc2NyZWVucy9Ib21lJzsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHJnYigyNiwgMjcsIDI5KTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LCBkaXNwYXRjaCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvdXRlQWN0aW9ucywK</text>
+        <text encoding="base64">ICB9LCBkaXNwYXRjaCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhY3Rpb25zOiBiaW5kQWN0aW9uQ3JlYXRvcnMoeyBsb2dpbiB9LCBkaXNwYXRjaCkK</text>
+        <text encoding="base64">ICAgIHJvdXRlQWN0aW9ucywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByb3V0ZUFjdGlvbnM6IGJpbmRBY3Rpb25DcmVhdG9ycyhyb3V0ZUFjdGlvbnMsIGRpc3BhdGNoKSwK</text>
+        <text encoding="base64">ICBhY3Rpb25zOiBiaW5kQWN0aW9uQ3JlYXRvcnMoeyBsb2dpbiB9LCBkaXNwYXRjaCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByb3V0ZUFjdGlvbnM6IGJpbmRBY3Rpb25DcmVhdG9ycyhyb3V0ZUFjdGlvbnMsIGRpc3BhdGNoKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJvdXRlQWN0aW9uczogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2220,10 +2220,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcm91dGVBY3Rpb25zIH0gZnJvbSAncmVhY3Qtcm91dGVyLXJlZHV4Jwo=</text>
+        <text encoding="base64">ICAgIHJvdXRlQWN0aW9uczogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcm91dGVBY3Rpb25zIH0gZnJvbSAncmVhY3Qtcm91dGVyLXJlZHV4Jwo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
