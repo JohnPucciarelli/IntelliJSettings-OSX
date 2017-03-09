@@ -849,11 +849,11 @@
         <mark key="." line="63" column="50" />
         <mark key="^" line="63" column="50" />
       </file>
-      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/doSearch.js" timestamp="1489082314821">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="27" column="23" />
-        <mark key="." line="27" column="23" />
-        <mark key="^" line="27" column="23" />
+      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/doSearch.js" timestamp="1489083679734">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="16" column="28" />
+        <mark key="^" line="16" column="28" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/webpack.config.js" timestamp="1482515770412">
         <mark key="[" line="86" column="12" />
@@ -983,11 +983,11 @@
         <mark key="^" line="12" column="43" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/reducers/SearchReducer.js" timestamp="1489078336258">
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="32" column="1" />
-        <mark key="." line="32" column="1" />
-        <mark key="^" line="32" column="1" />
+      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/reducers/SearchReducer.js" timestamp="1489084066657">
+        <mark key="[" line="18" column="30" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+        <mark key="^" line="33" column="1" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/business/commerce/discount/DiscountStatus.java" timestamp="1481839692872">
         <mark key="[" line="5" column="56" />
@@ -1330,12 +1330,12 @@
         <mark key="." line="9" column="74" />
         <mark key="^" line="9" column="74" />
       </file>
-      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/Search/Search.jsx" timestamp="1489082486012">
-        <mark key="'" line="99" column="4" />
-        <mark key="[" line="115" column="5" />
-        <mark key="]" line="116" column="3" />
-        <mark key="^" line="116" column="3" />
-        <mark key="." line="116" column="3" />
+      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/Search/Search.jsx" timestamp="1489084303366">
+        <mark key="'" line="95" column="4" />
+        <mark key="[" line="123" column="31" />
+        <mark key="]" line="123" column="41" />
+        <mark key="^" line="123" column="41" />
+        <mark key="." line="123" column="41" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/model/CouponShippingOption.java" timestamp="1486050094967">
         <mark key="[" line="20" column="45" />
@@ -1343,12 +1343,12 @@
         <mark key="." line="21" column="54" />
         <mark key="^" line="21" column="54" />
       </file>
-      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/screens/Home/Home.jsx" timestamp="1489082698505">
+      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/screens/Home/Home.jsx" timestamp="1489083738240">
         <mark key="'" line="88" column="56" />
-        <mark key="[" line="88" column="44" />
-        <mark key="]" line="88" column="51" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
         <mark key="^" line="88" column="51" />
-        <mark key="." line="88" column="51" />
+        <mark key="." line="221" column="0" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/PlayerSelector/PlayerSelector.jsx.js" timestamp="1488932318157">
         <mark key="'" line="0" column="0" />
@@ -1399,10 +1399,10 @@
         <mark key="^" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/Search/Search.scss" timestamp="1489077016914">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="48" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/Search/Search.scss" timestamp="1489084539207">
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="18" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/LoginButton/index.js" timestamp="1488850567930">
         <mark key="[" line="0" column="7" />
@@ -1518,13 +1518,13 @@
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>earch</text>
+        <text>500px;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>earch</text>
+        <text>500px;</text>
       </register>
       <register name="/" type="4">
         <text>doSearch</text>
@@ -1533,28 +1533,28 @@
         <text>`api/1/audiospace/players/${groupId}/songs?searchTerm=${query}`, 'GET'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZG9TZWFyY2g6IGRlYm91bmNlKGRvU2VhcmNoLCAxMDApLAo=</text>
+        <text encoding="base64">ICAgICAgICB7cmVzdWx0cy5tYXAoKHJlc3VsdCkgPT4gKAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2xlYXJTZWFyY2gK</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZG9TZWFyY2gsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxGbGF0QnV0dG9uIGxhYmVsPSJBZGQiLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAxfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17c3R5bGVzaGVldC50aXRsZX0+UmVzdWx0czwvc3Bhbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxTZWFyY2hJY29uIHN0eWxlPXtzdHlsZXMuc2VhcmNoSWNvbn0vPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgcmVuZGVyUmVzdWx0cygpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXNoZWV0LnJlc3VsdHN9PgogICAgICAgIDxQYXBlciB6RGVwdGg9ezJ9PgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlc2hlZXQucmVzdWx0fT4KICAgICAgICAgICAgPFNlYXJjaEljb24gc3R5bGU9e3N0eWxlcy5zZWFyY2hJY29ufS8+CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17c3R5bGVzaGVldC50aXRsZX0+UmVzdWx0czwvc3Bhbj4KICAgICAgICAgICAgPEZsYXRCdXR0b24gbGFiZWw9IkFkZCIvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzaGVldC5yZXN1bHR9PgogICAgICAgICAgICA8U2VhcmNoSWNvbiBzdHlsZT17c3R5bGVzLnNlYXJjaEljb259Lz4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPXtzdHlsZXNoZWV0LnRpdGxlfT5SZXN1bHRzPC9zcGFuPgogICAgICAgICAgICA8RmxhdEJ1dHRvbiBsYWJlbD0iQWRkIi8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L1BhcGVyPgogICAgICA8L2Rpdj4KICAgICk7CiAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzaGVldC5yZXN1bHR9Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2356,10 +2356,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgICAgICApKX0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4geyB0eXBlOiBTRUFSQ0hfQ0xFQVIgfTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">IDxkaXYgY2xhc3NOYW1lPXtzdHlsZXNoZWV0LnJlc3VsdH0+CiAgICAgICAgICA8U2VhcmNoSWNvbiBzdHlsZT17c3R5bGVzLnNlYXJjaEljb259Lz4KICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT17c3R5bGVzaGVldC50aXRsZX0+UmVzdWx0czwvc3Bhbj4KICAgICAgICAgIDxGbGF0QnV0dG9uIGxhYmVsPSJBZGQiLz4KICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
