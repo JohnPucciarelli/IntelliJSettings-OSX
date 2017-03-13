@@ -509,6 +509,9 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" timestamp="1489440603552">
+        <mark key="'" line="61" column="24" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/panel-container.js" timestamp="1480976644142">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="17" />
@@ -1309,6 +1312,7 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/currency/CurrencyTemplates.js" timestamp="1489440634524" />
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/config/webpack.config.development.js" timestamp="1488853332350">
         <mark key="[" line="15" column="12" />
         <mark key="]" line="15" column="15" />
@@ -1471,7 +1475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="11" filename="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/screens/Home/Home.jsx" />
       <jump line="179" column="13" filename="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/screens/Home/Home.jsx" />
       <jump line="6" column="0" filename="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/screens/Home/Home.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/Track/Track.jsx" />
@@ -1571,6 +1574,7 @@
       <jump line="166" column="7" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="177" column="5" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/records/DiscountRecord.js" />
       <jump line="132" column="31" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
+      <jump line="61" column="24" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1586,7 +1590,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>onSetProduct</text>
+        <text>percent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBATWV0ZXJlZAo=</text>
@@ -2428,9 +2432,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onSetProduct</last-search>
+      <last-search>percent</last-search>
       <last-offset />
-      <last-pattern>onSetProduct</last-pattern>
+      <last-pattern>percent</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -2438,7 +2442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>button</entry>
         <entry>12px</entry>
         <entry>width</entry>
         <entry>svg</entry>
@@ -2458,6 +2461,7 @@
         <entry>product</entry>
         <entry>setProduct</entry>
         <entry>onSetProduct</entry>
+        <entry>percent</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
