@@ -607,7 +607,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489433327643">
+      <file name="/Dummy.txt" timestamp="1489527360238">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/config/webpack.config.base.js" timestamp="1488849050148">
@@ -885,6 +885,9 @@
         <mark key="]" line="5" column="21" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/resources/com/squarespace/business/commerce/email/partials/order-summary.html" timestamp="1489527254799">
+        <mark key="'" line="96" column="18" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/utils/unwrapShippingOptions.js" timestamp="1486051525106">
         <mark key="[" line="63" column="34" />
@@ -1488,7 +1491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="38" filename="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/Track/Track.jsx" />
       <jump line="58" column="10" filename="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/screens/Home/Home.jsx" />
       <jump line="61" column="9" filename="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/screens/Home/Home.jsx" />
       <jump line="112" column="24" filename="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/screens/Home/Home.jsx" />
@@ -1588,6 +1590,7 @@
       <jump line="87" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountCard/DiscountCard.less" />
       <jump line="74" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountCard/DiscountCard.less" />
       <jump line="8" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/PromoCodeInput/PromoCodeInput.jsx" />
+      <jump line="96" column="18" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/resources/com/squarespace/business/commerce/email/partials/order-summary.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1603,7 +1606,7 @@
         <text>S</text>
       </register>
       <register name="/" type="4">
-        <text>NON_WHITE</text>
+        <text>disc</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICB0ZXh0LW92ZXJmbG93OiBlbGxpcHNpczsKICAgICAgICB3aGl0ZS1zcGFjZTogbm93cmFwOwogICAgICAgIG92ZXJmbG93OiBoaWRkZW47</text>
@@ -2445,9 +2448,9 @@
       </register>
     </registers>
     <search>
-      <last-search>NON_WHITE</last-search>
+      <last-search>disc</last-search>
       <last-offset />
-      <last-pattern>NON_WHITE</last-pattern>
+      <last-pattern>disc</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -2455,7 +2458,6 @@
     </search>
     <history>
       <history-search>
-        <entry>svg</entry>
         <entry>mergedStyles</entry>
         <entry>OnBlur</entry>
         <entry>z-index</entry>
@@ -2475,6 +2477,7 @@
         <entry>percent</entry>
         <entry>promo</entry>
         <entry>NON_WHITE</entry>
+        <entry>disc</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
