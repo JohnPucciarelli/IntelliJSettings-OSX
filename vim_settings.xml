@@ -882,12 +882,12 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountCard/DiscountCard.less" timestamp="1490038641904">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountCard/DiscountCard.less" timestamp="1490039671458">
         <mark key="'" line="77" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="32" column="20" />
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/LoginButton/LoginButton.jsx" timestamp="1488852254031">
         <mark key="[" line="20" column="8" />
@@ -1192,6 +1192,13 @@
         <mark key="]" line="56" column="3" />
         <mark key="." line="56" column="3" />
         <mark key="^" line="56" column="3" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountCard/DiscountCard.jsx" timestamp="1490039944936">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="75" />
+        <mark key="]" line="31" column="75" />
+        <mark key="^" line="31" column="75" />
+        <mark key="." line="31" column="75" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/Track/index.js" timestamp="1489005339153">
         <mark key="[" line="0" column="0" />
@@ -1557,7 +1564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" />
       <jump line="200" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" />
       <jump line="199" column="25" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" />
       <jump line="93" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountCriteriaPicker/DiscountCriteriaPicker.jsx" />
@@ -1657,49 +1663,50 @@
       <jump line="97" column="6" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" />
       <jump line="30" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/stores/DiscountPanelStore.js" />
       <jump line="104" column="47" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/DiscountCard/DiscountCard.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMjUwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgZmxleC1mbG93OiByb3cgbm93cmFwOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>updatedDiscount</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text>islimit</text>
+        <text>promo</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">U2hpcHBpbmdPcHRpb25EaXNjb3VudCBzaGlwcGluZ09wdGlvbkRpc2NvdW50ID0gU2hpcHBpbmdPcHRpb25EaXNjb3VudC5idWlsZGVyKCkKICAgICAgICAuc2hpcHBpbmdPcHRpb25JZChjYXJ0LmdldFNlbGVjdGVkU2hpcHBpbmdPcHRpb24oKS5nZXRTaGlwcGluZ09wdGlvbklkKCkpCiAgICAgICAgLmlzQWxsU2VydmljZXNTZWxlY3RlZCh0cnVlKQogICAgICAgIC5zZWxlY3RlZFNlcnZpY2VzKENvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKQogICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMjUwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgZmxleC1mbG93OiByb3cgbm93cmFwOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVwZGF0ZWREaXNjb3VudCA9IHRoaXMuc2V0QW55T3JkZXJDcml0ZXJpYSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBmbGV4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogCg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMjUwcHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0LWFsaWduOiByaWdodDsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVwZGF0ZWREaXNjb3VudCA9IHRoaXMuc2V0QW55T3JkZXJDcml0ZXJpYSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0LWFsaWduOiByaWdodDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2501,10 +2508,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZU9wcy5zZXQoImxpbWl0VG9TaGlwcGluZ09wdGlvbiIsIGxpbWl0VG9TaGlwcGluZ09wdGlvbik7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gbGltaXRUb1NoaXBwaW5nT3B0aW9uID0gY291cG9uLmdldFNoaXBwaW5nT3B0aW9uKCkuaXNQcmVzZW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -2514,9 +2521,9 @@
       </register>
     </registers>
     <search>
-      <last-search>islimit</last-search>
+      <last-search>promo</last-search>
       <last-offset />
-      <last-pattern>islimit</last-pattern>
+      <last-pattern>promo</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -2524,7 +2531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Applies to</entry>
         <entry>selectProps</entry>
         <entry>renderShippingOptionPicker</entry>
         <entry>options</entry>
@@ -2544,6 +2550,7 @@
         <entry>ShippingOptionDiscou</entry>
         <entry>setLimitShipping</entry>
         <entry>islimit</entry>
+        <entry>promo</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -2564,8 +2571,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>s</entry>
         <entry>2</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
