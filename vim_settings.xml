@@ -819,6 +819,11 @@
         <mark key="." line="17" column="78" />
         <mark key="^" line="17" column="78" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" timestamp="1490727359882">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/DiscountPanel.less" timestamp="1488308348842">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="31" />
@@ -1682,8 +1687,8 @@
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -1704,22 +1709,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBlcnJvcnM6IFJlYWN0LlByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZXZlbnROYW1lLCBpc1NvZnRXYXJuaW5nLCB0aXRsZSwgbWVzc2FnZSwgZGVzdGluYXRpb24gfSA9IHVwc2VsbEluZm87Cg==</text>
+        <text encoding="base64">ICBvblByb21vQ29kZUNoYW5nZTogUmVhY3QuUHJvcFR5cGVzLmZ1bmMuaXNSZXF1aXJlZCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZXZlbnROYW1lLCBpc1NvZnRXYXJuaW5nLCB0aXRsZSwgbWVzc2FnZSwgZGVzdGluYXRpb24gfSA9IHVwc2VsbEluZm87Cg==</text>
+        <text encoding="base64">ICBvblRyaWdnZXJDaGFuZ2U6IFJlYWN0LlByb3BUeXBlcy5mdW5jLmlzUmVxdWlyZWQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZXZlbnROYW1lOiBuZXh0RXZlbnRObmFtZX0K</text>
+        <text encoding="base64">ICBwcm9tb0NvZGU6IFJlYWN0LlByb3BUeXBlcy5zdHJpbmcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0cmlnZ2VyOiBSZWFjdC5Qcm9wVHlwZXMuc3RyaW5nLmlzUmVxdWlyZWQsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2521,7 +2526,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZXZlbnROYW1lIH0gPSB1cHNlbGxJbmZvOwo=</text>
+        <text encoding="base64">QXV0b1RyaWdnZXJlZE9wdGlvbnMucHJvcFR5cGVzID0gewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
