@@ -130,13 +130,6 @@
         <mark key="." line="133" column="0" />
         <mark key="^" line="131" column="50" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/operation/ApplyPromoCodeToCartOperation.java" timestamp="1490982045586">
-        <mark key="'" line="165" column="37" />
-        <mark key="[" line="160" column="9" />
-        <mark key="]" line="160" column="17" />
-        <mark key="." line="160" column="17" />
-        <mark key="^" line="160" column="17" />
-      </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/screens/Login/Login.scss" timestamp="1489105260186">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="18" />
@@ -1047,12 +1040,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/criteria/DiscountProductResolverTest.java" timestamp="1490992489650">
-        <mark key="'" line="32" column="40" />
-        <mark key="[" line="19" column="23" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/criteria/DiscountProductResolverTest.java" timestamp="1490993447718">
+        <mark key="'" line="53" column="40" />
+        <mark key="[" line="69" column="43" />
+        <mark key="]" line="69" column="61" />
+        <mark key="." line="69" column="61" />
+        <mark key="^" line="69" column="61" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/utils/unwrapShippingOptions.js" timestamp="1486051525106">
         <mark key="[" line="63" column="34" />
@@ -1589,6 +1582,12 @@
         <mark key="." line="9" column="74" />
         <mark key="^" line="9" column="74" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/criteria/DiscountCategoryResolver.java" timestamp="1490993746875">
+        <mark key="[" line="23" column="77" />
+        <mark key="]" line="23" column="77" />
+        <mark key="." line="23" column="77" />
+        <mark key="^" line="23" column="77" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/criteria/product/ProductCriteria.java" timestamp="1490136198779">
         <mark key="[" line="35" column="2" />
         <mark key="]" line="35" column="2" />
@@ -1755,43 +1754,43 @@
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ObjectId</text>
+        <text>(</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ObjectId</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>isTriggered</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhsb3dlciwgdXBwZXIpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscyhwcm9kdWN0LmdldE5hbWUoKSwgUFJPRFVDVF9OQU1FKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBQaHlzaWNhbFByb2R1Y3QuYnVpbGRlcigpCiAgICAgIC5pZChPYmplY3RJZC5nZXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByb2R1Y3RPcHRpb25hbC5nZXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucHJvZHVjdE5hbWUoIk9sZCBOYW1lIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29kZSA9IGNvZGU7ago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb2RlLmVxdWFsc0lnbm9yZUNhc2UodHJpZ2dlci5nZXRDb2RlKCkpOwo=</text>
+        <text encoding="base64">ICAKICBATW9jawogIHByaXZhdGUgV2Vic2l0ZSB3ZWJzaXRlOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2593,10 +2592,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFByb21vQ29kZVRyaWdnZXIgdHJpZ2dlciA9IChQcm9tb0NvZGVUcmlnZ2VyKSBpdGVtLmdldFRyaWdnZXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRydWUoKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIAo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
