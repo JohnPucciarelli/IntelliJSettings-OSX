@@ -184,6 +184,12 @@
         <mark key="." line="42" column="21" />
         <mark key="^" line="42" column="21" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/crud/AutoTriggeredAccessChecker.java" timestamp="1491417977011">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/framework/exceptionhandler/DiscountValidationExceptionHandler.java" timestamp="1480368319380">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="24" />
@@ -263,6 +269,10 @@
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/DiscountPanel.jsx" timestamp="1491248614350">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="54" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/utils/billing/DefaultMoneyFormatter.js" timestamp="1479328848607">
         <mark key="[" line="11" column="0" />
@@ -631,7 +641,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491254148438">
+      <file name="/Dummy.txt" timestamp="1491417585493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/ShippingOptionCarrierType.java" timestamp="1485466644598">
@@ -764,6 +774,12 @@
         <mark key="]" line="17" column="78" />
         <mark key="." line="17" column="78" />
         <mark key="^" line="17" column="78" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" timestamp="1491418422282">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="125" column="7" />
+        <mark key="." line="127" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/DiscountPanel.less" timestamp="1488308348842">
         <mark key="[" line="4" column="31" />
@@ -1217,6 +1233,10 @@
         <mark key="." line="12" column="50" />
         <mark key="^" line="12" column="50" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/aux-server/src/main/java/com/squarespace/auxiliary/maintenance/AuditUnusedWebsites.java" timestamp="1491417711265">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="97" column="63" />
+      </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/fetchPlayer.js" timestamp="1489004164640">
         <mark key="[" line="22" column="30" />
         <mark key="]" line="23" column="7" />
@@ -1536,9 +1556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/UpsellConfirmation/index.js" />
-      <jump line="46" column="11" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/UpsellConfirmation/UpsellConfirmation.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/GooglePlacesAutocomplete/GooglePlacesAutocompleteInput.jsx" />
       <jump line="4" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/GooglePlacesAutocomplete/GooglePlacesAutocompleteInput.jsx" />
       <jump line="15" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/UpsellConfirmation/UpsellConfirmation.jsx" />
       <jump line="13" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/UpsellConfirmation/UpsellConfirmation.jsx" />
@@ -1636,49 +1653,52 @@
       <jump line="31" column="11" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/core/events/MerchantEvent.java" />
       <jump line="69" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/core/events/MerchantEvent.java" />
       <jump line="43" column="76" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/events/DiscountEventRecorder.java" />
+      <jump line="113" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
+      <jump line="39" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
+      <jump line="146" column="25" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>selectedDiscountShippingOptio</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGlmIChpc1dlYnNpdGVJblRyaWFsKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>selectedDiscountShippingOptio</text>
+        <text>{}}</text>
       </register>
       <register name="/" type="4">
-        <text>newDa</text>
+        <text>internal</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgLyoqCiAgICogU3RvcmVzIGEgY29tbWVyY2UgZXZlbnQgYWxvbmcgd2l0aCBvdGhlciBldmVudCB0cmFja2luZyBpbmZvICh3ZWJzaXRlLCB0ZW1wbGF0ZSwgZXRjLikKICAgKiBAcGFyYW0gZXZlbnQgVGhlIG5hbWUgb2YgdGhlIGV2ZW50IHRvIHJlY29yZAogICAqIEBwYXJhbSBrZXlWYWx1ZVBhaXJzIEtleSB2YWx1ZSBwYWlycyB0aGF0IHdpbGwgYmUgc3RvcmVkIGFsb25nIHdpdGggdGhlIGV2ZW50CiAgICovCiAgcHVibGljIHZvaWQgcmVjb3JkKE1lcmNoYW50RXZlbnQgZXZlbnQsIE1hcDxTdHJpbmcsIE9iamVjdD4ga2V5VmFsdWVQYWlycykgewogICAgRXZlbnRUcmFja2luZ0luZm8gZXZlbnRUcmFja2luZ0luZm8gPSB0cmFja2luZ0luZm9GYWN0b3J5LmdldEluZm8oKTsKICAgIFVuaXF1ZVVzZXJJbmZvIHVzZXJJbmZvID0gZXZlbnRUcmFja2luZ0luZm8uZ2V0VXNlckluZm8oKTsKCiAgICBFdmVudERhdGFCdWlsZGVyIGV2ZW50RGF0YUJ1aWxkZXIgPSBuZXcgRXZlbnREYXRhQnVpbGRlcihldmVudFRyYWNraW5nSW5mbyk7CiAgICBmb3IgKFN0cmluZyBrZXkgOiBrZXlWYWx1ZVBhaXJzLmtleVNldCgpKSB7CiAgICAgZXZlbnREYXRhQnVpbGRlci5wdXRJZk5vdE51bGwoa2V5LCBrZXlWYWx1ZVBhaXJzLmdldChrZXkpKTsKICAgIH0KCiAgICBTdHJpbmcgZXZlbnROYW1lID0gZXZlbnQuZ2V0RXZlbnROYW1lKCk7CiAgICB0cnkgewogICAgICByZWNvcmRlci5yZWNvcmRFdmVudChDT0xMRUNUSU9OLCB1c2VySW5mbywgZXZlbnROYW1lLCBldmVudERhdGFCdWlsZGVyLnRvRGF0YSgpKTsKICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgIExPRy5lcnJvcigiRXhjZXB0aW9uIG9jY3VycmVkIHdoaWxlIHRyeWluZyB0byByZWNvcmQgbWVyY2hhbnQgZXZlbnQgW3t9XSIsIGV2ZW50TmFtZSwgZSk7CiAgICB9CiAgfQ==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICgKICAgICAgICA8RmllbGQgZXJyb3JNZXNzYWdlPXtlcnJvck1lc3NhZ2V9PgogICAgICAgICAgPFJhZGlvR3JvdXAKICAgICAgICAgICAgbmFtZT0idHJpZ2dlci10eXBlIgogICAgICAgICAgICB0aXRsZT0iVHJpZ2dlciBUeXBlIgogICAgICAgICAgICB2YWx1ZT17Q09ERX0KICAgICAgICAgICAgb25DaGFuZ2U9eygpID0+IHt9fQogICAgICAgICAgICBjbGFzc05hbWU9e3N0eWxlc2hlZXQucmFkaW9Hcm91cH0KICAgICAgICAgICAgb3B0aW9uQ2xhc3NOYW1lPXtzdHlsZXNoZWV0LnJhZGlvT3B0aW9ufQogICAgICAgICAgICBvcHRpb25zPXtbCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsdWU6IENPREUsCiAgICAgICAgICAgICAgICBsYWJlbDogJ1Byb21vIENvZGUnLAogICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICgKICAgICAgICAgICAgICAgICAgPFByb21vQ29kZVdyYXBwZXIKICAgICAgICAgICAgICAgICAgICB2YWx1ZT17cHJvbW9Db2RlfQogICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uPXtwcm9tb0NvZGVEZXNjcmlwdGlvbn0KICAgICAgICAgICAgICAgICAgICBpc1Zpc2libGU9e3RydWV9CiAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMuaGFuZGxlUHJvbW9Db2RlQ2hhbmdlfQogICAgICAgICAgICAgICAgICAgIGVycm9ycz17ZXJyb3JzfQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgIH0KICAgICAgICAgICAgXX0KICAgICAgICAgIC8+CiAgICAgICAgICA8VXBzZWxsQ29uZmlybWF0aW9uIHVwc2VsbEluZm89e3Vwc2VsbEluZm9VcGdyYWRlfT4KICAgICAgICAgICAgPFJhZGlvR3JvdXAKICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVUcmlnZ2VyQ2hhbmdlfQogICAgICAgICAgICAgIGlzRGlzYWJsZWQ9e3RydWV9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXNoZWV0LnJhZGlvR3JvdXB9CiAgICAgICAgICAgICAgb3B0aW9uQ2xhc3NOYW1lPXtzdHlsZXNoZWV0LnJhZGlvT3B0aW9ufQogICAgICAgICAgICAgIG9wdGlvbnM9e1sKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgdmFsdWU6IEFVVE8sCiAgICAgICAgICAgICAgICAgIGxhYmVsOiAnQXV0b21hdGljIERpc2NvdW50JywKICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb246ICdUaGlzIGRpc2NvdW50IGFwcGxpZXMgYXV0b21hdGljYWxseSBpbiBjaGVja291dCAobm8gY29kZSByZXF1aXJlZCkuJwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIF19CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L1Vwc2VsbENvbmZpcm1hdGlvbj4KICAgICAgICA8L0ZpZWxkPgogICAgICApOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNlbGVjdGVkRGlzY291bnRTaGlwcGluZ09wdGlvbiBzaGlwcGluZ09wdGlvbiA9IGZyZWVTaGlwcGluZ1RlbXBsYXRlLmdldFNoaXBwaW5nT3B0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc1dlYnNpdGVJblRyaWFsKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpc0Rpc2FibGVkPXtmfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXBzZWxsSW5mbyA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNEaXNhYmxlZD17ZmFsc2V9Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChmcmVlU2hpcHBpbmdUZW1wbGF0ZS5hcHBsaWVzVG9BbGxPcHRpb25zKCkpIHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICByZXR1cm4gKAogICAgICA8RmllbGQgZXJyb3JNZXNzYWdlPXtlcnJvck1lc3NhZ2V9PgogICAgICAgIDxSYWRpb0dyb3VwCiAgICAgICAgICBuYW1lPSJ0cmlnZ2VyLXR5cGUiCiAgICAgICAgICB0aXRsZT0iVHJpZ2dlciBUeXBlIgogICAgICAgICAgdmFsdWU9e0NPREV9CiAgICAgICAgICBvbkNoYW5nZT17dGhpcy5oYW5kbGVUcmlnZ2VyQ2hhbmdlfQogICAgICAgICAgY2xhc3NOYW1lPXtzdHlsZXNoZWV0LnJhZGlvR3JvdXB9CiAgICAgICAgICBvcHRpb25DbGFzc05hbWU9e3N0eWxlc2hlZXQucmFkaW9PcHRpb259CiAgICAgICAgICBvcHRpb25zPXtbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICB2YWx1ZTogQ09ERSwKICAgICAgICAgICAgICBsYWJlbDogJ1Byb21vIENvZGUnLAogICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAoCiAgICAgICAgICAgICAgICA8UHJvbW9Db2RlV3JhcHBlcgogICAgICAgICAgICAgICAgICB2YWx1ZT17cHJvbW9Db2RlfQogICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbj17cHJvbW9Db2RlRGVzY3JpcHRpb259CiAgICAgICAgICAgICAgICAgIGlzVmlzaWJsZT17dHJ1ZX0KICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMuaGFuZGxlUHJvbW9Db2RlQ2hhbmdlfQogICAgICAgICAgICAgICAgICBlcnJvcnM9e2Vycm9yc30KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgKQogICAgICAgICAgICB9CiAgICAgICAgICBdfQogICAgICAgIC8+CiAgICAgICAgPFVwc2VsbENvbmZpcm1hdGlvbgogICAgICAgICAgaXNEaXNhYmxlZD17ZmFsc2V9CiAgICAgICAgICB1cHNlbGxJbmZvPXt1cHNlbGxJbmZvfQogICAgICAgID4KICAgICAgICAgIDxSYWRpb0dyb3VwCiAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZVRyaWdnZXJDaGFuZ2V9CiAgICAgICAgICAgIGlzRGlzYWJsZWQ9eyFpc1dlYnNpdGVJblRyaWFsfQogICAgICAgICAgICBjbGFzc05hbWU9e3N0eWxlc2hlZXQucmFkaW9Hcm91cH0KICAgICAgICAgICAgb3B0aW9uQ2xhc3NOYW1lPXtzdHlsZXNoZWV0LnJhZGlvT3B0aW9ufQogICAgICAgICAgICBvcHRpb25zPXtbCiAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFsdWU6IEFVVE8sCiAgICAgICAgICAgICAgICBsYWJlbDogJ0F1dG9tYXRpYyBEaXNjb3VudCcsCiAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogJ1RoaXMgZGlzY291bnQgYXBwbGllcyBhdXRvbWF0aWNhbGx5IGluIGNoZWNrb3V0IChubyBjb2RlIHJlcXVpcmVkKS4nCiAgICAgICAgICAgICAgfQogICAgICAgICAgICBdfQogICAgICAgICAgLz4KICAgICAgICA8L1Vwc2VsbENvbmZpcm1hdGlvbj4KICAgICAgPC9GaWVsZD4KICAgICk7</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc0F1dG9UcmlnZ2VyRW5hYmxlZCAmJiAhaXNXZWJzaXRlSW5UcmlhbCkgewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2480,10 +2500,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5idWlsZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5pc0FsbFNlcnZpY2VzU2VsZWN0ZWQodHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -2493,9 +2513,9 @@
       </register>
     </registers>
     <search>
-      <last-search>newDa</last-search>
+      <last-search>internal</last-search>
       <last-offset />
-      <last-pattern>newDa</last-pattern>
+      <last-pattern>internal</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -2503,10 +2523,6 @@
     </search>
     <history>
       <history-search>
-        <entry>T</entry>
-        <entry encoding="base64">IA==</entry>
-        <entry encoding="base64">PFQ=</entry>
-        <entry>addPromo</entry>
         <entry>promoCodeOption</entry>
         <entry>onTrigger</entry>
         <entry>upselltrigger</entry>
@@ -2523,6 +2539,10 @@
         <entry>confirmtext</entry>
         <entry>newBuil</entry>
         <entry>newDa</entry>
+        <entry>automatic-di</entry>
+        <entry>trial</entry>
+        <entry>isWebsiteIntrial</entry>
+        <entry>internal</entry>
       </history-search>
       <history-cmd>
         <entry>%sg/DiscountValidationErrorType.//gc</entry>
