@@ -1,6 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
@@ -8,9 +7,9 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,13 +21,11 @@
       <mask>*.js, .less</mask>
       <mask>*.js, *.less, *.html</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.js, *.less</mask>
       <mask>*jsx, *.js, *.less</mask>
       <mask>*jsx, *.js, *.less, *.html</mask>
       <mask>*.jsx, *.js, *.html</mask>
       <mask>*.jsx, *.js, *.less, *.html</mask>
-      <mask>*.jsx</mask>
       <mask>*.jsx, *.js, *.less</mask>
       <mask>*.less</mask>
       <mask>*.js,*.jsx, *.less</mask>
@@ -38,6 +35,10 @@
       <mask>*.js,*.jsx, *.less, *.json *.eslintrc !testbundle.js</mask>
       <mask>*jsx</mask>
       <mask>*.js,*.jsx, *.less, *.json *.eslintrc, !testbundle.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
