@@ -1398,11 +1398,12 @@
         <mark key="^" line="21" column="20" />
         <mark key="." line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/routes/index.js" timestamp="1491436208710">
-        <mark key="[" line="1278" column="30" />
-        <mark key="]" line="1278" column="30" />
-        <mark key="." line="1278" column="30" />
-        <mark key="^" line="1284" column="31" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/routes/index.js" timestamp="1491518659000">
+        <mark key="'" line="1153" column="0" />
+        <mark key="[" line="1241" column="0" />
+        <mark key="]" line="1241" column="0" />
+        <mark key="^" line="1266" column="31" />
+        <mark key="." line="1241" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/constants/TriggerErrorTypes.js" timestamp="1480436204275">
         <mark key="[" line="0" column="6" />
@@ -1607,8 +1608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Settings/screens/CommerceNotifications/components/NotificationsPanel.jsx" />
-      <jump line="101" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Settings/screens/CommerceNotifications/components/NotificationsPanel.jsx" />
       <jump line="189" column="66" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/CouponPortal.java" />
       <jump line="108" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/operation/ApplyPromoCodeToCartOperation.java" />
       <jump line="116" column="39" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/operation/ApplyPromoCodeToCartOperation.java" />
@@ -1707,13 +1706,15 @@
       <jump line="221" column="29" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/components/features/repository/StaticFeatureSetRepository.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/DiscountsPanel.jsx" />
       <jump line="146" column="18" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/components/features/websitefeatures/WebsiteFeaturesProviderImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/routes/index.js" />
+      <jump line="1153" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/routes/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -1722,18 +1723,30 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>TRIAL</text>
+        <text>coupon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGVzdGluYXRpb246IFVwc2VsbERlc3RpbmF0aW9uLlRSSUFMX1VQR1JBREVfUExBTiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ewogICAgcGF0aDogJy9jb21tZXJjZS9kaXNjb3VudHMnLAogICAgbGFiZWw6ICdEaXNjb3VudHMnLAogICAgZ2V0V2lkZ2V0OiBZID0+IFkuU3F1YXJlc3BhY2UuRGFtYXNrLk1lbnUuQ29tbWVyY2UuQ291cG9uTGlzdE1hbmFnZXIsCiAgICBwZXJtaXNzaW9uOiBBY2Nlc3NQZXJtaXNzaW9ucy5DT05GSUdfQ09NTUVSQ0VfQ09VUE9OUywKICAgIGludGVyZmFjZVR5cGU6IEludGVyZmFjZVR5cGUuQ0xBU1NJQywKICAgIHdpZHRoOiBXSURUSFMuV0lERSwKICAgIGRlc2NyaXB0aW9uOiAnQ3JlYXRlIGRpc2NvdW50cyBmb3IgeW91ciBzdG9yZScKICB9LA==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAsCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgcGF0aDogJy9kaXNjb3VudHMnLAogICAgbGFiZWw6ICdEaXNjb3VudHMnLAogICAgZ2V0V2lkZ2V0OiBZID0+IFkuU3F1YXJlc3BhY2UuRGFtYXNrLk1lbnUuQ29tbWVyY2UuQ291cG9uTGlzdE1hbmFnZXIsCiAgICBwZXJtaXNzaW9uOiBBY2Nlc3NQZXJtaXNzaW9ucy5DT05GSUdfQ09NTUVSQ0VfQ09VUE9OUywKICAgIGludGVyZmFjZVR5cGU6IEludGVyZmFjZVR5cGUuQ09NTUVSQ0UsCiAgICB3aWR0aDogV0lEVEhTLldJREUsCiAgICBkZXNjcmlwdGlvbjogJ0NyZWF0ZSBkaXNjb3VudHMgZm9yIHlvdXIgc3RvcmUnCiAgfQ==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>[FeatureSetIdentifiers.WEBSITE_LEGACY_COMPED]: {
       title: MESSAGES.automaticDiscountsTrialUpgradeTitle,
       message: MESSAGES.automaticDiscountsTrialUpgradeMessage,
@@ -1741,22 +1754,10 @@
       isSoftWarning: true
     },</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>Your plan does not support ' +
   'Automatic Discounts. You must upgrade your plan to edit this discount. ' +
   'You can also remove this discount.</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXBzZWxsSW5mbyA9IGlzV2Vic2l0ZUluVHJpYWwgPyB1cHNlbGxJbmZvU3Vic2NyaWJlIDogdXBzZWxsSW5mb1VwZ3JhZGU7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2558,7 +2559,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXBzZWxsSW5mbyA9IGlzV2Vic2l0ZUluVHJpYWwgPyB1cHNlbGxJbmZvU3Vic2NyaWJlIDogdXBzZWxsSW5mb1VwZ3JhZGU7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -2571,9 +2572,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TRIAL</last-search>
+      <last-search>coupon</last-search>
       <last-offset />
-      <last-pattern>TRIAL</last-pattern>
+      <last-pattern>coupon</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -2581,8 +2582,6 @@
     </search>
     <history>
       <history-search>
-        <entry>newBuil</entry>
-        <entry>newDa</entry>
         <entry>automatic-di</entry>
         <entry>trial</entry>
         <entry>isWebsiteIntrial</entry>
@@ -2601,6 +2600,8 @@
         <entry>abandoned</entry>
         <entry>isAutotrigger</entry>
         <entry>TRIAL</entry>
+        <entry>discounts</entry>
+        <entry>coupon</entry>
       </history-search>
       <history-cmd>
         <entry>%sg/DiscountValidationErrorType.//gc</entry>
