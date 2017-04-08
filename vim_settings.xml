@@ -435,6 +435,11 @@
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateResponseFactory.java" timestamp="1490627332610">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidatorTest.java" timestamp="1491683787177">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/shipping/api/ShippingOptionCarrierType.java" timestamp="1484689807340">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="4" column="14" />
@@ -561,6 +566,11 @@
         <mark key="^" line="15" column="1" />
         <mark key="." line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRules.java" timestamp="1491683738265">
+        <mark key="[" line="243" column="12" />
+        <mark key="]" line="243" column="12" />
+        <mark key="." line="243" column="12" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/panel-container.js" timestamp="1480976644142">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="17" />
@@ -649,6 +659,7 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/legacy/CommerceCouponFactory.java" timestamp="1491681289484" />
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/mocha.opts" timestamp="1479319876817">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1250,6 +1261,12 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/PercentageDiscountTemplate.java" timestamp="1491683704738">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/crud/AutoTriggeredNotSupportedException.java" timestamp="1481655113885">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="9" column="1" />
@@ -1396,11 +1413,11 @@
         <mark key="'" line="1153" column="0" />
         <mark key="^" line="1284" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/legacy/CommerceCouponFactoryTest.java" timestamp="1491675905490">
-        <mark key="[" line="25" column="68" />
-        <mark key="]" line="48" column="51" />
-        <mark key="." line="48" column="51" />
-        <mark key="^" line="48" column="51" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/legacy/CommerceCouponFactoryTest.java" timestamp="1491683890230">
+        <mark key="[" line="110" column="42" />
+        <mark key="]" line="110" column="53" />
+        <mark key="." line="110" column="53" />
+        <mark key="^" line="110" column="53" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/constants/TriggerErrorTypes.js" timestamp="1480436204275">
         <mark key="[" line="0" column="6" />
@@ -1700,7 +1717,7 @@
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>discountAmount</text>
+        <text>assertNull</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -1709,7 +1726,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>discountAmount</text>
+        <text>assertNull</text>
       </register>
       <register name="/" type="4">
         <text>coupon</text>
@@ -1718,28 +1735,30 @@
         <text encoding="base64">CiAgICBTZWxlY3RlZERpc2NvdW50U2hpcHBpbmdPcHRpb24gcmVzb2x2ZWRPcHRpb24gPSBTZWxlY3RlZERpc2NvdW50U2hpcHBpbmdPcHRpb24uYnVpbGRlcigpCiAgICAgICAgLnNoaXBwaW5nT3B0aW9uSWQoaWQpCiAgICAgICAgLmlzQWxsU2VydmljZXNTZWxlY3RlZCh0cnVlKQogICAgICAgIC5idWlsZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1vbmV5IGRpc2NvdW50QW1vdW50ID0gbmV3IE1vbmV5KENVUlJFTkNZX0NPREUsIDEwKTsK</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0VGhhdChlcnJvclR5cGVzLCBoYXNJdGVtKERpc2NvdW50VmFsaWRhdGlvbkVycm9yVHlwZS5QRVJDRU5UQUdFX0lOVkFMSUQpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERpc2NvdW50IGRpc2NvdW50ID0gRGlzY291bnQuYnVpbGRlcigpLmJ1aWxkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGVtcGxhdGUobmV3IFBlcmNlbnRhZ2VEaXNjb3VudFRlbXBsYXRlKG51bGwpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmVzcGFjZS52Ni5idXNpbmVzcy5jb21tZXJjZS5kaXNjb3VudC5jcml0ZXJpYS5DYXRlZ29yeUNyaXRlcmlhOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCBwZXJjZW50YWdlID0gMTA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIGludCBtYXhTaGlwcGluZ0Nvc3QgPSAxMDsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIENhdGVnb3J5Q3JpdGVyaWEgY2F0ZWdvcnlDcml0ZXJpYSA9IENhdGVnb3J5Q3JpdGVyaWEuYnVpbGRlcigpCg==</text>
+      <register name="7" type="4">
+        <text>FreeShippingDiscountTemplate.builder()
+            .maxShippingCostCents(maxShippingCost)
+            .build()</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2541,10 +2560,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc2NvdW50QXBwbGljYXRpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICAuc2hpcHBpbmdPcHRpb24oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
