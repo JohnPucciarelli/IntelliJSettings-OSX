@@ -1516,11 +1516,12 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/test/java/com/squarespace/api/commerce/discounts/ShippingOptionFlattenerTest.java" timestamp="1491948247506">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="15" />
-        <mark key="^" line="27" column="55" />
-        <mark key="." line="28" column="15" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/test/java/com/squarespace/api/commerce/discounts/ShippingOptionFlattenerTest.java" timestamp="1492028202877">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="15" />
+        <mark key="^" line="40" column="55" />
+        <mark key="." line="41" column="15" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/components/features/models/MockFeatureSetImpl.java" timestamp="1491951614830">
         <mark key="[" line="17" column="37" />
@@ -1770,7 +1771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/core/events/MerchantEvent.java" />
       <jump line="43" column="76" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/events/DiscountEventRecorder.java" />
       <jump line="113" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
       <jump line="39" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTriggerPicker/DiscountTriggerPicker.jsx" />
@@ -1870,6 +1870,7 @@
       <jump line="29" column="57" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/business/commerce/shipping/carriers/ups/UPSAddressValidatorTest.java" />
       <jump line="41" column="67" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/business/commerce/shipping/carriers/ups/UPSAddressValidatorTest.java" />
       <jump line="66" column="18" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/business/commerce/shipping/carriers/ups/UPSAddressValidatorTest.java" />
+      <jump line="18" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/test/java/com/squarespace/api/commerce/discounts/ShippingOptionFlattenerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
