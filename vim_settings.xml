@@ -32,6 +32,9 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="/a.dummy" timestamp="1492022535172">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/test/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateFactoryTest.java" timestamp="1491948909857">
         <mark key="[" line="128" column="25" />
         <mark key="]" line="128" column="39" />
@@ -582,11 +585,11 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountSaverTest.java" timestamp="1492021808773">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="49" column="89" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountSaverTest.java" timestamp="1492022510649">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="57" column="71" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/addSong.js" timestamp="1489095444776">
         <mark key="[" line="18" column="45" />
@@ -606,6 +609,9 @@
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/criteria/DiscountProductFinder.java" timestamp="1491937353336">
+        <mark key="[" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/VoteButton/VoteButton.jsx" timestamp="1489175636381">
         <mark key="[" line="88" column="10" />
@@ -832,7 +838,7 @@
         <mark key="^" line="102" column="86" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1492019507409">
+      <file name="/fragment.java" timestamp="1492022520065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -1351,6 +1357,9 @@
         <mark key="." line="15" column="11" />
         <mark key="^" line="15" column="11" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateFactory.java" timestamp="1491937694921">
+        <mark key="[" line="30" column="17" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/PromoCodeInput/PromoCodeInput.jsx" timestamp="1481583463302">
         <mark key="[" line="50" column="47" />
         <mark key="]" line="50" column="53" />
@@ -1686,6 +1695,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountSaverUpdaterValidationTest.java" timestamp="1492022877001">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="69" />
+        <mark key="^" line="26" column="69" />
+        <mark key="." line="26" column="69" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/test/definition/DiscountDefinition.java" timestamp="1491946303609">
         <mark key="[" line="133" column="16" />
         <mark key="]" line="133" column="23" />
@@ -1860,8 +1875,8 @@
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>couponDAO</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -1870,89 +1885,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>couponDAO</text>
       </register>
       <register name="/" type="4">
         <text>ratesCach</text>
       </register>
-      <register name="0" type="4">
-        <text>/
-//  @Test
-//  public void testSaveDiscountWithProductCriteria() throws DiscountNotFoundException,
-//      AutoTriggeredUnsupportedException, DiscountValidationException {
-//    ContentItem productA = productTestHelper.saveProduct(ProductDefinition.PRODUCT_A_PHYSICAL);
-//    Discount discount = DiscountDefinition.PERCENTAGE_25_OFF_PRODUCT_A_AUTO_APPLIED.toModel();
-//    Discount savedDiscount = discountSaver.save(discount, website);
-//
-//    assertThat(savedDiscount.getId(), is(notNullValue()));
-//    assertThat(savedDiscount.getTemplate(), is(discount.getTemplate()));
-//    assertThat(savedDiscount.getTrigger(), is(discount.getTrigger()));
-//    assertThat(savedDiscount.getCriteria(), is(discount.getCriteria()));
-//    assertThat(savedDiscount.getCriteria().getType(), is(DiscountCriteriaType.PRODUCT));
-//    assertThat(((ProductCriteria)savedDiscount.getCriteria()).getProductId(), is(productA.getId()));
-//
-//    // Read the discount and verify it was saved
-//    Discount fetchedDiscount = discountRetriever.findDiscount(savedDiscount.getId(), website);
-//
-//    assertThat(fetchedDiscount, is(savedDiscount));
-//
-//    // Try saving a discount with a product criteria for a product that does not exist
-//    discount = DiscountDefinition.PERCENTAGE_25_OFF_PRODUCT_A_AUTO_APPLIED.toBuilder()
-//    .criteria(ProductCriteriaDefinition.PRODUCT_B_TWICE.toModel())
-//    .build();
-//    try {
-//      discountSaver.save(toUnresolved(discount), website);
-//      fail(&quot;Expected the save to fail because the discount references a non existing product&quot;);
-//    } catch(DiscountValidationException e) {
-//      assertThat(e.getErrors(), hasItem(DiscountValidationErrorType.NON_EXISTING_PRODUCT));
-//    }
-//  }
-//
-//  @Test
-//  public void testSaveAutoTriggeredDiscountOneTooMany()
-//      throws AutoTriggeredUnsupportedException, DiscountValidationException {
-//    Discount discount = DiscountDefinition.FLAT_FEE_10_OFF_COUPON_A.toModel();
-//    CommerceCoupon coupon = CommerceCouponFactory.create(discount);
-//    CommerceCouponDAO commerceCouponDAO = mock(CommerceCouponDAO.class);
-//    PromoCodeTrigger promoCodeTrigger = (PromoCodeTrigger) discount.getTrigger();
-//    when(commerceCouponDAO.findCouponByPromoCode(eq(promoCodeTrigger.getCode().getValue()), any(Website.class)))
-//        .thenReturn(Optional.of(coupon));
-//    when(commerceCouponDAO.countActiveAutoTriggeredCoupons(website)).thenReturn((long) DiscountLimits.MAX_ACTIVE_TRIGGERED_DISCOUNTS + 1);
-//
-//    DiscountValidationRules discountValidationRules = new DiscountValidationRules(commerceCouponDAO, shippingOptionRetriever, null, null);
-//    DiscountValidator discountValidator = new DiscountValidator(discountValidationRules);
-//    DiscountSaver discountSaver = new DiscountSaver(commerceCouponDAO, discountValidator, commerceCouponAdapter,
-//        autoTriggeredAccessChecker);
-//
-//    // Save a coupon triggered discount, should work
-//    discountSaver.save(discount, website);
-//
-//    // Save an auto triggered discount, expect the limit to be enforced
-//    try {
-//      discountSaver.save(DiscountDefinition.FLAT_FEE_25_OFF_CART_TOTAL_100_AUTO_APPLIED.toModel(), website);
-//      fail(&quot;Expected the save of an auto triggered discount to fail because the maximum limit would be exceeded.&quot;);
-//    } catch(DiscountValidationException e) {
-//      assertThat(e.getErrors(), hasItem(DiscountValidationErrorType.MAX_ALLOWED_AUTO_TRIGGER_REACHED));
-//    }
-//  }
-//
-//  @Test(expectedExceptions = AutoTriggeredUnsupportedException.class)
-//  public void testSaveAutoTriggerDiscount() throws DiscountValidationException, AutoTriggeredUnsupportedException {
-//    Discount discount = DiscountDefinition.FLAT_FEE_25_OFF_CART_TOTAL_100_AUTO_APPLIED.toModel();
-//    CommerceCouponDAO commerceCouponDAO = mock(CommerceCouponDAO.class);
-//
-//    DiscountValidationRules discountValidationRules = new DiscountValidationRules(commerceCouponDAO,
-//        shippingOptionRetriever, null, null);
-//    DiscountValidator discountValidator = new DiscountValidator(discountValidationRules);
-//
-//    when(autoTriggeredAccessChecker.isAutoTriggerEnabled(website)).thenReturn(false);
-//    DiscountSaver discountSaver = new DiscountSaver(commerceCouponDAO, discountValidator, commerceCouponAdapter,
-//        autoTriggeredAccessChecker);
-//
-//    // Save a coupon triggered discount, should throw exception
-//    discountSaver.save(discount, website);
-//  }
-//</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIERpc2NvdW50U2F2ZXIgZGlzY291bnRTYXZlciA9IG5ldyBEaXNjb3VudFNhdmVyKGRlcGVuZGVuY3lSZXNvbHZlciwgY291cG9uREFPLCB2YWxpZGF0b3IsIGRpc2NvdW50RmFjdG9yeSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1961,22 +1900,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIERpc2NvdW50IGRpc2NvdW50Owo=</text>
+        <text encoding="base64">ICBwcml2YXRlIERpc2NvdW50U2F2ZXIgZGlzY291bnRTYXZlcjsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
+        <text encoding="base64">ICAgIGRpc2NvdW50U2F2ZXIgPSBuZXcgRGlzY291bnRTYXZlcihkZXBlbmRlbmN5UmVzb2x2ZXIsIGNvdXBvbkRBTywgdmFsaWRhdG9yLCBkaXNjb3VudEZhY3RvcnkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRpc2NvdW50ID0gRGlzY291bnQuYnVpbGRlcigpCg==</text>
+        <text encoding="base64">Ly8gVE9ETzogZGlzY291bnQgdXBkYXRlciB0ZXN0IC0gcG9vY2gK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpc2NvdW50ID0gRGlzY291bnQuYnVpbGRlcigpCiAgICAgICAgLmJ1aWxkKCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgRGlzY291bnRTYXZlciBkaXNjb3VudFNhdmVyID0gbmV3IERpc2NvdW50U2F2ZXIoKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIERpc2NvdW50IGRpc2NvdW50Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2778,10 +2717,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRpb25SdWxlcyA9IG1vY2soKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERpc2NvdW50VmEK</text>
+        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
