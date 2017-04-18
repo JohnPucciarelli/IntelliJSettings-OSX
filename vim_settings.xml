@@ -503,12 +503,6 @@
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/DiscountApplication.java" timestamp="1492539089792">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="52" />
-        <mark key="." line="26" column="52" />
-        <mark key="^" line="26" column="52" />
-      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/model/CommerceCoupon.java" timestamp="1492539650250">
         <mark key="'" line="75" column="21" />
         <mark key="[" line="54" column="0" />
@@ -1370,12 +1364,6 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/operation/FinalizeAndPriceCartOperation.java" timestamp="1492454656305">
-        <mark key="[" line="69" column="46" />
-        <mark key="]" line="69" column="57" />
-        <mark key="." line="69" column="57" />
-        <mark key="^" line="69" column="57" />
-      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/UpsellConfirmation/UpsellTrigger.jsx" timestamp="1486424219066">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="26" column="3" />
@@ -2009,8 +1997,8 @@
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DiscountTemplateType.FREE_SHIPPING)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2028,28 +2016,28 @@
         <text encoding="base64">CiAgcHVibGljIHN0YXRpYyBDb21tZXJjZUNvdXBvbiBjcmVhdGUoRGlzY291bnQgZGlzY291bnQpIHsKICAgIENvbW1lcmNlQ291cG9uIGNvdXBvbiA9IG5ldyBDb21tZXJjZUNvdXBvbigpOwogICAgY291cG9uLnNldElkKGRpc2NvdW50LmdldElkKCkpOwogICAgY291cG9uLnNldFdlYnNpdGVJZChkaXNjb3VudC5nZXRXZWJzaXRlSWQoKSk7CiAgICBjb3Vwb24uc2V0TmFtZShkaXNjb3VudC5nZXROYW1lKCkpOwogICAgY291cG9uLnNldEVuYWJsZWQoZGlzY291bnQuaXNBY3RpdmUoKSk7CiAgICBjb3Vwb24uc2V0TnVtVXNlcyhkaXNjb3VudC5nZXROdW1iZXJPZlVzZXMoKSk7CiAgICBjb3Vwb24uc2V0U3RhcnREYXRlKGRpc2NvdW50LmdldFZhbGlkRnJvbSgpKTsKICAgIGNvdXBvbi5zZXRFbmREYXRlKGRpc2NvdW50LmdldFZhbGlkVG8oKSk7CgogICAgc2V0VGVtcGxhdGUoY291cG9uLCBkaXNjb3VudC5nZXRUZW1wbGF0ZSgpKTsKCiAgICBzZXRDcml0ZXJpYShjb3Vwb24sIGRpc2NvdW50LmdldENyaXRlcmlhKCkpOwoKICAgIHNldFRyaWdnZXIoY291cG9uLCBkaXNjb3VudC5nZXRUcmlnZ2VyKCkpOwoKICAgIHJldHVybiBjb3Vwb247CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNoaXBwaW5nT3B0aW9uRGlzY291bnRlci5zZXREaXNjb3VudGVkUHJpY2VzKGMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNoaXBwaW5nT3B0aW9uRGlzY291bnRlci5zZXREaXNjb3VudGVkUHJpY2VzKGMpCg==</text>
+        <text encoding="base64">ICAgIFNoaXBwYWJsZVNob3BwaW5nQ2FydCBzaGlwcGFibGVTaG9wcGluZ0NhcnQgPSBwcmljZUFuZEZpbHRlclNoaXBwaW5nT3B0aW9ucyhkaXNjb3VudGVkU2hvcHBpbmdDYXJ0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExpc3Q8RGlzY291bnRBcHBsaWNhdGlvbj4gdmFsaWREaXNjb3VudHM7Cg==</text>
+        <text encoding="base64">ICAgIFNoaXBwaW5nT3B0aW9uRGlzY291bnRlci5zZXREaXNjb3VudGVkUHJpY2VzKGMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFMK</text>
+        <text encoding="base64">ICAgIFNoaXBwaW5nT3B0aW9uRGlzY291bnRlci5zZXREaXNjb3VudGVkUHJpY2VzKGMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIExpc3Q8RGlzY291bnRBcHBsaWNhdGlvbj4gdmFsaWREaXNjb3VudHM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExpc3Q8RGlzY291bnQ+IHZhbGlkRGlzY291bnRzID0gCg==</text>
+        <text encoding="base64">ICAgIFMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8RGlzY291bnQ+IHZhbGlkRGlzY291bnRzID0gRGlzY291bnRBcHBsaWNhdGlvbi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2851,10 +2839,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8RGlzY291bnQ+IHZhbGlkRGlzY291bnRzID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8RGlzY291bnQ+IHZhbGlkRGlzY291bnRzID0gRGlzY291bnRBcHBsaWNhdGlvbi4K</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
