@@ -8,9 +8,6 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -36,6 +33,11 @@
       <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
+      <mask>*.jsx,</mask>
+      <mask>*.jsx,</mask>
+      <mask>*.jsx, *</mask>
+      <mask>*.jsx, *.</mask>
+      <mask>*.jsx, *.js</mask>
     </recentFileMasks>
   </component>
 </application>
