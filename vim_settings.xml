@@ -312,6 +312,9 @@
         <mark key="." line="35" column="43" />
         <mark key="^" line="35" column="43" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ordering/DiscountComparators.java" timestamp="1493144046438">
+        <mark key="'" line="16" column="70" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/DiscountShippingOptionRetriever.java" timestamp="1492107086709">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="16" column="87" />
@@ -1264,7 +1267,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/CartDiscounter.java" timestamp="1493135768023">
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/CartDiscounter.java" timestamp="1493143938571">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="61" column="82" />
         <mark key="]" line="61" column="82" />
@@ -1976,8 +1979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1217" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/routes/index.js" />
-      <jump line="26" column="13" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/applicability/DiscountApplicabilityRules.java" />
       <jump line="44" column="25" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/ActiveShoppingCartMutator.java" />
       <jump line="70" column="12" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/business/commerce/coupons/CouponQuery.java" />
       <jump line="116" column="0" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/business/commerce/coupons/CouponQuery.java" />
@@ -2076,6 +2077,8 @@
       <jump line="423" column="38" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
       <jump line="166" column="20" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/stacking/DiscountStackingStrategies.java" />
       <jump line="62" column="6" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/applicability/DiscountApplicabilityRules.java" />
+      <jump line="145" column="44" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ordering/DiscountComparators.java" />
+      <jump line="16" column="70" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ordering/DiscountComparators.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2094,7 +2097,7 @@
         <text>100</text>
       </register>
       <register name="/" type="4">
-        <text>sort</text>
+        <text>level</text>
       </register>
       <register name="0" type="4">
         <text>[FeatureSetIdentifiers.WEBSITE_LEGACY_TRIAL]: {
@@ -2940,9 +2943,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sort</last-search>
+      <last-search>level</last-search>
       <last-offset />
-      <last-pattern>sort</last-pattern>
+      <last-pattern>level</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -2950,7 +2953,6 @@
     </search>
     <history>
       <history-search>
-        <entry>discabled</entry>
         <entry>unsupported</entry>
         <entry>errors</entry>
         <entry>error</entry>
@@ -2970,6 +2972,7 @@
         <entry>code</entry>
         <entry>appl</entry>
         <entry>sort</entry>
+        <entry>level</entry>
       </history-search>
       <history-cmd>
         <entry>help registers</entry>
