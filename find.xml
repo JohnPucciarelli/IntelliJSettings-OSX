@@ -8,9 +8,6 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js, .less</mask>
       <mask>*.js, *.less, *.html</mask>
@@ -21,7 +18,6 @@
       <mask>*.jsx, *.js, *.html</mask>
       <mask>*.jsx, *.js, *.less, *.html</mask>
       <mask>*.jsx, *.js, *.less</mask>
-      <mask>*.less</mask>
       <mask>*.js,*.jsx, *.less</mask>
       <mask>*.js,*.jsx, *.less, *.config</mask>
       <mask>*.js,*.jsx, *.less, *.json</mask>
@@ -29,8 +25,6 @@
       <mask>*.js,*.jsx, *.less, *.json *.eslintrc !testbundle.js</mask>
       <mask>*jsx</mask>
       <mask>*.js,*.jsx, *.less, *.json *.eslintrc, !testbundle.js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
       <mask>*.jsx,</mask>
@@ -38,6 +32,12 @@
       <mask>*.jsx, *</mask>
       <mask>*.jsx, *.</mask>
       <mask>*.jsx, *.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
