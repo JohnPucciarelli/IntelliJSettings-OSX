@@ -775,7 +775,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493661460783">
+      <file name="/Dummy.txt" timestamp="1493851638854">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -2074,7 +2074,7 @@
         <text>const LoadingSpinner = React.createClass({</text>
       </register>
       <register name="/" type="4">
-        <text>true</text>
+        <text>quant</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgUmVhY3QgPSByZXF1aXJlKCdyZWFjdCcpOwpjb25zdCB7IFByb3BUeXBlcyB9ID0gUmVhY3Q7CmNvbnN0IGNsYXNzTmFtZXMgPSByZXF1aXJlKCdjbGFzc25hbWVzJyk7CmNvbnN0IG9taXQgPSByZXF1aXJlKCdsb2Rhc2gvb21pdCcpOwoKY29uc3Qgc3R5bGVzaGVldCA9IHJlcXVpcmUoJy4vTG9hZGluZ1NwaW5uZXIubGVzcycpOwoKLyoqCiAqIEEgUmVhY3QgdmVyc2lvbiBvZiBZLlNxdWFyZXNwYWNlLlNwaW5uZXIuCiAqCiAqIFVzYWdlOgogKiAgPExvYWRpbmdTcGlubmVyIHNpemU9ImxhcmdlIiBjb2xvcj0iZGFyayIgZGVsYXk9ezUwMH0gLz4KICoKICogRG9lcyBub3QgYWNjZXB0IHBpeGVsIHZhbHVlcy4gSWYgeW91IHJlYWxseSBuZWVkIHRoZW0sIHBhc3MgaW4gYSBzdHlsZSBvYmplY3QuCiAqIFRoZSBkZWxheSBwcm9wZXJ0eSBpcyBtZWFzdXJlZCBpbiBtaWxsaXNlY29uZHMuCiAqLwpjb25zdCBMb2FkaW5nU3Bpbm5lciA9IFJlYWN0LmNyZWF0ZUNsYXNzKHsKICBwcm9wVHlwZXM6IHsKICAgIGNvbG9yOiBQcm9wVHlwZXMub25lT2YoWydsaWdodCcsICdkYXJrJ10pLAogICAgc2l6ZTogUHJvcFR5cGVzLm9uZU9mKFsnZXh0cmEtc21hbGwnLCAnc21hbGwnLCAnZGVmYXVsdCcsICdsYXJnZScsICdleHRyYS1sYXJnZScsICd4eC1sYXJnZSddKSwKICAgIGlzQ2VudGVyZWQ6IFByb3BUeXBlcy5ib29sLAogICAgZGVsYXk6IFByb3BUeXBlcy5udW1iZXIKICB9LAoKICBnZXREZWZhdWx0UHJvcHMoKSB7CiAgICByZXR1cm4gewogICAgICBjb2xvcjogJ2RhcmsnLAogICAgICBzaXplOiAnZGVmYXVsdCcsCiAgICAgIGlzQ2VudGVyZWQ6IGZhbHNlLAogICAgICBkZWxheTogMAogICAgfTsKICB9LAoKICBnZXRJbml0aWFsU3RhdGUoKSB7CiAgICByZXR1cm4gewogICAgICB2aXNpYmxlOiB0aGlzLnByb3BzLmRlbGF5ID09PSAwCiAgICB9OwogIH0sCgogIGNvbXBvbmVudERpZE1vdW50KCkgewogICAgaWYgKHRoaXMucHJvcHMuZGVsYXkgPiAwKSB7CiAgICAgIHRoaXMuaW5pdERlbGF5VGltZW91dCgpOwogICAgfQogIH0sCgogIGNvbXBvbmVudFdpbGxVbm1vdW50KCkgewogICAgaWYgKHRoaXMuZGVsYXlUaW1lcikgewogICAgICBjbGVhclRpbWVvdXQodGhpcy5kZWxheVRpbWVyKTsKICAgIH0KICB9LAoKICBpbml0RGVsYXlUaW1lb3V0KCkgewogICAgdGhpcy5kZWxheVRpbWVyID0gc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIHRoaXMuc2V0U3RhdGUoeyB2aXNpYmxlOiB0cnVlIH0pOwogICAgfSwgdGhpcy5wcm9wcy5kZWxheSk7CiAgfSwKCiAgcmVuZGVyKCkgewogICAgY29uc3QgeyBzaXplLCBjb2xvciwgaXNDZW50ZXJlZCwgY2xhc3NOYW1lIH0gPSB0aGlzLnByb3BzOwogICAgY29uc3QgcHJvcHNUb1Bhc3MgPSBvbWl0KHRoaXMucHJvcHMsIE9iamVjdC5rZXlzKExvYWRpbmdTcGlubmVyLnByb3BUeXBlcykpOwoKICAgIGNvbnN0IHsgdmlzaWJsZSB9ID0gdGhpcy5zdGF0ZTsKCiAgICBjb25zdCBjbGFzc0xpc3QgPSBjbGFzc05hbWVzKGNsYXNzTmFtZSwKICAgICAgc3R5bGVzaGVldC5zcGlubmVyLCBzdHlsZXNoZWV0W3NpemVdLCBzdHlsZXNoZWV0W2NvbG9yXSwgewogICAgICAgIFtzdHlsZXNoZWV0LmNlbnRlcmVkXTogaXNDZW50ZXJlZAogICAgICB9CiAgICApOwoKICAgIHJldHVybiB2aXNpYmxlID8gPGRpdiB7Li4ucHJvcHNUb1Bhc3N9IGNsYXNzTmFtZT17Y2xhc3NMaXN0fSAvPiA6IG51bGw7CiAgfQp9KTsKCm1vZHVsZS5leHBvcnRzID0gTG9hZGluZ1NwaW5uZXI7Cg==</text>
@@ -2916,9 +2916,9 @@
       </register>
     </registers>
     <search>
-      <last-search>true</last-search>
+      <last-search>quant</last-search>
       <last-offset />
-      <last-pattern>true</last-pattern>
+      <last-pattern>quant</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -2926,8 +2926,6 @@
     </search>
     <history>
       <history-search>
-        <entry>code</entry>
-        <entry>appl</entry>
         <entry>sort</entry>
         <entry>level</entry>
         <entry>data-list</entry>
@@ -2946,6 +2944,8 @@
         <entry>loading</entry>
         <entry>template</entry>
         <entry>true</entry>
+        <entry>quan</entry>
+        <entry>quant</entry>
       </history-search>
       <history-cmd>
         <entry>help registers</entry>
