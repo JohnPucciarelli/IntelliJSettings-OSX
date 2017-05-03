@@ -54,7 +54,7 @@
         <mark key="^" line="12" column="6" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/CheckoutSettings/CheckoutSettings.jsx" timestamp="1493834187095">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/CheckoutSettings/CheckoutSettings.jsx" timestamp="1493838239006">
         <mark key="^" line="85" column="61" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/criteria/product/DiscountProductReference.java" timestamp="1488762370098">
@@ -963,6 +963,9 @@
         <mark key="]" line="18" column="80" />
         <mark key="^" line="18" column="80" />
         <mark key="." line="18" column="80" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/cart/CartFactory.java" timestamp="1493838275611">
+        <mark key="'" line="156" column="40" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/test/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingTemplateFactoryTest.java" timestamp="1491948909857">
         <mark key="[" line="128" column="25" />
@@ -1936,8 +1939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
-      <jump line="201" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
       <jump line="206" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
       <jump line="210" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
       <jump line="217" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
@@ -2036,6 +2037,8 @@
       <jump line="132" column="4" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/ActiveShoppingCartMutator.java" />
       <jump line="20" column="2" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/CartLimitEnforcer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/CartLimitEnforcer.java" />
+      <jump line="58" column="32" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/cart/CartFactory.java" />
+      <jump line="156" column="40" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/cart/CartFactory.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2054,7 +2057,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>loading</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYgKCFzdG9yZUl0ZW0uZ2V0UHJvZHVjdFR5cGUoKS5wZXJtaXRzTXVsdGlwbGVRdWFudGl0eSgpIHx8IChleGlzdGluZ0VudHJ5LmdldFByb2R1Y3RUeXBlKCkgPT0gUHJvZHVjdFR5cGUuU0VSVklDRSAmJiBhY3RpdmVTaG9wcGluZ0NhcnQuaXNTZXJ2aWNlUHJvZHVjdFN0YWNraW5nRGlzYWJsZWQoKSkpIHsK</text>
@@ -2896,9 +2899,9 @@
       </register>
     </registers>
     <search>
-      <last-search>loading</last-search>
+      <last-search>true</last-search>
       <last-offset />
-      <last-pattern>loading</last-pattern>
+      <last-pattern>true</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -2906,7 +2909,6 @@
     </search>
     <history>
       <history-search>
-        <entry>expired</entry>
         <entry>apply</entry>
         <entry>code</entry>
         <entry>appl</entry>
@@ -2926,6 +2928,7 @@
         <entry>upperCase</entry>
         <entry encoding="base64">XDxjaGVja1F1YW50aXR5TGltaXRzXD4=</entry>
         <entry>loading</entry>
+        <entry>true</entry>
       </history-search>
       <history-cmd>
         <entry>help registers</entry>
