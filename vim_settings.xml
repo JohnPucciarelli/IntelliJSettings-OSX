@@ -201,6 +201,13 @@
         <mark key="^" line="52" column="46" />
         <mark key="." line="52" column="46" />
       </file>
+      <file name="$USER_HOME$/repos/infinite-scroll/package.json" timestamp="1493318399652">
+        <mark key="'" line="23" column="5" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="19" column="72" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/crud/AutoTriggeredAccessChecker.java" timestamp="1491500043504">
         <mark key="[" line="20" column="45" />
         <mark key="]" line="20" column="5" />
@@ -290,6 +297,13 @@
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/aux-server/src/main/java/com/squarespace/v6/aux/tasks/commerce/discounts/DiscountPromoCodeProcessor.java" timestamp="1493763318135">
+        <mark key="'" line="67" column="68" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="55" />
+        <mark key="." line="59" column="47" />
+        <mark key="^" line="59" column="47" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/SplitSelect/SplitSelect.less" timestamp="1492110754296">
         <mark key="[" line="26" column="10" />
@@ -500,6 +514,11 @@
         <mark key="]" line="22" column="5" />
         <mark key="." line="22" column="5" />
         <mark key="^" line="22" column="5" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/components/LoadingSpinner.jsx" timestamp="1493848463702">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="73" column="31" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/business/commerce/cart/ApplyPromoCodeToCartOperationIT.java" timestamp="1493157891624">
         <mark key="'" line="58" column="13" />
@@ -755,6 +774,20 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1493661460783">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" timestamp="1493758844574">
+        <mark key="'" line="291" column="22" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="71" column="43" />
+        <mark key="^" line="68" column="46" />
+        <mark key="." line="68" column="46" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/ShippingOptionCarrierType.java" timestamp="1485466644598">
         <mark key="[" line="28" column="0" />
@@ -1614,11 +1647,12 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/repos/infinite-scroll/src/DataList/LoadingSpinner.jsx" timestamp="1493759089860">
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="6" column="3" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="3" />
+      <file name="$USER_HOME$/repos/infinite-scroll/src/DataList/LoadingSpinner.jsx" timestamp="1493848756068">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/ShoppingCartResourceV2.java" timestamp="1492630679090">
         <mark key="'" line="36" column="13" />
@@ -1922,8 +1956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
-      <jump line="232" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
       <jump line="234" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
       <jump line="239" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
       <jump line="248" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
@@ -2022,13 +2054,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/build.gradle" />
       <jump line="77" column="4" filename="$USER_HOME$/repos/squarespace-v6/build.gradle" />
       <jump line="136" column="4" filename="$USER_HOME$/repos/squarespace-v6/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/components/LoadingSpinner.jsx" />
+      <jump line="15" column="0" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/LoadingSpinner.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3Qgb21pdCA9IHJlcXVpcmUoJ2xvZGFzaC9vbWl0Jyk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2037,37 +2071,37 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>const LoadingSpinner = React.createClass({</text>
       </register>
       <register name="/" type="4">
         <text>true</text>
       </register>
-      <register name="0" type="4">
-        <text>isMultipleQuantityAllowedForServices(</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgUmVhY3QgPSByZXF1aXJlKCdyZWFjdCcpOwpjb25zdCB7IFByb3BUeXBlcyB9ID0gUmVhY3Q7CmNvbnN0IGNsYXNzTmFtZXMgPSByZXF1aXJlKCdjbGFzc25hbWVzJyk7CmNvbnN0IG9taXQgPSByZXF1aXJlKCdsb2Rhc2gvb21pdCcpOwoKY29uc3Qgc3R5bGVzaGVldCA9IHJlcXVpcmUoJy4vTG9hZGluZ1NwaW5uZXIubGVzcycpOwoKLyoqCiAqIEEgUmVhY3QgdmVyc2lvbiBvZiBZLlNxdWFyZXNwYWNlLlNwaW5uZXIuCiAqCiAqIFVzYWdlOgogKiAgPExvYWRpbmdTcGlubmVyIHNpemU9ImxhcmdlIiBjb2xvcj0iZGFyayIgZGVsYXk9ezUwMH0gLz4KICoKICogRG9lcyBub3QgYWNjZXB0IHBpeGVsIHZhbHVlcy4gSWYgeW91IHJlYWxseSBuZWVkIHRoZW0sIHBhc3MgaW4gYSBzdHlsZSBvYmplY3QuCiAqIFRoZSBkZWxheSBwcm9wZXJ0eSBpcyBtZWFzdXJlZCBpbiBtaWxsaXNlY29uZHMuCiAqLwpjb25zdCBMb2FkaW5nU3Bpbm5lciA9IFJlYWN0LmNyZWF0ZUNsYXNzKHsKICBwcm9wVHlwZXM6IHsKICAgIGNvbG9yOiBQcm9wVHlwZXMub25lT2YoWydsaWdodCcsICdkYXJrJ10pLAogICAgc2l6ZTogUHJvcFR5cGVzLm9uZU9mKFsnZXh0cmEtc21hbGwnLCAnc21hbGwnLCAnZGVmYXVsdCcsICdsYXJnZScsICdleHRyYS1sYXJnZScsICd4eC1sYXJnZSddKSwKICAgIGlzQ2VudGVyZWQ6IFByb3BUeXBlcy5ib29sLAogICAgZGVsYXk6IFByb3BUeXBlcy5udW1iZXIKICB9LAoKICBnZXREZWZhdWx0UHJvcHMoKSB7CiAgICByZXR1cm4gewogICAgICBjb2xvcjogJ2RhcmsnLAogICAgICBzaXplOiAnZGVmYXVsdCcsCiAgICAgIGlzQ2VudGVyZWQ6IGZhbHNlLAogICAgICBkZWxheTogMAogICAgfTsKICB9LAoKICBnZXRJbml0aWFsU3RhdGUoKSB7CiAgICByZXR1cm4gewogICAgICB2aXNpYmxlOiB0aGlzLnByb3BzLmRlbGF5ID09PSAwCiAgICB9OwogIH0sCgogIGNvbXBvbmVudERpZE1vdW50KCkgewogICAgaWYgKHRoaXMucHJvcHMuZGVsYXkgPiAwKSB7CiAgICAgIHRoaXMuaW5pdERlbGF5VGltZW91dCgpOwogICAgfQogIH0sCgogIGNvbXBvbmVudFdpbGxVbm1vdW50KCkgewogICAgaWYgKHRoaXMuZGVsYXlUaW1lcikgewogICAgICBjbGVhclRpbWVvdXQodGhpcy5kZWxheVRpbWVyKTsKICAgIH0KICB9LAoKICBpbml0RGVsYXlUaW1lb3V0KCkgewogICAgdGhpcy5kZWxheVRpbWVyID0gc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIHRoaXMuc2V0U3RhdGUoeyB2aXNpYmxlOiB0cnVlIH0pOwogICAgfSwgdGhpcy5wcm9wcy5kZWxheSk7CiAgfSwKCiAgcmVuZGVyKCkgewogICAgY29uc3QgeyBzaXplLCBjb2xvciwgaXNDZW50ZXJlZCwgY2xhc3NOYW1lIH0gPSB0aGlzLnByb3BzOwogICAgY29uc3QgcHJvcHNUb1Bhc3MgPSBvbWl0KHRoaXMucHJvcHMsIE9iamVjdC5rZXlzKExvYWRpbmdTcGlubmVyLnByb3BUeXBlcykpOwoKICAgIGNvbnN0IHsgdmlzaWJsZSB9ID0gdGhpcy5zdGF0ZTsKCiAgICBjb25zdCBjbGFzc0xpc3QgPSBjbGFzc05hbWVzKGNsYXNzTmFtZSwKICAgICAgc3R5bGVzaGVldC5zcGlubmVyLCBzdHlsZXNoZWV0W3NpemVdLCBzdHlsZXNoZWV0W2NvbG9yXSwgewogICAgICAgIFtzdHlsZXNoZWV0LmNlbnRlcmVkXTogaXNDZW50ZXJlZAogICAgICB9CiAgICApOwoKICAgIHJldHVybiB2aXNpYmxlID8gPGRpdiB7Li4ucHJvcHNUb1Bhc3N9IGNsYXNzTmFtZT17Y2xhc3NMaXN0fSAvPiA6IG51bGw7CiAgfQp9KTsKCm1vZHVsZS5leHBvcnRzID0gTG9hZGluZ1NwaW5uZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETyB3aXJlIHVwIHRvIHNldHRpbmcgb24gc3RvcmUgc2V0dGluZ3MK</text>
+        <text encoding="base64">Y29uc3Qgb21pdCA9IHJlcXVpcmUoJ2xvZGFzaC9vbWl0Jyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuY29sbGVjdChMaXN0Q29sbGVjdG9ycy50b1VubW9kaWZpYWJsZUxpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNldDxQcm9kdWN0VHlwZT4gbXVsdGlwbGVRdWFudGl0eUFsbG93ZWRQcm9kdWN0VHlwZXMgPSBFbnVtU2V0Lm9mKFBIWVNJQ0FMLCBQcm9kdWN0VHlwZS5TRVJWSUNFKTsK</text>
+        <text encoding="base64">ICogVGhlIGRlbGF5IHByb3BlcnR5IGlzIG1lYXN1cmVkIGluIG1pbGxpc2Vjb25kcy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICogRG9lcyBub3QgYWNjZXB0IHBpeGVsIHZhbHVlcy4gSWYgeW91IHJlYWxseSBuZWVkIHRoZW0sIHBhc3MgaW4gYSBzdHlsZSBvYmplY3QuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gcHVsbCBmcm9tIHN0b3JlIHNldHRpbmdzIHdoZW4gbmV3IHByb3AgaXMgaW4gcGxhY2UK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAodGhpcyA9PSBQSFlTSUNBTCB8fCAodGhpcyA9PSBTRVJWSUNFICYmICFpc1NlcnZpY2VQcm9kdWN0U3RhY2tpbmdEaXNhYmxlZCkpOwo=</text>
+        <text encoding="base64">ICogIDxMb2FkaW5nU3Bpbm5lciBzaXplPSJsYXJnZSIgY29sb3I9ImRhcmsiIGRlbGF5PXs1MDB9IC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBPbmx5IHBoeXNpY2FsIGFuZCBzZXJ2aWNlIHByb2R1Y3RzIGNhbiBiZSBwdXJjaGFzZWQgaW4gbXVsdGlwbGVzCg==</text>
+        <text encoding="base64">ICogVXNhZ2U6Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2869,10 +2903,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gcHVsbCBmcm9tIHN0b3JlIHNldHRpbmdzIHdoZW4gbmV3IHByb3AgaXMgaW4gcGxhY2UK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZW5kZXJBYmFuZG9uZWRDYXJ0U2V0dGluZ3MoaXNEaXNhYmxlZCkgewo=</text>
+        <text encoding="base64">ICogQSBSZWFjdCB2ZXJzaW9uIG9mIFkuU3F1YXJlc3BhY2UuU3Bpbm5lci4K</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
