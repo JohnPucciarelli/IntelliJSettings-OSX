@@ -325,6 +325,9 @@
         <mark key="." line="14" column="32" />
       </file>
       <file name="/ActiveShoppingCartMutator.java" timestamp="1493762263041" />
+      <file name="$USER_HOME$/repos/squarespace-v6/build.gradle" timestamp="1493839698402">
+        <mark key="'" line="136" column="4" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/ShippingOptionDiscountFlattener.java" timestamp="1487176814204">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="9" column="15" />
@@ -1194,6 +1197,9 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/anthony.js" timestamp="1493324951512">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/utils/initFirebase.js" timestamp="1488855682029">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="27" />
@@ -1939,9 +1945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
-      <jump line="210" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
-      <jump line="217" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
       <jump line="223" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
       <jump line="232" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
       <jump line="234" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
@@ -2039,6 +2042,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/CartLimitEnforcer.java" />
       <jump line="58" column="32" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/cart/CartFactory.java" />
       <jump line="156" column="40" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/cart/CartFactory.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/build.gradle" />
+      <jump line="77" column="4" filename="$USER_HOME$/repos/squarespace-v6/build.gradle" />
+      <jump line="136" column="4" filename="$USER_HOME$/repos/squarespace-v6/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2057,7 +2063,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>true</text>
+        <text>template</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYgKCFzdG9yZUl0ZW0uZ2V0UHJvZHVjdFR5cGUoKS5wZXJtaXRzTXVsdGlwbGVRdWFudGl0eSgpIHx8IChleGlzdGluZ0VudHJ5LmdldFByb2R1Y3RUeXBlKCkgPT0gUHJvZHVjdFR5cGUuU0VSVklDRSAmJiBhY3RpdmVTaG9wcGluZ0NhcnQuaXNTZXJ2aWNlUHJvZHVjdFN0YWNraW5nRGlzYWJsZWQoKSkpIHsK</text>
@@ -2899,9 +2905,9 @@
       </register>
     </registers>
     <search>
-      <last-search>true</last-search>
+      <last-search>template</last-search>
       <last-offset />
-      <last-pattern>true</last-pattern>
+      <last-pattern>template</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -2909,7 +2915,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apply</entry>
         <entry>code</entry>
         <entry>appl</entry>
         <entry>sort</entry>
@@ -2929,6 +2934,7 @@
         <entry encoding="base64">XDxjaGVja1F1YW50aXR5TGltaXRzXD4=</entry>
         <entry>loading</entry>
         <entry>true</entry>
+        <entry>template</entry>
       </history-search>
       <history-cmd>
         <entry>help registers</entry>
