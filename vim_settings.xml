@@ -1081,6 +1081,12 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="33" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ShippingOptionDiscounter.java" timestamp="1494345477519">
+        <mark key="[" line="52" column="92" />
+        <mark key="]" line="53" column="3" />
+        <mark key="^" line="53" column="3" />
+        <mark key="." line="53" column="3" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/shipping/crud/ShippingOptionReader.java" timestamp="1484701341812">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -2107,7 +2113,7 @@
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>coupon</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2116,7 +2122,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>coupon</text>
       </register>
       <register name="/" type="4">
         <text>promoCode</text>
@@ -2131,22 +2137,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERpc2NvdW50IGRpc2NvdW50ID0gZGlzY291bnRGYWN0b3J5LmNyZWF0ZShjb3Vwb24sIGNhcnRDb250ZXh0LmdldFdlYnNpdGUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0gPSB0aGlzLnByb3BzOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JNZXNzYWdlcwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tvdXRTZXR0aW5ncywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNoZWNrb3V0U2V0dGluZ3NGaWVsZCA9ICdtdWx0aXBsZVF1YW50aXR5QWxsb3dlZEZvclNlcnZpY2VzJzsK</text>
+        <text encoding="base64">ICAgIH0gPSB0aGlzLnByb3BzOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2948,10 +2954,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVycm9yTWVzc2FnZT0ge2Vycm9yTWVzc2FnZXNbY2hlY2tvdXRTZXR0aW5nc0ZpZWxkXX0K</text>
+        <text encoding="base64">ICAgICAgZXJyb3JNZXNzYWdlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gQ2hlY2tvdXRTZXR0aW5nc0FjdGlvbnMudXBkYXRlRmllbGQoY2hlY2tvdXRTZXR0aW5nc0ZpZWxkLCAhZS50YXJnZXQudmFsdWUpfQo=</text>
+        <text encoding="base64">ICAgICAgY2hlY2tvdXRTZXR0aW5ncywK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3011,8 +3017,8 @@
         <entry>ww</entry>
         <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
