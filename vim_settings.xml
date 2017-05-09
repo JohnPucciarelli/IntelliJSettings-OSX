@@ -1051,11 +1051,11 @@
         <mark key="." line="26" column="76" />
         <mark key="^" line="26" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/util/rabbitmq/message/Message.java" timestamp="1493658262809">
-        <mark key="[" line="439" column="47" />
-        <mark key="]" line="441" column="38" />
-        <mark key="^" line="441" column="38" />
-        <mark key="." line="441" column="38" />
+      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/util/rabbitmq/message/Message.java" timestamp="1494359580691">
+        <mark key="[" line="443" column="36" />
+        <mark key="]" line="443" column="36" />
+        <mark key="^" line="443" column="36" />
+        <mark key="." line="443" column="36" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/aux-server/src/main/java/com/squarespace/v6/aux/migration/commerce/DiscountPromoCodeMigrationRunner.java" timestamp="1494359327349">
         <mark key="[" line="25" column="51" />
@@ -1482,7 +1482,6 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/aux-server/src/main/java/com/squarespace/auxiliary/service/AuxWardenTaskService.java" timestamp="1494359235330" />
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/development.yml" timestamp="1483986202401">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="26" column="13" />
@@ -1530,12 +1529,6 @@
         <mark key="]" line="291" column="149" />
         <mark key="^" line="291" column="149" />
         <mark key="." line="291" column="149" />
-      </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/configuration/QueueConfig.java" timestamp="1494358854832">
-        <mark key="[" line="636" column="0" />
-        <mark key="]" line="640" column="5" />
-        <mark key="^" line="770" column="9" />
-        <mark key="." line="770" column="9" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRule.java" timestamp="1488496174684">
         <mark key="[" line="6" column="0" />
@@ -2157,7 +2150,7 @@
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>25</text>
+        <text>1</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2166,13 +2159,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>25</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVU1BTQ2FsY3VsYXRlZEZvcm11bGFcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBJbnRlZ2VyU2V0dGluZyBuZXdDb25zdW1lclRocmVhZChHcm91cDxRdWV1ZT4gZ3JvdXApIHsKICAgICAgcmV0dXJuIGdyb3VwLm5ld0ludGVnZXJTZXR0aW5nKDIpLmJ1aWxkKCk7CiAgICB9Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIERPTUFJTl9SRUdJU1RSQVRJT05fQ09SUkVDVElPTigyODEpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2181,22 +2174,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFJhdGVMaW1pdGVyIHJhdGVMaW1pdGVyOwo=</text>
+        <text encoding="base64">ICAgIERPTUFJTl9SRUdJU1RSQVRJT05fQ09SUkVDVElPTigyODEpLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJhdGVMaW1pdGVyLmFjcXVpcmUoKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIFJhdGVMaW1pdGVyIHJhdGVMaW1pdGVyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHdhaXQgZm9yIHBlcm1pdCB0byBiZWNvbWUgYXZhaWxhYmxlCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJhdGVMaW1pdGVyLmFjcXVpcmUoKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIHdhaXQgZm9yIHBlcm1pdCB0byBiZWNvbWUgYXZhaWxhYmxlCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -2998,10 +2991,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5idWlsZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGdyb3VwLm5ld0xvbmdTZXR0aW5nKDEwMDBMKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
