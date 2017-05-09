@@ -1081,11 +1081,12 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ShippingOptionDiscounter.java" timestamp="1494345572082">
-        <mark key="[" line="55" column="34" />
-        <mark key="]" line="46" column="38" />
-        <mark key="." line="46" column="38" />
-        <mark key="^" line="46" column="38" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ShippingOptionDiscounter.java" timestamp="1494349450403">
+        <mark key="'" line="49" column="50" />
+        <mark key="[" line="46" column="72" />
+        <mark key="]" line="46" column="85" />
+        <mark key="." line="46" column="85" />
+        <mark key="^" line="46" column="85" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/shipping/crud/ShippingOptionReader.java" timestamp="1484701341812">
         <mark key="[" line="12" column="0" />
@@ -2007,8 +2008,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/PercentageDiscountTemplate.java" />
-      <jump line="33" column="4" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/template/PercentageDiscountTemplate.java" />
       <jump line="423" column="38" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/CartDiscounterIT.java" />
       <jump line="166" column="20" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/stacking/DiscountStackingStrategies.java" />
       <jump line="62" column="6" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/applicability/DiscountApplicabilityRules.java" />
@@ -2107,13 +2106,15 @@
       <jump line="110" column="21" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
       <jump line="80" column="17" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
       <jump line="78" column="46" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ShippingOptionDiscounter.java" />
+      <jump line="49" column="50" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ShippingOptionDiscounter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRpc2NvdW50Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>options</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2122,7 +2123,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>coupon</text>
+        <text>options</text>
       </register>
       <register name="/" type="4">
         <text>promoCode</text>
