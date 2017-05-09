@@ -791,7 +791,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494341045215">
+      <file name="/Dummy.txt" timestamp="1494342731595">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -2107,7 +2107,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>not</text>
+        <text>env</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHsuLi50aGlzLmJpbmRGaWVsZCgnYmlsbFRvU2hpcHBpbmdEZWZhdWx0VmFsdWUnKX0K</text>
@@ -2949,9 +2949,9 @@
       </register>
     </registers>
     <search>
-      <last-search>not</last-search>
+      <last-search>env</last-search>
       <last-offset />
-      <last-pattern>not</last-pattern>
+      <last-pattern>env</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -2959,8 +2959,6 @@
     </search>
     <history>
       <history-search>
-        <entry>very-small</entry>
-        <entry>cartCheckout</entry>
         <entry>discount</entry>
         <entry>save</entry>
         <entry>setPromo</entry>
@@ -2979,6 +2977,8 @@
         <entry>N</entry>
         <entry>ITEM_TEMPLATE</entry>
         <entry>not</entry>
+        <entry>subject</entry>
+        <entry>env</entry>
       </history-search>
       <history-cmd>
         <entry>help registers</entry>
