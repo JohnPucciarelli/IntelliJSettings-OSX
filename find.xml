@@ -3,24 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="fromCursor" value="false" />
-    <option name="localCaseSensitive" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less, *.jsx, *.js" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.js, .less</mask>
-      <mask>*.js, *.less, *.html</mask>
-      <mask>*.java</mask>
-      <mask>*.js, *.less</mask>
-      <mask>*jsx, *.js, *.less</mask>
-      <mask>*jsx, *.js, *.less, *.html</mask>
-      <mask>*.jsx, *.js, *.html</mask>
-      <mask>*.jsx, *.js, *.less, *.html</mask>
-      <mask>*.jsx, *.js, *.less</mask>
-      <mask>*.js,*.jsx, *.less</mask>
       <mask>*.js,*.jsx, *.less, *.config</mask>
       <mask>*.js,*.jsx, *.less, *.json</mask>
       <mask>*.js,*.jsx, *.less, *.json *.eslintrc</mask>
@@ -40,6 +28,17 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.less,</mask>
+      <mask>*.less, *</mask>
+      <mask>*.less, *.</mask>
+      <mask>*.less, *.j</mask>
+      <mask>*.less, *.jsx</mask>
+      <mask>*.less, *.jsx.</mask>
+      <mask>*.less, *.jsx. *</mask>
+      <mask>*.less, *.jsx. *.</mask>
+      <mask>*.less, *.jsx. *.j</mask>
+      <mask>*.less, *.jsx. *.js</mask>
+      <mask>*.less, *.jsx, *.js</mask>
     </recentFileMasks>
   </component>
 </application>
