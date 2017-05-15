@@ -217,12 +217,12 @@
         <mark key="^" line="45" column="15" />
         <mark key="." line="45" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/infinite-scroll/package.json" timestamp="1493318399652">
+      <file name="$USER_HOME$/repos/infinite-scroll/package.json" timestamp="1494883071223">
         <mark key="'" line="23" column="5" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="19" column="72" />
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/crud/AutoTriggeredAccessChecker.java" timestamp="1491500043504">
         <mark key="[" line="20" column="45" />
@@ -395,12 +395,11 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/infinite-scroll/webpack.config.js" timestamp="1494878654277">
-        <mark key="'" line="71" column="3" />
-        <mark key="[" line="74" column="17" />
-        <mark key="]" line="74" column="17" />
-        <mark key="." line="74" column="17" />
-        <mark key="^" line="73" column="19" />
+      <file name="$USER_HOME$/repos/infinite-scroll/webpack.config.js" timestamp="1494883761718">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/UpsellConfirmation/index.js" timestamp="1490647232406">
         <mark key="[" line="0" column="21" />
@@ -438,6 +437,12 @@
         <mark key="." line="52" column="53" />
         <mark key="^" line="52" column="53" />
       </file>
+      <file name="$USER_HOME$/repos/infinite-scroll/webpack.env.js" timestamp="1494883200218">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/shipping/carriers/usps/USPSServiceNameProvider.java" timestamp="1485292568909">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="104" />
@@ -456,6 +461,12 @@
         <mark key="." line="25" column="50" />
         <mark key="^" line="25" column="50" />
       </file>
+      <file name="$USER_HOME$/repos/infinite-scroll/src/DataTable/DataTable.jsx" timestamp="1494880964252">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/CategoryPicker/CategoryPicker.less" timestamp="1479854477233">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="31" />
@@ -473,6 +484,11 @@
         <mark key="]" line="45" column="38" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="44" column="37" />
+      </file>
+      <file name="$USER_HOME$/repos/infinite-scroll/webpack.dev.config.js" timestamp="1494883487897">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/v6/business/commerce/discount/api/response/template/FreeShippingDiscountTemplateResponse.java" timestamp="1494447900967">
         <mark key="'" line="86" column="0" />
@@ -523,8 +539,10 @@
         <mark key="." line="76" column="6" />
         <mark key="^" line="76" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.base.js" timestamp="1494877287183">
-        <mark key="'" line="119" column="14" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.base.js" timestamp="1494880006837">
+        <mark key="'" line="170" column="31" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="28" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/menu/commerce/root.js" timestamp="1494878201821">
         <mark key="'" line="12" column="16" />
@@ -835,25 +853,30 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/infinite-scroll/webpack.loaders.js" timestamp="1494883740362">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/mocha.opts" timestamp="1479319876817">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494878191443">
+      <file name="/Dummy.txt" timestamp="1494882227717">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" timestamp="1493758844574">
-        <mark key="'" line="291" column="22" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="71" column="43" />
-        <mark key="^" line="68" column="46" />
-        <mark key="." line="68" column="46" />
+      <file name="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" timestamp="1494881467825">
+        <mark key="'" line="225" column="0" />
+        <mark key="[" line="3" column="55" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/ShippingOptionCarrierType.java" timestamp="1485466644598">
         <mark key="[" line="28" column="0" />
@@ -1375,6 +1398,7 @@
         <mark key="^" line="92" column="99" />
         <mark key="." line="92" column="76" />
       </file>
+      <file name="$USER_HOME$/repos/infinite-scroll/.babelrc" timestamp="1494882087070" />
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/order/factory/ShippingDetailsConverter.java" timestamp="1486043844185">
         <mark key="[" line="66" column="63" />
         <mark key="]" line="66" column="69" />
@@ -2086,35 +2110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="84" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/table-shopping-cart.js" />
-      <jump line="174" column="17" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/table-shopping-cart.js" />
-      <jump line="177" column="100" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/table-shopping-cart.js" />
-      <jump line="223" column="0" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
-      <jump line="129" column="21" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
-      <jump line="127" column="23" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
-      <jump line="126" column="28" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
-      <jump line="125" column="11" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
-      <jump line="110" column="21" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
-      <jump line="80" column="17" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
-      <jump line="78" column="46" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ShippingOptionDiscounter.java" />
-      <jump line="49" column="50" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ShippingOptionDiscounter.java" />
-      <jump line="380" column="58" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/model/Website.java" />
-      <jump line="422" column="19" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/model/Website.java" />
-      <jump line="423" column="11" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/model/Website.java" />
-      <jump line="78" column="54" filename="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/ShippingOptionDiscounterTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
-      <jump line="81" column="7" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/dao/CommerceCouponDAO.java" />
-      <jump line="705" column="110" filename="$USER_HOME$/repos/squarespace-v6/aux-server/src/main/java/com/squarespace/auxiliary/service/AuxWardenTaskService.java" />
-      <jump line="63" column="12" filename="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/configuration/QueueConfig.java" />
-      <jump line="54" column="53" filename="$USER_HOME$/repos/squarespace-v6/commons/src/test/java/com/squarespace/v6/dao/CommerceCouponDAOIT.java" />
-      <jump line="56" column="71" filename="$USER_HOME$/repos/squarespace-v6/commons/src/test/java/com/squarespace/v6/dao/CommerceCouponDAOIT.java" />
-      <jump line="50" column="60" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/CartDiscounts.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/CartDiscounts.java" />
-      <jump line="41" column="97" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/CartDiscounts.java" />
-      <jump line="108" column="26" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/DiscountPanel.jsx" />
-      <jump line="177" column="52" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/DiscountPanel.jsx" />
-      <jump line="94" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/DiscountPanel.jsx" />
       <jump line="55" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/CommerceCheckoutPage/screens/Checkout/components/PaymentCardBillingForm/PaymentCardBillingForm.jsx" />
       <jump line="48" column="17" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/records/DiscountRecord.js" />
       <jump line="56" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/records/DiscountRecord.js" />
@@ -2186,13 +2181,42 @@
       <jump line="71" column="3" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
       <jump line="12" column="16" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/damask/menu/commerce/root.js" />
       <jump line="27" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
+      <jump line="170" column="31" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.base.js" />
+      <jump line="59" column="5" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
+      <jump line="61" column="9" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
+      <jump line="82" column="2" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
+      <jump line="28" column="11" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
+      <jump line="18" column="18" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
+      <jump line="5" column="38" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="78" column="4" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="24" column="35" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="4" column="0" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="223" column="4" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="227" column="39" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="230" column="33" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="3" column="44" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="25" column="7" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="87" column="6" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="104" column="8" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="152" column="10" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="155" column="45" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="181" column="21" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="182" column="36" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="214" column="33" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="216" column="82" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="218" column="2" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="225" column="0" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="1" column="0" filename="$USER_HOME$/repos/infinite-scroll/webpack.loaders.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">JycsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgeyBJU19ERVZFTE9QTUVOVCB9ID0gcmVxdWlyZSgnLi93ZWJwYWNrLmVudicpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2201,37 +2225,41 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JycsIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>CRM</text>
+        <text>package</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIERpc2NvdW50Q29udGV4dCBkaXNjb3VudENvbnRleHQgPSBjcmVhdGVEaXNjb3VudENvbnRleHQob3B0aW9uLCBjYXJ0Q29udGV4dCk7CiAgICBhcHBsaWNhYmlsaXR5VmVyaWZpZXIuZGV0ZXJtaW5lRGlzY291bnRTdGF0dXMoZGlzY291bnQsIGRpc2NvdW50Q29udGV4dCk7CiAgICBEaXNjb3VudEFwcGxpY2F0aW9uIGFwcGxpY2F0aW9uID0gZGlzY291bnQuYXBwbHkoZGlzY291bnRDb250ZXh0KTsKIA==</text>
+        <text>loader: 'postcss-loader',
+  options: {
+    ident: 'postcss',
+    plugins: [prefixer]
+  },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJvb3Q6IFtfX2Rpcm5hbWVdLAo=</text>
+        <text encoding="base64">Y29uc3QgeyBJU19ERVZFTE9QTUVOVCB9ID0gcmVxdWlyZSgnLi93ZWJwYWNrLmVudicpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJvb3Q6IFtfX2Rpcm5hbWVdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcGxpY2F0aW9uLgo=</text>
+        <text encoding="base64">Y29uc3QgeyBJU19ERVZFTE9QTUVOVCB9ID0gcmVxdWlyZSgnLi93ZWJwYWNrLmVudicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERpc2NvdW50QXBwbGljYXRpb24gYXBwbGljYXRpb24gPSBkaXNjb3VudC5hcHBseShkaXNjb3VudENvbnRleHQpOwo=</text>
+        <text encoding="base64">Y29uc3QgcGFja2FnZSA9IHJlcXVpcmUoJy4vcGFja2FnZS5qc29uJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNjb3VudENvbnRleHQpOwo=</text>
+        <text encoding="base64">Y29uc3QgYXV0b3ByZWZpeGVyID0gcmVxdWlyZSgnYXV0b3ByZWZpeGVyJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3033,10 +3061,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERpc2NvdW50Q29udGV4dCBkaXNjb3VudENvbnRleHQgPSBjcmVhdGVEaXNjb3VudENvbnRleHQob3B0aW9uLCBkaXNjb3VudENvbnRleHQpOwo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3046,9 +3074,9 @@
       </register>
     </registers>
     <search>
-      <last-search>CRM</last-search>
+      <last-search>package</last-search>
       <last-offset />
-      <last-pattern>CRM</last-pattern>
+      <last-pattern>package</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3056,10 +3084,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
-        <entry>trigger</entry>
-        <entry>shipping</entry>
-        <entry>auto</entry>
         <entry>COMMERCE_MIGRATION_WORK</entry>
         <entry>setPromo</entry>
         <entry>itemCount</entry>
@@ -3076,6 +3100,10 @@
         <entry>plugins</entry>
         <entry>customers</entry>
         <entry>CRM</entry>
+        <entry>post</entry>
+        <entry>autopre</entry>
+        <entry>scrollTo</entry>
+        <entry>package</entry>
       </history-search>
       <history-cmd>
         <entry>help registers</entry>
