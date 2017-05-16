@@ -395,11 +395,11 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/infinite-scroll/webpack.config.js" timestamp="1494883761718">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repos/infinite-scroll/webpack.config.js" timestamp="1494885609592">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/UpsellConfirmation/index.js" timestamp="1490647232406">
         <mark key="[" line="0" column="21" />
@@ -437,11 +437,11 @@
         <mark key="." line="52" column="53" />
         <mark key="^" line="52" column="53" />
       </file>
-      <file name="$USER_HOME$/repos/infinite-scroll/webpack.env.js" timestamp="1494883200218">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/repos/infinite-scroll/webpack.env.js" timestamp="1494885206071">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/shipping/carriers/usps/USPSServiceNameProvider.java" timestamp="1485292568909">
         <mark key="[" line="21" column="0" />
@@ -2189,7 +2189,6 @@
       <jump line="28" column="11" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
       <jump line="6" column="0" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
       <jump line="18" column="18" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
       <jump line="5" column="38" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
       <jump line="78" column="4" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
       <jump line="24" column="35" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
@@ -2210,13 +2209,14 @@
       <jump line="218" column="2" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
       <jump line="225" column="0" filename="$USER_HOME$/repos/infinite-scroll/src/DataList/DataList.jsx" />
       <jump line="1" column="0" filename="$USER_HOME$/repos/infinite-scroll/webpack.loaders.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/infinite-scroll/webpack.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgeyBJU19ERVZFTE9QTUVOVCB9ID0gcmVxdWlyZSgnLi93ZWJwYWNrLmVudicpOwo=</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2225,38 +2225,34 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
-        <text>package</text>
+        <text>path</text>
       </register>
       <register name="0" type="4">
-        <text>loader: 'postcss-loader',
-  options: {
-    ident: 'postcss',
-    plugins: [prefixer]
-  },</text>
+        <text>path.join(__dirname, 'src');</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgeyBJU19ERVZFTE9QTUVOVCB9ID0gcmVxdWlyZSgnLi93ZWJwYWNrLmVudicpOwo=</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBCVU5ETEVfRElSLCBCVU5ETEVfRklMRSwgTElCUkFSWSwgU09VUkNFX0RJUiB9ID0gcmVxdWlyZSgnLi93ZWJwYWNrLmVudicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBCVU5ETEVfRElSLCBCVU5ETEVfRklMRSwgTElCUkFSWSwgU09VUkNFX0RJUiB9ID0gcmVxdWlyZSgnLi93ZWJwYWNrLmVudicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgeyBJU19ERVZFTE9QTUVOVCB9ID0gcmVxdWlyZSgnLi93ZWJwYWNrLmVudicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcGFja2FnZSA9IHJlcXVpcmUoJy4vcGFja2FnZS5qc29uJyk7Cg==</text>
+        <text encoding="base64">KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgYXV0b3ByZWZpeGVyID0gcmVxdWlyZSgnYXV0b3ByZWZpeGVyJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -3061,10 +3057,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Y29uc3QgU09VUkNFX0RJUiA9IHBhdGguam9pbihfX2Rpcm5hbWUsICdzcmMnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3074,9 +3070,9 @@
       </register>
     </registers>
     <search>
-      <last-search>package</last-search>
+      <last-search>path</last-search>
       <last-offset />
-      <last-pattern>package</last-pattern>
+      <last-pattern>path</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3084,8 +3080,6 @@
     </search>
     <history>
       <history-search>
-        <entry>COMMERCE_MIGRATION_WORK</entry>
-        <entry>setPromo</entry>
         <entry>itemCount</entry>
         <entry>items</entry>
         <entry>handleRemove</entry>
@@ -3104,6 +3098,8 @@
         <entry>autopre</entry>
         <entry>scrollTo</entry>
         <entry>package</entry>
+        <entry>autoPr</entry>
+        <entry>path</entry>
       </history-search>
       <history-cmd>
         <entry>help registers</entry>
