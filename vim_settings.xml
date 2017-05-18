@@ -216,13 +216,6 @@
         <mark key="^" line="45" column="15" />
         <mark key="." line="45" column="15" />
       </file>
-      <file name="$USER_HOME$/repos/infinite-scroll/package.json" timestamp="1494974158638">
-        <mark key="'" line="24" column="5" />
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/crud/AutoTriggeredAccessChecker.java" timestamp="1491500043504">
         <mark key="[" line="20" column="45" />
         <mark key="]" line="20" column="5" />
@@ -627,6 +620,7 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.js" timestamp="1495124381290" />
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/utils/initFirebase.js" timestamp="1488855682029">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="27" />
@@ -982,7 +976,7 @@
         <mark key="^" line="102" column="86" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1494618278519">
+      <file name="/fragment.java" timestamp="1495123897455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
@@ -3132,7 +3126,7 @@
     </registers>
     <search>
       <last-search>animation</last-search>
-      <last-offset />
+      <last-offset>static</last-offset>
       <last-pattern>animation</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
