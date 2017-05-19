@@ -627,7 +627,7 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.js" timestamp="1495219132353" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.js" timestamp="1495221360064" />
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/utils/initFirebase.js" timestamp="1488855682029">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="27" />
@@ -874,7 +874,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495215070146">
+      <file name="/Dummy.txt" timestamp="1495220805344">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -986,7 +986,7 @@
         <mark key="^" line="102" column="86" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1495217871677">
+      <file name="/fragment.java" timestamp="1495220077739">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
@@ -1443,6 +1443,7 @@
         <mark key="^" line="92" column="99" />
         <mark key="." line="92" column="76" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/v6/zk/CuratorService.java" timestamp="1495220770548" />
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/order/factory/ShippingDetailsConverter.java" timestamp="1486043844185">
         <mark key="[" line="66" column="63" />
         <mark key="]" line="66" column="69" />
@@ -1461,8 +1462,8 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" timestamp="1495218244860">
-        <mark key="'" line="219" column="56" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" timestamp="1495221289135">
+        <mark key="'" line="258" column="33" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/Select.jsx.js" timestamp="1492117576513">
         <mark key="[" line="4" column="23" />
@@ -2169,10 +2170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="49" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/components/features/repository/StaticFeatureSetRepository.java" />
-      <jump line="201" column="25" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/components/features/repository/StaticFeatureSetRepository.java" />
-      <jump line="202" column="50" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/components/features/repository/StaticFeatureSetRepository.java" />
-      <jump line="52" column="5" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/stores/UpsellFeaturesStore/UpsellFeaturesStore.js" />
       <jump line="69" column="12" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ShippingOptionDiscounter.java" />
       <jump line="79" column="32" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/ShippingOptionDiscounter.java" />
       <jump line="106" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.base.js" />
@@ -2269,6 +2266,10 @@
       <jump line="223" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="221" column="9" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="219" column="56" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
+      <jump line="217" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
+      <jump line="188" column="9" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
+      <jump line="194" column="36" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
+      <jump line="258" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2287,7 +2288,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>server</text>
+        <text>devServer</text>
       </register>
       <register name="0" type="4">
         <text>animation-name: spin;
@@ -3139,9 +3140,9 @@
       </register>
     </registers>
     <search>
-      <last-search>server</last-search>
+      <last-search>devServer</last-search>
       <last-offset />
-      <last-pattern>server</last-pattern>
+      <last-pattern>devServer</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3149,9 +3150,6 @@
     </search>
     <history>
       <history-search>
-        <entry>customers</entry>
-        <entry>CRM</entry>
-        <entry>post</entry>
         <entry>autopre</entry>
         <entry>scrollTo</entry>
         <entry>package</entry>
@@ -3169,6 +3167,9 @@
         <entry>gulp</entry>
         <entry>CORS</entry>
         <entry>server</entry>
+        <entry>webpack</entry>
+        <entry>hot</entry>
+        <entry>devServer</entry>
       </history-search>
       <history-cmd>
         <entry>help registers</entry>
