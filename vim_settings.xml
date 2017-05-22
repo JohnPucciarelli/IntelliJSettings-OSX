@@ -440,7 +440,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495481445541">
+      <file name="/Dummy.txt" timestamp="1495488356104">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -816,6 +816,12 @@
         <mark key="]" line="14" column="6" />
         <mark key="." line="14" column="6" />
         <mark key="^" line="14" column="6" />
+      </file>
+      <file name="$USER_HOME$/repos/infinite-scroll/src/DataTable/Row.less" timestamp="1495488400682">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/index.jsx" timestamp="1480548698345">
         <mark key="[" line="30" column="4" />
@@ -1537,11 +1543,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/package.json" timestamp="1495480255112">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="28" column="33" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/package.json" timestamp="1495488528989">
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="33" />
+        <mark key="." line="34" column="33" />
+        <mark key="^" line="34" column="33" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/test/matcher/DiscountMatchers.java" timestamp="1490987998699">
         <mark key="[" line="53" column="38" />
@@ -2281,7 +2287,7 @@
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>4</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2290,10 +2296,10 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>isLoading</text>
+        <text>infinite</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB1bml2ZXJzYWxEaXIgPSAiJHdlYmFwcERpci91bml2ZXJzYWwiCg==</text>
@@ -3135,9 +3141,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isLoading</last-search>
+      <last-search>infinite</last-search>
       <last-offset />
-      <last-pattern>isLoading</last-pattern>
+      <last-pattern>infinite</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3145,7 +3151,6 @@
     </search>
     <history>
       <history-search>
-        <entry>path</entry>
         <entry>parse</entry>
         <entry>less</entry>
         <entry>loading</entry>
@@ -3165,6 +3170,7 @@
         <entry>inf</entry>
         <entry>lodash</entry>
         <entry>isLoading</entry>
+        <entry>infinite</entry>
       </history-search>
       <history-cmd>
         <entry>help registers</entry>
