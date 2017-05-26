@@ -179,12 +179,12 @@
         <mark key="^" line="18" column="90" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/generate-orders.js" timestamp="1495754588576">
-        <mark key="'" line="23" column="31" />
-        <mark key="[" line="21" column="63" />
-        <mark key="]" line="21" column="63" />
-        <mark key="." line="21" column="63" />
-        <mark key="^" line="21" column="63" />
+      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/generate-orders.js" timestamp="1495821615585">
+        <mark key="'" line="35" column="31" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/SplitSelect/SplitSelect.less" timestamp="1492110754296">
         <mark key="[" line="26" column="10" />
@@ -427,7 +427,7 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/ShoppingCartLifecycleManager.java" timestamp="1495815557760" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/ShoppingCartLifecycleManager.java" timestamp="1495821346015" />
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/DiscountReferenceVerifier.java" timestamp="1491937435988">
         <mark key="[" line="19" column="44" />
         <mark key="]" line="19" column="54" />
@@ -1511,7 +1511,7 @@
         <mark key="^" line="57" column="71" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/personal-config.js" timestamp="1495819786873">
+      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/personal-config.js" timestamp="1495821661150">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="21" />
@@ -2228,7 +2228,7 @@
         <mark key="^" line="36" column="54" />
         <mark key="." line="36" column="54" />
       </file>
-      <file name="/JavaScript Console" timestamp="1495816124459">
+      <file name="/JavaScript Console" timestamp="1495821647037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/crud/ShippingOptionRetriever.java" timestamp="1490636289807">
@@ -2429,23 +2429,23 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBTSVRFX1VTRVJfRU1BSUw6ICdqcHVjY2lhcmVsbGlAc3F1YXJlc3BhY2UuY29tJywKICBTSVRFX1VTRVJfUEFTU1dPUkQ6ICcxMnF3MTJxdycsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIHN5bmNocm9ub3VzSXRlcmF0b3IocHJvbWlzZXMgPSBbXSkgewogIGlmIChwcm9taXNlcy5sZW5ndGggPT09IDApIHsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKTsKICB9CgogIHJldHVybiBwcm9taXNlcy5zaGlmdCgpCiAgICAudGhlbigoKSA9PiBzeW5jaHJvbm91c0l0ZXJhdG9yKHByb21pc2VzKSkKICAgIC5jYXRjaCgoZSkgPT4gUHJvbWlzZS5yZWplY3QoZSkpOwp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC46dwo=</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5jYXRjaCgoZSkgPT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi8uLi9jb25maWcnKTsK</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBsb2dFcnJvciA9IHJlcXVpcmUoJy4vbG9nLWVycm9yJyk7Cg==</text>
+        <text encoding="base64">ICAgIHJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBodHRwczovL2pvaG4tcHVjY2lhcmVsbGkuZGV2LnNxdWFyZXNwYWNlLm5ldC9hY2NvdW50L2ZyYW1lL2xvZ2luCg==</text>
+        <text encoding="base64">ICAgICAgbG9nLmVycm9yKCdGYWlsZWQgdG8gZ2VuZXJhdGUgb3JkZXIuJywgZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3247,10 +3247,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJucyB7Q29va2llQXhpb3N9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gbmFtZQo=</text>
+        <text encoding="base64">ICBTSVRFX1VTRVJfRU1BSUw6ICdqcHVjY2lhcmVsbGlAc3F1YXJlc3BhY2UuY29tJywKICBTSVRFX1VTRVJfUEFTU1dPUkQ6ICcxMnF3MTJxdycsCg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
