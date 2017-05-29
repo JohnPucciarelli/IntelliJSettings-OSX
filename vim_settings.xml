@@ -413,7 +413,7 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/generate-orders.js" timestamp="1496083427884">
+      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/generate-orders.js" timestamp="1496084653608">
         <mark key="[" line="8" column="62" />
         <mark key="]" line="8" column="64" />
         <mark key="." line="8" column="64" />
@@ -455,6 +455,7 @@
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/utils/synchronous-iterator.js" timestamp="1496084586505" />
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/mocha/mocha.opts" timestamp="1479319876817">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -879,11 +880,11 @@
         <mark key="." line="35" column="6" />
         <mark key="^" line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/add-items-to-cart.js" timestamp="1496083085237">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="33" />
-        <mark key="." line="2" column="33" />
-        <mark key="^" line="2" column="33" />
+      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/add-items-to-cart.js" timestamp="1496084715838">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1495744884668">
         <mark key="[" line="0" column="0" />
@@ -1406,10 +1407,10 @@
         <mark key="." line="6" column="76" />
         <mark key="^" line="6" column="76" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/purchase-cart.js" timestamp="1496083178776">
-        <mark key="[" line="2" column="46" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/purchase-cart.js" timestamp="1496084276346">
+        <mark key="[" line="56" column="24" />
+        <mark key="]" line="56" column="24" />
+        <mark key="." line="56" column="24" />
         <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/log-error.js" timestamp="1495741558485">
@@ -2249,7 +2250,7 @@
         <mark key="^" line="36" column="54" />
         <mark key="." line="36" column="54" />
       </file>
-      <file name="/JavaScript Console" timestamp="1496083929712">
+      <file name="/JavaScript Console" timestamp="1496084669205">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/crud/ShippingOptionRetriever.java" timestamp="1490636289807">
@@ -2426,8 +2427,8 @@
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgbG9nRXJyb3IgPSByZXF1aXJlKCcuL3V0aWxzL2xvZy1lcnJvcicpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2436,7 +2437,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
