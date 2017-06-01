@@ -15,6 +15,9 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
+      <file name="/a.dummy" timestamp="1496355517263">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/DiscountFactory.java" timestamp="1491941391928">
         <mark key="[" line="106" column="77" />
         <mark key="]" line="106" column="84" />
@@ -64,6 +67,12 @@
         <mark key="]" line="68" column="0" />
         <mark key="^" line="65" column="7" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/OrdersActions.js" timestamp="1496265610976">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/Menu/Menu.jsx" timestamp="1488835938332">
         <mark key="[" line="1" column="0" />
@@ -149,10 +158,6 @@
         <mark key="]" line="13" column="3" />
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="2" />
-      </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/AccountPasswordManager.java" timestamp="1496347309945">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="71" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/CartTaxationIT.java" timestamp="1491498676129">
         <mark key="[" line="60" column="0" />
@@ -363,6 +368,12 @@
         <mark key="." line="4" column="44" />
         <mark key="^" line="4" column="44" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/OrdersPanel/OrderDetailsLink.jsx" timestamp="1496259359609">
+        <mark key="[" line="7" column="44" />
+        <mark key="]" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/config/webpack.config.js" timestamp="1495480465173">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="74" column="0" />
@@ -545,6 +556,9 @@
         <mark key="." line="16" column="97" />
         <mark key="^" line="16" column="97" />
       </file>
+      <file name="internal/process/next_tick.js" timestamp="1495810273961">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/ShippingOptionType.java" timestamp="1484696626716">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="6" column="9" />
@@ -563,7 +577,7 @@
         <mark key="^" line="70" column="52" />
         <mark key="." line="70" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/siteuser/UserEmailAddress.java" timestamp="1496345140836">
+      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/siteuser/UserEmailAddress.java" timestamp="1496354324656">
         <mark key="]" line="37" column="13" />
         <mark key="^" line="37" column="13" />
         <mark key="." line="37" column="13" />
@@ -677,11 +691,11 @@
         <mark key="." line="5" column="62" />
         <mark key="^" line="5" column="62" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/UpdateSiteUserAccountRequest.java" timestamp="1496347599614">
-        <mark key="[" line="32" column="12" />
-        <mark key="]" line="32" column="23" />
-        <mark key="." line="32" column="23" />
-        <mark key="^" line="32" column="23" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/UpdateSiteUserAccountRequest.java" timestamp="1496355370107">
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+        <mark key="^" line="42" column="30" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/SystemAdmin/screens/Domains/components/DomainTransferList.jsx" timestamp="1495036484872">
         <mark key="[" line="5" column="0" />
@@ -719,18 +733,18 @@
         <mark key="." line="290" column="7" />
         <mark key="^" line="290" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/CreateSiteUserAccountRequest.java" timestamp="1496344074637">
-        <mark key="[" line="49" column="11" />
-        <mark key="]" line="49" column="17" />
-        <mark key="." line="49" column="17" />
-        <mark key="^" line="49" column="17" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/CreateSiteUserAccountRequest.java" timestamp="1496355263359">
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="30" />
+        <mark key="." line="49" column="30" />
+        <mark key="^" line="49" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" timestamp="1496351986845">
-        <mark key="'" line="199" column="3" />
-        <mark key="[" line="197" column="8" />
-        <mark key="]" line="197" column="24" />
-        <mark key="^" line="197" column="24" />
-        <mark key="." line="197" column="24" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" timestamp="1496355672002">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="46" column="33" />
+        <mark key="]" line="46" column="43" />
+        <mark key="^" line="46" column="43" />
+        <mark key="." line="46" column="43" />
       </file>
       <file name="$USER_HOME$/repos/data-list/src/index.js" timestamp="1493222150234">
         <mark key="[" line="3" column="18" />
@@ -744,11 +758,11 @@
         <mark key="." line="56" column="52" />
         <mark key="^" line="56" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" timestamp="1496352162998">
-        <mark key="[" line="52" column="15" />
-        <mark key="]" line="52" column="19" />
-        <mark key="^" line="52" column="19" />
-        <mark key="." line="52" column="19" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" timestamp="1496356608103">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="222" column="43" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/utils/unwrapShippingOptions.js" timestamp="1486051525106">
         <mark key="[" line="63" column="34" />
@@ -834,12 +848,12 @@
         <mark key="." line="5" column="41" />
         <mark key="^" line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/EmailAddress.java" timestamp="1496353539141">
-        <mark key="'" line="48" column="34" />
-        <mark key="[" line="53" column="32" />
-        <mark key="]" line="53" column="27" />
-        <mark key="." line="53" column="27" />
-        <mark key="^" line="53" column="27" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/EmailAddress.java" timestamp="1496355110895">
+        <mark key="'" line="55" column="34" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="35" column="27" />
       </file>
       <file name="$USER_HOME$/repos/material-theme-jetbrains/build.gradle" timestamp="1488232108166">
         <mark key="[" line="22" column="13" />
@@ -876,10 +890,6 @@
         <mark key="]" line="19" column="21" />
         <mark key="." line="19" column="21" />
         <mark key="^" line="65" column="51" />
-      </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/model/Name.java" timestamp="1496343816030">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="25" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/utils/getAlbumArtUrl.js" timestamp="1489006742091">
         <mark key="[" line="0" column="26" />
@@ -929,6 +939,9 @@
         <mark key="]" line="35" column="6" />
         <mark key="." line="35" column="6" />
         <mark key="^" line="35" column="6" />
+      </file>
+      <file name="/fragment.js" timestamp="1496091960843">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/infinite-scroll/.eslintrc" timestamp="1496159715818">
         <mark key="[" line="2" column="27" />
@@ -1192,11 +1205,11 @@
         <mark key="^" line="26" column="32" />
         <mark key="." line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SessionManager.java" timestamp="1496343377511">
-        <mark key="[" line="47" column="73" />
-        <mark key="]" line="47" column="84" />
-        <mark key="^" line="47" column="84" />
-        <mark key="." line="47" column="84" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SessionManager.java" timestamp="1496355902191">
+        <mark key="[" line="54" column="73" />
+        <mark key="]" line="54" column="79" />
+        <mark key="^" line="54" column="79" />
+        <mark key="." line="54" column="79" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/.eslintrc" timestamp="1488482420796">
         <mark key="[" line="5" column="47" />
@@ -1385,6 +1398,9 @@
         <mark key="]" line="4" column="39" />
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
+      </file>
+      <file name="$USER_HOME$/repos/infinite-scroll/webpack.env.js" timestamp="1495038066655">
+        <mark key="[" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/PromoCodeInput/PromoCodeInput.jsx" timestamp="1493325638250">
         <mark key="[" line="34" column="0" />
@@ -1716,6 +1732,12 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/exception/InvalidEmailAddressException.java" timestamp="1496355471752">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/OrderItemPanel/OrderItemPanel.jsx" timestamp="1496340643624">
         <mark key="[" line="23" column="15" />
         <mark key="]" line="23" column="36" />
@@ -1752,7 +1774,7 @@
         <mark key="^" line="102" column="86" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1496348285484">
+      <file name="/fragment.java" timestamp="1496355139531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="18" />
@@ -1783,11 +1805,11 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/SiteUserAccountView.java" timestamp="1496348250724">
-        <mark key="[" line="36" column="9" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/SiteUserAccountView.java" timestamp="1496355239108">
+        <mark key="[" line="75" column="25" />
+        <mark key="]" line="75" column="30" />
+        <mark key="." line="75" column="30" />
+        <mark key="^" line="75" column="30" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountDependencyResolverTest.java" timestamp="1491583884642">
         <mark key="[" line="194" column="1" />
@@ -1996,11 +2018,11 @@
         <mark key="^" line="16" column="61" />
         <mark key="." line="16" column="61" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/resource/SiteUserAccountRepositoryIT.java" timestamp="1496351908299">
-        <mark key="[" line="91" column="96" />
-        <mark key="]" line="91" column="103" />
-        <mark key="^" line="91" column="103" />
-        <mark key="." line="91" column="103" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/resource/SiteUserAccountRepositoryIT.java" timestamp="1496356832174">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="23" column="1" />
+        <mark key="^" line="23" column="1" />
+        <mark key="." line="23" column="1" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/shared/utils/addDays.js" timestamp="1485812764665">
         <mark key="[" line="2" column="0" />
@@ -2056,6 +2078,12 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/OrdersPanel/index.js" timestamp="1496263500083">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="28" column="15" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/data-list/DataList/index.js" timestamp="1493222013135">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="25" />
@@ -2074,6 +2102,9 @@
         <mark key="]" line="26" column="13" />
         <mark key="." line="26" column="13" />
         <mark key="^" line="26" column="13" />
+      </file>
+      <file name="module.js" timestamp="1495741639111">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/reducers/index.js" timestamp="1489002971664">
         <mark key="[" line="11" column="9" />
@@ -2219,6 +2250,12 @@
         <mark key="^" line="139" column="118" />
         <mark key="." line="139" column="118" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/OrdersPanel/OrdersPanel.jsx" timestamp="1496340882306">
+        <mark key="[" line="24" column="77" />
+        <mark key="]" line="24" column="77" />
+        <mark key="." line="24" column="77" />
+        <mark key="^" line="24" column="77" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/trigger/PromoCodeTrigger.java" timestamp="1492812595667">
         <mark key="[" line="34" column="43" />
         <mark key="]" line="34" column="47" />
@@ -2327,22 +2364,26 @@
         <mark key="^" line="36" column="54" />
         <mark key="." line="36" column="54" />
       </file>
+      <file name="/JavaScript Console" timestamp="1496093012061">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/crud/ShippingOptionRetriever.java" timestamp="1490636289807">
         <mark key="[" line="38" column="86" />
         <mark key="]" line="38" column="93" />
         <mark key="." line="38" column="93" />
         <mark key="^" line="38" column="93" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/CreateSessionRequest.java" timestamp="1496344024342">
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/CreateSessionRequest.java" timestamp="1496355290598">
         <mark key="[" line="66" column="25" />
-        <mark key="]" line="66" column="36" />
-        <mark key="." line="66" column="36" />
-        <mark key="^" line="66" column="36" />
+        <mark key="]" line="66" column="30" />
+        <mark key="." line="66" column="30" />
+        <mark key="^" line="66" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SessionManagerIT.java" timestamp="1496352970462">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SessionManagerIT.java" timestamp="1496356453891">
+        <mark key="[" line="151" column="33" />
+        <mark key="]" line="138" column="43" />
+        <mark key="." line="138" column="43" />
+        <mark key="^" line="138" column="43" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/core/events/LegacyMerchantEventRecorder.java" timestamp="1491348894738">
         <mark key="[" line="115" column="11" />
@@ -2407,10 +2448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="70" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="168" column="28" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="197" column="46" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="246" column="11" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="245" column="61" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="244" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="241" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
@@ -2507,13 +2544,17 @@
       <jump line="198" column="16" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" />
       <jump line="205" column="3" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" />
       <jump line="49" column="34" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/EmailAddress.java" />
+      <jump line="149" column="0" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" />
+      <jump line="186" column="22" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" />
+      <jump line="122" column="0" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBUT0RPOiBhZGQgZW1haWwgYWRkcmVzcwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2522,16 +2563,16 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PyA=</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>isEmail</text>
+        <text>validate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoc2Vzc2lvbiwgaXMobm90KG51bGxWYWx1ZSgpKSkpOwo=</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBhZGQgZW1haWwgYWRkcmVzcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmVzcGFjZS5hdXRoLm1vZGVsLkVtYWlsQWRkcmVzczsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2540,19 +2581,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRoYXQoc2Vzc2lvbiwgaXMobm90KG51bGxWYWx1ZSgpKSkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFNlc3Npb25WaWV3IHNlc3Npb24gPSBzZXNzaW9uTWFuYWdlci5jcmVhdGUod2Vic2l0ZUlkLCBjcmVhdGVTZXNzaW9uUmVxdWVzdCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB1cGRhdGVkRW1haWw7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgdXBkYXRlZEVtYWlsOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgcHJpdmF0ZSBFbWFpbEFkZHJlc3MgY3JlYXRlRW1haWxBZGRyZXNzKFVwZGF0ZVNpdGVVc2VyQWNjb3VudFJlcXVlc3QgdXBkYXRlU2l0ZVVzZXJBY2NvdW50UmVxdWVzdCkgewogICAgRW1haWxBZGRyZXNzIHVwZGF0ZWRFbWFpbDsKICAgIHRyeSB7CiAgICAgIHVwZGF0ZWRFbWFpbCA9IEVtYWlsQWRkcmVzcy5mcm9tKHVwZGF0ZVNpdGVVc2VyQWNjb3VudFJlcXVlc3QuZ2V0RW1haWwoKSk7CiAgICB9IGNhdGNoIChJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24gZSkgewogICAgICB0aHJvdyBuZXcgSW52YWxpZEVtYWlsQWRkcmVzc0V4Y2VwdGlvbihlLmdldE1lc3NhZ2UoKSk7CiAgICB9CiAgICByZXR1cm4gdXBkYXRlZEVtYWlsOwogIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3354,10 +3395,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAucGFzc3dvcmQodXNlclBhc3N3b3JkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuZW1haWwoRW1haWxBZGRyZXNzLmZyb20odXBwZXJDYXNlZEVtYWlsKSkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3367,9 +3408,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isEmail</last-search>
+      <last-search>validate</last-search>
       <last-offset />
-      <last-pattern>isEmail</last-pattern>
+      <last-pattern>validate</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3377,7 +3418,6 @@
     </search>
     <history>
       <history-search>
-        <entry>devServer</entry>
         <entry>styles</entry>
         <entry>utils</entry>
         <entry>inf</entry>
@@ -3397,6 +3437,7 @@
         <entry>infinite</entry>
         <entry>email</entry>
         <entry>isEmail</entry>
+        <entry>validate</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/gc</entry>
@@ -3416,9 +3457,9 @@
         <entry>:W</entry>
         <entry>wq</entry>
         <entry>w;</entry>
-        <entry>W</entry>
         <entry>&quot;W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
