@@ -570,6 +570,11 @@
         <mark key="^" line="70" column="52" />
         <mark key="." line="70" column="52" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/siteuser/UserEmailAddress.java" timestamp="1496345140836">
+        <mark key="]" line="37" column="13" />
+        <mark key="^" line="37" column="13" />
+        <mark key="." line="37" column="13" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/criteria/DiscountCategoryResolverTest.java" timestamp="1491522514933">
         <mark key="[" line="46" column="97" />
         <mark key="]" line="46" column="103" />
@@ -1859,6 +1864,12 @@
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="33" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/auth/siteuser/SiteUserAuthenticator.java" timestamp="1496344980534">
+        <mark key="[" line="161" column="21" />
+        <mark key="]" line="161" column="30" />
+        <mark key="." line="161" column="30" />
+        <mark key="^" line="161" column="30" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/DiscountTemplatePicker/DiscountTemplatePicker.less" timestamp="1488308525867">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="37" />
@@ -2521,7 +2532,7 @@
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>EmailAddress</text>
+        <text>;</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2530,7 +2541,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>EmailAddress</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
@@ -2539,28 +2550,28 @@
         <text encoding="base64">ICBAUGVyc2lzdGVuY2VDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVE9ETzogdGVzdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBASnNvbkNyZWF0b3IK</text>
+        <text encoding="base64">ICAgIFVzZXJFbWFpbEFkZHJlc3MgZW1haWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gVE9ETzogdGVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJFbWFpbCBhZGRyZXNzIGNhbm5vdCBiZSBibGFuayBvciBudWxsLiIpOwo=</text>
+        <text encoding="base64">ICBASnNvbkNyZWF0b3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChTdHJpbmdVdGlscy5pc0JsYW5rKGVtYWlsKSkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBTYW1lIHBhdHRlcm4gYXMgdXNlZCBieSBTaXRlIFNlcnZlcgogIHB1YmxpYyBmaW5hbCBzdGF0aWMgUGF0dGVybiBWQUxJRF9FTUFJTF9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKAogICAgICAiXihbYS16QS1aMC05X1xcLlxcLVxcK10pK1xcQCgoW2EtekEtWjAtOVxcLV0pK1xcLikrKFthLXpBLVowLTldezIsNH0pKyQiKTsK</text>
+        <text encoding="base64">ICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJFbWFpbCBhZGRyZXNzIGNhbm5vdCBiZSBibGFuayBvciBudWxsLiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFByZWNvbmRpdGlvbnMK</text>
+        <text encoding="base64">ICAgIGlmIChTdHJpbmdVdGlscy5pc0JsYW5rKGVtYWlsKSkgewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3362,10 +3373,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBTYW1lIHBhdHRlcm4gYXMgdXNlZCBieSBTaXRlIFNlcnZlcgogIHB1YmxpYyBmaW5hbCBzdGF0aWMgUGF0dGVybiBWQUxJRF9FTUFJTF9QQVRURVJOID0gUGF0dGVybi5jb21waWxlKAogICAgICAiXihbYS16QS1aMC05X1xcLlxcLVxcK10pK1xcQCgoW2EtekEtWjAtOVxcLV0pK1xcLikrKFthLXpBLVowLTldezIsNH0pKyQiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFByZWNvbmRpdGlvbnMK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
