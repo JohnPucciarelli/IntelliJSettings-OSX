@@ -948,12 +948,12 @@
         <mark key="." line="35" column="6" />
         <mark key="^" line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/add-items-to-cart.js" timestamp="1496677919250">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="43" />
+      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/add-items-to-cart.js" timestamp="1496682206520">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
         <mark key="^" line="42" column="43" />
-        <mark key="." line="42" column="43" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/repos/infinite-scroll/.eslintrc" timestamp="1496159715818">
         <mark key="[" line="2" column="27" />
@@ -1192,11 +1192,11 @@
         <mark key="^" line="12" column="38" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/index.js" timestamp="1496678246821">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="19" />
+      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/index.js" timestamp="1496682300022">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="21" />
+        <mark key="^" line="4" column="64" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/Track/Track.scss" timestamp="1489178704265">
         <mark key="[" line="50" column="11" />
@@ -1636,11 +1636,11 @@
         <mark key="^" line="57" column="71" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/personal-config.js" timestamp="1496435135894">
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="1" column="22" />
+      <file name="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/personal-config.js" timestamp="1496682334459">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="1" column="22" />
-        <mark key="." line="1" column="22" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/addSong.js" timestamp="1489095444776">
         <mark key="[" line="18" column="45" />
@@ -2513,7 +2513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="9" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="219" column="56" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="217" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="188" column="9" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
@@ -2613,13 +2612,14 @@
       <jump line="33" column="24" filename="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/add-items-to-cart.js" />
       <jump line="6" column="0" filename="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/add-items-to-cart.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/add-items-to-cart.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/repos/squarespace-v6/scripts/commerce/orders/src/add-items-to-cart.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>promise</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBTSVRFX1VTRVJfRU1BSUw6ICdqcHVjY2lhcmVsbGlAc3F1YXJlc3BhY2UuY29tJywKICBTSVRFX1VTRVJfUEFTU1dPUkQ6ICcxMnF3MTJxdycsCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2628,37 +2628,37 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>promise</text>
+        <text>login</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>map</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgY29va2llQXhpb3MgPSByZXF1aXJlKCcuL3V0aWxzL2F4aW9zLXdpdGgtY29va2llcy1hbmQtY3JlYW0nKTsK</text>
+        <text encoding="base64">Y29uc3Qgc2l0ZVVzZXJMb2dpbiA9IHJlcXVpcmUoJy4vc3JjL3NpdGUtdXNlci1sb2dpbi5qcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC50aGVuKGFkZEl0ZW1zVG9DYXJ0KTsK</text>
+        <text encoding="base64">ICBTSVRFX1VTRVJfRU1BSUw6ICdqcHVjY2lhcmVsbGlAc3F1YXJlc3BhY2UuY29tJywKICBTSVRFX1VTRVJfUEFTU1dPUkQ6ICcxMnF3MTJxdycsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dG91Y2hXZWJzaXRlKCkK</text>
+        <text encoding="base64">ICAudGhlbih0b3VjaFdlYnNpdGUpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC50aGVuKGFkZEl0ZW1zVG9DYXJ0KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dG91Y2hXZWJzaXRlKCkK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="4">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC50aGVuKGFkZEl0ZW1zVG9DYXJ0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dG91Y2hXZWJzaXRlKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIC50aGVuKGFkZEl0ZW1zVG9DYXJ0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaChsb2dFcnJvcignTG9hZCB3ZWJzaXRlIGhvbWUgcGFnZScpKTsK</text>
+        <text encoding="base64">dG91Y2hXZWJzaXRlKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3460,10 +3460,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5nZXQoU0lURV9IT1NUKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gY29va2llQXhpb3MuYXhpb3MoKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3473,9 +3473,9 @@
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search>map</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>map</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3483,7 +3483,6 @@
     </search>
     <history>
       <history-search>
-        <entry>utils</entry>
         <entry>inf</entry>
         <entry>lodash</entry>
         <entry>isLoading</entry>
@@ -3503,6 +3502,7 @@
         <entry>isEmail</entry>
         <entry>validate</entry>
         <entry>remove</entry>
+        <entry>map</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/gc</entry>
