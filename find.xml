@@ -7,11 +7,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
-      <mask>*.js,*.jsx, *.less, *.json *.eslintrc !testbundle.js</mask>
-      <mask>*jsx</mask>
-      <mask>*.js,*.jsx, *.less, *.json *.eslintrc, !testbundle.js</mask>
-      <mask>*.jsx,</mask>
       <mask>*.jsx,</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
@@ -29,8 +26,6 @@
       <mask>*.less, *.jsx. *.js</mask>
       <mask>*.less, *.jsx, *.js</mask>
       <mask>.less, *.jsx, *.js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
@@ -38,6 +33,12 @@
       <mask>*.jsx, *</mask>
       <mask>*.jsx, *.</mask>
       <mask>*.jsx, *.js</mask>
+      <mask>*.jsx, *.*.jsx, *.jsjs</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
