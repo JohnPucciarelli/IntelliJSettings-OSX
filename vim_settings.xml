@@ -489,11 +489,11 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/package.json" timestamp="1497379267891">
-        <mark key="'" line="25" column="18" />
-        <mark key="[" line="38" column="23" />
-        <mark key="]" line="38" column="30" />
-        <mark key="." line="38" column="30" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/package.json" timestamp="1497381446555">
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
         <mark key="^" line="38" column="30" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-type-install.js" timestamp="1497312849809">
@@ -502,12 +502,12 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/.flowconfig" timestamp="1497379118585">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/.flowconfig" timestamp="1497380821579">
         <mark key="'" line="16" column="77" />
         <mark key="[" line="4" column="0" />
-        <mark key="]" line="16" column="53" />
-        <mark key="." line="16" column="53" />
-        <mark key="^" line="16" column="80" />
+        <mark key="]" line="16" column="94" />
+        <mark key="." line="16" column="94" />
+        <mark key="^" line="16" column="94" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DIscountNameInput/DiscountNameInput.less" timestamp="1480393649389">
         <mark key="[" line="3" column="3" />
@@ -1596,10 +1596,12 @@
         <mark key="." line="30" column="79" />
         <mark key="^" line="30" column="79" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" timestamp="1497375616642">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" timestamp="1497381404907">
+        <mark key="'" line="68" column="30" />
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="25" />
+        <mark key="^" line="25" column="25" />
+        <mark key="." line="25" column="25" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountSaverTest.java" timestamp="1492022510649">
         <mark key="[" line="25" column="0" />
@@ -2432,7 +2434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="6" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Customers/components/CustomerModalContent/components/CustomerProfile/CustomerProfile.jsx" />
       <jump line="202" column="6" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" />
       <jump line="81" column="30" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" />
       <jump line="74" column="0" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" />
@@ -2528,17 +2529,18 @@
       <jump line="60" column="5" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
       <jump line="28" column="26" filename="$USER_HOME$/repos/flow-typed/cli/src/lib/stubUtils.js" />
       <jump line="159" column="22" filename="$USER_HOME$/repos/flow-typed/cli/src/lib/stubUtils.js" />
-      <jump line="45" column="22" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" />
       <jump line="32" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/scripts/flow-typed-install.js" />
       <jump line="16" column="77" filename="$USER_HOME$/repos/squarespace-v6/site-server/.flowconfig" />
       <jump line="25" column="18" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
+      <jump line="45" column="30" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" />
+      <jump line="28" column="26" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZWdlbmVyYXRvci1ydW50aW1lIjogIl4wLjEwLjUiLAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2547,37 +2549,37 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">dHJhbnNwaWxlZCA=</text>
       </register>
       <register name="/" type="4">
-        <text>type-check</text>
+        <text>regen</text>
       </register>
       <register name="0" type="4">
         <text>classnames(styles.label, labelClassName);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZWdlbmVyYXRvci1ydW50aW1lIjogIl4wLjEwLjUiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBsYWJlbENsYXNzTmFtZSA9IGNsYXNzbmFtZXMoc3R5bGVzLmxhYmVsLCBsYWJlbENsYXNzTmFtZSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbjogYW55Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJmbG93OnN0YXR1cyI6ICJmbG93IHN0YXR1cyIsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">RmllbGQucHJvcHMgPSBQcm9wczsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CmNvbnN0IHByb2Nlc3MgPSByZXF1aXJlKCdwcm9jZXNzJyk7CmNvbnN0IHBhdGggPSByZXF1aXJlKCdwYXRoJyk7CmNvbnN0IGZzID0gcmVxdWlyZSgnZnMnKTsKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICogSXQgZGlyZWN0bHkgY2FsbHMgdGhlIGBmbG93LXR5cGVkYCBsaWJyYXJ5LCBhdm9pZGluZyB0aGUgQ0xJLgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdCBsYWJlbENsYXNzTmFtZSA9IGNsYXNzbmFtZXMoc3R5bGVzLmxhYmVsLCBsYWJlbENsYXNzTmFtZSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9kdWxlLm5hbWVfbWFwcGVyPSdsZXNzJyAtPiAnPFBST0pFQ1RfUk9PVD4vYnVpbGQtc2NyaXB0cy9mbG93L3N0dWJzL2xlc3MtbW9kdWxlcy5qcycK</text>
+        <text encoding="base64">ICBjaGlsZHJlbjogYW55Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3379,10 +3381,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJmbG93OnN0YXR1cyI6ICJmbG93IHN0YXR1cyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlLm5hbWVfbWFwcGVyPScuKlwuY3NzJCcgLT4gJy4vaGVscGVycy9DU1NNb2R1bGUnCg==</text>
+        <text encoding="base64">RmllbGQucHJvcHMgPSBQcm9wczsK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3392,9 +3394,9 @@
       </register>
     </registers>
     <search>
-      <last-search>type-check</last-search>
+      <last-search>regen</last-search>
       <last-offset />
-      <last-pattern>type-check</last-pattern>
+      <last-pattern>regen</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3402,7 +3404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>map</entry>
         <entry>required</entry>
         <entry>renderPayment</entry>
         <entry>isDefault</entry>
@@ -3422,6 +3423,7 @@
         <entry>resolvePkgDir</entry>
         <entry>pkgHasFlow</entry>
         <entry>type-check</entry>
+        <entry>regen</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/gc</entry>
