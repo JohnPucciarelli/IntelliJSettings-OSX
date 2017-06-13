@@ -1555,11 +1555,11 @@
         <mark key="." line="30" column="79" />
         <mark key="^" line="30" column="79" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" timestamp="1497369366094">
-        <mark key="[" line="46" column="17" />
-        <mark key="]" line="46" column="17" />
-        <mark key="." line="46" column="17" />
-        <mark key="^" line="46" column="17" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" timestamp="1497369612760">
+        <mark key="[" line="57" column="3" />
+        <mark key="]" line="59" column="21" />
+        <mark key="." line="59" column="21" />
+        <mark key="^" line="59" column="21" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountSaverTest.java" timestamp="1492022510649">
         <mark key="[" line="25" column="0" />
@@ -2392,7 +2392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="29" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/package.json" />
       <jump line="87" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/package.json" />
       <jump line="31" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/package.json" />
       <jump line="7" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Customers/components/CustomerModalContent/components/CustomerProfile/CustomerProfile.jsx" />
@@ -2492,13 +2491,30 @@
       <jump line="60" column="5" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
       <jump line="28" column="26" filename="$USER_HOME$/repos/flow-typed/cli/src/lib/stubUtils.js" />
       <jump line="159" column="22" filename="$USER_HOME$/repos/flow-typed/cli/src/lib/stubUtils.js" />
+      <jump line="45" column="22" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LmNhdGNoKChlKSA9PiBjb25zb2xlLmVycm9yKGUpKTs=</text>
+        <text>async function installFlowTypedPackages(dependencies) {
+  const flowTypedConfig = {
+    flowVersion,
+    overwrite: false,
+    skip: false,
+    verbose: false
+  };
+
+  const packages = getPackageNameVersions(dependencies);
+
+// The `-` argument expects a command,
+// followed by a list of package names
+  const _ = [null, ...packages];
+
+  const args = Object.assign({ _ }, flowTypedConfig);
+  await run(args);
+}</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2515,29 +2531,45 @@
       <register name="0" type="4">
         <text encoding="base64">CmNvbnN0IHBhY2thZ2VzID0gW251bGxdOwoKZm9yIChsZXQgcGFja2FnZU5hbWUgaW4gZGVwZW5kZW5jaWVzKSB7CiAgY29uc3QgcGFja2FnZVZlcnNpb24gPSBkZXBlbmRlbmNpZXNbcGFja2FnZU5hbWVdOwogIHBhY2thZ2VzLnB1c2gocGFja2FnZU5hbWUgKyAnQCcgKyBwYWNrYWdlVmVyc2lvbik7Cn0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>async function installFlowTypedPackages(dependencies) {
+  const flowTypedConfig = {
+    flowVersion,
+    overwrite: false,
+    skip: false,
+    verbose: false
+  };
+
+  const packages = getPackageNameVersions(dependencies);
+
+// The `-` argument expects a command,
+// followed by a list of package names
+  const _ = [null, ...packages];
+
+  const args = Object.assign({ _ }, flowTypedConfig);
+  await run(args);
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gdAo=</text>
+        <text encoding="base64">ICBjb25zdCBkZXBlbmRlbmNpZXMgPSBnZXRTaXRlU2VydmVyRGVwZW5kZW5jaWVzKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgcGFja2FnZXMgPSBbbnVsbCwgLi4uZ2V0UGFja2FnZU5hbWVWZXJzaW9ucyhkZXBlbmRlbmNpZXMpXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYWNrYWdlcy5wdXNoKHBhY2thZ2VOYW1lICsgJ0AnICsgcGFja2FnZVZlcnNpb24pOwo=</text>
+        <text encoding="base64">Y29uc3QgcGFja2FnZXMgPSBbbnVsbCwgLi4uZ2V0UGFja2FnZU5hbWVWZXJzaW9ucyhkZXBlbmRlbmNpZXMpXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBwYWNrYWdlVmVyc2lvbiA9IGRlcGVuZGVuY2llc1twYWNrYWdlTmFtZV07Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIChsZXQgcGFja2FnZU5hbWUgaW4gZGVwZW5kZW5jaWVzKSB7Cg==</text>
+        <text encoding="base64">ICBwYWNrYWdlcy5wdXNoKHBhY2thZ2VOYW1lICsgJ0AnICsgcGFja2FnZVZlcnNpb24pOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3339,10 +3371,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBwYWNrYWdlVmVyc2lvbiA9IGRlcGVuZGVuY2llc1twYWNrYWdlTmFtZV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcGFja2FnZXMgPSBbbnVsbF07Cg==</text>
+        <text encoding="base64">Zm9yIChsZXQgcGFja2FnZU5hbWUgaW4gZGVwZW5kZW5jaWVzKSB7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
