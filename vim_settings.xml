@@ -474,12 +474,12 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/package.json" timestamp="1497318056789">
-        <mark key="'" line="32" column="20" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="26" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/package.json" timestamp="1497320885901">
+        <mark key="'" line="60" column="5" />
+        <mark key="[" line="60" column="17" />
+        <mark key="]" line="60" column="17" />
         <mark key="^" line="26" column="52" />
-        <mark key="." line="26" column="52" />
+        <mark key="." line="60" column="17" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-type-install.js" timestamp="1497312849809">
         <mark key="[" line="6" column="0" />
@@ -1017,7 +1017,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/repos/flow-typed/cli/src/commands/install.js" timestamp="1497317974311" />
+      <file name="$USER_HOME$/repos/flow-typed/cli/src/commands/install.js" timestamp="1497320615767" />
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/components/VolumeControl/VolumeControl.scss" timestamp="1489164114687">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="19" />
@@ -1573,11 +1573,11 @@
         <mark key="." line="30" column="79" />
         <mark key="^" line="30" column="79" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" timestamp="1497318632794">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="27" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" timestamp="1497321008369">
+        <mark key="[" line="23" column="78" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="57" />
+        <mark key="^" line="23" column="27" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountSaverTest.java" timestamp="1492022510649">
         <mark key="[" line="25" column="0" />
@@ -2401,8 +2401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/repos/infinite-scroll/src/Scrollinator/Scrollinator.jsx" />
-      <jump line="1" column="0" filename="$USER_HOME$/repos/infinite-scroll/src/Scrollinator/Scrollinator.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/infinite-scroll/src/Scrollinator/Scrollinator.jsx" />
       <jump line="72" column="27" filename="$USER_HOME$/repos/infinite-scroll/src/Scrollinator/Scrollinator.jsx" />
       <jump line="93" column="29" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/package.json" />
@@ -2501,13 +2499,15 @@
       <jump line="11" column="3" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/components/Panel/Input.jsx" />
       <jump line="63" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
       <jump line="32" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
+      <jump line="133" column="5" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
+      <jump line="60" column="5" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>^</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2516,10 +2516,10 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>Object.assign({}, {</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
-        <text>src</text>
+        <text>flow-bin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmbG93VmVyc2lvbjogZGVwZW5kZW5jaWVzWydmbG93LWJpbiddCg==</text>
@@ -2531,22 +2531,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">cnVuKCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF86IFtwYWNrYWdlTmFtZSArICdAJyArIHBhY2thZ2VWZXJzaW9uXSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC4uLmZsb3dUeXBlZENvbmZpZwo=</text>
+        <text encoding="base64">UHJvbWlzZS5hbGwocHJvbWlzZXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBfOiBBcnJheTxzdHJpbmc+LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiZmxvdy1iaW4iOiAiXjAuNDcuMCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3348,10 +3348,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvdmVyd3JpdGU6IGJvb2xlYW4sCg==</text>
+        <text encoding="base64">ICBwcm9taXNlcy5wdXNoKHByb21pc2UpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBza2lwOiBib29sZWFuLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3361,9 +3361,9 @@
       </register>
     </registers>
     <search>
-      <last-search>src</last-search>
+      <last-search>flow-bin</last-search>
       <last-offset />
-      <last-pattern>src</last-pattern>
+      <last-pattern>flow-bin</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3371,7 +3371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>email</entry>
         <entry>isEmail</entry>
         <entry>validate</entry>
         <entry>remove</entry>
@@ -3391,6 +3390,7 @@
         <entry>transition</entry>
         <entry>node_modules</entry>
         <entry>src</entry>
+        <entry>flow-bin</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/gc</entry>
@@ -3411,8 +3411,8 @@
         <entry>w;</entry>
         <entry>&quot;W</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
