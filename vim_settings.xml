@@ -1573,11 +1573,11 @@
         <mark key="." line="30" column="79" />
         <mark key="^" line="30" column="79" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" timestamp="1497321997113">
-        <mark key="[" line="21" column="42" />
-        <mark key="]" line="21" column="42" />
-        <mark key="." line="21" column="42" />
-        <mark key="^" line="21" column="42" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" timestamp="1497365242481">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="26" column="42" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountSaverTest.java" timestamp="1492022510649">
         <mark key="[" line="25" column="0" />
@@ -2512,8 +2512,8 @@
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2522,13 +2522,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">XSwg</text>
       </register>
       <register name="/" type="4">
         <text>flow-bin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmbG93VmVyc2lvbjogZGVwZW5kZW5jaWVzWydmbG93LWJpbiddCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhY2thZ2VOYW1lVmVyc2lvbiA9IHBhY2thZ2VOYW1lICsgJ0AnICsgcGFja2FnZVZlcnNpb247Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2537,16 +2537,16 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cnVuKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFyZ3MgPSBPYmplY3QuYXNzaWduKHsgXzogW251bGwsIHBhY2thZ2VOYW1lVmVyc2lvbl0sIH0sIGZsb3dUeXBlZENvbmZpZyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhY2thZ2VOYW1lVmVyc2lvbiA9IHBhY2thZ2VOYW1lICsgJ0AnICsgcGFja2FnZVZlcnNpb247Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UHJvbWlzZS5hbGwocHJvbWlzZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -3354,10 +3354,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm9taXNlcy5wdXNoKHByb21pc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cnVuKCk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
