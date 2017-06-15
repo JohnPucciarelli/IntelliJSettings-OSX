@@ -387,6 +387,13 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/components/Panel/Input.jsx" timestamp="1497552628439">
+        <mark key="'" line="55" column="20" />
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/BaseStoreShoppingCart.java" timestamp="1494366648346">
         <mark key="[" line="49" column="9" />
         <mark key="]" line="49" column="9" />
@@ -483,7 +490,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497550962860">
+      <file name="/Dummy.txt" timestamp="1497552525995">
         <mark key="'" line="0" column="18" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2480,7 +2487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="41" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SessionClientTest.java" />
       <jump line="60" column="6" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/serviceclient/ClientWiringModule.java" />
       <jump line="4" column="36" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/shared/_variables-user-profile.less" />
       <jump line="19" column="29" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/UserProfilePage.less" />
@@ -2580,13 +2586,14 @@
       <jump line="31" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="55" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulp-tasks.js" />
       <jump line="69" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulp-tasks.js" />
+      <jump line="54" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/components/Panel/Input.jsx" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>color</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhbHVlOiAnJywK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2595,7 +2602,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>color</text>
+        <text>defaultProps</text>
       </register>
       <register name="/" type="4">
         <text>gulp-lo</text>
@@ -2604,28 +2611,28 @@
         <text encoding="base64">ICBjb25zdCBGTE9XX1RZUEVEX0RJUiA9ICdmbG93LXR5cGVkJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlzRm9jdXNlZDogUmVhY3QuUHJvcFR5cGVzLmJvb2wsCg==</text>
+        <text encoding="base64">ICAgIHZhbHVlOiAnJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaXNGb2N1c2VkOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgIGxhYmVsOiAnJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3VscCBmbG93Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzTmFtZTogUHJvcFR5cGVzLnN0cmluZywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEdFTkVSQVRFRF9GTE9XX1RZUEVEX0RJUik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBwYXRocyA9IHJlcXVpcmUoJ3BhdGhzJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBJbnB1dDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3RkZXJyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3427,10 +3434,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3Rkb3V0KTsK</text>
+        <text encoding="base64">Y29uc3QgSW5wdXQgPSBSZWFjdC5jcmVhdGVDbGFzcyh7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
