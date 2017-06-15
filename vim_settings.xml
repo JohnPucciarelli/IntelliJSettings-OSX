@@ -940,9 +940,6 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow-typed/flow-typed-install.js" timestamp="1497317272850">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/shared/components/UpsellConfirmation/UpsellTrigger.jsx" timestamp="1486424219066">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="26" column="3" />
@@ -1076,7 +1073,10 @@
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulpfile.js" timestamp="1497480421861" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulpfile.js" timestamp="1497542364566">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="16" column="65" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/AutoTriggeredUnsupportedModal/AutoTriggeredUnsupportedModal.jsx" timestamp="1481924358523">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="16" />
@@ -1318,6 +1318,12 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/constants.js" timestamp="1497542404171">
+        <mark key="[" line="7" column="65" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/features/FeatureTypeViewModel.java" timestamp="1481146348059">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -1353,6 +1359,12 @@
         <mark key="]" line="7" column="57" />
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulp-tasks/removeFlowTypedDirectory.js" timestamp="1497542316329">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/data-list/README.md" timestamp="1493221919534">
         <mark key="[" line="23" column="8" />
@@ -2556,8 +2568,8 @@
       <register name="a" type="4">
         <text encoding="base64">ICAgIENvbW1lcmNlQ291cG9uIGV4aXN0aW5nQ291cG9uID0gbW9jayhDb21tZXJjZUNvdXBvbi5jbGFzcyk7CiAgICB3aGVuKGV4aXN0aW5nQ291cG9uLmdldElkKCkpLnRoZW5SZXR1cm4oT2JqZWN0SWQuZ2V0KCkpOwogICAgd2hlbihjb3Vwb25EQU8uZmluZENvdXBvbkJ5UHJvbW9Db2RlKGFueSgpLCBhbnkoKSkpLnRoZW5SZXR1cm4oT3B0aW9uYWwub2YoZXhpc3RpbmdDb3Vwb24pKTsKCiAgICBBcmd1bWVudENhcHRvcjxTaGlwcGluZ09wdGlvblJldHJpZXZlcj4gY2FwdG9yID0gQXJndW1lbnRDYXB0b3IuZm9yQ2xhc3MoU2hpcHBpbmdPcHRpb25SZXRyaWV2ZXIuY2xhc3MpOwogICAgdmVyaWZ5KHNoaXBwaW5nT3B0aW9uUmV0cmlldmVyKS5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKTsKICAgIChzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGNhcHRvci5jYXB0dXJlKCksIGFueSgpKSkKICAgICAgICAudGhlbigoKSAtPiBPcHRpb25hbC5vZihzaGlwcGluZ09wdGlvblYyKSk7CgogICAgd2hlbihzaGlwcGluZ09wdGlvblJldHJpZXZlci5yZXRyaWV2ZVNoaXBwaW5nT3B0aW9uKGFueSgpLCBhbnkoKSkpCiAgICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2566,37 +2578,37 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>copy</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCdmbG93LXR5cGVkOmluc3RhbGwnLCBmbG93VHlwZWRJbnN0YWxsKTsKZ3VscC50YXNrKCdmbG93JywgWydfY2hlY2tUeXBlRGVmaW5pdGlvbnNJbnN0YWxsZWQnXSwgZmxvdyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CmNvbnN0IFJPT1RfRElSID0gJy4uLy4uJzsKY29uc3QgVU5JVkVSU0FMX0RJUiA9IGAke1JPT1RfRElSfS9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsYDsKY29uc3QgRkxPV19JTlNUQUxMX1NDUklQVCA9ICdmbG93LXR5cGVkLWluc3RhbGwuanMnOwoKY29uc3QgUlVOX0ZMT1dfVFlQRURfSU5TVEFMTCA9IGBjZCAke1VOSVZFUlNBTF9ESVJ9ICYmIG5vZGUgLi4vLi4vLi4vLi4vYnVpbGQtc2NyaXB0cy9mbG93LyR7RkxPV19JTlNUQUxMX1NDUklQVH1gOwoKY29uc3QgRkxPV19UWVBFRF9ESVIgPSAnZmxvdy10eXBlZCc7CmNvbnN0IEdFTkVSQVRFRF9GTE9XX1RZUEVEX0RJUiA9IGAke1JPT1RfRElSfS8ke0ZMT1dfVFlQRURfRElSfWA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBmdW5jdGlvbihndWxwLCBwbHVnaW5zKSB7Cgp9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCdmbG93JywgKQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LAo=</text>
+        <text encoding="base64">ICByZXR1cm4gZGVsKEZMT1dfVFlQRURfRElSLCBjYik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCdpbnN0YWxsJywgbnBtSW5zdGFsbCk7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gcmVtb3ZlRmxvd1R5cGVkRGlyZWN0b3J5KGNiKSB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAoZ3VscCkgPT4gewp9Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3398,10 +3410,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5waXBlKGluc3RhbGwoKSk7Cg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gZ3VscC5zcmMoJ3BhY2thZ2UuanNvbicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3461,8 +3473,8 @@
         <entry>w;</entry>
         <entry>&quot;W</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
