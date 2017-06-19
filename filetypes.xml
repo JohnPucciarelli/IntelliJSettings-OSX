@@ -9,7 +9,9 @@
   </component>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="flow-typed" type="PLAIN_TEXT" />
       <mapping pattern="CurrencyFormatters" type="PLAIN_TEXT" />
+      <mapping pattern=".flowconfig" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

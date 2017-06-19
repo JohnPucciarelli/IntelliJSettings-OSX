@@ -8,21 +8,7 @@
     <option name="FIND_ORIGIN" value="entire_scope" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.js,*.jsx, *.less, *.config</mask>
-      <mask>*.js,*.jsx, *.less, *.json</mask>
-      <mask>*.js,*.jsx, *.less, *.json *.eslintrc</mask>
-      <mask>*.js,*.jsx, *.less, *.json *.eslintrc !testbundle.js</mask>
-      <mask>*jsx</mask>
-      <mask>*.js,*.jsx, *.less, *.json *.eslintrc, !testbundle.js</mask>
-      <mask>*.js</mask>
-      <mask>*.jsx</mask>
       <mask>*.jsx,</mask>
-      <mask>*.jsx,</mask>
-      <mask>*.jsx, *</mask>
-      <mask>*.jsx, *.</mask>
-      <mask>*.jsx, *.js</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
@@ -38,6 +24,20 @@
       <mask>*.less, *.jsx. *.j</mask>
       <mask>*.less, *.jsx. *.js</mask>
       <mask>*.less, *.jsx, *.js</mask>
+      <mask>.less, *.jsx, *.js</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsx</mask>
+      <mask>*.jsx,</mask>
+      <mask>*.jsx, *</mask>
+      <mask>*.jsx, *.</mask>
+      <mask>*.jsx, *.js</mask>
+      <mask>*.jsx, *.*.jsx, *.jsjs</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
