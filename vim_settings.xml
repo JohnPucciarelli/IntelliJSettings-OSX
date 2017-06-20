@@ -781,12 +781,12 @@
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" timestamp="1497993518599">
-        <mark key="'" line="134" column="16" />
-        <mark key="[" line="134" column="18" />
-        <mark key="]" line="134" column="25" />
-        <mark key="." line="134" column="39" />
-        <mark key="^" line="134" column="25" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" timestamp="1497995245619">
+        <mark key="'" line="130" column="16" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="101" column="78" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/repos/data-list/src/index.js" timestamp="1493222150234">
         <mark key="[" line="3" column="18" />
@@ -2710,8 +2710,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIE9iamVjdElkIHdlYnNpdGVJZCA9IE9iamVjdElkLmdldCgpOwogICAgU2l0ZVVzZXJBY2NvdW50IGFjY291bnQgPSBjcmVhdGVBY2NvdW50KHdlYnNpdGVJZCk7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>updatedName.getLastName()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBlbWFpbCA9IHVwZGF0ZUVtYWlsUmVxdWVzdC5nZXRFbWFpbCgpOwo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2720,7 +2720,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>updatedName.getLastName()</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text>int re</text>
@@ -2729,28 +2729,28 @@
         <text encoding="base64">CiAgcHVibGljIFNpdGVVc2VyQWNjb3VudE5vdEZvdW5kRXhjZXB0aW9uKCkgewogICAgc3VwZXIoIlVzZXIgbm90IGZvdW5kLiIpOwogIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICh1KQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBlbWFpbCA9IHVwZGF0ZUVtYWlsUmVxdWVzdC5nZXRFbWFpbCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGlmIHRoZSBuZXcgZW1haWwgaXMgZGlmZmVyZW50IGZyb20gdGhlIHVzZXIncyBjdXJyZW50IGVtYWlsLCBjaGVjayBpZiBpdCBpcyBhdmFpbGFibGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChTdHJpbmdVdGlscy5pc0JsYW5rKGVtYWlsKSkgewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3552,10 +3552,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICh1cGRhdGVkTmFtZSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbS5zcXVhcmVzcGFjZS5hdXRoLmFwaS5OYW1lIHVwZGF0ZWROYW1lID0gdXBkYXRlUHJvZmlsZVJlcXVlc3QuZ2V0TmFtZSgpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
