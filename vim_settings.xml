@@ -2305,6 +2305,13 @@
         <mark key="." line="9" column="85" />
         <mark key="^" line="9" column="85" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/siteuser/account/AccountProfileResource.java" timestamp="1497982132975">
+        <mark key="'" line="134" column="51" />
+        <mark key="[" line="136" column="51" />
+        <mark key="]" line="136" column="74" />
+        <mark key="." line="136" column="74" />
+        <mark key="^" line="136" column="74" />
+      </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/store/configureStore.production.js" timestamp="1488920190764">
         <mark key="[" line="9" column="34" />
         <mark key="]" line="2" column="46" />
@@ -2560,8 +2567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="26" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
-      <jump line="95" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
       <jump line="34" column="17" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" />
       <jump line="36" column="81" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" />
       <jump line="10" column="25" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" />
@@ -2660,13 +2665,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/UpdateUserAccountEmailRequest.java" />
       <jump line="259" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/node_modules/@sqs/infinite-scroll/src/DataList/DataList.jsx" />
       <jump line="42" column="29" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/node_modules/@sqs/infinite-scroll/src/DataList/DataList.jsx" />
+      <jump line="123" column="73" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/siteuser/account/AccountProfileResource.java" />
+      <jump line="134" column="51" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/siteuser/account/AccountProfileResource.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIE9iamVjdElkIHdlYnNpdGVJZCA9IE9iamVjdElkLmdldCgpOwogICAgU2l0ZVVzZXJBY2NvdW50IGFjY291bnQgPSBjcmVhdGVBY2NvdW50KHdlYnNpdGVJZCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>toUpdateUserAccountRequest</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2675,7 +2682,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>toUpdateUserAccountRequest</text>
       </register>
       <register name="/" type="4">
         <text>fin</text>
