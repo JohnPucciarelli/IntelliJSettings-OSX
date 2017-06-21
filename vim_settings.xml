@@ -406,12 +406,10 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/components/Panel/Input.jsx" timestamp="1497644393883">
-        <mark key="'" line="64" column="11" />
-        <mark key="[" line="65" column="43" />
-        <mark key="]" line="65" column="43" />
-        <mark key="." line="65" column="43" />
-        <mark key="^" line="65" column="44" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/components/Panel/Input.jsx" timestamp="1498078497220">
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/BaseStoreShoppingCart.java" timestamp="1494366648346">
         <mark key="[" line="49" column="9" />
@@ -1813,11 +1811,12 @@
         <mark key="^" line="41" column="54" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" timestamp="1498068803542">
-        <mark key="[" line="182" column="24" />
-        <mark key="]" line="182" column="32" />
-        <mark key="." line="182" column="32" />
-        <mark key="^" line="182" column="32" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" timestamp="1498082757140">
+        <mark key="'" line="162" column="19" />
+        <mark key="[" line="182" column="86" />
+        <mark key="]" line="182" column="86" />
+        <mark key="." line="182" column="86" />
+        <mark key="^" line="242" column="7" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/flattened/FlattenedService.java" timestamp="1492017493048">
         <mark key="[" line="73" column="43" />
@@ -1950,12 +1949,6 @@
         <mark key="]" line="75" column="30" />
         <mark key="." line="75" column="30" />
         <mark key="^" line="75" column="30" />
-      </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" timestamp="1497642404085">
-        <mark key="[" line="29" column="35" />
-        <mark key="]" line="29" column="34" />
-        <mark key="." line="29" column="34" />
-        <mark key="^" line="29" column="34" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountDependencyResolverTest.java" timestamp="1491583884642">
         <mark key="[" line="194" column="1" />
@@ -2624,10 +2617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="25" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="194" column="25" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="256" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="19" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="3" column="19" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulpfile.js" />
       <jump line="16" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulpfile.js" />
@@ -2724,13 +2713,17 @@
       <jump line="113" column="79" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/main/java/com/squarespace/auth/client/SiteUserAccountClient.java" />
       <jump line="132" column="64" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/main/java/com/squarespace/auth/client/SiteUserAccountClient.java" />
       <jump line="270" column="26" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" />
+      <jump line="123" column="20" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
+      <jump line="132" column="23" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
+      <jump line="153" column="23" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
+      <jump line="162" column="19" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SiteUserAccount() {</text>
+        <text>.</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2739,37 +2732,37 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>SiteUserAccount() {</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>int re</text>
+        <text>.get</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgQFRlc3QoZGVwZW5kc09uR3JvdXBzID0geyJpbml0LioifSkKICBwdWJsaWMgdm9pZCB0ZXN0VXBkYXRlU2l0ZVVzZXJBY2NvdW50KCkgewogICAgT2JqZWN0SWQgd2Vic2l0ZUlkID0gbmV3IE9iamVjdElkKCk7CiAgICBTaXRlVXNlckFjY291bnRWaWV3IGFjY291bnQgPSBjcmVhdGVTaXRlVXNlckFjY291bnQod2Vic2l0ZUlkKTsKCiAgICBVcGRhdGVQcm9maWxlUmVxdWVzdCB1cGRhdGVTaXRlVXNlckFjY291bnRSZXF1ZXN0ID0gVXBkYXRlU2l0ZVVzZXJBY2NvdW50UmVxdWVzdC5idWlsZGVyKCkKICAgICAgICAubmFtZShuZXcgTmFtZSgiSmFuZSIsICJEb2UiKSkKICAgICAgICAuZW1haWwoImphbmVkb2VAZXhhbXBsZS5jb20iKQogICAgICAgIC5idWlsZCgpOwoKICAgIFVzZXJBdXRoZW50aWNhdGlvbkFwaVJlc3BvbnNlPFNpdGVVc2VyQWNjb3VudFZpZXc+IHJlc3BvbnNlID0gc2l0ZVVzZXJBY2NvdW50Q2xpZW50CiAgICAgICAgLnVwZGF0ZSh3ZWJzaXRlSWQsIGFjY291bnQuZ2V0SWQoKSwgdXBkYXRlU2l0ZVVzZXJBY2NvdW50UmVxdWVzdCkKICAgICAgICAubWFwKFVzZXJBdXRoZW50aWNhdGlvbkFwaVJlc3BvbnNlPFNpdGVVc2VyQWNjb3VudFZpZXc+OjpuZXcpCiAgICAgICAgLm9uRXJyb3JSZXN1bWVOZXh0KFVzZXJBdXRoZW50aWNhdGlvbkNsaWVudFV0aWxzOjp0b0FwaVJlc3BvbnNlKQogICAgICAgIC50b0Jsb2NraW5nKCkKICAgICAgICAuc2luZ2xlKCk7CgogICAgYXNzZXJ0VGhhdChyZXNwb25zZS5pc1N1Y2Nlc3MoKSwgaXModHJ1ZSkpOwogICAgU2l0ZVVzZXJBY2NvdW50VmlldyB1cGRhdGVkU2l0ZVVzZXJBY2NvdW50ID0gcmVzcG9uc2UuZ2V0UmVzdWx0KCk7CiAgICBhc3NlcnRUaGF0KHVwZGF0ZWRTaXRlVXNlckFjY291bnQuZ2V0TmFtZSgpLmdldEZpcnN0TmFtZSgpLCBpcyh1cGRhdGVkU2l0ZVVzZXJBY2NvdW50LmdldE5hbWUoKS5nZXRGaXJzdE5hbWUoKSkpOwogICAgYXNzZXJ0VGhhdCh1cGRhdGVkU2l0ZVVzZXJBY2NvdW50LmdldE5hbWUoKS5nZXRMYXN0TmFtZSgpLCBpcyh1cGRhdGVkU2l0ZVVzZXJBY2NvdW50LmdldE5hbWUoKS5nZXRMYXN0TmFtZSgpKSk7CiAgICBhc3NlcnRUaGF0KHVwZGF0ZWRTaXRlVXNlckFjY291bnQuZ2V0RW1haWwoKSwgaXModXBkYXRlZFNpdGVVc2VyQWNjb3VudC5nZXRFbWFpbCgpKSk7CiAgfQogIAo=</text>
+        <text encoding="base64">CiAgQFRlc3QoZGVwZW5kc09uR3JvdXBzID0geyJpbml0LioifSkKICBwdWJsaWMgdm9pZCB0ZXN0VXBkYXRlUHJvZmlsZSgpIHsKICAgIE9iamVjdElkIHdlYnNpdGVJZCA9IG5ldyBPYmplY3RJZCgpOwogICAgU2l0ZVVzZXJBY2NvdW50VmlldyBhY2NvdW50ID0gY3JlYXRlU2l0ZVVzZXJBY2NvdW50KHdlYnNpdGVJZCk7CgogICAgVXBkYXRlUHJvZmlsZVJlcXVlc3QgdXBkYXRlU2l0ZVVzZXJBY2NvdW50UmVxdWVzdCA9IFVwZGF0ZVByb2ZpbGVSZXF1ZXN0LmJ1aWxkZXIoKQogICAgICAgIC5pZChhY2NvdW50LmdldElkKCkpCiAgICAgICAgLm5hbWUobmV3IE5hbWUoIkphbmUiLCAiRG9lIikpCiAgICAgICAgLmJ1aWxkKCk7CgogICAgVXNlckF1dGhlbnRpY2F0aW9uQXBpUmVzcG9uc2U8Vm9pZD4gcmVzcG9uc2UgPSBzaXRlVXNlckFjY291bnRDbGllbnQKICAgICAgICAudXBkYXRlUHJvZmlsZSh3ZWJzaXRlSWQsIHVwZGF0ZVNpdGVVc2VyQWNjb3VudFJlcXVlc3QpCiAgICAgICAgLm1hcChVc2VyQXV0aGVudGljYXRpb25BcGlSZXNwb25zZTo6bmV3KQogICAgICAgIC5vbkVycm9yUmVzdW1lTmV4dChVc2VyQXV0aGVudGljYXRpb25DbGllbnRVdGlsczo6dG9BcGlSZXNwb25zZSkKICAgICAgICAudG9CbG9ja2luZygpCiAgICAgICAgLnNpbmdsZSgpOwoKICAgIGFzc2VydFRoYXQocmVzcG9uc2UuaXNTdWNjZXNzKCksIGlzKHRydWUpKTsKCiAgICBTaXRlVXNlckFjY291bnRWaWV3IHVwZGF0ZWRTaXRlVXNlckFjY291bnQgPSB0b0FwaVJlc3BvbnNlKHNpdGVVc2VyQWNjb3VudENsaWVudC5nZXQod2Vic2l0ZUlkLCBhY2NvdW50LmdldElkKCkpKQogICAgICAgIC50b0Jsb2NraW5nKCkKICAgICAgICAuc2luZ2xlKCkKICAgICAgICAuZ2V0UmVzdWx0KCk7CgogICAgYXNzZXJ0VGhhdCh1cGRhdGVkU2l0ZVVzZXJBY2NvdW50LmdldE5hbWUoKS5nZXRGaXJzdE5hbWUoKSwgaXModXBkYXRlZFNpdGVVc2VyQWNjb3VudC5nZXROYW1lKCkuZ2V0Rmlyc3ROYW1lKCkpKTsKICAgIGFzc2VydFRoYXQodXBkYXRlZFNpdGVVc2VyQWNjb3VudC5nZXROYW1lKCkuZ2V0TGFzdE5hbWUoKSwgaXModXBkYXRlZFNpdGVVc2VyQWNjb3VudC5nZXROYW1lKCkuZ2V0TGFzdE5hbWUoKSkpOwogICAgYXNzZXJ0VGhhdCh1cGRhdGVkU2l0ZVVzZXJBY2NvdW50LmdldEVtYWlsKCksIGlzKHVwZGF0ZWRTaXRlVXNlckFjY291bnQuZ2V0RW1haWwoKSkpOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAuc2luZ2xlKCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmVzcGFjZS5hdXRoLmFwaS5VcGRhdGVTaXRlVXNlckFjY291bnRSZXF1ZXN0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAudG9CbG9ja2luZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAubmFtZShuZXcgTmFtZSgiSmFuZSIsICJEb2UiKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAub25FcnJvclJlc3VtZU5leHQoVXNlckF1dGhlbnRpY2F0aW9uQ2xpZW50VXRpbHM6OnRvQXBpUmVzcG9uc2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAubWFwKFVzZXJBdXRoZW50aWNhdGlvbkFwaVJlc3BvbnNlPFNpdGVVc2VyQWNjb3VudFZpZXc+OjpuZXcpCg==</text>
+        <text encoding="base64">ICAgICAgICAubmFtZShuZXcgTmFtZSgiSmFuZSIsICJEb2UiKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgIFVzZXJBdXRoZW50aWNhdGlvbkFwaVJlc3BvbnNlPFNpdGVVc2VyQWNjb3VudFZpZXc+IHJlc3BvbnNlID0gc2l0ZVVzZXJBY2NvdW50Q2xpZW50LmNyZWF0ZSh3ZWJzaXRlSWQsIGNyZWF0ZVNpdGVVc2VyQWNjb3VudFJlcXVlc3QpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodXBkYXRlZFNpdGVVc2VyQWNjb3VudC5nZXRFbWFpbCgpLCBpcyh1cGRhdGVkU2l0ZVVzZXJBY2NvdW50LmdldEVtYWlsKCkpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmVzcGFjZS5hdXRoLmFwaS5VcGRhdGVTaXRlVXNlckFjY291bnRSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodXBkYXRlZFNpdGVVc2VyQWNjb3VudC5nZXRFbWFpbCgpLCBpcyhhY2NvdW50LmdldEVtYWlsKCkpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAubmFtZShuZXcgTmFtZSgiSmFuZSIsICJEb2UiKSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3573,8 +3566,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgQFRlc3QoZGVwZW5kc09uR3JvdXBzID0geyJpbml0LioifSkKICBwdWJsaWMgdm9pZCB0ZXN0VXBkYXRlRW1haWwoKSB7CiAgICBPYmplY3RJZCB3ZWJzaXRlSWQgPSBuZXcgT2JqZWN0SWQoKTsKICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgYWNjb3VudCA9IGNyZWF0ZVNpdGVVc2VyQWNjb3VudCh3ZWJzaXRlSWQpOwoKICAgIFVwZGF0ZVByb2ZpbGVSZXF1ZXN0IHVwZGF0ZVNpdGVVc2VyQWNjb3VudFJlcXVlc3QgPSBVcGRhdGVTaXRlVXNlckFjY291bnRSZXF1ZXN0LmJ1aWxkZXIoKQogICAgICAgIC5uYW1lKG5ldyBOYW1lKCJKYW5lIiwgIkRvZSIpKQogICAgICAgIC5lbWFpbCgiamFuZWRvZUBleGFtcGxlLmNvbSIpCiAgICAgICAgLmJ1aWxkKCk7CgogICAgVXNlckF1dGhlbnRpY2F0aW9uQXBpUmVzcG9uc2U8U2l0ZVVzZXJBY2NvdW50Vmlldz4gcmVzcG9uc2UgPSBzaXRlVXNlckFjY291bnRDbGllbnQKICAgICAgICAudXBkYXRlKHdlYnNpdGVJZCwgYWNjb3VudC5nZXRJZCgpLCB1cGRhdGVTaXRlVXNlckFjY291bnRSZXF1ZXN0KQogICAgICAgIC5tYXAoVXNlckF1dGhlbnRpY2F0aW9uQXBpUmVzcG9uc2U8U2l0ZVVzZXJBY2NvdW50Vmlldz46Om5ldykKICAgICAgICAub25FcnJvclJlc3VtZU5leHQoVXNlckF1dGhlbnRpY2F0aW9uQ2xpZW50VXRpbHM6OnRvQXBpUmVzcG9uc2UpCiAgICAgICAgLnRvQmxvY2tpbmcoKQogICAgICAgIC5zaW5nbGUoKTsKCiAgICBhc3NlcnRUaGF0KHJlc3BvbnNlLmlzU3VjY2VzcygpLCBpcyh0cnVlKSk7CiAgICBTaXRlVXNlckFjY291bnRWaWV3IHVwZGF0ZWRTaXRlVXNlckFjY291bnQgPSByZXNwb25zZS5nZXRSZXN1bHQoKTsKICAgIGFzc2VydFRoYXQodXBkYXRlZFNpdGVVc2VyQWNjb3VudC5nZXROYW1lKCkuZ2V0Rmlyc3ROYW1lKCksIGlzKHVwZGF0ZWRTaXRlVXNlckFjY291bnQuZ2V0TmFtZSgpLmdldEZpcnN0TmFtZSgpKSk7CiAgICBhc3NlcnRUaGF0KHVwZGF0ZWRTaXRlVXNlckFjY291bnQuZ2V0TmFtZSgpLmdldExhc3ROYW1lKCksIGlzKHVwZGF0ZWRTaXRlVXNlckFjY291bnQuZ2V0TmFtZSgpLmdldExhc3ROYW1lKCkpKTsKICAgIGFzc2VydFRoYXQodXBkYXRlZFNpdGVVc2VyQWNjb3VudC5nZXRFbWFpbCgpLCBpcyh1cGRhdGVkU2l0ZVVzZXJBY2NvdW50LmdldEVtYWlsKCkpKTsKICB9Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3584,9 +3577,9 @@
       </register>
     </registers>
     <search>
-      <last-search>int re</last-search>
+      <last-search>.get</last-search>
       <last-offset />
-      <last-pattern>int re</last-pattern>
+      <last-pattern>.get</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3594,7 +3587,6 @@
     </search>
     <history>
       <history-search>
-        <entry>flow-bin</entry>
         <entry>version</entry>
         <entry>install</entry>
         <entry>'install'</entry>
@@ -3614,6 +3606,7 @@
         <entry>email</entry>
         <entry>code</entry>
         <entry>int re</entry>
+        <entry>.get</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
