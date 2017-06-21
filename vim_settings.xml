@@ -513,7 +513,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497985050696">
+      <file name="/Dummy.txt" timestamp="1498083628170">
         <mark key="'" line="0" column="18" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -780,12 +780,12 @@
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" timestamp="1498068228992">
-        <mark key="'" line="126" column="16" />
-        <mark key="[" line="121" column="34" />
-        <mark key="]" line="121" column="46" />
-        <mark key="^" line="121" column="46" />
-        <mark key="." line="121" column="46" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" timestamp="1498084179445">
+        <mark key="'" line="125" column="16" />
+        <mark key="[" line="48" column="33" />
+        <mark key="]" line="48" column="33" />
+        <mark key="^" line="120" column="46" />
+        <mark key="." line="48" column="33" />
       </file>
       <file name="$USER_HOME$/repos/data-list/src/index.js" timestamp="1493222150234">
         <mark key="[" line="3" column="18" />
@@ -799,7 +799,7 @@
         <mark key="." line="56" column="52" />
         <mark key="^" line="56" column="52" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" timestamp="1498068145906">
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" timestamp="1498084082580">
         <mark key="'" line="269" column="26" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -1660,12 +1660,12 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/main/java/com/squarespace/auth/client/SiteUserAccountClient.java" timestamp="1497996582194">
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/main/java/com/squarespace/auth/client/SiteUserAccountClient.java" timestamp="1498083408394">
         <mark key="'" line="132" column="64" />
-        <mark key="[" line="132" column="54" />
-        <mark key="]" line="132" column="64" />
+        <mark key="[" line="40" column="75" />
+        <mark key="]" line="40" column="75" />
         <mark key="^" line="132" column="64" />
-        <mark key="." line="132" column="64" />
+        <mark key="." line="40" column="75" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountsPanel/components/AutoTriggeredUnsupportedModal/AutoTriggerUnsupportedModal.jsx" timestamp="1481923884975">
         <mark key="[" line="47" column="0" />
@@ -1811,7 +1811,7 @@
         <mark key="^" line="41" column="54" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" timestamp="1498082757140">
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" timestamp="1498083240475">
         <mark key="'" line="162" column="19" />
         <mark key="[" line="182" column="86" />
         <mark key="]" line="182" column="86" />
@@ -2723,7 +2723,7 @@
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2732,7 +2732,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>.get</text>
