@@ -377,6 +377,12 @@
         <mark key="^" line="41" column="24" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/build.gradle" timestamp="1498152750567">
+        <mark key="[" line="28" column="39" />
+        <mark key="]" line="28" column="48" />
+        <mark key="." line="28" column="48" />
+        <mark key="^" line="28" column="48" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/exceptions/ZeroQuantityException.java" timestamp="1493676215891">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="44" />
@@ -514,7 +520,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498139489050">
+      <file name="/Dummy.txt" timestamp="1498153056269">
         <mark key="'" line="0" column="18" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -781,7 +787,7 @@
         <mark key="." line="49" column="30" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" timestamp="1498084179445">
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" timestamp="1498152088581">
         <mark key="'" line="125" column="16" />
         <mark key="[" line="48" column="33" />
         <mark key="]" line="48" column="33" />
@@ -1563,6 +1569,7 @@
         <mark key="." line="70" column="96" />
         <mark key="^" line="70" column="96" />
       </file>
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/app/UserAuthenticationApplication.java" timestamp="1498152468690" />
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/cart/CartShippingOption.java" timestamp="1492637431987">
         <mark key="[" line="28" column="21" />
         <mark key="]" line="28" column="44" />
@@ -1921,7 +1928,7 @@
         <mark key="^" line="102" column="86" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1498066253259">
+      <file name="/fragment.java" timestamp="1498153046287">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="18" />
@@ -2724,7 +2731,7 @@
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>yml</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2733,7 +2740,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>yml</text>
       </register>
       <register name="/" type="4">
         <text>.get</text>
