@@ -463,6 +463,11 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/build.gradle" timestamp="1498156916066">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/ShippingOptionDiscountFlattener.java" timestamp="1487176814204">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="9" column="15" />
@@ -517,7 +522,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498153056269">
+      <file name="/Dummy.txt" timestamp="1498156969457">
         <mark key="'" line="0" column="18" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -610,11 +615,12 @@
         <mark key="." line="16" column="97" />
         <mark key="^" line="16" column="97" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/UserAccountUpdater.java" timestamp="1497989379179">
-        <mark key="[" line="46" column="28" />
-        <mark key="]" line="46" column="51" />
-        <mark key="^" line="46" column="51" />
-        <mark key="." line="46" column="51" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/UserAccountUpdater.java" timestamp="1498157332365">
+        <mark key="'" line="55" column="2" />
+        <mark key="[" line="43" column="26" />
+        <mark key="]" line="43" column="25" />
+        <mark key="^" line="43" column="25" />
+        <mark key="." line="43" column="25" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/shipping/ShippingOptionType.java" timestamp="1484696626716">
         <mark key="[" line="5" column="32" />
@@ -923,10 +929,10 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/build.gradle" timestamp="1496946246419">
-        <mark key="[" line="19" column="74" />
-        <mark key="]" line="19" column="75" />
-        <mark key="." line="19" column="75" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/build.gradle" timestamp="1498157072896">
+        <mark key="[" line="19" column="76" />
+        <mark key="]" line="19" column="76" />
+        <mark key="." line="19" column="76" />
         <mark key="^" line="19" column="75" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/CommerceDiscountResource.java" timestamp="1494601828797">
@@ -1513,7 +1519,8 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/commons/build.gradle" timestamp="1496946844068">
+      <file name="$USER_HOME$/repos/squarespace-v6/commons/build.gradle" timestamp="1498156967900">
+        <mark key="'" line="207" column="12" />
         <mark key="[" line="279" column="45" />
         <mark key="]" line="279" column="45" />
         <mark key="." line="279" column="45" />
@@ -1604,6 +1611,9 @@
         <mark key="]" line="21" column="1" />
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build.gradle" timestamp="1498156946988">
+        <mark key="'" line="129" column="27" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/site-information-billing-tab.js" timestamp="1479329547825">
         <mark key="[" line="6" column="84" />
@@ -1812,8 +1822,8 @@
         <mark key="^" line="41" column="54" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" timestamp="1498154400437">
-        <mark key="'" line="97" column="37" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" timestamp="1498157278319">
+        <mark key="'" line="97" column="17" />
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
@@ -2620,12 +2630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="5" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="36" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="1" column="25" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulpfile.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="23" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
       <jump line="43" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulpfile.js" />
       <jump line="33" column="31" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulpfile.js" />
       <jump line="52" column="44" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
@@ -2717,16 +2721,22 @@
       <jump line="153" column="23" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
       <jump line="162" column="19" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
       <jump line="173" column="15" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
-      <jump line="97" column="37" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
       <jump line="13" column="0" filename="$USER_HOME$/repos/squarespace-v6/.gitignore" />
       <jump line="153" column="2" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build.gradle" />
+      <jump line="144" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build.gradle" />
+      <jump line="129" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/commons/build.gradle" />
+      <jump line="207" column="12" filename="$USER_HOME$/repos/squarespace-v6/commons/build.gradle" />
+      <jump line="55" column="2" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/UserAccountUpdater.java" />
+      <jump line="97" column="17" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAuc2luZ2xlKCk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2735,37 +2745,37 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>updateRequest</text>
       </register>
       <register name="/" type="4">
-        <text>133</text>
+        <text>auth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmdyYWRsZS8KZ3JhZGxldy5iYXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAuc2luZ2xlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBVbmlxdWUgd2Vic2l0ZUlkIHBlciB0ZXN0Lgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBVcGRhdGVTaXRlVXNlckFjY291bnRSZXF1ZXN0LmJ1aWxkZXIoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuZXdQYXNzd29yZCA9ICIxMzM3JHBlYWsiOwo=</text>
+        <text encoding="base64">ICAgICAgICAuYnVpbGQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuZXdQYXNzd29yZCA9ICIxMzM3JHBlYWsxIjsK</text>
+        <text encoding="base64">ICAgICAgICAubmFtZShjcmVhdGVBY2NvdW50TmFtZSh1cGRhdGVSZXF1ZXN0LmdldE5hbWUoKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBVcGRhdGVTaXRlVXNlckFjY291bnRSZXF1ZXN0LmJ1aWxkZXIoKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBncmFkbGUKLmdyYWRsZS8KZ3JhZGxldy5iYXQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3567,10 +3577,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAub25FcnJvclJlc3VtZU5leHQoVXNlckF1dGhlbnRpY2F0aW9uQ2xpZW50VXRpbHM6OnRvQXBpUmVzcG9uc2UpCg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFVwZGF0ZUVtYWlsUmVxdWVzdCBjcmVhdGVVcGRhdGVFbWFpbFJlcXVlc3QoVXBkYXRlVXNlckVtYWlsUmVxdWVzdCByZXF1ZXN0KSB7CiAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAubWFwKFVzZXJBdXRoZW50aWNhdGlvbkFwaVJlc3BvbnNlOjpuZXcpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3580,9 +3590,9 @@
       </register>
     </registers>
     <search>
-      <last-search>133</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>133</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3590,9 +3600,6 @@
     </search>
     <history>
       <history-search>
-        <entry>'install'</entry>
-        <entry>checkNpm</entry>
-        <entry>task</entry>
         <entry>run</entry>
         <entry>exec</entry>
         <entry>cd</entry>
@@ -3610,6 +3617,9 @@
         <entry>.get</entry>
         <entry>gradle</entry>
         <entry>133</entry>
+        <entry>user</entry>
+        <entry>authen</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
