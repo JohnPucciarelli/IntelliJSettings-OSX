@@ -544,12 +544,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/.flowconfig" timestamp="1498229078529">
-        <mark key="'" line="17" column="77" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/.flowconfig" timestamp="1498229855929">
+        <mark key="'" line="16" column="77" />
         <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="39" />
-        <mark key="." line="8" column="39" />
-        <mark key="^" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DIscountNameInput/DiscountNameInput.less" timestamp="1480393649389">
         <mark key="[" line="3" column="3" />
@@ -2751,28 +2750,28 @@
         <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy9zaGFyZWQvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy8qKi9zaGFyZWQK</text>
+        <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy9zaGFyZWQvCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocGFja2FnZXMpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNsYXNzbmFtZXMgZnJvbSAnY2xhcycK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy8qKi9zaGFyZWQK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2cocGFja2FnZXMpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNsYXNzbmFtZXMgZnJvbSAnY2xhcycK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBndWxwLnRhc2soJ2Zsb3c6c3RvcCcsKQo=</text>
+        <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy8qKi9zaGFyZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Li9idWlsZC1zY3JpcHRzL2Zsb3cvZmxvdy10eXBlZAo=</text>
+        <text encoding="base64">ICBndWxwLnRhc2soJ2Zsb3c6c3RvcCcsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYW1lOiB7fSwK</text>
+        <text encoding="base64">Li9idWlsZC1zY3JpcHRzL2Zsb3cvZmxvdy10eXBlZAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3577,7 +3576,7 @@
         <text encoding="base64">ICBuYW1lOiB7fSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuYW1lOiB7fSwK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3593,7 +3592,7 @@
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
