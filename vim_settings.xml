@@ -544,11 +544,11 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/.flowconfig" timestamp="1498229855929">
-        <mark key="'" line="16" column="77" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/.flowconfig" timestamp="1498233508134">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountCreateEditPanel/components/DIscountNameInput/DiscountNameInput.less" timestamp="1480393649389">
         <mark key="[" line="3" column="3" />
@@ -1942,10 +1942,10 @@
         <mark key="." line="75" column="30" />
         <mark key="^" line="75" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" timestamp="1498167386397">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" timestamp="1498232047598">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="19" />
         <mark key="^" line="34" column="32" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountDependencyResolverTest.java" timestamp="1491583884642">
@@ -2626,7 +2626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="39" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulpfile.js" />
       <jump line="63" column="37" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulpfile.js" />
       <jump line="20" column="58" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="70" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulpfile.js" />
@@ -2726,13 +2725,14 @@
       <jump line="9" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
       <jump line="37" column="16" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" />
+      <jump line="15" column="53" filename="$USER_HOME$/repos/squarespace-v6/site-server/.flowconfig" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy9zaGFyZWQvCg==</text>
+        <text encoding="base64">bW9kdWxlLnN5c3RlbS5ub2RlLnJlc29sdmVfZGlybmFtZT1zaGFyZWQK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2741,37 +2741,37 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>dispatchers/</text>
+        <text>node_modules</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text>setState</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy9zaGFyZWQvCg==</text>
+        <text encoding="base64">bW9kdWxlLnN5c3RlbS5ub2RlLnJlc29sdmVfZGlybmFtZT1ub2RlX21vZHVsZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy9zaGFyZWQvCg==</text>
+        <text encoding="base64">bW9kdWxlLnN5c3RlbS5ub2RlLnJlc29sdmVfZGlybmFtZT1zaGFyZWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy8qKi9zaGFyZWQK</text>
+        <text encoding="base64">bW9kdWxlLm5hbWVfbWFwcGVyPSdeXCAoLipcKSQnIC0+ICc8UFJPSkVDVF9ST09UPi9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy8qKi9zaGFyZWQvXDEnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocGFja2FnZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNsYXNzbmFtZXMgZnJvbSAnY2xhcycK</text>
+        <text encoding="base64">bW9kdWxlLm5hbWVfbWFwcGVyID0gJ15cKC4qXCkkJyAtPiAnPFBST0pFQ1RfUk9PVD4vc3JjL21haW4vd2ViYXBwL3VuaXZlcnNhbC9zcmMvc2hhcmVkL1wxJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy8qKi9zaGFyZWQK</text>
+        <text encoding="base64">L1VzZXJzL2pwdWNjaWFyZWxsaS9yZXBvcy9zcXVhcmVzcGFjZS12Ni9zaXRlLXNlcnZlci9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy9zaGFyZWQvZGlzcGF0Y2hlcnMvYWx0LmpzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBndWxwLnRhc2soJ2Zsb3c6c3RvcCcsKQo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Li9idWlsZC1zY3JpcHRzL2Zsb3cvZmxvdy10eXBlZAo=</text>
+        <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy9zaGFyZWQvCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3573,10 +3573,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuYW1lOiB7fSwK</text>
+        <text encoding="base64">Li9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy8qKi9zaGFyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBuYW1lOiB7fSwK</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocGFja2FnZXMpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3586,17 +3586,16 @@
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search>setState</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern>setState</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>run</entry>
         <entry>exec</entry>
         <entry>cd</entry>
         <entry>spawn</entry>
@@ -3616,6 +3615,7 @@
         <entry>user</entry>
         <entry>authen</entry>
         <entry>auth</entry>
+        <entry>setState</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
