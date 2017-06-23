@@ -127,7 +127,7 @@
         <mark key="." line="37" column="26" />
         <mark key="^" line="37" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" timestamp="1498244936650">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" timestamp="1498245492815">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
@@ -525,7 +525,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498239817291">
+      <file name="/Dummy.txt" timestamp="1498246238946">
         <mark key="'" line="0" column="18" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1982,12 +1982,12 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" timestamp="1498244789817">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="17" column="16" />
-        <mark key="]" line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="23" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" timestamp="1498246333592">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="31" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/criteria/ProductCriteriaTest.java" timestamp="1492547946021">
         <mark key="[" line="32" column="20" />
@@ -2742,7 +2742,7 @@
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>interface</text>
+        <text>object</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2751,7 +2751,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>interface</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text>MomentDura</text>
@@ -2760,28 +2760,28 @@
         <text encoding="base64">CiAgZGVjbGFyZSBpbnRlcmZhY2UgQWx0U3RvcmUgewogICAgYmluZEFjdGlvbnModmFsdWU6IG9iamVjdCk6IHZvaWQ7CiAgICBzZXRTdGF0ZSh2YWx1ZTogb2JqZWN0KTogdm9pZDsKICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAicGx1Z2lucyI6IFsK</text>
+        <text encoding="base64">ICBzdGF0ZSA9IHt9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJmbG93dHlwZSIK</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUgeyBBbHRTdG9yZSB9IGZyb20gJ2Rpc3BhdGNoZXJzL0FsdCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUgQWx0U3RvcmUgZnJvbSAnZGlzcGF0Y2hlcnMvQWx0JzsK</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUgQWx0U3RvcmUgZnJvbSAnZGlzcGF0Y2hlcnMvQWx0JzsK</text>
+        <text encoding="base64">ICAicGx1Z2lucyI6IFsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgc3RvcmU7Cg==</text>
+        <text encoding="base64">ICAgICJmbG93dHlwZSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUgQWx0U3RvcmUgZnJvbSAnZGlzcGF0Y2hlcnMvQWx0JzsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3583,10 +3583,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUgQWx0U3RvcmUgZnJvbSAnZGlzcGF0Y2hlcnMvQWx0JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldFN0YXRlKHZhbHVlOiBvYmplY3QpOiB2b2lkOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgc3RvcmU7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
