@@ -2575,12 +2575,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulp-tasks.js" timestamp="1498167015323">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/gulp-tasks.js" timestamp="1498239037959">
         <mark key="'" line="66" column="0" />
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="53" column="28" />
-        <mark key="." line="53" column="28" />
-        <mark key="^" line="53" column="28" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="26" column="62" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/test/definition/DiscountDefinition.java" timestamp="1491946303609">
         <mark key="[" line="133" column="16" />
@@ -2725,8 +2725,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2750,22 +2750,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmVtb2ppPXRydWUKZXhwZXJpbWVudGFsLmNvbnN0X3BhcmFtcz10cnVlCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBkZWwoRkxPV19UWVBFRF9ESVIsIGNiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiByZW1vdmVGbG93VHlwZWREaXJlY3RvcnkoY2IpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW1vamk9dHJ1ZQpleHBlcmltZW50YWwuY29uc3RfcGFyYW1zPXRydWUKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW9kdWxlLnN5c3RlbS5ub2RlLnJlc29sdmVfZGlybmFtZT1zaGFyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bW9kdWxlLm5hbWVfbWFwcGVyPSdeXCAoLipcKSQnIC0+ICc8UFJPSkVDVF9ST09UPi9zcmMvbWFpbi93ZWJhcHAvdW5pdmVyc2FsL3NyYy8qKi9zaGFyZWQvXDEnCg==</text>
+        <text encoding="base64">CmVtb2ppPXRydWUKZXhwZXJpbWVudGFsLmNvbnN0X3BhcmFtcz10cnVlCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3570,7 +3570,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlLm5hbWVfbWFwcGVyID0gJ15cKC4qXCkkJyAtPiAnPFBST0pFQ1RfUk9PVD4vc3JjL21haW4vd2ViYXBwL3VuaXZlcnNhbC9zcmMvc2hhcmVkL1wxJwo=</text>
+        <text encoding="base64">ZW1vamk9dHJ1ZQpleHBlcmltZW50YWwuY29uc3RfcGFyYW1zPXRydWUKCg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
