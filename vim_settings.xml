@@ -127,11 +127,11 @@
         <mark key="." line="37" column="26" />
         <mark key="^" line="37" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" timestamp="1498242319497">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="8" column="2" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" timestamp="1498243428202">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/repos/infinite-scroll/package.json" timestamp="1496256719369">
         <mark key="'" line="23" column="5" />
@@ -1292,11 +1292,10 @@
         <mark key="^" line="47" column="79" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/.eslintrc" timestamp="1498242559977">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/.eslintrc" timestamp="1498243476594">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/DiscountEventRecorder.java" timestamp="1491319583439">
         <mark key="[" line="18" column="60" />
@@ -1983,11 +1982,12 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" timestamp="1498242323297">
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="94" column="20" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" timestamp="1498243503039">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/criteria/ProductCriteriaTest.java" timestamp="1492547946021">
         <mark key="[" line="32" column="20" />
@@ -2636,7 +2636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/components/Panel/Input.jsx" />
       <jump line="26" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/components/Panel/Input.jsx" />
       <jump line="25" column="3" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/components/Panel/Input.jsx" />
       <jump line="10" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/components/Panel/Field.jsx" />
@@ -2736,13 +2735,14 @@
       <jump line="97" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/moment_v2.x.x.js" />
       <jump line="98" column="32" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/moment_v2.x.x.js" />
       <jump line="88" column="23" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgZGVjbGFyZSBpbnRlcmZhY2UgQWx0U3RvcmUgewogICAgYmluZEFjdGlvbnModmFsdWU6IG9iamVjdCk6IHZvaWQ7CiAgICBzZXRTdGF0ZSh2YWx1ZTogb2JqZWN0KTogdm9pZDsKICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2751,7 +2751,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>MomentDura</text>
@@ -2760,28 +2760,28 @@
         <text encoding="base64">CiAgZGVjbGFyZSBpbnRlcmZhY2UgQWx0U3RvcmUgewogICAgYmluZEFjdGlvbnModmFsdWU6IG9iamVjdCk6IHZvaWQ7CiAgICBzZXRTdGF0ZSh2YWx1ZTogb2JqZWN0KTogdm9pZDsKICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHM6IEFsdFN0b3JlID0gYWx0LmNyZWF0ZVN0b3JlKEluZm9TdG9yZSwgJ0luZm9TdG9yZScpOwo=</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICh0aGlzOiBBbHRTdG9yZSkK</text>
+        <text encoding="base64">ICAicGx1Z2lucyI6IFsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBvYmplY3Q7Cg==</text>
+        <text encoding="base64">ICAgICJmbG93dHlwZSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRlOiBvYmplY3Q7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUgQWx0U3RvcmUgZnJvbSAnZGlzcGF0Y2hlcnMvQWx0JzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNyZWF0ZVN0b3JlKHZhbHVlOiBvYmplY3QsIG5hbWU/OiBzdHJpbmcpOiBBbHRTdG9yZTsK</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUgQWx0U3RvcmUgZnJvbSAnZGlzcGF0Y2hlcnMvQWx0JzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgc3RvcmU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIG1vZHVsZS5leHBvcnRzOiBBbHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3583,10 +3583,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVjbGFyZSBtb2R1bGUgJ2FsdCcgewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVjbGFyZSBtb2R1bGUgJ2FsdCcgewo=</text>
+        <text encoding="base64">ICAgIHNldFN0YXRlKHZhbHVlOiBvYmplY3QpOiB2b2lkOwo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3602,7 +3602,7 @@
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
