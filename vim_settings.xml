@@ -127,11 +127,11 @@
         <mark key="." line="37" column="26" />
         <mark key="^" line="37" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" timestamp="1498243428202">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="13" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" timestamp="1498244936650">
+        <mark key="[" line="3" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repos/infinite-scroll/package.json" timestamp="1496256719369">
         <mark key="'" line="23" column="5" />
@@ -1982,12 +1982,12 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" timestamp="1498243503039">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" timestamp="1498244789817">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-        <mark key="." line="2" column="22" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="23" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/criteria/ProductCriteriaTest.java" timestamp="1492547946021">
         <mark key="[" line="32" column="20" />
@@ -2741,8 +2741,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBdLAo=</text>
+      <register name="&quot;" type="4">
+        <text>interface</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2751,7 +2751,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>interface</text>
       </register>
       <register name="/" type="4">
         <text>MomentDura</text>
