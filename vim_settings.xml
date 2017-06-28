@@ -133,12 +133,12 @@
         <mark key="." line="37" column="26" />
         <mark key="^" line="37" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" timestamp="1498507357034">
-        <mark key="'" line="166" column="16" />
-        <mark key="[" line="153" column="35" />
-        <mark key="]" line="154" column="1" />
-        <mark key="^" line="154" column="1" />
-        <mark key="." line="154" column="1" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" timestamp="1498680635760">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="182" column="16" />
+        <mark key="]" line="182" column="27" />
+        <mark key="." line="182" column="27" />
+        <mark key="^" line="182" column="27" />
       </file>
       <file name="$USER_HOME$/repos/infinite-scroll/package.json" timestamp="1496256719369">
         <mark key="'" line="23" column="5" />
@@ -395,11 +395,11 @@
         <mark key="." line="28" column="48" />
         <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt/StoreDefinition.js" timestamp="1498514114354">
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-        <mark key="^" line="4" column="22" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt/StoreDefinition.js" timestamp="1498680145037">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+        <mark key="^" line="0" column="37" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/commons/src/main/java/com/squarespace/business/commerce/exceptions/ZeroQuantityException.java" timestamp="1493676215891">
         <mark key="[" line="4" column="31" />
@@ -557,7 +557,8 @@
         <mark key="." line="0" column="38" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/package.json" timestamp="1497547379449">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/package.json" timestamp="1498679501598">
+        <mark key="'" line="57" column="7" />
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
@@ -1183,6 +1184,12 @@
         <mark key="]" line="56" column="25" />
         <mark key="." line="56" column="25" />
         <mark key="^" line="56" column="25" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/.eslintrc" timestamp="1498681100796">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" timestamp="1491945368621">
         <mark key="[" line="237" column="74" />
@@ -2001,12 +2008,12 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" timestamp="1498514651099">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" timestamp="1498679366228">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="5" column="54" />
+        <mark key="]" line="5" column="53" />
+        <mark key="." line="5" column="53" />
+        <mark key="^" line="5" column="53" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/criteria/ProductCriteriaTest.java" timestamp="1492547946021">
         <mark key="[" line="32" column="20" />
@@ -2655,13 +2662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="11" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="290" column="14" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="291" column="14" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="30" column="9" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/components/Panel/Field.jsx" />
-      <jump line="63" column="53" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/siteuser/account/AccountProfileResource.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/UpdateUserAccountRequest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/UpdateUserAccountRequest.java" />
       <jump line="99" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/UpdateUserAccountRequest.java" />
       <jump line="149" column="15" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/siteuser/account/AccountProfileResource.java" />
       <jump line="140" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/siteuser/account/AccountProfileResource.java" />
@@ -2755,13 +2755,20 @@
       <jump line="168" column="28" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
       <jump line="160" column="45" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
       <jump line="164" column="16" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
+      <jump line="26" column="35" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
+      <jump line="57" column="7" filename="$USER_HOME$/repos/squarespace-v6/site-server/package.json" />
+      <jump line="104" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
+      <jump line="117" column="40" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
+      <jump line="135" column="34" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
+      <jump line="136" column="26" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBkZWNsYXJlIG1vZHVsZS5leHBvcnRzOiB0eXBlb2YgYWx0Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2770,37 +2777,37 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>var storeModel AltJS.StoreModel;</text>
       </register>
       <register name="/" type="4">
-        <text>react</text>
+        <text>StoreModel</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CmRlY2xhcmUgbW9kdWxlICdhbHQnIHsKICBkZWNsYXJlIHZhciBhbHQ6IEFsdEpTLkFsdEZhY3Rvcnk7CiAgZGVjbGFyZSBtb2R1bGUuZXhwb3J0czogdHlwZW9mIGFsdAp9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgYWx0ID0gcmVxdWlyZSgnZGlzcGF0Y2hlcnMvYWx0Jyk7Cg==</text>
+        <text encoding="base64">ICBkZWNsYXJlIG1vZHVsZS5leHBvcnRzOiB0eXBlb2YgYWx0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmRlY2xhcmUgY2xhc3MgQWx0U3RvcmUgewogIGJpbmRBY3Rpb25zKHZhbHVlOiBhbnkpOiB2b2lkOwogIHNldFN0YXRlKHZhbHVlOiBhbnkpOiB2b2lkOwogIGV4cG9ydFB1YmxpY01ldGhvZHModmFsdWU6IGFueSk6IHZvaWQ7CiAgd2FpdEZvcih2YWx1ZTogc3RyaW5nKTogdm9pZAp9Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkZWNsYXJlIHZhciBhbHQ6IEFsdEpTLkFsdEZhY3Rvcnk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZXRTdGF0ZTogKCkgPT4gVDsK</text>
+        <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgU3RvcmVEZWZpbml0aW9uPFM+IGltcGxlbWVudHMgQWx0SlMuU3RvcmVNb2RlbDxUPiB7Cg==</text>
+        <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCB0eXBlb2YgYWx0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgU3RvcmVEZWZpbml0aW9uPFQ+IGltcGxlbWVudHMgQWx0SlMuU3RvcmVNb2RlbDxUPiB7Cg==</text>
+        <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCBTdG9yZU1vZGVsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUgeyBTdG9yZU1vZGVsIH0gZnJvbSAnZGlzcGF0Y2hlcnMvYWx0JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICBkZWNsYXJlIG1vZHUK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3602,10 +3609,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBhbHQ7Cg==</text>
+        <text encoding="base64">Y29uc3QgQm9vdHN0cmFwQWN0aW9ucyA9IHJlcXVpcmUoJ2FjdGlvbnMvQm9vdHN0cmFwQWN0aW9ucycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgQWx0ID0gcmVxdWlyZSgnYWx0Jyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgVXNlclByb2ZpbGVTdG9yZSA9IHJlcXVpcmUoJ3N0b3Jlcy9Vc2VyUHJvZmlsZVN0b3JlJyk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3615,9 +3622,9 @@
       </register>
     </registers>
     <search>
-      <last-search>react</last-search>
+      <last-search>StoreModel</last-search>
       <last-offset />
-      <last-pattern>react</last-pattern>
+      <last-pattern>StoreModel</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3625,8 +3632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>phoneN</entry>
-        <entry>fin</entry>
         <entry>email</entry>
         <entry>code</entry>
         <entry>int re</entry>
@@ -3645,6 +3650,8 @@
         <entry>new</entry>
         <entry>store</entry>
         <entry>react</entry>
+        <entry>lint</entry>
+        <entry>StoreModel</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
