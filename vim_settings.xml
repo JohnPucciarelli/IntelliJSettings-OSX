@@ -1023,12 +1023,12 @@
         <mark key="." line="35" column="6" />
         <mark key="^" line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt/Actions.js" timestamp="1498846670895">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt/Actions.js" timestamp="1499272817618">
         <mark key="'" line="5" column="23" />
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="27" />
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/repos/infinite-scroll/.eslintrc" timestamp="1496159715818">
         <mark key="[" line="2" column="27" />
@@ -2147,11 +2147,11 @@
         <mark key="." line="61" column="93" />
         <mark key="^" line="61" column="93" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1498846777603">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1499272714284">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/doSearch.js" timestamp="1489083679734">
         <mark key="[" line="16" column="17" />
@@ -2333,12 +2333,12 @@
         <mark key="^" line="291" column="149" />
         <mark key="." line="291" column="149" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" timestamp="1498775016355">
-        <mark key="'" line="83" column="27" />
-        <mark key="[" line="176" column="24" />
-        <mark key="]" line="176" column="34" />
-        <mark key="^" line="176" column="34" />
-        <mark key="." line="176" column="34" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" timestamp="1499272810634">
+        <mark key="'" line="174" column="21" />
+        <mark key="[" line="174" column="27" />
+        <mark key="]" line="174" column="27" />
+        <mark key="^" line="174" column="27" />
+        <mark key="." line="174" column="27" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRule.java" timestamp="1488496174684">
         <mark key="[" line="6" column="0" />
@@ -2763,11 +2763,9 @@
       <jump line="171" column="17" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
       <jump line="61" column="18" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" />
-      <jump line="174" column="47" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="14" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="175" column="13" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="22" column="37" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
-      <jump line="176" column="34" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="3" column="16" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="32" column="19" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="38" column="14" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
@@ -2778,6 +2776,8 @@
       <jump line="60" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="83" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="5" column="23" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt/Actions.js" />
+      <jump line="176" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="174" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2796,7 +2796,7 @@
         <text>AbstractActions</text>
       </register>
       <register name="/" type="4">
-        <text>Alt</text>
+        <text>ActionClass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCB2YXIgU3RvcmVNb2RlbDogQWx0SlMuU3RvcmVNb2RlbDsK</text>
@@ -3638,9 +3638,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Alt</last-search>
+      <last-search>ActionClass</last-search>
       <last-offset />
-      <last-pattern>Alt</last-pattern>
+      <last-pattern>ActionClass</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3648,8 +3648,6 @@
     </search>
     <history>
       <history-search>
-        <entry>int re</entry>
-        <entry>.get</entry>
         <entry>gradle</entry>
         <entry>133</entry>
         <entry>user</entry>
@@ -3668,6 +3666,8 @@
         <entry>StoreModel</entry>
         <entry>Actions</entry>
         <entry>Alt</entry>
+        <entry>actionclass</entry>
+        <entry>ActionClass</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
