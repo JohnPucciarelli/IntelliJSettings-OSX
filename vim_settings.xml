@@ -1023,11 +1023,12 @@
         <mark key="." line="35" column="6" />
         <mark key="^" line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt/Actions.js" timestamp="1498775097929">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt/Actions.js" timestamp="1498846670895">
+        <mark key="'" line="5" column="23" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="$USER_HOME$/repos/infinite-scroll/.eslintrc" timestamp="1496159715818">
         <mark key="[" line="2" column="27" />
@@ -2146,11 +2147,11 @@
         <mark key="." line="61" column="93" />
         <mark key="^" line="61" column="93" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1498164787156">
-        <mark key="[" line="10" column="7" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="10" column="13" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1498846777603">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="5" column="11" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/doSearch.js" timestamp="1489083679734">
         <mark key="[" line="16" column="17" />
@@ -2677,7 +2678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/node_modules/@sqs/infinite-scroll/src/DataList/DataList.jsx" />
       <jump line="42" column="29" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/node_modules/@sqs/infinite-scroll/src/DataList/DataList.jsx" />
       <jump line="123" column="73" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/siteuser/account/AccountProfileResource.java" />
       <jump line="134" column="51" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/siteuser/account/AccountProfileResource.java" />
@@ -2777,13 +2777,14 @@
       <jump line="58" column="25" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="60" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="83" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="5" column="23" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt/Actions.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgYWx0ID0gcmVxdWlyZSgnZGlzcGF0Y2hlcnMvYWx0Jyk7Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2792,7 +2793,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>AbstractActions</text>
       </register>
       <register name="/" type="4">
         <text>Alt</text>
@@ -2801,28 +2802,28 @@
         <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCB2YXIgU3RvcmVNb2RlbDogQWx0SlMuU3RvcmVNb2RlbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCB2YXIgOiBBbHRKUy5TdG9yZU1vZGVsOwo=</text>
+        <text encoding="base64">Y29uc3QgYWx0ID0gcmVxdWlyZSgnZGlzcGF0Y2hlcnMvYWx0Jyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCB2YXIgOiBBbHRKUy5TdG9yZU1vZGVsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JzCg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaXNFcnJvcnM6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgZXJyb3JzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXNCdXN5OiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgaXNFcnJvcnM6IHRydWUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
+        <text encoding="base64">ICAgICAgaXNCdXN5OiBmYWxzZSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3624,10 +3625,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaXNFcnJvcnM6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXNCdXN5OiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgaXNFcnJvcnM6IHRydWUsCg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
