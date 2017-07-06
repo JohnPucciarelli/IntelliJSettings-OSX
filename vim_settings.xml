@@ -1979,12 +1979,11 @@
         <mark key="." line="75" column="30" />
         <mark key="^" line="75" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" timestamp="1499283080294">
-        <mark key="'" line="37" column="10" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="18" column="10" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" timestamp="1499354204999">
+        <mark key="'" line="32" column="33" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountDependencyResolverTest.java" timestamp="1491583884642">
         <mark key="[" line="194" column="1" />
@@ -2678,7 +2677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="51" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/siteuser/account/AccountProfileResource.java" />
       <jump line="62" column="42" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/UpdateUserEmailRequest.java" />
       <jump line="24" column="12" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/UpdateUserEmailRequest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/UpdateUserEmailRequest.java" />
@@ -2778,6 +2776,7 @@
       <jump line="174" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="24" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/AddressEditorActions.js" />
       <jump line="37" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" />
+      <jump line="31" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2793,7 +2792,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ActionClass</text>
@@ -2808,22 +2807,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">SW5mb0FjdGlvbnMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgdkluZm9BY3Rpb25zIGZyb20gJy4uLy4uLy4uLy4uLy4uL3NoYXJlZC91dGlscy9CaWxsaW5nU3Vic2NyaXB0aW9uc0FQSSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgUHJvZmlsZUFjdGlvbnMgPSByZXF1aXJlKCdhY3Rpb25zL1Byb2ZpbGVBY3Rpb25zJzsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgUHJvZmlsZUFjdGlvbnMgPSByZXF1aXJlKCdhY3Rpb25zL1Byb2ZpbGVBY3Rpb25zJyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIGhhbmRsZUNoYW5nZSh2YWx1ZSkgewogIHJldHVybiBJbmZvQWN0aW9ucy51cGRhdGUoeyBbZmllbGRdOiB2YWx1ZSB9KQogICAgLnRoZW4oUHJvZmlsZUFjdGlvbnMubG9hZCkKICAgIC50aGVuKHRoaXMuY3JlYXRlU3VjY2VzcykKICAgIC5jYXRjaCgoZXJyb3IpID0+IHsKICAgICAgdGhpcy5jcmVhdGVGYWlsdXJlKGVycm9yLmRhdGEpOwogICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoZXJyb3IuZGF0YSk7CiAgICB9KTsKfQoK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gYmluZEhhbgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3625,10 +3624,15 @@
         </keys>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgZnVuY3Rpb24gaGFuZGxlQ2hhbmdlKHZhbHVlKSB7CiAgICBJbmZvQWN0aW9ucy51cGRhdGUoeyBbZmllbGRdOiB2YWx1ZSB9KQogIH0K</text>
+        <text>function bindField(field) {
+  return {
+    value: props[field],
+    onChange: handleChange
+  };
+}</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IAogIGZ1bmN0aW9uIGhhbmRsZUNoYW5nZSgpIHsKICAgIAogIH0K</text>
+        <text encoding="base64">CnR5cGUgUHJvcHMgPSB7CiAgZmlyc3ROYW1lOiBzdHJpbmcsCiAgbGFzdE5hbWU6IHN0cmluZywKICBlbWFpbDogc3RyaW5nCn07Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3688,8 +3692,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>@</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
