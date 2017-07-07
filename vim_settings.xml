@@ -2322,8 +2322,8 @@
         <mark key="^" line="291" column="149" />
         <mark key="." line="291" column="149" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" timestamp="1499452711744">
-        <mark key="'" line="51" column="25" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" timestamp="1499454669835">
+        <mark key="'" line="183" column="4" />
         <mark key="[" line="141" column="22" />
         <mark key="]" line="141" column="24" />
         <mark key="." line="141" column="24" />
@@ -2681,7 +2681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="22" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
       <jump line="163" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
       <jump line="22" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
       <jump line="24" column="30" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
@@ -2750,7 +2749,6 @@
       <jump line="101" column="30" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="110" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="14" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
-      <jump line="183" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="61" column="52" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="67" column="31" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
@@ -2781,6 +2779,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="51" column="25" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="36" column="30" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt.js" />
+      <jump line="185" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="183" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2799,7 +2799,7 @@
         <text>apply</text>
       </register>
       <register name="/" type="4">
-        <text>ActionsClass</text>
+        <text>createActions</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRpc3BhdGNoKHBheWxvYWQ6IFRQYXlsb2FkKTogdm9pZDsK</text>
@@ -3641,9 +3641,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ActionsClass</last-search>
+      <last-search>createActions</last-search>
       <last-offset />
-      <last-pattern>ActionsClass</last-pattern>
+      <last-pattern>createActions</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3651,7 +3651,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Source</entry>
         <entry>AltContainer</entry>
         <entry>new</entry>
         <entry>store</entry>
@@ -3671,6 +3670,7 @@
         <entry>Store</entry>
         <entry>dispatch</entry>
         <entry>ActionsClass</entry>
+        <entry>createActions</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
