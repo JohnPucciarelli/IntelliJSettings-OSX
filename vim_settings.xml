@@ -440,11 +440,12 @@
         <mark key="." line="49" column="9" />
         <mark key="^" line="45" column="159" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt.js" timestamp="1498513394009">
-        <mark key="[" line="48" column="1" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt.js" timestamp="1499380680181">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="55" column="34" />
+        <mark key="]" line="55" column="35" />
+        <mark key="." line="55" column="35" />
+        <mark key="^" line="55" column="35" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/upsell/upsell-confirmation.js" timestamp="1490649056821">
         <mark key="[" line="42" column="0" />
@@ -542,7 +543,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499375778209">
+      <file name="/Dummy.txt" timestamp="1499380933936">
         <mark key="'" line="0" column="18" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -911,6 +912,11 @@
         <mark key="]" line="25" column="39" />
         <mark key="^" line="41" column="24" />
         <mark key="." line="25" column="39" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/globals.js" timestamp="1499381129231">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/App/screens/Commerce/screens/Discounts/screens/DiscountPanel/components/ShippingOptionLimitPicker/Select.jsx.js" timestamp="1492117576513">
         <mark key="[" line="4" column="23" />
@@ -2003,6 +2009,12 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" timestamp="1499380064999">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/criteria/ProductCriteriaTest.java" timestamp="1492547946021">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="32" column="5" />
@@ -2122,6 +2134,12 @@
         <mark key="]" line="61" column="93" />
         <mark key="." line="61" column="93" />
         <mark key="^" line="61" column="93" />
+      </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1499381659762">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/doSearch.js" timestamp="1489083679734">
         <mark key="[" line="16" column="17" />
@@ -2304,12 +2322,12 @@
         <mark key="^" line="291" column="149" />
         <mark key="." line="291" column="149" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" timestamp="1499376899290">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="30" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" timestamp="1499381414958">
+        <mark key="'" line="20" column="20" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="121" column="31" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRule.java" timestamp="1488496174684">
         <mark key="[" line="6" column="0" />
@@ -2663,27 +2681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build.gradle" />
-      <jump line="144" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build.gradle" />
-      <jump line="129" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/commons/build.gradle" />
-      <jump line="207" column="12" filename="$USER_HOME$/repos/squarespace-v6/commons/build.gradle" />
-      <jump line="55" column="2" filename="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/siteuser/account/UserAccountUpdater.java" />
-      <jump line="97" column="17" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" />
-      <jump line="50" column="36" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" />
-      <jump line="9" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/gulp/index.js" />
-      <jump line="37" column="16" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed-install.js" />
-      <jump line="15" column="53" filename="$USER_HOME$/repos/squarespace-v6/site-server/.flowconfig" />
-      <jump line="23" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
-      <jump line="123" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
-      <jump line="174" column="23" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/moment_v2.x.x.js" />
-      <jump line="59" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/moment_v2.x.x.js" />
-      <jump line="104" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/moment_v2.x.x.js" />
-      <jump line="242" column="26" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/moment_v2.x.x.js" />
-      <jump line="69" column="8" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/moment_v2.x.x.js" />
-      <jump line="184" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/moment_v2.x.x.js" />
       <jump line="185" column="32" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/moment_v2.x.x.js" />
       <jump line="235" column="70" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/moment_v2.x.x.js" />
       <jump line="81" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/moment_v2.x.x.js" />
@@ -2736,19 +2733,16 @@
       <jump line="83" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="5" column="23" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt/Actions.js" />
       <jump line="176" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
-      <jump line="174" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="24" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/AddressEditorActions.js" />
       <jump line="37" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" />
       <jump line="31" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" />
       <jump line="46" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/shared/router/actions/RouterActions.js" />
       <jump line="136" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="77" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
-      <jump line="24" column="14" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="23" column="14" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="137" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="59" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="53" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
-      <jump line="110" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="145" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="88" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="130" column="60" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
@@ -2757,19 +2751,43 @@
       <jump line="26" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="142" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="140" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="18" column="45" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="139" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="141" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="65" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="127" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="101" column="30" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="110" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="178" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="183" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="25" column="37" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="51" column="22" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="61" column="52" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="67" column="31" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="75" column="22" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="95" column="30" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="2" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt.js" />
+      <jump line="125" column="63" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="135" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="150" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="154" column="32" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="170" column="55" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="172" column="60" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="174" column="31" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="20" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>alt</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2778,37 +2796,37 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>alt</text>
       </register>
       <register name="/" type="4">
-        <text>actionHandler</text>
+        <text>Store</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCB2YXIgQWN0aW9uc0NsYXNzOiB0eXBlb2YgQWN0aW9uc0NsYXNzOwogIGRlY2xhcmUgZXhwb3J0IHZhciBTdG9yZU1vZGVsOiB0eXBlb2YgU3RvcmVNb2RlbDsK</text>
+        <text encoding="base64">ZGVjbGFyZSB2YXIgX19ERVZfXzogYm9vbGVhbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1cGVyKGFsdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCBkZWZhdWx0IHR5cGVvZiBTdG9yZVJlZHVjZTsK</text>
+        <text encoding="base64">ICBkZWNsYXJlIHR5cGUgQWN0aW9uc0NsYXNzQ29uc3RydWN0b3IgPSAoYWx0OiBBbHQpID0+IEFjdGlvbnNDbGFzczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCBTdG9yZU1vZGVsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCBjbGFzcyBTdG9yZU1vZGVsOiBTdG9yZU1vZGVsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCBpbnRlcmZhY2UgQWx0Q29uZmlnOwo=</text>
+        <text encoding="base64">ZGVjbGFyZSB2YXIgX19MT0NBTEVfXzogYm9vbGVhbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIGV4cG9ydCBmdW5jdGlvbiBteUZ1bmM7Cg==</text>
+        <text encoding="base64">ZGVjbGFyZSB2YXIgX19MT0NBTEVfXzogYm9vbGVhbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIGZ1bmN0aW9uIG15RnVuYyhhOiBhbnkpIHZvaWQ6Cg==</text>
+        <text encoding="base64">ZXhwb3J0IFN0b3JlTW9kZWw7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3610,10 +3628,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIHR5cGUgQWN0aW9uTGlzdGVuZXIgPSB7IFttZXRob2ROYW1lOiBzdHJpbmddOiBBY3Rpb248YW55PiB8IEFjdGlvbnMgfTsKCg==</text>
+        <text encoding="base64">ZXhwb3J0IHsgU3RvcmVNb2RlbCB9IGZyb20gJycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIHR5cGUgQWN0aW9uSGFuZGxlciA9ICguLi5kYXRhOiBBcnJheTxhbnk+KSA9PiBhbnk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3623,9 +3641,9 @@
       </register>
     </registers>
     <search>
-      <last-search>actionHandler</last-search>
+      <last-search>Store</last-search>
       <last-offset />
-      <last-pattern>actionHandler</last-pattern>
+      <last-pattern>Store</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3633,9 +3651,6 @@
     </search>
     <history>
       <history-search>
-        <entry>auth</entry>
-        <entry>setState</entry>
-        <entry>Class</entry>
         <entry>MomentDura</entry>
         <entry>promise</entry>
         <entry>Source</entry>
@@ -3653,6 +3668,9 @@
         <entry>lifecycle</entry>
         <entry>export</entry>
         <entry>actionHandler</entry>
+        <entry encoding="base64">XDw7XD4=</entry>
+        <entry encoding="base64">XDxkZWZlclw+</entry>
+        <entry>Store</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
