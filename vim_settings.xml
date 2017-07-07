@@ -2009,11 +2009,11 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" timestamp="1499449864014">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="33" />
-        <mark key="." line="27" column="33" />
-        <mark key="^" line="27" column="33" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/stores/InfoStore.js" timestamp="1499457307883">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="14" column="11" />
+        <mark key="." line="14" column="11" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/criteria/ProductCriteriaTest.java" timestamp="1492547946021">
         <mark key="[" line="32" column="20" />
@@ -2322,12 +2322,12 @@
         <mark key="^" line="291" column="149" />
         <mark key="." line="291" column="149" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" timestamp="1499454669835">
-        <mark key="'" line="183" column="4" />
-        <mark key="[" line="141" column="22" />
-        <mark key="]" line="141" column="24" />
-        <mark key="." line="141" column="24" />
-        <mark key="^" line="141" column="24" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" timestamp="1499457403987">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="185" column="21" />
+        <mark key="]" line="185" column="42" />
+        <mark key="^" line="185" column="42" />
+        <mark key="." line="185" column="42" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRule.java" timestamp="1488496174684">
         <mark key="[" line="6" column="0" />
@@ -2681,9 +2681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
-      <jump line="22" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
-      <jump line="24" column="30" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
       <jump line="175" column="14" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
       <jump line="174" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
       <jump line="141" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/flow-typed/npm/alt_vx.x.x.js" />
@@ -2735,7 +2732,6 @@
       <jump line="88" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="130" column="60" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="131" column="60" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
-      <jump line="22" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="26" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="142" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="140" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
@@ -2771,7 +2767,6 @@
       <jump line="33" column="23" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="31" column="19" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="29" column="53" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
-      <jump line="27" column="20" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="25" column="15" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="178" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="164" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
@@ -2779,15 +2774,20 @@
       <jump line="30" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="51" column="25" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="36" column="30" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt.js" />
-      <jump line="185" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="183" column="4" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="27" column="11" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="185" column="18" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="193" column="63" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="37" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="102" column="50" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
+      <jump line="22" column="13" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2796,10 +2796,10 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>apply</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
-        <text>createActions</text>
+        <text>setState</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRpc3BhdGNoKHBheWxvYWQ6IFRQYXlsb2FkKTogdm9pZDsK</text>
@@ -2811,22 +2811,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICRGbG93Rml4TWU6IHVuc2FmZSBkZXYgb25seSBvcGVyYXRpb24K</text>
+        <text encoding="base64">ICAgIC8vIHNldFN0YXRlKHN0YXRlOiBPYmplY3QpOiB2b2lkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldFN0YXRlKHN0YXRlRm46IChjdXJyZW50U3RhdGU6IFMsIG5leHRTdGF0ZTogUykgPT4gUyk6IHZvaWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmYWlsdXJlKCk6IHZvaWQ7Cg==</text>
+        <text encoding="base64">ICAgIHNldFN0YXRlKHN0YXRlOiBPYmplY3QpOiB2b2lkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdWNjZXNzKCk6IHZvaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzYXZlKCk6IHZvaWQ7Cg==</text>
+        <text encoding="base64">ICAgIHNldFN0YXRlKHN0YXRlOiBTKTogdm9pZDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3628,10 +3628,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB1cGRhdGUoKTogdm9pZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXNldCgpOiB2b2lkOwo=</text>
+        <text encoding="base64">ICAgIHNldFN0YXRlKHN0YXRlOiBPYmplY3QpOiB2b2lkOwo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3641,9 +3641,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createActions</last-search>
+      <last-search>setState</last-search>
       <last-offset />
-      <last-pattern>createActions</last-pattern>
+      <last-pattern>setState</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3651,12 +3651,9 @@
     </search>
     <history>
       <history-search>
-        <entry>AltContainer</entry>
-        <entry>new</entry>
         <entry>store</entry>
         <entry>react</entry>
         <entry>lint</entry>
-        <entry>StoreModel</entry>
         <entry>Actions</entry>
         <entry>Alt</entry>
         <entry>actionclass</entry>
@@ -3671,6 +3668,9 @@
         <entry>dispatch</entry>
         <entry>ActionsClass</entry>
         <entry>createActions</entry>
+        <entry>StoreModel</entry>
+        <entry>boolean</entry>
+        <entry>setState</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
