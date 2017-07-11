@@ -1177,11 +1177,6 @@
         <mark key="." line="56" column="25" />
         <mark key="^" line="56" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/.eslintrc" timestamp="1499719778624">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/template/FreeShippingDiscountTemplateTest.java" timestamp="1491945368621">
         <mark key="[" line="237" column="74" />
         <mark key="]" line="237" column="82" />
@@ -1970,12 +1965,6 @@
         <mark key="." line="75" column="30" />
         <mark key="^" line="75" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" timestamp="1499723821212">
-        <mark key="[" line="19" column="54" />
-        <mark key="]" line="19" column="54" />
-        <mark key="^" line="19" column="28" />
-        <mark key="." line="19" column="54" />
-      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountDependencyResolverTest.java" timestamp="1491583884642">
         <mark key="[" line="194" column="1" />
         <mark key="]" line="194" column="1" />
@@ -2125,12 +2114,6 @@
         <mark key="]" line="61" column="93" />
         <mark key="." line="61" column="93" />
         <mark key="^" line="61" column="93" />
-      </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1499725070547">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="11" column="31" />
-        <mark key="^" line="11" column="31" />
-        <mark key="." line="11" column="31" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/doSearch.js" timestamp="1489083679734">
         <mark key="[" line="16" column="17" />
@@ -2313,12 +2296,12 @@
         <mark key="^" line="291" column="149" />
         <mark key="." line="291" column="149" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" timestamp="1499725446430">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" timestamp="1499787599859">
         <mark key="'" line="170" column="98" />
-        <mark key="[" line="170" column="99" />
-        <mark key="]" line="170" column="99" />
-        <mark key="." line="170" column="99" />
-        <mark key="^" line="170" column="99" />
+        <mark key="[" line="172" column="133" />
+        <mark key="]" line="172" column="131" />
+        <mark key="." line="172" column="131" />
+        <mark key="^" line="172" column="131" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/v6/business/commerce/discount/validation/DiscountValidationRule.java" timestamp="1488496174684">
         <mark key="[" line="6" column="0" />
@@ -2772,8 +2755,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">QWx0QWN0aW9uczxUPjs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2782,13 +2765,13 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QWx0QWN0aW9uczxUPjs=</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>storeTr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB1cGRhdGUodmFsOiBPYmplY3QpOiB2b2lkOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">QWN0aW9uc0NsYXNzPFQ+ICYgVDs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2797,22 +2780,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIHR5cGUgQWx0QWN0aW9uczxUPiA9IEFjdGlvbnNDbGFzczxUPiAmIFQ7Cg==</text>
+        <text encoding="base64">Ly8gZGVjbGFyZSBjbGFzcyBTdG9yZTxUPiB7fQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWNsYXJlIHR5cGUgQWx0QWN0aW9uczxUPiA9IFQ7Cg==</text>
+        <text encoding="base64">ICBkZWNsYXJlIHR5cGUgQWx0QWN0aW9uczxUPiA9IEFjdGlvbnNDbGFzczxUPiAmIFQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1cGRhdGUodmFsOiBPYmplY3QpOiB2b2lkOwo=</text>
+        <text encoding="base64">ICBkZWNsYXJlIHR5cGUgQWx0QWN0aW9uczxUPiA9IFQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB1cGRhdGUodmFsOiBPYmplY3QpOiB2b2lkOwo=</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3614,10 +3597,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1cGRhdGUodmFsOiBPYmplY3QpOiB2b2lkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICB1cGRhdGUodmFsOiBPYmplY3QpOiB2b2lkOwo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
