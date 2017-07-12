@@ -2008,11 +2008,11 @@
         <mark key="." line="75" column="30" />
         <mark key="^" line="75" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" timestamp="1499885329643">
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="19" column="45" />
-        <mark key="." line="19" column="45" />
-        <mark key="^" line="19" column="45" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" timestamp="1499893860557">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/test/java/com/squarespace/v6/business/commerce/discount/crud/DiscountDependencyResolverTest.java" timestamp="1491583884642">
         <mark key="[" line="194" column="1" />
@@ -2823,8 +2823,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ki5ncmFkbGUK</text>
+      <register name="&quot;" type="4">
+        <text>value</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2833,7 +2833,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncmFkbGVcPg==</text>
@@ -2842,28 +2842,28 @@
         <text encoding="base64">Ly8gVE9ETzogbm90IHlldCBpbXBsZW1lbnRlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki5ncmFkbGUK</text>
+        <text encoding="base64">ICAgICAgb25DaGFuZ2U6ICh2YWx1ZSkgPT4gSW5mb0FjdGlvbnMudXBkYXRlKHsgW2ZpZWxkXTogdmFsdWUgfSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEFic3RyYWN0QWN0aW9ucyBmcm9tICdkaXNwYXRjaGVycy9hbHQvQWJzdHJhY3RBY3Rpb25zJzsK</text>
+        <text encoding="base64">Ki5ncmFkbGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFic3RyYWN0QWN0aW9ucyBmcm9tICdkaXNwYXRjaGVycy9hbHQvQWJzdHJhY3RBY3Rpb25zJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3665,10 +3665,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhY3Rpb25zOiBhbnk7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhY3Rpb25zOiBhbnk7Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
