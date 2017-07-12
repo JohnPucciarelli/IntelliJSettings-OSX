@@ -558,8 +558,8 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499875000566">
-        <mark key="'" line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1499891802732">
+        <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2718,7 +2718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" />
       <jump line="31" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" />
       <jump line="46" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/shared/router/actions/RouterActions.js" />
       <jump line="136" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
@@ -2818,13 +2817,14 @@
       <jump line="28" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/package.json" />
       <jump line="6" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" />
+      <jump line="0" column="2" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ki5ncmFkbGUK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2836,34 +2836,34 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>sfsdfsd</text>
+        <text encoding="base64">XDxncmFkbGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gVE9ETzogbm90IHlldCBpbXBsZW1lbnRlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEFic3RyYWN0QWN0aW9ucyBmcm9tICdkaXNwYXRjaGVycy9hbHQvQWJzdHJhY3RBY3Rpb25zJzsK</text>
+        <text encoding="base64">Ki5ncmFkbGUK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFic3RyYWN0QWN0aW9ucyBmcm9tICdkaXNwYXRjaGVycy9hbHQvQWJzdHJhY3RBY3Rpb25zJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhY3Rpb25zOiBhbnk7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3665,10 +3665,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhY3Rpb25zOiBhbnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnZXRTdGF0ZTooKSA9PiBTOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3678,9 +3678,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sfsdfsd</last-search>
+      <last-search encoding="base64">XDxncmFkbGVcPg==</last-search>
       <last-offset />
-      <last-pattern>sfsdfsd</last-pattern>
+      <last-pattern encoding="base64">XDxncmFkbGVcPg==</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3688,8 +3688,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Store</entry>
-        <entry>dispatch</entry>
         <entry>ActionsClass</entry>
         <entry>createActions</entry>
         <entry>boolean</entry>
@@ -3708,6 +3706,8 @@
         <entry>alt</entry>
         <entry encoding="base64">IA==</entry>
         <entry>sfsdfsd</entry>
+        <entry>bootstr</entry>
+        <entry encoding="base64">XDxncmFkbGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
