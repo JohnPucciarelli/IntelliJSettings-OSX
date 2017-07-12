@@ -2008,7 +2008,7 @@
         <mark key="." line="75" column="30" />
         <mark key="^" line="75" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" timestamp="1499880170157">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" timestamp="1499883824745">
         <mark key="[" line="19" column="45" />
         <mark key="]" line="19" column="45" />
         <mark key="." line="19" column="45" />
@@ -2170,10 +2170,11 @@
         <mark key="." line="61" column="93" />
         <mark key="^" line="61" column="93" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1499808940290">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="40" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1499883748839">
+        <mark key="'" line="6" column="27" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="62" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="40" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/doSearch.js" timestamp="1489083679734">
@@ -2717,7 +2718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/AddressEditorActions.js" />
       <jump line="37" column="10" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" />
       <jump line="31" column="33" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/InfoPanel/InfoPanel.jsx" />
       <jump line="46" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/shared/router/actions/RouterActions.js" />
@@ -2817,13 +2817,14 @@
       <jump line="55" column="24" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="28" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.x.x.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/package.json" />
+      <jump line="6" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEFic3RyYWN0QWN0aW9ucyBmcm9tICdkaXNwYXRjaGVycy9hbHQvQWJzdHJhY3RBY3Rpb25zJzsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2835,34 +2836,34 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>alt</text>
+        <text>sfsdfsd</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gVE9ETzogbm90IHlldCBpbXBsZW1lbnRlZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFic3RyYWN0QWN0aW9ucyBmcm9tICdkaXNwYXRjaGVycy9hbHQvQWJzdHJhY3RBY3Rpb25zJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhY3Rpb25zOiBhbnk7Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiBub3QgeWV0IGltcGxlbWVudGVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhY3Rpb25zOiBhbnk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3664,10 +3665,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZXRTdGF0ZTooKSA9PiBTOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleHBvcnRDb25maWc6YW55Owo=</text>
+        <text encoding="base64">ICBnZXRTdGF0ZTooKSA9PiBTOwo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3677,9 +3678,9 @@
       </register>
     </registers>
     <search>
-      <last-search>alt</last-search>
+      <last-search>sfsdfsd</last-search>
       <last-offset />
-      <last-pattern>alt</last-pattern>
+      <last-pattern>sfsdfsd</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3687,8 +3688,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw7XD4=</entry>
-        <entry encoding="base64">XDxkZWZlclw+</entry>
         <entry>Store</entry>
         <entry>dispatch</entry>
         <entry>ActionsClass</entry>
@@ -3707,6 +3706,8 @@
         <entry>exportCOnfig</entry>
         <entry>createStore</entry>
         <entry>alt</entry>
+        <entry encoding="base64">IA==</entry>
+        <entry>sfsdfsd</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
