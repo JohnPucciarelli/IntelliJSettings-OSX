@@ -2165,12 +2165,10 @@
         <mark key="." line="61" column="93" />
         <mark key="^" line="61" column="93" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1499898723490">
-        <mark key="'" line="23" column="37" />
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
-        <mark key="^" line="23" column="20" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1499898812127">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/doSearch.js" timestamp="1489083679734">
         <mark key="[" line="16" column="17" />
@@ -2818,8 +2816,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuZGlzcGF0Y2goKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2837,28 +2835,28 @@
         <text encoding="base64">aW1wb3J0IEFic3RyYWN0QWN0aW9ucyBmcm9tICdkaXNwYXRjaGVycy9hbHQvQWJzdHJhY3RBY3Rpb25zJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEFic3RyYWN0QWN0aW9ucyBmcm9tICdkaXNwYXRjaGVycy9hbHQvQWJzdHJhY3RBY3Rpb25zJzsK</text>
+        <text encoding="base64">ICAgIHRoaXMuZGlzcGF0Y2goKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoZGlzcGF0Y2gpID0+IHRoaXMuZGlzcGF0Y2goZSk7Cg==</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJ2ZhaWx1cmUnCg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2goKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ3N1Y2Nlc3MnLAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAoZGlzcGF0Y2gpID0+IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdWNjZXNzKCk6IHZvaWQ7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBbLi4uVF06IC4uLlQ7Cg==</text>
+        <text encoding="base64">ICAvLyB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAgIHJldHVybiAoZGlzcGF0Y2gpID0+IHRoaXMuZGlzcGF0Y2goKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3660,10 +3658,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAvLyBzdWNjZXNzKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLwo=</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
