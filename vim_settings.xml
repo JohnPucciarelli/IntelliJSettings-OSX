@@ -94,7 +94,12 @@
         <mark key="^" line="22" column="34" />
         <mark key="." line="44" column="43" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/models/shopping-cart.js" timestamp="1499946882108" />
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/models/shopping-cart.js" timestamp="1499947910917">
+        <mark key="[" line="150" column="46" />
+        <mark key="]" line="150" column="50" />
+        <mark key="." line="150" column="50" />
+        <mark key="^" line="150" column="50" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/operation/ApplyPromoCodeToCartOperation.java" timestamp="1494618152710">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="89" column="103" />
@@ -555,7 +560,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499946798039">
+      <file name="/Dummy.txt" timestamp="1499947852568">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2827,8 +2832,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCEoWS5Db29raWUuZ2V0KCdoYXNDYXJ0JykgPT09ICd0cnVlJyB8fCBZLkxhbmcuaXNWYWx1ZShZLkNvb2tpZS5nZXQoJ0NBUlQnKSkpKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>message</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2837,7 +2842,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text>checkCookies</text>
