@@ -2199,12 +2199,12 @@
         <mark key="." line="61" column="93" />
         <mark key="^" line="61" column="93" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1499955310238">
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1499958407859">
         <mark key="'" line="4" column="25" />
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="15" />
-        <mark key="." line="24" column="15" />
-        <mark key="^" line="24" column="15" />
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="12" />
+        <mark key="." line="31" column="12" />
+        <mark key="^" line="31" column="12" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/doSearch.js" timestamp="1489083679734">
         <mark key="[" line="16" column="17" />
@@ -2859,8 +2859,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2869,7 +2869,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>navigateTo</text>
@@ -2878,28 +2878,28 @@
         <text encoding="base64">Q2xhc3M8QWN0aW9uc0NsYXNzPFQ+Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHR5cGUgeyBVcGRhdGVSZXF1ZXN0IH0gZnJvbSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBhbHQuY3JlYXRlQWN0aW9ucyhCb290c3RyYXBBY3Rpb25zKTsK</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKCk7CiAgICBQcm9maWxlQWN0aW9ucy5sb2FkKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBhbHQuY3JlYXRlQWN0aW9ucyhCb290c3RyYXBBY3Rpb25zKTsK</text>
+        <text encoding="base64">ICAgIFByb2ZpbGVBY3Rpb25zLmxvYWQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCEoWS5Db29raWUuZ2V0KCdoYXNDYXJ0JykgPT09ICd0cnVlJyB8fCBZLkxhbmcuaXNWYWx1ZShZLkNvb2tpZS5nZXQoJ0NBUlQnKSkpKSB7Cg==</text>
+        <text encoding="base64">ICAgIFByb2ZpbGVBY3Rpb25zLmxvYWQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFByb2ZpbGVBY3Rpb25zLmxvYWQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oUHJvZmlsZUFjdGlvbnMubG9hZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZGlzcGF0Y2goZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3701,10 +3701,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHR5cGUgeyBVcGRhdGVSZXF1ZXN0IH0gZnJvbSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBhbHQuY3JlYXRlQWN0aW9ucyhCb290c3RyYXBBY3Rpb25zKTsK</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3764,8 +3764,8 @@
         <entry>@</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
