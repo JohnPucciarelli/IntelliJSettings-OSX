@@ -977,8 +977,8 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/build.gradle" timestamp="1500311307788">
-        <mark key="[" line="19" column="74" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/build.gradle" timestamp="1500327195091">
+        <mark key="[" line="19" column="75" />
         <mark key="]" line="19" column="75" />
         <mark key="." line="19" column="75" />
         <mark key="^" line="19" column="75" />
@@ -2833,8 +2833,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBAQ29uc3VtZXMoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04pCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2843,7 +2843,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>alse</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>testUpdatePass</text>
