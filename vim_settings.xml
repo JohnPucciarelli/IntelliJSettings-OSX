@@ -503,7 +503,6 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/build.gradle" timestamp="1499976577973" />
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/ShippingOptionDiscountFlattener.java" timestamp="1487176814204">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="9" column="15" />
@@ -1881,12 +1880,12 @@
         <mark key="^" line="41" column="54" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" timestamp="1499798861378">
-        <mark key="'" line="384" column="0" />
-        <mark key="[" line="160" column="112" />
-        <mark key="]" line="160" column="128" />
-        <mark key="^" line="160" column="128" />
-        <mark key="." line="160" column="128" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" timestamp="1500306736033">
+        <mark key="'" line="235" column="16" />
+        <mark key="[" line="351" column="0" />
+        <mark key="]" line="352" column="16" />
+        <mark key="^" line="352" column="16" />
+        <mark key="." line="352" column="16" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/flattened/FlattenedService.java" timestamp="1492017493048">
         <mark key="[" line="73" column="43" />
@@ -2543,7 +2542,6 @@
         <mark key="." line="19" column="30" />
         <mark key="^" line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/full-page-shopping-cart.js" timestamp="1499945659964" />
       <file name="$USER_HOME$/repos/squarespace-v6/business/src/main/java/com/squarespace/business/commerce/cart/operation/AddItemToCartOperation.java" timestamp="1493760590792">
         <mark key="[" line="69" column="70" />
         <mark key="]" line="69" column="70" />
@@ -2646,7 +2644,6 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="77" column="59" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/node_modules/@sqs/flux-form/src/form/FormActions.js" timestamp="1499967078814" />
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/RootPanel/RootNavigationLink.less" timestamp="1497978685631">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="31" />
@@ -2728,9 +2725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="4" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/business/SiteUserAccountManager.java" />
-      <jump line="127" column="0" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" />
-      <jump line="170" column="0" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" />
       <jump line="24" column="0" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" />
       <jump line="115" column="4" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" />
       <jump line="178" column="70" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" />
@@ -2828,13 +2822,16 @@
       <jump line="21" column="21" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt/AbstractStoreModel.js" />
       <jump line="22" column="23" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/shared/dispatchers/alt/AbstractStoreModel.js" />
       <jump line="15" column="2" filename="$USER_HOME$/repos/squarespace-v6/site-server/build-scripts/flow/sqs-typed/alt_vx.18.x.js" />
+      <jump line="131" column="16" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
+      <jump line="177" column="0" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
+      <jump line="235" column="16" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmVzcGFjZS5hdXRoLmFwaS5VcGRhdGVFbWFpbFJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2843,37 +2840,37 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>Action</text>
+        <text>testVerifyEmail</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHdhaXRGb3Ioc3RvcmVPclN0b3JlczogU3RvcmVNb2RlbDxhbnk+IHwgQXJyYXk8U3RvcmVNb2RlbDxhbnk+Pik6IHZvaWQ7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgQFRlc3QoZGVwZW5kc09uR3JvdXBzID0geyJpbml0LioifSkKICBwdWJsaWMgdm9pZCB0ZXN0VXBkYXRlRW1haWwoKSB7CiAgICBPYmplY3RJZCB3ZWJzaXRlSWQgPSBuZXcgT2JqZWN0SWQoKTsKICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgYWNjb3VudCA9IGNyZWF0ZVNpdGVVc2VyQWNjb3VudCh3ZWJzaXRlSWQpOwogICAgU3RyaW5nIGVtYWlsID0gImphbmVkb2VAZXhhbXBsZS5jb20iOwoKICAgIFVzZXJBdXRoZW50aWNhdGlvbkFwaVJlc3BvbnNlPFZvaWQ+IHJlc3BvbnNlID0gdG9BcGlSZXNwb25zZShzaXRlVXNlckFjY291bnRDbGllbnQudXBkYXRlRW1haWwod2Vic2l0ZUlkLCBhY2NvdW50LmdldElkKCksIGVtYWlsKSkKICAgICAgICAudG9CbG9ja2luZygpCiAgICAgICAgLnNpbmdsZSgpOwoKICAgIGFzc2VydFRoYXQocmVzcG9uc2UuaXNTdWNjZXNzKCksIGlzKHRydWUpKTsKCiAgICBTaXRlVXNlckFjY291bnRWaWV3IHVwZGF0ZWRTaXRlVXNlckFjY291bnQgPSB0b0FwaVJlc3BvbnNlKHNpdGVVc2VyQWNjb3VudENsaWVudC5nZXQod2Vic2l0ZUlkLCBhY2NvdW50LmdldElkKCkpKQogICAgICAgIC50b0Jsb2NraW5nKCkKICAgICAgICAuc2luZ2xlKCkKICAgICAgICAuZ2V0UmVzdWx0KCk7CgogICAgYXNzZXJ0VGhhdCh1cGRhdGVkU2l0ZVVzZXJBY2NvdW50LmdldEVtYWlsKCksIGlzKGVtYWlsKSk7CiAgICBhc3NlcnRUaGF0KHVwZGF0ZWRTaXRlVXNlckFjY291bnQuZ2V0TmFtZSgpLmdldEZpcnN0TmFtZSgpLCBpcyhhY2NvdW50LmdldE5hbWUoKS5nZXRGaXJzdE5hbWUoKSkpOwogICAgYXNzZXJ0VGhhdCh1cGRhdGVkU2l0ZVVzZXJBY2NvdW50LmdldE5hbWUoKS5nZXRMYXN0TmFtZSgpLCBpcyhhY2NvdW50LmdldE5hbWUoKS5nZXRMYXN0TmFtZSgpKSk7CiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmVzcGFjZS5hdXRoLmFwaS5VcGRhdGVFbWFpbFJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpOiB2b2lkIHt9Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZXRTdGF0ZSgpOiBTIHsK</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodXBkYXRlZFNpdGVVc2VyQWNjb3VudC5nZXROYW1lKCkuZ2V0TGFzdE5hbWUoKSwgaXMoYWNjb3VudC5nZXROYW1lKCkuZ2V0TGFzdE5hbWUoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dHlwZSBTID0gT2JqZWN0Owo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodXBkYXRlZFNpdGVVc2VyQWNjb3VudC5nZXROYW1lKCkuZ2V0Rmlyc3ROYW1lKCksIGlzKGFjY291bnQuZ2V0TmFtZSgpLmdldEZpcnN0TmFtZSgpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKGFyZzEpOwo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFRoYXQodXBkYXRlZFNpdGVVc2VyQWNjb3VudC5nZXRFbWFpbCgpLCBpcyhlbWFpbCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdhaXRGb3Ioc3RvcmU6IFN0b3JlTW9kZWw8YW55Pik6IHZvaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3YWl0Rm9yKHN0b3JlOiBTdG9yZU1vZGVsPGFueT4pOiB2b2lkIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZ2V0UmVzdWx0KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -3675,10 +3672,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzZXRTdGF0ZShzdGF0ZSk6IHZvaWQge30K</text>
+        <text encoding="base64">ICAgICAgICAuc2luZ2xlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldFN0YXRlKHN0YXRlRm46IChjdXJyZW50U3RhdGU6IFMsIG5leHRTdGF0ZTogUykgPT4gUyk6IHZvaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAudG9CbG9ja2luZygpCg==</text>
       </register>
       <register name="y" type="4">
         <text>A</text>
@@ -3688,9 +3685,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Action</last-search>
+      <last-search>testVerifyEmail</last-search>
       <last-offset />
-      <last-pattern>Action</last-pattern>
+      <last-pattern>testVerifyEmail</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3698,9 +3695,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IA==</entry>
-        <entry>sfsdfsd</entry>
-        <entry>bootstr</entry>
         <entry encoding="base64">XDxncmFkbGVcPg==</entry>
         <entry>AltStore</entry>
         <entry>altactions</entry>
@@ -3718,6 +3712,9 @@
         <entry>Location</entry>
         <entry>DiagnosticColl</entry>
         <entry>Action</entry>
+        <entry>testUpdateEMail</entry>
+        <entry>testUpdateNonExi</entry>
+        <entry>testVerifyEmail</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
