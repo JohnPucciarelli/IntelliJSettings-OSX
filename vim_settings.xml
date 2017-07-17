@@ -15,11 +15,11 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/UpdateEmailRequest.java" timestamp="1500320127777">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="35" />
-        <mark key="^" line="16" column="1" />
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-model/src/main/java/com/squarespace/auth/api/UpdateEmailRequest.java" timestamp="1500321725774">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="11" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/routes.js" timestamp="1499800746321">
         <mark key="'" line="22" column="30" />
@@ -1147,7 +1147,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/api/SiteUserAccountResource.java" timestamp="1500320159334">
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/main/java/com/squarespace/auth/api/SiteUserAccountResource.java" timestamp="1500321626976">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="74" column="63" />
         <mark key="]" line="74" column="69" />
@@ -1741,7 +1741,7 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/main/java/com/squarespace/auth/client/SiteUserAccountClient.java" timestamp="1500320296985">
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/main/java/com/squarespace/auth/client/SiteUserAccountClient.java" timestamp="1500321346431">
         <mark key="'" line="99" column="51" />
         <mark key="[" line="111" column="46" />
         <mark key="]" line="111" column="76" />
@@ -1886,12 +1886,12 @@
         <mark key="^" line="41" column="54" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" timestamp="1500320266731">
+      <file name="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" timestamp="1500321921809">
         <mark key="'" line="235" column="16" />
-        <mark key="[" line="207" column="126" />
-        <mark key="]" line="207" column="156" />
-        <mark key="^" line="207" column="156" />
-        <mark key="." line="207" column="156" />
+        <mark key="[" line="327" column="48" />
+        <mark key="]" line="327" column="52" />
+        <mark key="^" line="327" column="52" />
+        <mark key="." line="327" column="52" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/flattened/FlattenedService.java" timestamp="1492017493048">
         <mark key="[" line="73" column="43" />
@@ -2834,7 +2834,7 @@
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>updateEmailRequest</text>
+        <text>true</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2843,7 +2843,7 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>updateEmailRequest</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>auth</text>
