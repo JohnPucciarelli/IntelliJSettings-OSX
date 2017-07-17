@@ -563,7 +563,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499980316468">
+      <file name="/Dummy.txt" timestamp="1500311287407">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -977,10 +977,10 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/business/build.gradle" timestamp="1498157072896">
-        <mark key="[" line="19" column="76" />
-        <mark key="]" line="19" column="76" />
-        <mark key="." line="19" column="76" />
+      <file name="$USER_HOME$/repos/squarespace-v6/business/build.gradle" timestamp="1500311307788">
+        <mark key="[" line="19" column="74" />
+        <mark key="]" line="19" column="75" />
+        <mark key="." line="19" column="75" />
         <mark key="^" line="19" column="75" />
       </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/java/com/squarespace/api/commerce/discounts/CommerceDiscountResource.java" timestamp="1494601828797">
@@ -1679,6 +1679,9 @@
         <mark key="^" line="21" column="1" />
         <mark key="." line="21" column="1" />
       </file>
+      <file name="$USER_HOME$/repos/squarespace-v6/site-server/build.gradle" timestamp="1500311286993">
+        <mark key="'" line="129" column="27" />
+      </file>
       <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/scripts-v6/site-information-billing-tab.js" timestamp="1479329547825">
         <mark key="[" line="6" column="84" />
         <mark key="]" line="6" column="76" />
@@ -2174,13 +2177,6 @@
         <mark key="]" line="61" column="93" />
         <mark key="." line="61" column="93" />
         <mark key="^" line="61" column="93" />
-      </file>
-      <file name="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/shared/actions/InfoActions.js" timestamp="1499966753293">
-        <mark key="'" line="4" column="25" />
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="41" />
-        <mark key="." line="12" column="41" />
-        <mark key="^" line="12" column="41" />
       </file>
       <file name="$USER_HOME$/repos/audiospace/audiospace-client/src/client/assets/javascripts/actions/doSearch.js" timestamp="1489083679734">
         <mark key="[" line="16" column="17" />
@@ -2725,7 +2721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" />
       <jump line="115" column="4" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" />
       <jump line="178" column="70" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-core/src/test/java/com/squarespace/auth/business/SiteUserAccountManagerIT.java" />
       <jump line="22" column="30" filename="$USER_HOME$/repos/squarespace-v6/site-server/src/main/webapp/universal/src/apps/UserAccount/ProfilePage/screens/routes.js" />
@@ -2825,13 +2820,14 @@
       <jump line="131" column="16" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
       <jump line="177" column="0" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
       <jump line="235" column="16" filename="$USER_HOME$/repos/user-authentication-service/user-authentication-client/src/end-to-end/java/com/squarespace/auth/client/SiteUserAccountClientTest.java" />
+      <jump line="129" column="27" filename="$USER_HOME$/repos/squarespace-v6/site-server/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgdXBkYXRlZFVzZXIgPSBzaXRlVXNlckFjY291bnRNYW5hZ2VyLmdldCh3ZWJzaXRlSWQsCiAgICAgICAgdXBkYXRlRW1haWxSZXF1ZXN0LmdldElkKCkpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>9</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgcGF0aG5hbWU6IGdldFJvb3RQYXRoLmZvckNvbW1lcmNlKCkgKyBgZGlzY291bnRzLWJldGEvJHtkaXNjb3VudC5pZH1gCg==</text>
@@ -2840,10 +2836,10 @@
         <text>kj</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
-        <text>testVerifyEmail</text>
+        <text>auth</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CiAgQFRlc3QoZGVwZW5kc09uR3JvdXBzID0geyJpbml0LioifSkKICBwdWJsaWMgdm9pZCB0ZXN0VXBkYXRlRW1haWwoKSB7CiAgICBPYmplY3RJZCB3ZWJzaXRlSWQgPSBuZXcgT2JqZWN0SWQoKTsKICAgIFNpdGVVc2VyQWNjb3VudFZpZXcgYWNjb3VudCA9IGNyZWF0ZVNpdGVVc2VyQWNjb3VudCh3ZWJzaXRlSWQpOwogICAgU3RyaW5nIGVtYWlsID0gImphbmVkb2VAZXhhbXBsZS5jb20iOwoKICAgIFVzZXJBdXRoZW50aWNhdGlvbkFwaVJlc3BvbnNlPFZvaWQ+IHJlc3BvbnNlID0gdG9BcGlSZXNwb25zZShzaXRlVXNlckFjY291bnRDbGllbnQudXBkYXRlRW1haWwod2Vic2l0ZUlkLCBhY2NvdW50LmdldElkKCksIGVtYWlsKSkKICAgICAgICAudG9CbG9ja2luZygpCiAgICAgICAgLnNpbmdsZSgpOwoKICAgIGFzc2VydFRoYXQocmVzcG9uc2UuaXNTdWNjZXNzKCksIGlzKHRydWUpKTsKCiAgICBTaXRlVXNlckFjY291bnRWaWV3IHVwZGF0ZWRTaXRlVXNlckFjY291bnQgPSB0b0FwaVJlc3BvbnNlKHNpdGVVc2VyQWNjb3VudENsaWVudC5nZXQod2Vic2l0ZUlkLCBhY2NvdW50LmdldElkKCkpKQogICAgICAgIC50b0Jsb2NraW5nKCkKICAgICAgICAuc2luZ2xlKCkKICAgICAgICAuZ2V0UmVzdWx0KCk7CgogICAgYXNzZXJ0VGhhdCh1cGRhdGVkU2l0ZVVzZXJBY2NvdW50LmdldEVtYWlsKCksIGlzKGVtYWlsKSk7CiAgICBhc3NlcnRUaGF0KHVwZGF0ZWRTaXRlVXNlckFjY291bnQuZ2V0TmFtZSgpLmdldEZpcnN0TmFtZSgpLCBpcyhhY2NvdW50LmdldE5hbWUoKS5nZXRGaXJzdE5hbWUoKSkpOwogICAgYXNzZXJ0VGhhdCh1cGRhdGVkU2l0ZVVzZXJBY2NvdW50LmdldE5hbWUoKS5nZXRMYXN0TmFtZSgpLCBpcyhhY2NvdW50LmdldE5hbWUoKS5nZXRMYXN0TmFtZSgpKSk7CiAgfQ==</text>
@@ -3685,9 +3681,9 @@
       </register>
     </registers>
     <search>
-      <last-search>testVerifyEmail</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>testVerifyEmail</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-replace>OnValue</last-replace>
       <last-substitute>OnBlur</last-substitute>
       <last-dir>1</last-dir>
@@ -3695,7 +3691,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxncmFkbGVcPg==</entry>
         <entry>AltStore</entry>
         <entry>altactions</entry>
         <entry>goToCheckout</entry>
@@ -3715,6 +3710,7 @@
         <entry>testUpdateEMail</entry>
         <entry>testUpdateNonExi</entry>
         <entry>testVerifyEmail</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry>s/prepareProps/prepareState/g</entry>
